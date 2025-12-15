@@ -1,11 +1,11 @@
 {
   "name": "flo-sdk",
-  "version": "0.0.1",
+  "version": "0.9.1",
   "summary": "Python SDK for Flo workflows - datasets, integrations, and workflow utilities",
   "author": "Flo",
   "license": null,
   "home_page": null,
-  "download_filename": "flo_sdk-0.0.1.tar.gz",
-  "download_time": "2025-12-15T20:12:45.173698",
+  "download_filename": "flo_sdk-0.9.1.tar.gz",
+  "download_time": "2025-12-15T23:31:23.065701",
   "package_url": "https://pypi.org/project/flo-sdk/"
 }

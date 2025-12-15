@@ -1,0 +1,11 @@
+{
+  "name": "autreach",
+  "version": "0.0.1",
+  "summary": "Automate LinkedIn job discovery and personalized outreach with a real-time control dashboard.",
+  "author": "Aryan Khurana",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autreach-0.0.1.tar.gz",
+  "download_time": "2025-12-15T23:31:29.494022",
+  "package_url": "https://pypi.org/project/autreach/"
+}

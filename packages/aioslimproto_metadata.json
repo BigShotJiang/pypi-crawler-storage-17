@@ -1,0 +1,11 @@
+{
+  "name": "aioslimproto",
+  "version": "3.1.2",
+  "summary": "Python module to talk to Logitech Squeezebox players directly (without Logitech server).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aioslimproto-3.1.2.tar.gz",
+  "download_time": "2025-12-15T23:31:21.956644",
+  "package_url": "https://pypi.org/project/aioslimproto/"
+}

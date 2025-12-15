@@ -1,11 +1,11 @@
 {
   "name": "qqcode",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Minimal CLI coding agent",
   "author": "QQcode Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qqcode-1.0.1.tar.gz",
-  "download_time": "2025-12-15T06:55:28.565833",
+  "download_filename": "qqcode-1.1.0.tar.gz",
+  "download_time": "2025-12-15T23:31:26.199597",
   "package_url": "https://pypi.org/project/qqcode/"
 }

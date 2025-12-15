@@ -1,0 +1,11 @@
+{
+  "name": "open-rag-eval",
+  "version": "0.3.0",
+  "summary": "A Python package for RAG Evaluation",
+  "author": "Suleman Kazi",
+  "license": null,
+  "home_page": "https://github.com/vectara/open-rag-eval",
+  "download_filename": "open_rag_eval-0.3.0.tar.gz",
+  "download_time": "2025-12-15T23:31:07.115973",
+  "package_url": "https://pypi.org/project/open-rag-eval/"
+}

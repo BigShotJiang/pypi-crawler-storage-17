@@ -1,0 +1,11 @@
+{
+  "name": "skypilot",
+  "version": "0.11.1",
+  "summary": "SkyPilot: Run AI on Any Infra — Unified, Faster, Cheaper.",
+  "author": "SkyPilot Team",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "skypilot-0.11.1.tar.gz",
+  "download_time": "2025-12-15T23:31:28.921299",
+  "package_url": "https://pypi.org/project/skypilot/"
+}
