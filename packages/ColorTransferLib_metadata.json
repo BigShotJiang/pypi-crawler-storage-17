@@ -1,0 +1,11 @@
+{
+  "name": "ColorTransferLib",
+  "version": "2.1.0.post1",
+  "summary": "This library provides color and tyle transfer algorithms which were published in scientific papers. Additionall a set of IQA metrics are available.",
+  "author": "Herbert Potechius",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colortransferlib-2.1.0.post1-py3-none-any.whl",
+  "download_time": "2025-12-15T09:51:54.981231",
+  "package_url": "https://pypi.org/project/ColorTransferLib/"
+}

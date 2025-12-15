@@ -1,0 +1,11 @@
+{
+  "name": "django-pbx-admin",
+  "version": "1.35.0",
+  "summary": "Printbox admin interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pbx_admin-1.35.0-py3-none-any.whl",
+  "download_time": "2025-12-15T09:52:01.652790",
+  "package_url": "https://pypi.org/project/django-pbx-admin/"
+}

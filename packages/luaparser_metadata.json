@@ -1,0 +1,11 @@
+{
+  "name": "luaparser",
+  "version": "4.0.0",
+  "summary": "A lua parser in Python",
+  "author": "Eliott Dumeix",
+  "license": "MIT",
+  "home_page": "https://github.com/boolangery/py-lua-parser",
+  "download_filename": "luaparser-4.0.0.tar.gz",
+  "download_time": "2025-12-15T09:52:02.951546",
+  "package_url": "https://pypi.org/project/luaparser/"
+}

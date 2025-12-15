@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-substitution-extensions",
+  "version": "2025.12.15",
+  "summary": "Extensions for Sphinx which allow for substitutions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_substitution_extensions-2025.12.15.tar.gz",
+  "download_time": "2025-12-15T09:51:28.981155",
+  "package_url": "https://pypi.org/project/sphinx-substitution-extensions/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oli-python",
+  "version": "2.0.5",
+  "summary": "Python SDK for interacting with the Open Labels Initiative; A standard, registry and trust layer for EVM address labels.",
+  "author": "Lorenz Lehmann",
+  "license": null,
+  "home_page": "https://github.com/openlabelsinitiative/oli-python",
+  "download_filename": "oli_python-2.0.5.tar.gz",
+  "download_time": "2025-12-15T09:51:46.161999",
+  "package_url": "https://pypi.org/project/oli-python/"
+}
