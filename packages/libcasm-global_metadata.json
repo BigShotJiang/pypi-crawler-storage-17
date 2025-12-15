@@ -1,0 +1,11 @@
+{
+  "name": "libcasm-global",
+  "version": "2.3.0",
+  "summary": "Constants, definitions, and generically useful tools used by CASM",
+  "author": null,
+  "license": "LGPL2.1+",
+  "home_page": null,
+  "download_filename": "libcasm_global-2.3.0.tar.gz",
+  "download_time": "2025-12-15T22:35:29.784501",
+  "package_url": "https://pypi.org/project/libcasm-global/"
+}

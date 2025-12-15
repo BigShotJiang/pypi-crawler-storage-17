@@ -1,11 +1,11 @@
 {
   "name": "spark-llm-eval",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Distributed LLM evaluation framework for Apache Spark",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spark_llm_eval-0.1.0.tar.gz",
-  "download_time": "2025-12-15T22:11:26.865025",
+  "download_filename": "spark_llm_eval-0.1.1.tar.gz",
+  "download_time": "2025-12-15T22:35:02.066775",
   "package_url": "https://pypi.org/project/spark-llm-eval/"
 }

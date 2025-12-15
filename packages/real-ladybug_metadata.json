@@ -1,0 +1,11 @@
+{
+  "name": "real-ladybug",
+  "version": "0.13.0",
+  "summary": "Highly scalable, extremely fast, easy-to-use embeddable graph database",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/lbugdb/lbug",
+  "download_filename": "real_ladybug-0.13.0.tar.gz",
+  "download_time": "2025-12-15T22:35:21.946829",
+  "package_url": "https://pypi.org/project/real-ladybug/"
+}
