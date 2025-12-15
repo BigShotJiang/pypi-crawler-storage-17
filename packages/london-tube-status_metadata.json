@@ -1,0 +1,11 @@
+{
+  "name": "london-tube-status",
+  "version": "0.7",
+  "summary": "Parse London tube data into a dictionary",
+  "author": "Robin Cole",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/robmarkcole/London-tube-status",
+  "download_filename": "london_tube_status-0.7.tar.gz",
+  "download_time": "2025-12-15T13:51:38.546861",
+  "package_url": "https://pypi.org/project/london-tube-status/"
+}

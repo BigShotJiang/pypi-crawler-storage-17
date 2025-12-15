@@ -1,0 +1,11 @@
+{
+  "name": "python-aresti",
+  "version": "0.9.15",
+  "summary": "Asynkroninen REST-rajapintayhteystoteutus",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_aresti-0.9.15.tar.gz",
+  "download_time": "2025-12-15T13:51:56.641479",
+  "package_url": "https://pypi.org/project/python-aresti/"
+}

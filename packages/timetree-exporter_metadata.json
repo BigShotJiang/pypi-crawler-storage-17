@@ -1,0 +1,11 @@
+{
+  "name": "timetree-exporter",
+  "version": "0.6.2",
+  "summary": "A Tool for Exporting TimeTree Calendar and Convert to iCal format(.ics)",
+  "author": "Fong-Chun Tsai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "timetree_exporter-0.6.2.tar.gz",
+  "download_time": "2025-12-15T13:52:05.001439",
+  "package_url": "https://pypi.org/project/timetree-exporter/"
+}

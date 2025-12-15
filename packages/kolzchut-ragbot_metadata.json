@@ -1,0 +1,11 @@
+{
+  "name": "kolzchut-ragbot",
+  "version": "1.7.11",
+  "summary": "A search engine using machine learning models and Elasticsearch for advanced document retrieval.",
+  "author": "Shmuel Robinov",
+  "license": null,
+  "home_page": "https://github.com/shmuelrob/rag-bot",
+  "download_filename": "kolzchut_ragbot-1.7.11.tar.gz",
+  "download_time": "2025-12-15T13:51:51.450475",
+  "package_url": "https://pypi.org/project/kolzchut-ragbot/"
+}

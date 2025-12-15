@@ -1,0 +1,11 @@
+{
+  "name": "pushikoo-adapter-testprocesser",
+  "version": "0.1.2",
+  "summary": "TestProcesser for pushikoo-adapter development as a template.",
+  "author": "Pushikoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pushikoo_adapter_testprocesser-0.1.2.tar.gz",
+  "download_time": "2025-12-15T13:51:35.970651",
+  "package_url": "https://pypi.org/project/pushikoo-adapter-testprocesser/"
+}
