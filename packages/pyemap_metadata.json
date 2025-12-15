@@ -1,0 +1,11 @@
+{
+  "name": "pyemap",
+  "version": "2.0.4",
+  "summary": "PyeMap: A python package for automatic identification of electron and hole transfer pathways in proteins.",
+  "author": "James Gayvert",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/gayverjr/pyemap/",
+  "download_filename": "pyemap-2.0.4.tar.gz",
+  "download_time": "2025-12-15T15:55:47.407130",
+  "package_url": "https://pypi.org/project/pyemap/"
+}

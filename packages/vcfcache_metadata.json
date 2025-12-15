@@ -1,0 +1,11 @@
+{
+  "name": "vcfcache",
+  "version": "0.3.7",
+  "summary": "Cache-based VCF annotation accelerator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vcfcache-0.3.7.tar.gz",
+  "download_time": "2025-12-15T15:55:26.742948",
+  "package_url": "https://pypi.org/project/vcfcache/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zaproxy",
+  "version": "0.5.0",
+  "summary": "ZAP API Client",
+  "author": "ZAP Development Team",
+  "license": "Apache-2.0",
+  "home_page": "https://www.zaproxy.org/",
+  "download_filename": "zaproxy-0.5.0.tar.gz",
+  "download_time": "2025-12-15T15:56:06.348548",
+  "package_url": "https://pypi.org/project/zaproxy/"
+}

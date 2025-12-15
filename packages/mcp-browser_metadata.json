@@ -1,11 +1,11 @@
 {
   "name": "mcp-browser",
-  "version": "2.2.26",
+  "version": "2.2.27",
   "summary": "Browser control and console log capture for AI coding assistants via MCP",
   "author": "Bob Matsuoka",
   "license": "MIT",
   "home_page": "https://github.com/browserpymcp/mcp-browser",
-  "download_filename": "mcp_browser-2.2.26.tar.gz",
-  "download_time": "2025-12-15T07:51:34.440931",
+  "download_filename": "mcp_browser-2.2.27.tar.gz",
+  "download_time": "2025-12-15T15:55:59.312817",
   "package_url": "https://pypi.org/project/mcp-browser/"
 }

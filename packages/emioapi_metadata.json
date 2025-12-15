@@ -1,0 +1,11 @@
+{
+  "name": "emioapi",
+  "version": "0.2.0",
+  "summary": "An API for controlling  the motors of the EMIO robot.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emioapi-0.2.0.tar.gz",
+  "download_time": "2025-12-15T15:55:44.704825",
+  "package_url": "https://pypi.org/project/emioapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bls-craft-launcher",
+  "version": "0.1.0",
+  "summary": "Python library for launching Minecraft with all versions (offline or Microsoft auth)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bls_craft_launcher-0.1.0.tar.gz",
+  "download_time": "2025-12-15T15:55:26.205074",
+  "package_url": "https://pypi.org/project/bls-craft-launcher/"
+}
