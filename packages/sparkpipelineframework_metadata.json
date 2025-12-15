@@ -1,0 +1,11 @@
+{
+  "name": "sparkpipelineframework",
+  "version": "4.0.22",
+  "summary": "Framework for simpler Spark Pipelines",
+  "author": "Imran Qureshi",
+  "license": null,
+  "home_page": "https://github.com/icanbwell/SparkPipelineFramework",
+  "download_filename": "sparkpipelineframework-4.0.22.tar.gz",
+  "download_time": "2025-12-15T11:30:59.094016",
+  "package_url": "https://pypi.org/project/sparkpipelineframework/"
+}

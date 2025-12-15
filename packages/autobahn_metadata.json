@@ -1,0 +1,11 @@
+{
+  "name": "autobahn",
+  "version": "25.12.2",
+  "summary": "WebSocket client & server library, WAMP real-time framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autobahn-25.12.2-cp311-cp311-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-15T11:31:27.668314",
+  "package_url": "https://pypi.org/project/autobahn/"
+}

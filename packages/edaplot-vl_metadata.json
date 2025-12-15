@@ -1,11 +1,11 @@
 {
   "name": "edaplot-vl",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Plot your data with natural language",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edaplot_vl-0.1.3.tar.gz",
-  "download_time": "2025-12-15T11:10:44.217617",
+  "download_filename": "edaplot_vl-0.1.4.tar.gz",
+  "download_time": "2025-12-15T11:31:31.324104",
   "package_url": "https://pypi.org/project/edaplot-vl/"
 }

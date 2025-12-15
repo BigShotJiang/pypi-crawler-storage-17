@@ -1,11 +1,11 @@
 {
   "name": "hip-controller",
-  "version": "0.0.1a1",
+  "version": "0.0.2",
   "summary": "Hip controller for the lower limb exosuit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hip_controller-0.0.1a1.tar.gz",
-  "download_time": "2025-12-15T10:46:23.626974",
+  "download_filename": "hip_controller-0.0.2.tar.gz",
+  "download_time": "2025-12-15T11:31:15.099271",
   "package_url": "https://pypi.org/project/hip-controller/"
 }

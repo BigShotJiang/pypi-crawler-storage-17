@@ -1,0 +1,11 @@
+{
+  "name": "oblique-classifier-1",
+  "version": "0.3.0",
+  "summary": "OC1 Oblique Decision Tree - Implementation of Murthy et al. (AAAI-1992)",
+  "author": "Fatima-Ezzahrae AKEBLI, Yasser",
+  "license": "MIT",
+  "home_page": "https://github.com/HxRJILI/Oblique-Classifier-1",
+  "download_filename": "oblique_classifier_1-0.3.0.tar.gz",
+  "download_time": "2025-12-15T11:31:05.139109",
+  "package_url": "https://pypi.org/project/oblique-classifier-1/"
+}
