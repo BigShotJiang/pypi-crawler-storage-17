@@ -1,0 +1,11 @@
+{
+  "name": "eng-to-ru",
+  "version": "0.1.1",
+  "summary": "Библиотека для перевода текста с английского на русский с использованием Google Translate API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eng_to_ru-0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-15T20:53:11.935972",
+  "package_url": "https://pypi.org/project/eng-to-ru/"
+}
