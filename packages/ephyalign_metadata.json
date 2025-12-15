@@ -1,0 +1,11 @@
+{
+  "name": "ephyalign",
+  "version": "0.1.0",
+  "summary": "Electrophysiology Response Alignment Toolkit - Automatically detect and align stimulus-evoked responses in ABF recordings with sub-millisecond precision",
+  "author": "Samuel Matthews Mckay Loureiro",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ephyalign-0.1.0.tar.gz",
+  "download_time": "2025-12-15T05:20:43.153039",
+  "package_url": "https://pypi.org/project/ephyalign/"
+}
