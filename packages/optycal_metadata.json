@@ -1,0 +1,11 @@
+{
+  "name": "optycal",
+  "version": "0.1.0",
+  "summary": "A Python based physical optics simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optycal-0.1.0.tar.gz",
+  "download_time": "2025-12-15T08:52:39.065221",
+  "package_url": "https://pypi.org/project/optycal/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fin-agent",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A financial analysis agent powered by DeepSeek and Tushare",
   "author": "Fin Agent Team",
   "license": null,
   "home_page": null,
-  "download_filename": "fin_agent-0.5.1.tar.gz",
-  "download_time": "2025-12-15T08:17:46.177073",
+  "download_filename": "fin_agent-0.5.2.tar.gz",
+  "download_time": "2025-12-15T08:52:18.834482",
   "package_url": "https://pypi.org/project/fin-agent/"
 }

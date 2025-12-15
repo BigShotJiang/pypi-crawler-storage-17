@@ -1,11 +1,11 @@
 {
   "name": "jdi-blacksmith",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A cross-platform CLI tool for installing development and cybersecurity tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jdi_blacksmith-0.2.1.tar.gz",
-  "download_time": "2025-12-15T07:51:26.459820",
+  "download_filename": "jdi_blacksmith-0.2.2.tar.gz",
+  "download_time": "2025-12-15T08:52:49.935451",
   "package_url": "https://pypi.org/project/jdi-blacksmith/"
 }

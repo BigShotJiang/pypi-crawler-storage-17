@@ -1,0 +1,11 @@
+{
+  "name": "limrun-api",
+  "version": "0.9.0",
+  "summary": "The official Python library for the limrun API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "limrun_api-0.9.0.tar.gz",
+  "download_time": "2025-12-15T08:52:46.426950",
+  "package_url": "https://pypi.org/project/limrun-api/"
+}

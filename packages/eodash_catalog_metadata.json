@@ -1,0 +1,11 @@
+{
+  "name": "eodash_catalog",
+  "version": "0.3.32",
+  "summary": "This package is intended to help create a compatible STAC catalog for the eodash dashboard client. It supports configuration of multiple endpoint types for information extraction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eodash_catalog-0.3.32.tar.gz",
+  "download_time": "2025-12-15T08:52:29.810220",
+  "package_url": "https://pypi.org/project/eodash_catalog/"
+}

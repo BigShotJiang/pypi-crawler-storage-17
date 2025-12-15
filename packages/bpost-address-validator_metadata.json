@@ -1,0 +1,11 @@
+{
+  "name": "bpost-address-validator",
+  "version": "0.1.1",
+  "summary": "Python wrapper for bpost External Mailing Address Proofing API with pydantic models and httpx sync/async clients.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpost_address_validator-0.1.1.tar.gz",
+  "download_time": "2025-12-15T08:52:26.978376",
+  "package_url": "https://pypi.org/project/bpost-address-validator/"
+}

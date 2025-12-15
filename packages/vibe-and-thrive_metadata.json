@@ -1,11 +1,11 @@
 {
   "name": "vibe-and-thrive",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Tools and guardrails that catch common AI coding mistakes before they hit your codebase",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibe_and_thrive-0.2.0.tar.gz",
-  "download_time": "2025-12-15T07:51:29.608719",
+  "download_filename": "vibe_and_thrive-0.3.0.tar.gz",
+  "download_time": "2025-12-15T08:52:35.645200",
   "package_url": "https://pypi.org/project/vibe-and-thrive/"
 }

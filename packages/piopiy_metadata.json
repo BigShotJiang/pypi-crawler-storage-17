@@ -1,0 +1,11 @@
+{
+  "name": "piopiy",
+  "version": "1.0.8",
+  "summary": "PIOPIY AI Agent, Voice and WhatsApp SDK for Python",
+  "author": "PIOPIY",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/telecmi/piopiy_python",
+  "download_filename": "piopiy-1.0.8.tar.gz",
+  "download_time": "2025-12-15T08:52:23.584159",
+  "package_url": "https://pypi.org/project/piopiy/"
+}
