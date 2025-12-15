@@ -1,0 +1,11 @@
+{
+  "name": "WS-API",
+  "version": "0.25.0",
+  "summary": "Access your Wealthsimple account using their (GraphQL) API.",
+  "author": "Guillaume Boudreau",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/gboudreau/ws-api-python",
+  "download_filename": "ws_api-0.25.0.tar.gz",
+  "download_time": "2025-12-15T14:46:29.235963",
+  "package_url": "https://pypi.org/project/WS-API/"
+}

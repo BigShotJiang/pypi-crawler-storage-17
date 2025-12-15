@@ -1,0 +1,11 @@
+{
+  "name": "plott-sdk-core",
+  "version": "0.0.1a1",
+  "summary": "Plott Analytics SDK Core for Python - Event tracking and batching",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plott_sdk_core-0.0.1a1.tar.gz",
+  "download_time": "2025-12-15T14:47:06.876002",
+  "package_url": "https://pypi.org/project/plott-sdk-core/"
+}

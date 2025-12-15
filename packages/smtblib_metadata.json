@@ -1,0 +1,11 @@
+{
+  "name": "smtblib",
+  "version": "0.1.8",
+  "summary": "A compact Python library for archiving and extracting ZIP files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smtblib-0.1.8.tar.gz",
+  "download_time": "2025-12-15T14:46:44.874141",
+  "package_url": "https://pypi.org/project/smtblib/"
+}

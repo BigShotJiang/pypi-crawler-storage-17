@@ -1,0 +1,11 @@
+{
+  "name": "kiarina-lib-anthropic",
+  "version": "1.17.0",
+  "summary": "Anthropic API client library for kiarina namespace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiarina_lib_anthropic-1.17.0.tar.gz",
+  "download_time": "2025-12-15T14:46:51.667047",
+  "package_url": "https://pypi.org/project/kiarina-lib-anthropic/"
+}

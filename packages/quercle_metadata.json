@@ -1,0 +1,11 @@
+{
+  "name": "quercle",
+  "version": "0.1.4",
+  "summary": "Official Python SDK for the Quercle API - AI-powered web search and fetching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quercle-0.1.4.tar.gz",
+  "download_time": "2025-12-15T14:47:09.465704",
+  "package_url": "https://pypi.org/project/quercle/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "skosprovider-atramhasis",
+  "version": "1.1.0",
+  "summary": "Skosprovider implementation of Atramhasis Vocabularies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skosprovider_atramhasis-1.1.0.tar.gz",
+  "download_time": "2025-12-15T14:47:00.548747",
+  "package_url": "https://pypi.org/project/skosprovider-atramhasis/"
+}
