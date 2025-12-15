@@ -1,0 +1,11 @@
+{
+  "name": "decomp2dbg",
+  "version": "3.14.0",
+  "summary": "Symbol syncing framework for decompilers and debuggers",
+  "author": null,
+  "license": "BSD 2 Clause",
+  "home_page": "https://github.com/mahaloz/decomp2dbg",
+  "download_filename": "decomp2dbg-3.14.0.tar.gz",
+  "download_time": "2025-12-15T18:53:06.888298",
+  "package_url": "https://pypi.org/project/decomp2dbg/"
+}

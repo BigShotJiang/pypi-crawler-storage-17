@@ -1,0 +1,11 @@
+{
+  "name": "agate-lookup",
+  "version": "0.3.4",
+  "summary": "agate-lookup adds remote lookup tables to agate.",
+  "author": "Christopher Groskopf",
+  "license": "MIT",
+  "home_page": "https://agate-lookup.readthedocs.org/",
+  "download_filename": "agate_lookup-0.3.4.tar.gz",
+  "download_time": "2025-12-15T18:52:35.898302",
+  "package_url": "https://pypi.org/project/agate-lookup/"
+}

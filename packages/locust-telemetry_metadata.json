@@ -1,0 +1,11 @@
+{
+  "name": "locust-telemetry",
+  "version": "2.1.2",
+  "summary": "A Locust plugin for emitting structured telemetry and metrics to JSON or OpenTelemetry backends.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "locust_telemetry-2.1.2.tar.gz",
+  "download_time": "2025-12-15T18:52:40.115341",
+  "package_url": "https://pypi.org/project/locust-telemetry/"
+}

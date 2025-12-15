@@ -1,0 +1,11 @@
+{
+  "name": "artheon-sast",
+  "version": "1.1",
+  "summary": "Static Application Security Testing tool for JavaScript",
+  "author": "Dorian Tituaña, Ismael Toala",
+  "license": "MIT",
+  "home_page": "https://github.com/DorianTitu/Artheon-SAST-Slim",
+  "download_filename": "artheon_sast-1.1.tar.gz",
+  "download_time": "2025-12-15T18:52:47.439207",
+  "package_url": "https://pypi.org/project/artheon-sast/"
+}

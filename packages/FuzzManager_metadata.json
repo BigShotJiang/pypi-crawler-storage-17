@@ -1,0 +1,11 @@
+{
+  "name": "FuzzManager",
+  "version": "0.9.1",
+  "summary": "A fuzzing management tools collection",
+  "author": "Christian Holler",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/MozillaSecurity/FuzzManager",
+  "download_filename": "fuzzmanager-0.9.1.tar.gz",
+  "download_time": "2025-12-15T18:53:07.402760",
+  "package_url": "https://pypi.org/project/FuzzManager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shutdown-manager",
+  "version": "1.0.1",
+  "summary": "Safe and flexible shutdown manager for threads, processes, and asyncio tasks",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/shutdown-manager",
+  "download_filename": "shutdown_manager-1.0.1.tar.gz",
+  "download_time": "2025-12-15T18:53:05.287668",
+  "package_url": "https://pypi.org/project/shutdown-manager/"
+}

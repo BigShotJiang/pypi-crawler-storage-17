@@ -1,0 +1,11 @@
+{
+  "name": "GridSearchReductor",
+  "version": "1.0.2",
+  "summary": "Reduce hyperparameter search space using stratified sampling (on top of a ParameterGrid)",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/thiswillbeyourgithub/GridSearchReductor.git",
+  "download_filename": "gridsearchreductor-1.0.2.tar.gz",
+  "download_time": "2025-12-15T18:52:38.492214",
+  "package_url": "https://pypi.org/project/GridSearchReductor/"
+}

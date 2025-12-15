@@ -1,0 +1,11 @@
+{
+  "name": "agate-stats",
+  "version": "0.4.3",
+  "summary": "agate-stats adds additional statistical methods to agate.",
+  "author": "Christopher Groskopf",
+  "license": "MIT",
+  "home_page": "https://agate-stats.readthedocs.org/",
+  "download_filename": "agate_stats-0.4.3.tar.gz",
+  "download_time": "2025-12-15T18:52:35.386033",
+  "package_url": "https://pypi.org/project/agate-stats/"
+}

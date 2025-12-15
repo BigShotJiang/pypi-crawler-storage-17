@@ -1,0 +1,11 @@
+{
+  "name": "agate-excel",
+  "version": "0.4.2",
+  "summary": "agate-excel adds read support for Excel files (xls and xlsx) to agate.",
+  "author": "Christopher Groskopf",
+  "license": "MIT",
+  "home_page": "https://agate-excel.readthedocs.org/",
+  "download_filename": "agate_excel-0.4.2.tar.gz",
+  "download_time": "2025-12-15T18:52:29.273325",
+  "package_url": "https://pypi.org/project/agate-excel/"
+}

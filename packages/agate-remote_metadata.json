@@ -1,0 +1,11 @@
+{
+  "name": "agate-remote",
+  "version": "0.2.3",
+  "summary": "agate-remote adds read support for remote files to agate.",
+  "author": "Christopher Groskopf",
+  "license": "MIT",
+  "home_page": "https://agate-remote.readthedocs.org/",
+  "download_filename": "agate_remote-0.2.3.tar.gz",
+  "download_time": "2025-12-15T18:52:36.409268",
+  "package_url": "https://pypi.org/project/agate-remote/"
+}

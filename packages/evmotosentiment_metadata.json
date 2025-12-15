@@ -1,0 +1,11 @@
+{
+  "name": "evmotosentiment",
+  "version": "0.3.0",
+  "summary": "Package to analyse Motorcycle EV swap related issues",
+  "author": "Ayikwei Richard",
+  "license": "CC-BY-4.0",
+  "home_page": null,
+  "download_filename": "evmotosentiment-0.3.0.tar.gz",
+  "download_time": "2025-12-15T18:52:28.761274",
+  "package_url": "https://pypi.org/project/evmotosentiment/"
+}
