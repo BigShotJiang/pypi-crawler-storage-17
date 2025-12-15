@@ -1,0 +1,11 @@
+{
+  "name": "trytond-analytic-account",
+  "version": "7.8.0",
+  "summary": "Tryton module for analytic accounting",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_analytic_account-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:31:36.439413",
+  "package_url": "https://pypi.org/project/trytond-analytic-account/"
+}

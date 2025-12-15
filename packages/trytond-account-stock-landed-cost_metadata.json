@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-stock-landed-cost",
+  "version": "7.8.0",
+  "summary": "Tryton module for landed cost",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_stock_landed_cost-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:31:42.899070",
+  "package_url": "https://pypi.org/project/trytond-account-stock-landed-cost/"
+}

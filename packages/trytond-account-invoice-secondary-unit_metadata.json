@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-invoice-secondary-unit",
+  "version": "7.8.0",
+  "summary": "Tryton module to add a secondary unit on invoice line",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_invoice_secondary_unit-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:32:00.418772",
+  "package_url": "https://pypi.org/project/trytond-account-invoice-secondary-unit/"
+}

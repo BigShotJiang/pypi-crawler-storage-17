@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-tax-non-deductible",
+  "version": "7.8.0",
+  "summary": "Tryton module to report non-deductible tax",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_tax_non_deductible-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:31:38.220240",
+  "package_url": "https://pypi.org/project/trytond-account-tax-non-deductible/"
+}

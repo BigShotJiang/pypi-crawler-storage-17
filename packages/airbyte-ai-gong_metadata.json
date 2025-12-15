@@ -1,11 +1,11 @@
 {
   "name": "airbyte-ai-gong",
-  "version": "0.19.15",
+  "version": "0.19.17",
   "summary": "Airbyte Gong Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_ai_gong-0.19.15.tar.gz",
-  "download_time": "2025-12-15T19:12:45.818754",
+  "download_filename": "airbyte_ai_gong-0.19.17.tar.gz",
+  "download_time": "2025-12-15T19:32:10.367026",
   "package_url": "https://pypi.org/project/airbyte-ai-gong/"
 }

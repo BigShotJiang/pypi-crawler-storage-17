@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-payment",
+  "version": "7.8.0",
+  "summary": "Tryton module for payment",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_payment-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:31:57.518898",
+  "package_url": "https://pypi.org/project/trytond-account-payment/"
+}

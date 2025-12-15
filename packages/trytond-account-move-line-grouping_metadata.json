@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-move-line-grouping",
+  "version": "7.8.0",
+  "summary": "Tryton module to display account move line grouped",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_move_line_grouping-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:31:58.095101",
+  "package_url": "https://pypi.org/project/trytond-account-move-line-grouping/"
+}

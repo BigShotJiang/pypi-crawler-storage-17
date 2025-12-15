@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-stock-shipment-cost",
+  "version": "7.8.0",
+  "summary": "Tryton module to allocate shipment cost based on invoice",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_stock_shipment_cost-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:31:41.169481",
+  "package_url": "https://pypi.org/project/trytond-account-stock-shipment-cost/"
+}
