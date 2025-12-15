@@ -1,11 +1,11 @@
 {
   "name": "pathway-viz",
-  "version": "0.1.5",
+  "version": "0.3.0",
   "summary": "The visualization layer for Pathway - real-time dashboards for streaming data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pathway_viz-0.1.5.tar.gz",
-  "download_time": "2025-12-15T18:52:27.738037",
+  "download_filename": "pathway_viz-0.3.0.tar.gz",
+  "download_time": "2025-12-15T20:37:05.443363",
   "package_url": "https://pypi.org/project/pathway-viz/"
 }

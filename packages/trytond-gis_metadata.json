@@ -1,0 +1,11 @@
+{
+  "name": "trytond-gis",
+  "version": "7.8.0",
+  "summary": "Adds Geographic Information System support to trytond",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_gis-7.8.0.tar.gz",
+  "download_time": "2025-12-15T20:37:07.557484",
+  "package_url": "https://pypi.org/project/trytond-gis/"
+}

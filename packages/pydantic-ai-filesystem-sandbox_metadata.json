@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-ai-filesystem-sandbox",
+  "version": "0.9.0",
+  "summary": "Filesystem sandbox toolset for PydanticAI agents with LLM-friendly errors",
+  "author": "Zbigniew Łukasiak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_ai_filesystem_sandbox-0.9.0.tar.gz",
+  "download_time": "2025-12-15T20:37:26.173193",
+  "package_url": "https://pypi.org/project/pydantic-ai-filesystem-sandbox/"
+}

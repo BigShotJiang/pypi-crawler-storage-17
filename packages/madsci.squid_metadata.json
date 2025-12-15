@@ -1,11 +1,11 @@
 {
   "name": "madsci.squid",
-  "version": "0.6.0rc6",
+  "version": "0.6.0rc7",
   "summary": "The Modular Autonomous Discovery for Science (MADSci) Control Server and Scheduler, aka Squid.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "madsci_squid-0.6.0rc6.tar.gz",
-  "download_time": "2025-12-15T17:45:45.034297",
+  "download_filename": "madsci_squid-0.6.0rc7.tar.gz",
+  "download_time": "2025-12-15T20:36:54.896985",
   "package_url": "https://pypi.org/project/madsci.squid/"
 }

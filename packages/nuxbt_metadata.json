@@ -1,0 +1,11 @@
+{
+  "name": "nuxbt",
+  "version": "1.5.0",
+  "summary": "Control your Nintendo Switch through a website, terminal, or macro.",
+  "author": "Hannah Brown",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nuxbt-1.5.0.tar.gz",
+  "download_time": "2025-12-15T20:36:44.282778",
+  "package_url": "https://pypi.org/project/nuxbt/"
+}

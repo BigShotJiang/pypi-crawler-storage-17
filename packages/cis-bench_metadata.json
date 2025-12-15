@@ -1,11 +1,11 @@
 {
   "name": "cis-bench",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "CLI tool for fetching and managing CIS benchmarks from CIS WorkBench",
   "author": "MITRE SAF Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/mitre/cis-bench",
-  "download_filename": "cis_bench-0.2.1.tar.gz",
-  "download_time": "2025-12-15T20:12:31.224702",
+  "download_filename": "cis_bench-0.2.2.tar.gz",
+  "download_time": "2025-12-15T20:37:18.309867",
   "package_url": "https://pypi.org/project/cis-bench/"
 }

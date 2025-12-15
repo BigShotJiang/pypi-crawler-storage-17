@@ -1,0 +1,11 @@
+{
+  "name": "maptasker",
+  "version": "10.0.1",
+  "summary": "Utility to display your entire Android 'Tasker' configuration on your Desktop.",
+  "author": "Michael Rubin",
+  "license": null,
+  "home_page": "https://github.com/mctinker/Map-Tasker",
+  "download_filename": "maptasker-10.0.1.tar.gz",
+  "download_time": "2025-12-15T20:37:17.269821",
+  "package_url": "https://pypi.org/project/maptasker/"
+}

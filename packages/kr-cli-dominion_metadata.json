@@ -1,11 +1,11 @@
 {
   "name": "kr-cli-dominion",
-  "version": "5.3.0",
+  "version": "5.3.2",
   "summary": "Advanced AI-Powered Security CLI - DOMINION Model",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kr_cli_dominion-5.3.0.tar.gz",
-  "download_time": "2025-12-15T20:12:23.970437",
+  "download_filename": "kr_cli_dominion-5.3.2.tar.gz",
+  "download_time": "2025-12-15T20:37:31.970447",
   "package_url": "https://pypi.org/project/kr-cli-dominion/"
 }

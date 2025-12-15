@@ -1,0 +1,11 @@
+{
+  "name": "trame-color-opacity-editor",
+  "version": "1.0.0",
+  "summary": "A trame package implementing the Paraview/Tomviz color-opacity editor.",
+  "author": "Alessandro Genova",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "trame_color_opacity_editor-1.0.0.tar.gz",
+  "download_time": "2025-12-15T20:36:53.854849",
+  "package_url": "https://pypi.org/project/trame-color-opacity-editor/"
+}

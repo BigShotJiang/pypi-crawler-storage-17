@@ -1,11 +1,11 @@
 {
   "name": "seliseblocks-lmt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Logging, Monitoring, and Tracing library for Selise Blocks applications using Azure Service Bus.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "seliseblocks_lmt-0.0.2.tar.gz",
-  "download_time": "2025-12-15T19:32:07.952757",
+  "download_filename": "seliseblocks_lmt-0.0.3.tar.gz",
+  "download_time": "2025-12-15T20:37:10.790219",
   "package_url": "https://pypi.org/project/seliseblocks-lmt/"
 }

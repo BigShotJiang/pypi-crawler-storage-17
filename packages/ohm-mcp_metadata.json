@@ -1,0 +1,11 @@
+{
+  "name": "ohm-mcp",
+  "version": "0.1.4",
+  "summary": "AI-Powered Python Refactoring & Code Quality Assistant - MCP Server with AST-based analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ohm_mcp-0.1.4.tar.gz",
+  "download_time": "2025-12-15T20:36:50.111512",
+  "package_url": "https://pypi.org/project/ohm-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.utils.config",
+  "version": "0.53.0",
+  "summary": "wwPDB Python Configuration Parsing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wwpdb_utils_config-0.53.0.tar.gz",
+  "download_time": "2025-12-15T20:37:15.153707",
+  "package_url": "https://pypi.org/project/wwpdb.utils.config/"
+}
