@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-15T07:42:43.773207
-- **Total Packages**: 97
-- **Total Size**: 37.95 MB
+- **Download Time**: 2025-12-15T07:52:16.344429
+- **Total Packages**: 96
+- **Total Size**: 7.04 MB
 
 ## Packages List
+- jdi-blacksmith
+- nemo-evaluator-launcher
+- python-playwright-helper
+- nemo-evaluator
+- heros-boss
+- korean-law-mcp
+- vibe-and-thrive
+- df-test-framework
+- holos-sdk
+- tima-timer
+- digital-employee-core
+- funboost
+- HOS-ME
+- fivcglue
+- mcp-browser
+- businessradar
+- toollib
+- netbox-device-support-plugin
+- enn-iot-oc-sdk
+- rubric
+- fusesell
+- szgf
 - termlit
 - isrpa
 - tensorax
@@ -52,7 +74,6 @@
 - ommx-qctrl-qaoa-adapter
 - blend2d-py
 - sayou-loader
-- rubric
 - agentbill-py-crewai
 - agentbill-py-langchain
 - agentbill-py-sdk
@@ -81,25 +102,3 @@
 - better-confluence-mcp
 - tmutils
 - bridge-transfer-45
-- voraus-logging-lib
-- mcp-vector-search
-- raw-player
-- korean-law-mcp
-- biblemategui
-- tcod
-- starteval
-- enn-iot-oc-sdk
-- paddleocr-mcp
-- treetops
-- jacksung-dev
-- ommx-kipu-iskay-adapter
-- boldsign
-- testsolar-pytestx
-- livekit-memory
-- agnt5
-- ai-edge-litert-nightly
-- lyapprove
-- aceai
-- guan
-- bigkinds-mcp
-- flotorch-eval

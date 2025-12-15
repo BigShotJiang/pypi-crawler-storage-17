@@ -1,0 +1,11 @@
+{
+  "name": "netbox-device-support-plugin",
+  "version": "1.0.21",
+  "summary": "Cisco device support, device type support, and software release information with the Cisco support APIs",
+  "author": "Willi Kubny",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netbox_device_support_plugin-1.0.21.tar.gz",
+  "download_time": "2025-12-15T07:51:36.001127",
+  "package_url": "https://pypi.org/project/netbox-device-support-plugin/"
+}

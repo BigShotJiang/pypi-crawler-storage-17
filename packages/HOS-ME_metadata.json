@@ -1,0 +1,11 @@
+{
+  "name": "HOS-ME",
+  "version": "1.0.7",
+  "summary": "HOS可扩展式办公平台 - HOS-ME",
+  "author": "HOS Team",
+  "license": null,
+  "home_page": "https://github.com/hos-project/hos-me",
+  "download_filename": "hos_me-1.0.7.tar.gz",
+  "download_time": "2025-12-15T07:51:33.386687",
+  "package_url": "https://pypi.org/project/HOS-ME/"
+}
