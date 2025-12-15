@@ -1,0 +1,11 @@
+{
+  "name": "python-osw-validation",
+  "version": "0.3.2",
+  "summary": "Python library for OSW validation",
+  "author": "Sujata Misra",
+  "license": null,
+  "home_page": "https://github.com/TaskarCenterAtUW/TDEI-python-lib-osw-validation",
+  "download_filename": "python_osw_validation-0.3.2-py3-none-any.whl",
+  "download_time": "2025-12-15T18:18:35.468815",
+  "package_url": "https://pypi.org/project/python-osw-validation/"
+}
