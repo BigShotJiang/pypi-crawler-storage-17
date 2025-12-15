@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-15T05:21:22.586810
-- **Total Packages**: 83
-- **Total Size**: 26.99 MB
+- **Download Time**: 2025-12-15T05:46:17.261914
+- **Total Packages**: 81
+- **Total Size**: 2.15 MB
 
 ## Packages List
+- agnt
+- vim-eof-comment
+- layeredlearning
+- orbitkit
+- pyfrontkit
+- nonebot-plugin-instagram
+- cpg-flow
+- nonebot-plugin-xiaohongshu
+- vectorvein
 - wisent
 - boomi
 - zotero-keeper
@@ -16,14 +25,12 @@
 - terrakio-core
 - mcp-audit
 - ephyalign
-- pyfrontkit
 - quantumdrive
 - maleo-identity
 - nonebot-plugin-fortnite
 - opsmith-cli
 - ligo.skymap
 - mrgrain.cdk-esbuild
-- agnt
 - hla-compass
 - AeroViz
 - vnpy-xtdata
@@ -31,7 +38,6 @@
 - anu-ctlab-io
 - mypy
 - tconnectsync
-- vectorvein
 - analysis3054
 - empathy-framework
 - pytest-polymeric-report
@@ -65,7 +71,6 @@
 - bridge-transfer-44
 - bioamla
 - qik
-- layeredlearning
 - grain-nightly
 - odoo-addon-account-asset-low-value
 - piboufilings
@@ -82,10 +87,3 @@
 - ieee-gui
 - time-decode
 - fusesell
-- vim-eof-comment
-- ojph
-- runwise
-- agentrun-inner-test
-- invarianthub
-- apitally
-- bridge-transfer-42
