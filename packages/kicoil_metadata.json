@@ -1,0 +1,11 @@
+{
+  "name": "kicoil",
+  "version": "0.10.0",
+  "summary": "Planar Inductor Generator",
+  "author": "jaseg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kicoil-0.10.0.tar.gz",
+  "download_time": "2025-12-15T22:11:17.518922",
+  "package_url": "https://pypi.org/project/kicoil/"
+}

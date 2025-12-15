@@ -1,0 +1,11 @@
+{
+  "name": "statsig-ai",
+  "version": "0.0.1b8",
+  "summary": "Statsig AI Python SDK",
+  "author": null,
+  "license": "ISC",
+  "home_page": "https://github.com/statsig-io/statsig-ai-python",
+  "download_filename": "statsig_ai-0.0.1b8.tar.gz",
+  "download_time": "2025-12-15T22:11:21.199206",
+  "package_url": "https://pypi.org/project/statsig-ai/"
+}

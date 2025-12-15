@@ -1,0 +1,11 @@
+{
+  "name": "pytest-checkers",
+  "version": "0.3.0",
+  "summary": "Pytest Plugin for dry-run checks LSPs, Type Checkers, Linters, and Formatters during testing",
+  "author": "the-citto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_checkers-0.3.0.tar.gz",
+  "download_time": "2025-12-15T22:11:28.407318",
+  "package_url": "https://pypi.org/project/pytest-checkers/"
+}

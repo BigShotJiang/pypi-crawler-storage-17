@@ -1,0 +1,11 @@
+{
+  "name": "assetpipe-cli",
+  "version": "0.1.1",
+  "summary": "Universal Asset Pipeline CLI - Convert, optimize, and validate 3D/2D assets",
+  "author": "AssetPipe Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "assetpipe_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-15T22:11:37.183989",
+  "package_url": "https://pypi.org/project/assetpipe-cli/"
+}

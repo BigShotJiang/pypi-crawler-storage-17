@@ -1,0 +1,11 @@
+{
+  "name": "evo-schemas",
+  "version": "2025.12.15",
+  "summary": "Seequent Geoscience Object Schemas define metadata and data serialisation of various geoscience objects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_schemas-2025.12.15-py3-none-any.whl",
+  "download_time": "2025-12-15T22:11:35.118074",
+  "package_url": "https://pypi.org/project/evo-schemas/"
+}

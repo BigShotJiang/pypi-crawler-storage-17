@@ -1,0 +1,11 @@
+{
+  "name": "podaac-concise",
+  "version": "0.11.0",
+  "summary": "Harmony service that merges granules",
+  "author": "podaac-tva",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/podaac/concise",
+  "download_filename": "podaac_concise-0.11.0.tar.gz",
+  "download_time": "2025-12-15T22:11:43.966137",
+  "package_url": "https://pypi.org/project/podaac-concise/"
+}

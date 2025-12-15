@@ -1,0 +1,11 @@
+{
+  "name": "mcp-toolz",
+  "version": "0.3.11",
+  "summary": "Save contexts and todos across Claude Code sessions, get feedback from ChatGPT, Claude, Gemini, and DeepSeek",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_toolz-0.3.11.tar.gz",
+  "download_time": "2025-12-15T22:11:46.037282",
+  "package_url": "https://pypi.org/project/mcp-toolz/"
+}
