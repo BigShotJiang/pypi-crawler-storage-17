@@ -1,0 +1,11 @@
+{
+  "name": "hasapi",
+  "version": "0.1.1",
+  "summary": "Modern Python web framework for AI-native APIs (LLM + RAG + Streaming)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hasapi-0.1.1.tar.gz",
+  "download_time": "2025-12-15T04:28:43.491570",
+  "package_url": "https://pypi.org/project/hasapi/"
+}

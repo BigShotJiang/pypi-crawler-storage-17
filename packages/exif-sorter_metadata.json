@@ -1,0 +1,11 @@
+{
+  "name": "exif-sorter",
+  "version": "1.0.1",
+  "summary": "Organize photos, videos, and audio files by EXIF/ID3 creation date",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exif_sorter-1.0.1.tar.gz",
+  "download_time": "2025-12-15T04:28:45.762352",
+  "package_url": "https://pypi.org/project/exif-sorter/"
+}

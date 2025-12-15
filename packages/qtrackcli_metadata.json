@@ -1,0 +1,11 @@
+{
+  "name": "qtrackcli",
+  "version": "1.0.0",
+  "summary": "CLI tool for uploading pytest results to q-track",
+  "author": "emily wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qtrackcli-1.0.0.tar.gz",
+  "download_time": "2025-12-15T04:29:05.811583",
+  "package_url": "https://pypi.org/project/qtrackcli/"
+}

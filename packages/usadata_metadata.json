@@ -1,0 +1,11 @@
+{
+  "name": "usadata",
+  "version": "0.1.0",
+  "summary": "This package provides data cleaning and visualization tools for US statistics datasets.",
+  "author": "Rebekah Jensen, Noah Champagne",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "usadata-0.1.0.tar.gz",
+  "download_time": "2025-12-15T04:29:04.061989",
+  "package_url": "https://pypi.org/project/usadata/"
+}

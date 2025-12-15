@@ -1,0 +1,11 @@
+{
+  "name": "waft",
+  "version": "0.1.3",
+  "summary": "A textual user interface application that facilitates the association of files in the MP3 format with metadd.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waft-0.1.3.tar.gz",
+  "download_time": "2025-12-15T04:28:30.814198",
+  "package_url": "https://pypi.org/project/waft/"
+}
