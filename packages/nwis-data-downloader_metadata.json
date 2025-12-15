@@ -1,0 +1,11 @@
+{
+  "name": "nwis-data-downloader",
+  "version": "0.1.0",
+  "summary": "A Python package for downloading USGS NWIS hydrological data",
+  "author": "Shahab Shojaee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nwis_data_downloader-0.1.0.tar.gz",
+  "download_time": "2025-12-15T08:18:15.353603",
+  "package_url": "https://pypi.org/project/nwis-data-downloader/"
+}

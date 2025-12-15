@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-firebase-auth",
+  "version": "1.1.6",
+  "summary": "Streamlit component for Firebae auth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_firebase_auth-1.1.6.tar.gz",
+  "download_time": "2025-12-15T08:17:45.601832",
+  "package_url": "https://pypi.org/project/streamlit-firebase-auth/"
+}

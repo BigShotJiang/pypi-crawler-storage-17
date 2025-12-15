@@ -1,0 +1,11 @@
+{
+  "name": "storage-viewer-cli",
+  "version": "0.5.0",
+  "summary": "Advanced directory tree visualizer with filtering options",
+  "author": "Lingaraj Sa",
+  "license": "MIT",
+  "home_page": "https://github.com/infofusiontechlab/storage-viewer",
+  "download_filename": "storage_viewer_cli-0.5.0.tar.gz",
+  "download_time": "2025-12-15T08:17:46.687288",
+  "package_url": "https://pypi.org/project/storage-viewer-cli/"
+}

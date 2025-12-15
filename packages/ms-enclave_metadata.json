@@ -1,0 +1,11 @@
+{
+  "name": "ms-enclave",
+  "version": "0.0.4",
+  "summary": "Modularized and Stable Sandbox runtime environment.",
+  "author": "ModelScope team",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "ms_enclave-0.0.4.tar.gz",
+  "download_time": "2025-12-15T08:17:56.728733",
+  "package_url": "https://pypi.org/project/ms-enclave/"
+}

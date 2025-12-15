@@ -1,0 +1,11 @@
+{
+  "name": "oyemi",
+  "version": "2.0.0",
+  "summary": "Offline semantic numeric lexicon - deterministic word-to-code mapping",
+  "author": "Kaossara Osseni",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oyemi-2.0.0.tar.gz",
+  "download_time": "2025-12-15T08:17:55.701742",
+  "package_url": "https://pypi.org/project/oyemi/"
+}

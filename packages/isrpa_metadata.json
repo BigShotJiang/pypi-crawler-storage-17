@@ -1,11 +1,11 @@
 {
   "name": "isrpa",
-  "version": "1.1.9",
+  "version": "1.2.1",
   "summary": "isrpa package",
   "author": "ysq",
   "license": null,
   "home_page": "https://github.com/yourusername/mypackage",
-  "download_filename": "isrpa-1.1.9.tar.gz",
-  "download_time": "2025-12-15T07:41:52.067279",
+  "download_filename": "isrpa-1.2.1.tar.gz",
+  "download_time": "2025-12-15T08:17:40.501522",
   "package_url": "https://pypi.org/project/isrpa/"
 }
