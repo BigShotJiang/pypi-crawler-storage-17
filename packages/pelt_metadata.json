@@ -1,0 +1,11 @@
+{
+  "name": "pelt",
+  "version": "0.2.0",
+  "summary": "Changepoint detection with Pruned Exact Linear Time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pelt-0.2.0.tar.gz",
+  "download_time": "2025-12-15T10:46:38.839244",
+  "package_url": "https://pypi.org/project/pelt/"
+}

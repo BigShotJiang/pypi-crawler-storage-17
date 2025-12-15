@@ -1,0 +1,11 @@
+{
+  "name": "metapensiero.sphinx.patchdb",
+  "version": "4.3",
+  "summary": "Extract scripts from a reST document and apply them in order.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "metapensiero_sphinx_patchdb-4.3.tar.gz",
+  "download_time": "2025-12-15T10:46:28.909318",
+  "package_url": "https://pypi.org/project/metapensiero.sphinx.patchdb/"
+}
