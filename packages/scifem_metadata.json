@@ -1,0 +1,11 @@
+{
+  "name": "scifem",
+  "version": "0.15.2",
+  "summary": "Scientific tools for finite element methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scifem-0.15.2.tar.gz",
+  "download_time": "2025-12-15T19:12:30.543426",
+  "package_url": "https://pypi.org/project/scifem/"
+}

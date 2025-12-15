@@ -1,0 +1,11 @@
+{
+  "name": "proof",
+  "version": "0.4.1",
+  "summary": "A Python library for creating optimized, repeatable and self-documenting data analysis pipelines.",
+  "author": "Christopher Groskopf",
+  "license": "MIT",
+  "home_page": "https://proof.readthedocs.io/",
+  "download_filename": "proof-0.4.1.tar.gz",
+  "download_time": "2025-12-15T19:12:55.835933",
+  "package_url": "https://pypi.org/project/proof/"
+}

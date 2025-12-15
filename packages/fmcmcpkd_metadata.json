@@ -1,11 +1,11 @@
 {
   "name": "fmcmcpkd",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "An MCP server exposing FMC text output via stdio",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "fmcmcpkd-0.1.9.tar.gz",
-  "download_time": "2025-12-15T18:52:42.293331",
+  "download_filename": "fmcmcpkd-0.2.0.tar.gz",
+  "download_time": "2025-12-15T19:12:54.270649",
   "package_url": "https://pypi.org/project/fmcmcpkd/"
 }

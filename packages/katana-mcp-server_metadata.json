@@ -1,0 +1,11 @@
+{
+  "name": "katana-mcp-server",
+  "version": "0.27.0",
+  "summary": "MCP server for Katana Manufacturing ERP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "katana_mcp_server-0.27.0.tar.gz",
+  "download_time": "2025-12-15T19:13:04.243368",
+  "package_url": "https://pypi.org/project/katana-mcp-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "webquest",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "WebQuest is an extensible Python toolkit for high-level web scraping, built around a generic Playwright-based scraper interface for quickly building, running, and reusing custom scrapers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webquest-0.11.1.tar.gz",
-  "download_time": "2025-12-15T18:52:26.524369",
+  "download_filename": "webquest-0.11.2.tar.gz",
+  "download_time": "2025-12-15T19:13:06.850706",
   "package_url": "https://pypi.org/project/webquest/"
 }

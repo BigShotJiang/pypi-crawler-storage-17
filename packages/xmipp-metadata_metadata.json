@@ -1,0 +1,11 @@
+{
+  "name": "xmipp-metadata",
+  "version": "1.2.1",
+  "summary": "Package to handle Xmipp Metadata and image binary data",
+  "author": "David Herreros",
+  "license": null,
+  "home_page": "https://github.com/DavidHerreros/xmipp_metadata",
+  "download_filename": "xmipp_metadata-1.2.1.tar.gz",
+  "download_time": "2025-12-15T19:13:11.569780",
+  "package_url": "https://pypi.org/project/xmipp-metadata/"
+}
