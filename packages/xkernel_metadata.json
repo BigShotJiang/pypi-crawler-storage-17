@@ -1,0 +1,11 @@
+{
+  "name": "xkernel",
+  "version": "0.0.1",
+  "summary": "Minimal deterministic X-kernel with filament, fiber, and bundle structures.",
+  "author": "Scott Allen Cave",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xkernel-0.0.1.tar.gz",
+  "download_time": "2025-12-15T20:12:26.200584",
+  "package_url": "https://pypi.org/project/xkernel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mythic-container",
+  "version": "0.6.10",
+  "summary": "Functionality for Mythic Services",
+  "author": "@its_a_feature_",
+  "license": "BSD3",
+  "home_page": "https://docs.mythic-c2.net/customizing/payload-type-development",
+  "download_filename": "mythic_container-0.6.10.tar.gz",
+  "download_time": "2025-12-15T20:12:44.644649",
+  "package_url": "https://pypi.org/project/mythic-container/"
+}

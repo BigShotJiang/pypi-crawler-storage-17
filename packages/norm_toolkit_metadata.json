@@ -1,11 +1,11 @@
 {
   "name": "norm_toolkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Toolkit to normalize text to UMLS / ontologies",
   "author": "Haydn Jones",
   "license": null,
   "home_page": null,
-  "download_filename": "norm_toolkit-1.0.1.tar.gz",
-  "download_time": "2025-12-15T19:47:59.576146",
+  "download_filename": "norm_toolkit-1.0.2.tar.gz",
+  "download_time": "2025-12-15T20:12:56.119905",
   "package_url": "https://pypi.org/project/norm_toolkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "orangic",
+  "version": "0.1.0",
+  "summary": "The official Python library for the Orangic API (Pre-release)",
+  "author": "Orangic",
+  "license": "MIT",
+  "home_page": "https://github.com/erhan1209/orangic-python",
+  "download_filename": "orangic-0.1.0.tar.gz",
+  "download_time": "2025-12-15T20:12:32.322753",
+  "package_url": "https://pypi.org/project/orangic/"
+}

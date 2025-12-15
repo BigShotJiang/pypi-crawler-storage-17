@@ -1,0 +1,11 @@
+{
+  "name": "thelab-typing",
+  "version": "1.0.0",
+  "summary": "A collection of utilities related to Python type checking",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "thelab_typing-1.0.0.tar.gz",
+  "download_time": "2025-12-15T20:13:04.231770",
+  "package_url": "https://pypi.org/project/thelab-typing/"
+}
