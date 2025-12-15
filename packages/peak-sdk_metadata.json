@@ -1,0 +1,11 @@
+{
+  "name": "peak-sdk",
+  "version": "1.21.1",
+  "summary": "Python SDK for interacting with the Peak platform",
+  "author": "Peak",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.peak.ai/sdk/latest/",
+  "download_filename": "peak_sdk-1.21.1.tar.gz",
+  "download_time": "2025-12-15T13:12:20.072148",
+  "package_url": "https://pypi.org/project/peak-sdk/"
+}

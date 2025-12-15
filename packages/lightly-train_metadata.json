@@ -1,0 +1,11 @@
+{
+  "name": "lightly-train",
+  "version": "0.13.0",
+  "summary": "Train models with self-supervised learning in a single command",
+  "author": "Lightly Team",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "lightly_train-0.13.0.tar.gz",
+  "download_time": "2025-12-15T13:12:02.421941",
+  "package_url": "https://pypi.org/project/lightly-train/"
+}

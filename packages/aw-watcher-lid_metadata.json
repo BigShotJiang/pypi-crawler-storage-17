@@ -1,0 +1,11 @@
+{
+  "name": "aw-watcher-lid",
+  "version": "0.1.0",
+  "summary": "ActivityWatch watcher for laptop lid events and system suspend/resume",
+  "author": "Tobias Brox",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/tobixen/aw-watcher-lid",
+  "download_filename": "aw_watcher_lid-0.1.0.tar.gz",
+  "download_time": "2025-12-15T13:12:26.414282",
+  "package_url": "https://pypi.org/project/aw-watcher-lid/"
+}

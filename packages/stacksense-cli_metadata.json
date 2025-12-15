@@ -1,0 +1,11 @@
+{
+  "name": "stacksense-cli",
+  "version": "0.1.0",
+  "summary": "AI-powered code intelligence for developers",
+  "author": "PilgrimStack",
+  "license": null,
+  "home_page": "https://portfolio-pied-five-61.vercel.app/",
+  "download_filename": "stacksense_cli-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-15T13:12:38.477004",
+  "package_url": "https://pypi.org/project/stacksense-cli/"
+}

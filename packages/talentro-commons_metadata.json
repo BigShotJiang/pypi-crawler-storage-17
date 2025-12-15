@@ -1,0 +1,11 @@
+{
+  "name": "talentro-commons",
+  "version": "0.15.19",
+  "summary": "This package contains all globally used code, services, models and data structures for Talentro",
+  "author": "Emiel van Essen",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "talentro_commons-0.15.19.tar.gz",
+  "download_time": "2025-12-15T13:12:19.050697",
+  "package_url": "https://pypi.org/project/talentro-commons/"
+}

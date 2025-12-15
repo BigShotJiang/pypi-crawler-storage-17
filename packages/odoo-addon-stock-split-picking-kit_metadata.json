@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-split-picking-kit",
+  "version": "18.0.1.0.1",
+  "summary": "Split a picking by a number of kits.",
+  "author": "Camptocamp, BCIM, Odoo Community Association (OCA),",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_split_picking_kit-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-15T13:12:13.313336",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-split-picking-kit/"
+}

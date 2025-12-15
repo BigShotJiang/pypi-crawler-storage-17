@@ -1,0 +1,11 @@
+{
+  "name": "airia",
+  "version": "0.1.33",
+  "summary": "Python SDK for Airia API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airia-0.1.33.tar.gz",
+  "download_time": "2025-12-15T13:12:21.627592",
+  "package_url": "https://pypi.org/project/airia/"
+}

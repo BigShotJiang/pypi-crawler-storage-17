@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-location-address-purchase",
+  "version": "18.0.1.0.0.1",
+  "summary": "Uses the location address on purchases",
+  "author": "Creu Blanca, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-transport",
+  "download_filename": "odoo_addon_stock_location_address_purchase-18.0.1.0.0.1-py3-none-any.whl",
+  "download_time": "2025-12-15T13:12:04.080692",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-location-address-purchase/"
+}
