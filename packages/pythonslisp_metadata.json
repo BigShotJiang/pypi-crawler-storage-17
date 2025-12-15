@@ -1,0 +1,11 @@
+{
+  "name": "pythonslisp",
+  "version": "0.9.3",
+  "summary": "A small Common Lisp implementation.  Call lisp and python from one another.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonslisp-0.9.3.tar.gz",
+  "download_time": "2025-12-15T17:17:02.420084",
+  "package_url": "https://pypi.org/project/pythonslisp/"
+}

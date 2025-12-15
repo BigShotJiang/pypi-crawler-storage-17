@@ -1,11 +1,11 @@
 {
   "name": "django-unfold",
-  "version": "0.74.0",
+  "version": "0.74.1",
   "summary": "Modern Django admin theme for seamless interface development",
   "author": null,
   "license": "MIT",
   "home_page": "https://unfoldadmin.com",
-  "download_filename": "django_unfold-0.74.0.tar.gz",
-  "download_time": "2025-12-15T11:31:20.843272",
+  "download_filename": "django_unfold-0.74.1.tar.gz",
+  "download_time": "2025-12-15T17:17:13.453756",
   "package_url": "https://pypi.org/project/django-unfold/"
 }

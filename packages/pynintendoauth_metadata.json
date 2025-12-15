@@ -1,0 +1,11 @@
+{
+  "name": "pynintendoauth",
+  "version": "1.0.2",
+  "summary": "A Python module to provide APIs to authenticate with Nintendo services.",
+  "author": "pantherale0",
+  "license": "MIT",
+  "home_page": "http://github.com/pantherale0/pynintendoauth",
+  "download_filename": "pynintendoauth-1.0.2.tar.gz",
+  "download_time": "2025-12-15T17:17:07.114200",
+  "package_url": "https://pypi.org/project/pynintendoauth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qase-python-commons",
-  "version": "4.1.9",
+  "version": "4.1.10",
   "summary": "A library for Qase TestOps and Qase Report",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qase_python_commons-4.1.9.tar.gz",
-  "download_time": "2025-12-15T11:48:49.327325",
+  "download_filename": "qase_python_commons-4.1.10.tar.gz",
+  "download_time": "2025-12-15T17:17:26.649530",
   "package_url": "https://pypi.org/project/qase-python-commons/"
 }

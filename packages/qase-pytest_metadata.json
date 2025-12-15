@@ -1,0 +1,11 @@
+{
+  "name": "qase-pytest",
+  "version": "7.0.8",
+  "summary": "Qase Pytest Plugin for Qase TestOps and Qase Report",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qase_pytest-7.0.8.tar.gz",
+  "download_time": "2025-12-15T17:17:11.284037",
+  "package_url": "https://pypi.org/project/qase-pytest/"
+}

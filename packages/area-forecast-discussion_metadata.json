@@ -1,0 +1,11 @@
+{
+  "name": "area-forecast-discussion",
+  "version": "0.1.0",
+  "summary": "Python package to gather, parse, and present Area Forecast Discussions for regions in the U.S.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "area_forecast_discussion-0.1.0.tar.gz",
+  "download_time": "2025-12-15T17:17:25.054474",
+  "package_url": "https://pypi.org/project/area-forecast-discussion/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-pnadc",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "Unofficial package for PNADC microdata (IBGE)",
   "author": "André Klaic",
   "license": null,
   "home_page": "https://github.com/andre-kmp/py-pnadc",
-  "download_filename": "py_pnadc-0.1.0.tar.gz",
-  "download_time": "2025-12-15T16:16:18.569778",
+  "download_filename": "py_pnadc-0.1.5.tar.gz",
+  "download_time": "2025-12-15T17:17:21.352582",
   "package_url": "https://pypi.org/project/py-pnadc/"
 }
