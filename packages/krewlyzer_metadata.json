@@ -1,11 +1,11 @@
 {
   "name": "krewlyzer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Feature extraction tools for circulating tumor DNA from GRCh37 aligned BAM files",
   "author": null,
   "license": null,
   "home_page": "https://github.com/msk-access/krewlyzer",
-  "download_filename": "krewlyzer-0.2.0.tar.gz",
-  "download_time": "2025-12-15T16:54:32.828418",
+  "download_filename": "krewlyzer-0.2.1.tar.gz",
+  "download_time": "2025-12-15T17:55:51.394988",
   "package_url": "https://pypi.org/project/krewlyzer/"
 }
