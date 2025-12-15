@@ -1,11 +1,11 @@
 {
   "name": "teda",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "summary": "Yet Another FITS Viewer",
   "author": "majkelx",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "teda-4.0.1.tar.gz",
-  "download_time": "2025-12-15T06:55:31.301245",
+  "download_filename": "teda-4.0.2.tar.gz",
+  "download_time": "2025-12-15T07:16:19.340925",
   "package_url": "https://pypi.org/project/teda/"
 }

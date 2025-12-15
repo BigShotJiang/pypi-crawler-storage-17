@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mermaid-converter",
+  "version": "0.1.0",
+  "summary": "将Mermaid图表转换为PNG或SVG图片的MCP服务",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_mermaid_converter-0.1.0.tar.gz",
+  "download_time": "2025-12-15T07:16:36.808509",
+  "package_url": "https://pypi.org/project/mcp-mermaid-converter/"
+}

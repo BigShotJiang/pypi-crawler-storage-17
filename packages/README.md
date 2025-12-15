@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-15T06:55:41.682959
-- **Total Packages**: 92
-- **Total Size**: 39.55 MB
+- **Download Time**: 2025-12-15T07:17:01.139332
+- **Total Packages**: 93
+- **Total Size**: 26.73 MB
 
 ## Packages List
+- bigkinds-mcp
+- flotorch-eval
+- zhongzhi-mcp
+- odoo-addon-account-reconcile-oca
+- aiemailautomationutility
+- hjeon139-mcp-outofcontext
+- python-sat
+- slotixmcp
+- synapse-sdk
+- treetops
+- materialsearch-core
+- uc-manager
+- teda
+- movoid-robotframework
+- whatsapp-api-connect
+- zentaxa
+- tqdm-rich
+- streamlit-nightly
+- py-adtools
+- dyngle
+- antchain-insurance-saas
+- hamtaa-texttools
+- pfy
+- indonesia
+- apppy-app
+- apppy-aws
+- apppy-sb
+- apppy-auth
+- apppy-fs
+- apppy-fastql
+- apppy-queues
+- kubiya-control-plane-api
+- apppy-db
+- aspose-diagram
+- apppy-clients
+- apppy-generic
+- flask-postgresql-audit
+- fyuneru
+- apppy-logger
+- apppy-env
+- memdex
+- odoo-addon-web-responsive
+- better-confluence-mcp
+- stVGP
+- BOS-HA
+- mcp-mermaid-converter
 - byzh-ai
 - hbutils
 - waitless
@@ -27,7 +73,6 @@
 - gllm-inference-binary
 - movoid-function
 - pyarrow-stubs
-- tqdm-rich
 - empathy-framework
 - piedomains
 - byzh-core
@@ -36,7 +81,6 @@
 - xmu-rollcall-cli
 - luainstaller
 - alpaca-mcp-server
-- BOS-HA
 - tms-mcp
 - remnapy
 - napistu
@@ -55,46 +99,3 @@
 - pymodi-plus
 - milvus-haystack
 - lidb
-- PyGPUkit
-- mlflow
-- pylight-metrics
-- azuresfimcpagent
-- szgf
-- veryfi-test
-- python-playwright-helper
-- agnt5
-- treetops
-- ncw
-- ros-cdk-alb
-- better-confluence-mcp
-- zhongzhi-mcp
-- whatsapp-api-connect
-- cyberdesk
-- mlflow-skinny
-- qbraid-qir
-- media-downloader
-- qqcode
-- mlflow-tracing
-- framebase
-- huckleberry-api
-- plotastrodata
-- teda
-- django-admin-range
-- fscan
-- orq-ai-sdk
-- pytr
-- funbuild
-- hdpitkinter
-- zentaxa
-- uniface
-- easypymanager
-- pylibsparseir
-- pyg-nightly
-- enroll
-- memdex
-- aider-ce
-- koatl
-- numbagg
-- pocket-joe
-- porkbun-ddns
-- tkinter-unblur
