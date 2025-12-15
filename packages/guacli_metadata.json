@@ -1,0 +1,11 @@
+{
+  "name": "guacli",
+  "version": "1.1.3",
+  "summary": "Python client (library and CLI) for Apache Guacamole front-end REST API.",
+  "author": "Pau Lozano",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/chaimeleon-eu/guacamole-python-client",
+  "download_filename": "guacli-1.1.3-py3-none-any.whl",
+  "download_time": "2025-12-15T21:32:43.645409",
+  "package_url": "https://pypi.org/project/guacli/"
+}

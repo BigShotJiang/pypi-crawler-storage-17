@@ -1,0 +1,11 @@
+{
+  "name": "fedoo",
+  "version": "0.6.1",
+  "summary": "Finite elements library",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "fedoo-0.6.1-py3-none-any.whl",
+  "download_time": "2025-12-15T21:32:26.195090",
+  "package_url": "https://pypi.org/project/fedoo/"
+}

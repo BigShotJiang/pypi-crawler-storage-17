@@ -1,0 +1,11 @@
+{
+  "name": "crc-pulpcore-client",
+  "version": "20251215.1",
+  "summary": "Pulp 3 API",
+  "author": "Pulp Team",
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "crc_pulpcore_client-20251215.1.tar.gz",
+  "download_time": "2025-12-15T21:32:25.579546",
+  "package_url": "https://pypi.org/project/crc-pulpcore-client/"
+}

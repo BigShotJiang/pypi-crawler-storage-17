@@ -1,11 +1,11 @@
 {
   "name": "kiarina-lib-redisearch",
-  "version": "1.17.0",
+  "version": "1.18.1",
   "summary": "RediSearch client library for kiarina namespace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kiarina_lib_redisearch-1.17.0.tar.gz",
-  "download_time": "2025-12-15T14:46:46.949450",
+  "download_filename": "kiarina_lib_redisearch-1.18.1.tar.gz",
+  "download_time": "2025-12-15T21:32:48.369970",
   "package_url": "https://pypi.org/project/kiarina-lib-redisearch/"
 }

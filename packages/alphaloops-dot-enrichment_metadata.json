@@ -1,0 +1,11 @@
+{
+  "name": "alphaloops-dot-enrichment",
+  "version": "0.1.3",
+  "summary": "DOT number enrichment utilities for freight/insurance data",
+  "author": "AlphaLoop",
+  "license": "Proprietary",
+  "home_page": "https://bits.featrix.com/alphaloop/dot-enrichment",
+  "download_filename": "alphaloops_dot_enrichment-0.1.3.tar.gz",
+  "download_time": "2025-12-15T21:32:43.071389",
+  "package_url": "https://pypi.org/project/alphaloops-dot-enrichment/"
+}
