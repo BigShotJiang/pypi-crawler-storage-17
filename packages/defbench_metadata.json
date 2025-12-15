@@ -1,0 +1,11 @@
+{
+  "name": "defbench",
+  "version": "0.2.0",
+  "summary": "benchmark (time + memory) individual python functions",
+  "author": "Shaun Mitchell",
+  "license": "WTFPL",
+  "home_page": null,
+  "download_filename": "defbench-0.2.0.tar.gz",
+  "download_time": "2025-12-15T16:54:44.288293",
+  "package_url": "https://pypi.org/project/defbench/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stringzillas-cuda",
+  "version": "4.5.1",
+  "summary": "Search, hash, sort, fingerprint, and fuzzy-match strings faster via SWAR, SIMD, and CUDA on Nvidia GPUs",
+  "author": "Ash Vardanian",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ashvardanian/StringZilla",
+  "download_filename": "stringzillas_cuda-4.5.1.tar.gz",
+  "download_time": "2025-12-15T16:54:40.645033",
+  "package_url": "https://pypi.org/project/stringzillas-cuda/"
+}

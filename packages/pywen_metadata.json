@@ -1,0 +1,11 @@
+{
+  "name": "pywen",
+  "version": "1.2.2.1",
+  "summary": "LLM-based agent for general purpose tasks",
+  "author": "PAMPAS-Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pywen-1.2.2.1.tar.gz",
+  "download_time": "2025-12-15T16:54:09.841509",
+  "package_url": "https://pypi.org/project/pywen/"
+}

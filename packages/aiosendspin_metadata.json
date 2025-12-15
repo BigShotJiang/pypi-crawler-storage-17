@@ -1,0 +1,11 @@
+{
+  "name": "aiosendspin",
+  "version": "1.1.1",
+  "summary": "Async Python implementation of the Sendspin Protocol.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aiosendspin-1.1.1.tar.gz",
+  "download_time": "2025-12-15T16:54:23.448776",
+  "package_url": "https://pypi.org/project/aiosendspin/"
+}

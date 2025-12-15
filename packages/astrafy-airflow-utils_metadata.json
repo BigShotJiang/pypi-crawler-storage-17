@@ -1,0 +1,11 @@
+{
+  "name": "astrafy-airflow-utils",
+  "version": "1.3.0",
+  "summary": "Astrafy Airflow utils packag3",
+  "author": "Andrea Bombino",
+  "license": null,
+  "home_page": "https://gitlab.com/python-packages3/airflow-utils",
+  "download_filename": "astrafy_airflow_utils-1.3.0.tar.gz",
+  "download_time": "2025-12-15T16:54:50.710143",
+  "package_url": "https://pypi.org/project/astrafy-airflow-utils/"
+}

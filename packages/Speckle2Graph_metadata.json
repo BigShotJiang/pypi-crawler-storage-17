@@ -1,0 +1,11 @@
+{
+  "name": "Speckle2Graph",
+  "version": "0.0.2",
+  "summary": "Enable graph-based analysis of any Speckle model.",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "speckle2graph-0.0.2.tar.gz",
+  "download_time": "2025-12-15T16:54:31.205281",
+  "package_url": "https://pypi.org/project/Speckle2Graph/"
+}

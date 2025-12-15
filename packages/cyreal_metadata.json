@@ -1,0 +1,11 @@
+{
+  "name": "cyreal",
+  "version": "0.1.2",
+  "summary": "Jittable data loading utilities for JAX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyreal-0.1.2.tar.gz",
+  "download_time": "2025-12-15T16:54:39.597141",
+  "package_url": "https://pypi.org/project/cyreal/"
+}

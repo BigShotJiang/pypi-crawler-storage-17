@@ -1,11 +1,11 @@
 {
   "name": "bitranox-template-cli-app-config-log",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Template CLI application with configuration management and structured logging",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitranox_template_cli_app_config_log-0.1.3.tar.gz",
-  "download_time": "2025-12-15T15:55:40.330882",
+  "download_filename": "bitranox_template_cli_app_config_log-0.1.4.tar.gz",
+  "download_time": "2025-12-15T16:54:09.301597",
   "package_url": "https://pypi.org/project/bitranox-template-cli-app-config-log/"
 }

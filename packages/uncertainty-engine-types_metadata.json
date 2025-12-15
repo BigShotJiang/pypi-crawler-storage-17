@@ -1,0 +1,11 @@
+{
+  "name": "uncertainty-engine-types",
+  "version": "0.15.0",
+  "summary": "Common type definitions for the Uncertainty Engine",
+  "author": "Freddy Wordingham",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uncertainty_engine_types-0.15.0.tar.gz",
+  "download_time": "2025-12-15T16:54:28.128375",
+  "package_url": "https://pypi.org/project/uncertainty-engine-types/"
+}

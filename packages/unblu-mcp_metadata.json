@@ -1,0 +1,11 @@
+{
+  "name": "unblu-mcp",
+  "version": "0.2.3",
+  "summary": "A model context protocol server for interacting with Unblu deployments.",
+  "author": "Ismar Iljazovic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unblu_mcp-0.2.3.tar.gz",
+  "download_time": "2025-12-15T16:54:12.436613",
+  "package_url": "https://pypi.org/project/unblu-mcp/"
+}

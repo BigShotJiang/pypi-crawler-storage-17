@@ -1,0 +1,11 @@
+{
+  "name": "pyhdf5-handler",
+  "version": "0.5",
+  "summary": "A Python library to read and write data to HDF5 format. This library is based on the h5py (https://docs.h5py.org/en/stable/index.html) and has been developed by Maxime Jay-Allemand at Hydris hydrologie (https://www.hydris-hydrologie.fr/)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhdf5_handler-0.5-py3-none-any.whl",
+  "download_time": "2025-12-15T16:54:10.896484",
+  "package_url": "https://pypi.org/project/pyhdf5-handler/"
+}
