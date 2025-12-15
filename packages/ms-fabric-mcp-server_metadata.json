@@ -1,11 +1,11 @@
 {
   "name": "ms-fabric-mcp-server",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "Model Context Protocol (MCP) server for Microsoft Fabric - exposes Fabric operations as MCP tools for AI agents",
   "author": "Microsoft",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ms_fabric_mcp_server-0.6.3.tar.gz",
-  "download_time": "2025-12-15T17:17:00.849596",
+  "download_filename": "ms_fabric_mcp_server-0.6.4.tar.gz",
+  "download_time": "2025-12-15T17:45:55.937542",
   "package_url": "https://pypi.org/project/ms-fabric-mcp-server/"
 }

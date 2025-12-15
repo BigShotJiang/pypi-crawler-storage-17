@@ -1,0 +1,11 @@
+{
+  "name": "nexus-aidos-brain",
+  "version": "0.1.0",
+  "summary": "Core Conversational AI Engine for the Nexus Ecosystem",
+  "author": "Nexus AI Hub Team",
+  "license": null,
+  "home_page": "https://github.com/nexusaihub/NEXUS-AIDOS-BRAIN",
+  "download_filename": "nexus_aidos_brain-0.1.0.tar.gz",
+  "download_time": "2025-12-15T17:45:42.942034",
+  "package_url": "https://pypi.org/project/nexus-aidos-brain/"
+}

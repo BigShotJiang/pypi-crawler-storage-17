@@ -1,0 +1,11 @@
+{
+  "name": "gee-acolite",
+  "version": "1.0.0",
+  "summary": "ACOLITE atmospheric correction for Google Earth Engine",
+  "author": "Sergio",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Aouei/gee_acolite",
+  "download_filename": "gee_acolite-1.0.0.tar.gz",
+  "download_time": "2025-12-15T17:45:22.475833",
+  "package_url": "https://pypi.org/project/gee-acolite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-cooperator-api-somconnexio",
+  "version": "16.0.1.1.2",
+  "summary": "Expose a REST API to integrate cooperators and sponsorship to Som Connexió partner structure.",
+  "author": "Som Connexió SCCL, Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/som-connexio/odoo/odoo-somconnexio",
+  "download_filename": "odoo_addon_cooperator_api_somconnexio-16.0.1.1.2.tar.gz",
+  "download_time": "2025-12-15T17:45:31.364792",
+  "package_url": "https://pypi.org/project/odoo-addon-cooperator-api-somconnexio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "robokop-orion",
+  "version": "0.1.13",
+  "summary": "ORION ingests data from knowledge sources and converts them into interoperable biolink model compliant knowledge graphs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robokop_orion-0.1.13.tar.gz",
+  "download_time": "2025-12-15T17:45:09.696843",
+  "package_url": "https://pypi.org/project/robokop-orion/"
+}

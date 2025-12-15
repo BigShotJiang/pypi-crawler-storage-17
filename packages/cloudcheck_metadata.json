@@ -1,0 +1,11 @@
+{
+  "name": "cloudcheck",
+  "version": "7.2.149",
+  "summary": "Check whether an IP address belongs to a cloud provider",
+  "author": "TheTechromancer",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "cloudcheck-7.2.149.tar.gz",
+  "download_time": "2025-12-15T17:45:41.924528",
+  "package_url": "https://pypi.org/project/cloudcheck/"
+}

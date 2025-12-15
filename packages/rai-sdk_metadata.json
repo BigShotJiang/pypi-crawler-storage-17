@@ -1,0 +1,11 @@
+{
+  "name": "rai-sdk",
+  "version": "0.7.7",
+  "summary": "The RelationalAI Software Development Kit for Python",
+  "author": "RelationalAI, Inc.",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "http://github.com/RelationalAI/rai-sdk-python",
+  "download_filename": "rai_sdk-0.7.7.tar.gz",
+  "download_time": "2025-12-15T17:45:18.821589",
+  "package_url": "https://pypi.org/project/rai-sdk/"
+}

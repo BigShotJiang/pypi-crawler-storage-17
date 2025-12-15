@@ -1,0 +1,11 @@
+{
+  "name": "starcache",
+  "version": "0.1.0",
+  "summary": "A modern HTTP caching library for Starlette and FastAPI.",
+  "author": "Matthew Messinger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "starcache-0.1.0.tar.gz",
+  "download_time": "2025-12-15T17:45:47.750291",
+  "package_url": "https://pypi.org/project/starcache/"
+}
