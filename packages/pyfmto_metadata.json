@@ -1,11 +1,11 @@
 {
   "name": "pyfmto",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A Python library for federated many-task optimization research",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfmto-0.2.3.tar.gz",
-  "download_time": "2025-12-15T08:18:08.716300",
+  "download_filename": "pyfmto-0.2.4.tar.gz",
+  "download_time": "2025-12-15T11:11:04.759532",
   "package_url": "https://pypi.org/project/pyfmto/"
 }

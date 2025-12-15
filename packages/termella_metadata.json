@@ -1,11 +1,11 @@
 {
   "name": "termella",
-  "version": "0.0.1a0",
+  "version": "0.0.1",
   "summary": "A Python library for rich text and beautiful formatting in the terminal.",
-  "author": "codewithzaqar",
-  "license": null,
-  "home_page": null,
-  "download_filename": "termella-0.0.1a0.tar.gz",
-  "download_time": "2025-12-15T10:15:23.442336",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/codewithzaqar/termella",
+  "download_filename": "termella-0.0.1.tar.gz",
+  "download_time": "2025-12-15T11:11:01.084898",
   "package_url": "https://pypi.org/project/termella/"
 }

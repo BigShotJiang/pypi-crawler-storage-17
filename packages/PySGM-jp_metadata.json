@@ -1,0 +1,11 @@
+{
+  "name": "PySGM-jp",
+  "version": "0.1.9.0",
+  "summary": "強震動データの解析・処理用ライブラリ",
+  "author": "Hiroyuki Goto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysgm_jp-0.1.9.0.tar.gz",
+  "download_time": "2025-12-15T11:11:11.554520",
+  "package_url": "https://pypi.org/project/PySGM-jp/"
+}

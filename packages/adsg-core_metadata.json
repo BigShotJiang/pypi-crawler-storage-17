@@ -1,0 +1,11 @@
+{
+  "name": "adsg-core",
+  "version": "1.2.1",
+  "summary": "Design Space Graph (ADSG Core)",
+  "author": "Jasper Bussemaker",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adsg_core-1.2.1.tar.gz",
+  "download_time": "2025-12-15T11:11:11.036407",
+  "package_url": "https://pypi.org/project/adsg-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyDatabases",
+  "version": "0.2.0",
+  "summary": "Small collection of database classes based primarily pandas, secondarily scipy and GAMS.",
+  "author": "Rasmus K. Skjødt Berg",
+  "license": null,
+  "home_page": "https://github.com/ChampionApe/pyDatabases",
+  "download_filename": "pydatabases-0.2.0.tar.gz",
+  "download_time": "2025-12-15T11:11:07.374357",
+  "package_url": "https://pypi.org/project/pyDatabases/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jinns",
+  "version": "1.7.0",
+  "summary": "Physics Informed Neural Network with JAX",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "jinns-1.7.0-py3-none-any.whl",
+  "download_time": "2025-12-15T11:10:58.395472",
+  "package_url": "https://pypi.org/project/jinns/"
+}

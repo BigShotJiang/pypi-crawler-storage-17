@@ -1,0 +1,11 @@
+{
+  "name": "glean-parser",
+  "version": "18.2.0",
+  "summary": "Parser tools for Mozilla's Glean telemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glean_parser-18.2.0.tar.gz",
+  "download_time": "2025-12-15T11:10:47.942915",
+  "package_url": "https://pypi.org/project/glean-parser/"
+}
