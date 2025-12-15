@@ -1,0 +1,11 @@
+{
+  "name": "colourfulprint",
+  "version": "2.0.0",
+  "summary": "Colourfulprint for Rainbow print that works in Linux as well as in Windows(improved).",
+  "author": "Nishant Pratap Savita",
+  "license": "MIT",
+  "home_page": "https://github.com/Nishant2009/ColourFulPrint",
+  "download_filename": "colourfulprint-2.0.0.tar.gz",
+  "download_time": "2025-12-15T10:14:49.612846",
+  "package_url": "https://pypi.org/project/colourfulprint/"
+}

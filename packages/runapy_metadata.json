@@ -1,0 +1,11 @@
+{
+  "name": "runapy",
+  "version": "1.224.0",
+  "summary": "Python client for Run:ai REST API",
+  "author": "Run:ai Professional Services Team",
+  "license": "Apache-2",
+  "home_page": "https://github.com/runai-professional-services/runapy",
+  "download_filename": "runapy-1.224.0.tar.gz",
+  "download_time": "2025-12-15T10:14:42.292501",
+  "package_url": "https://pypi.org/project/runapy/"
+}

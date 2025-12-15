@@ -1,0 +1,11 @@
+{
+  "name": "ollama-think",
+  "version": "0.1.10",
+  "summary": "A light wrapper around ollama-python that introduces caching, syntax sugar and increased `think` compatibility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollama_think-0.1.10.tar.gz",
+  "download_time": "2025-12-15T10:15:15.720016",
+  "package_url": "https://pypi.org/project/ollama-think/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vconsoleprint",
+  "version": "1.0.2",
+  "summary": "Auto-colored Python console print replacement",
+  "author": "Vansh Sharma",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/vconsoleprint/",
+  "download_filename": "vconsoleprint-1.0.2.tar.gz",
+  "download_time": "2025-12-15T10:15:19.584634",
+  "package_url": "https://pypi.org/project/vconsoleprint/"
+}

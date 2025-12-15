@@ -1,0 +1,11 @@
+{
+  "name": "rdmo",
+  "version": "2.4.0",
+  "summary": "RDMO is a tool to support the systematic planning, organisation and implementation of the data management throughout the course of a research project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdmo-2.4.0.tar.gz",
+  "download_time": "2025-12-15T10:15:00.318419",
+  "package_url": "https://pypi.org/project/rdmo/"
+}

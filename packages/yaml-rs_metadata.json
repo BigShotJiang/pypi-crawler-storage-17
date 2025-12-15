@@ -1,0 +1,11 @@
+{
+  "name": "yaml-rs",
+  "version": "0.0.9",
+  "summary": "A High-Performance YAML Parser for Python written in Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaml_rs-0.0.9.tar.gz",
+  "download_time": "2025-12-15T10:15:20.144611",
+  "package_url": "https://pypi.org/project/yaml-rs/"
+}
