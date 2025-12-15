@@ -1,0 +1,11 @@
+{
+  "name": "story-protocol-python-sdk",
+  "version": "0.3.17",
+  "summary": "A Python SDK for interacting with Story.",
+  "author": "Andrew Chung",
+  "license": "MIT",
+  "home_page": "https://github.com/storyprotocol/python-sdk",
+  "download_filename": "story_protocol_python_sdk-0.3.17.tar.gz",
+  "download_time": "2025-12-15T06:19:03.666373",
+  "package_url": "https://pypi.org/project/story-protocol-python-sdk/"
+}

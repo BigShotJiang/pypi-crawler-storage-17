@@ -1,0 +1,11 @@
+{
+  "name": "lixi",
+  "version": "0.12.6",
+  "summary": "lixi is a python package to manipulate a valid LIXI 2 message and schema.",
+  "author": "Ammar Khan",
+  "license": "MIT",
+  "home_page": "https://standards.lixi.org.au/lixi-tech/lixi-pypi",
+  "download_filename": "lixi-0.12.6.tar.gz",
+  "download_time": "2025-12-15T06:18:54.165261",
+  "package_url": "https://pypi.org/project/lixi/"
+}

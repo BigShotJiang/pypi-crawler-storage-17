@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-15T05:46:17.261914
-- **Total Packages**: 81
-- **Total Size**: 2.15 MB
+- **Download Time**: 2025-12-15T06:19:43.008010
+- **Total Packages**: 85
+- **Total Size**: 24.74 MB
 
 ## Packages List
+- lixi
+- pubmed-search-mcp
+- qsmxt
+- mayan-edms
+- ommx-python-mip-adapter
+- ommx-pyscipopt-adapter
+- ommx-openjij-adapter
+- ommx-highs-adapter
+- seven-cloudapp-frame
+- tmutils
+- jacksung-dev
+- ommx
+- VectorCode
+- wisent
+- coinespy
+- story-protocol-python-sdk
+- dataclass-wizard
+- thornode-py
+- input-monitor
+- kr-cli-dominion
+- mcp-document-parse
+- pyTibber
+- pdf-oxide
+- stVGP
+- documentdb-mcp
+- ispider
+- cc-py-commons
+- openscvx
+- rustkissvdb
+- napistu
+- cl-wrangler
+- lidb
+- puda-drivers
+- fenix-mcp
+- IBB-Helper
+- midas-civil
+- agentfoundry
+- azuresfimcpagent
+- ommx-kipu-iskay-adapter
+- geocif
 - agnt
 - vim-eof-comment
 - layeredlearning
@@ -15,10 +55,8 @@
 - cpg-flow
 - nonebot-plugin-xiaohongshu
 - vectorvein
-- wisent
 - boomi
 - zotero-keeper
-- documentdb-mcp
 - terrakio-admin-api
 - terrakio-api
 - benchmark-runner
@@ -51,39 +89,5 @@
 - csle-rest-api
 - csle-agents
 - gym-csle-intrusion-response-game
-- kr-cli-dominion
 - gym-csle-stopping-game
 - csle-system-identification
-- csle-defender
-- csle-attacker
-- csle-common
-- csle-collector
-- csle-ryu
-- csle-base
-- reykit
-- cloudinvoke
-- stock-tracker-cli
-- aicage
-- sera-2
-- xqute
-- livekit-memory
-- increase
-- bridge-transfer-44
-- bioamla
-- qik
-- grain-nightly
-- odoo-addon-account-asset-low-value
-- piboufilings
-- opik-optimizer
-- kinemotion
-- bridge-transfer-43
-- cloud-cert-renewer
-- dicompare
-- keras-nlp-nightly
-- keras-hub-nightly
-- dialoghelper
-- compose-farm
-- treeline-money
-- ieee-gui
-- time-decode
-- fusesell

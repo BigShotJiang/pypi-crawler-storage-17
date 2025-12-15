@@ -1,0 +1,11 @@
+{
+  "name": "coinespy",
+  "version": "1.0.6",
+  "summary": "Python wrapper for coinesAPI",
+  "author": "Bosch Sensortec GmbH",
+  "license": null,
+  "home_page": "https://www.bosch-sensortec.com/",
+  "download_filename": "coinespy-1.0.6.tar.gz",
+  "download_time": "2025-12-15T06:19:03.088754",
+  "package_url": "https://pypi.org/project/coinespy/"
+}

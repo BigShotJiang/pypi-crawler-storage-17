@@ -1,0 +1,11 @@
+{
+  "name": "ommx-kipu-iskay-adapter",
+  "version": "0.0.1",
+  "summary": "OMMX adapter for Iskay quantum optimiser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ommx_kipu_iskay_adapter-0.0.1.tar.gz",
+  "download_time": "2025-12-15T06:19:16.787621",
+  "package_url": "https://pypi.org/project/ommx-kipu-iskay-adapter/"
+}
