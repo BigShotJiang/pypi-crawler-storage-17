@@ -1,0 +1,11 @@
+{
+  "name": "allianceauth-auth-stats",
+  "version": "0.1.1",
+  "summary": "Configurable Report Framework for corporate level aggregation of any data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allianceauth_auth_stats-0.1.1.tar.gz",
+  "download_time": "2025-12-15T11:48:57.925777",
+  "package_url": "https://pypi.org/project/allianceauth-auth-stats/"
+}

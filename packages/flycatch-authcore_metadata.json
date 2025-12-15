@@ -1,0 +1,11 @@
+{
+  "name": "flycatch-authcore",
+  "version": "0.1.0",
+  "summary": "AuthCore: JWT/Session/OAuth core with adapters for FastAPI, Flask, and Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flycatch_authcore-0.1.0.tar.gz",
+  "download_time": "2025-12-15T11:48:43.130331",
+  "package_url": "https://pypi.org/project/flycatch-authcore/"
+}

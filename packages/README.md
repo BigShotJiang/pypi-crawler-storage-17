@@ -1,18 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-15T11:31:46.645119
-- **Total Packages**: 90
-- **Total Size**: 45.14 MB
+- **Download Time**: 2025-12-15T11:49:19.180936
+- **Total Packages**: 88
+- **Total Size**: 17.65 MB
 
 ## Packages List
+- lrxy
+- copr-backend
+- nucliadb-admin-assets
+- liblaf-grapes
+- ssb-gcp-identity-client
+- actron-neo-api
+- stable-hash-splitter
+- compass_api_sdk
+- imery
+- neural-pipeline-search
+- funboost
+- lookout-config
+- lookout-cli
+- djangoldp-ai-agents
+- mdparser-html
+- cheshirecat-python-sdk
+- httomo-backends
+- sunflare
+- quanti-fret
+- kr-cli-dominion
+- flycatch-authcore
+- xpyxl
+- assemblyline-core
+- assemblyline
+- parvati
+- assemblyline-v4-service
+- assemblyline-ui
+- assemblyline-service-server
+- assemblyline-service-client
+- retracesoftware-stream-debug
+- malwi-box
+- qase-python-commons
+- virtuoso-utilities
+- gr4vy
+- DToolslib
+- trampoline-client
+- mpldxf
+- landingzones
+- aelion-calc
+- torchx-nightly
+- icclogger
+- odoo-addon-partner-property
+- retracesoftware-proxy-debug
+- howso-engine
+- kratix-sdk
+- xcube-resampling
+- szn-robot-proto
+- allianceauth-auth-stats
+- clarifai-grpc
 - sparkpipelineframework
 - deepface-facescore
 - gcphcp
 - orun-py
 - the37lab-database-tools
-- trampoline-client
-- xpyxl
 - sysom-pai-client
 - torchft-nightly
 - netgen-mesher
@@ -30,7 +77,6 @@
 - PraisonAI
 - txt2stix
 - mathtypes
-- DToolslib
 - history4feed
 - optics-framework
 - ensemble-analyzer
@@ -48,51 +94,3 @@
 - txt2detection
 - nuclio-sdk
 - django-unfold
-- pytest-chronicle
-- iLibrary
-- other-agents-mcp
-- file2txt
-- helper-hwp
-- tf-keras-nightly
-- arthur-client
-- apexomni
-- fusesell
-- vcsp-guard
-- django-pwyw
-- hanoi-viz
-- autobahn
-- sciv
-- praisonaiagents
-- p1-taskqueue
-- snakemake-executor-plugin-slurm-jobstep
-- agno
-- zen-garden
-- edaplot-vl
-- mas-cli
-- nia-mcp-server
-- tmutils
-- cloud-cert-renewer
-- files-collections
-- bigkinds-mcp
-- glean-parser
-- uipath-runtime
-- xpk
-- pywps
-- python-roborock
-- otcfinutils
-- torch-tiltxcorr
-- gslides-automator
-- pydpm_xl
-- check-datapackage
-- ftllexbuffer
-- cesard
-- recallia
-- exptime
-- nd-sdk
-- fast-mu-builder
-- vexor
-- jinns
-- bfabric-app-runner
-- pysdm-examples
-- pysdm
-- termella
