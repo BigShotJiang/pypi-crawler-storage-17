@@ -1,0 +1,11 @@
+{
+  "name": "pycliboilerplate",
+  "version": "0.3.0",
+  "summary": "A minimal Python CLI boilerplate template for GitHub-hosted projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycliboilerplate-0.3.0.tar.gz",
+  "download_time": "2025-12-15T15:15:33.086154",
+  "package_url": "https://pypi.org/project/pycliboilerplate/"
+}

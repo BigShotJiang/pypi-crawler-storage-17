@@ -1,0 +1,11 @@
+{
+  "name": "thesr",
+  "version": "0.0.15",
+  "summary": "thesaurus (and also dictionary)",
+  "author": "John Hupperts",
+  "license": "gpl-3.0",
+  "home_page": "https://github.com/treatmesubj/Thesaurus_Rex",
+  "download_filename": "thesr-0.0.15.tar.gz",
+  "download_time": "2025-12-15T15:15:30.399232",
+  "package_url": "https://pypi.org/project/thesr/"
+}

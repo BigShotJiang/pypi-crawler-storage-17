@@ -1,0 +1,11 @@
+{
+  "name": "dbmasta",
+  "version": "0.1.12",
+  "summary": "A simple MariaDB/Postgres client based on SQLAlchemy core",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbmasta-0.1.12.tar.gz",
+  "download_time": "2025-12-15T15:15:33.597624",
+  "package_url": "https://pypi.org/project/dbmasta/"
+}

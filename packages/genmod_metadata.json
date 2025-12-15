@@ -1,0 +1,11 @@
+{
+  "name": "genmod",
+  "version": "3.10.2",
+  "summary": "Annotate genetic inheritance models in Variant Call Format (VCF) files",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "genmod-3.10.2.tar.gz",
+  "download_time": "2025-12-15T15:16:06.081324",
+  "package_url": "https://pypi.org/project/genmod/"
+}

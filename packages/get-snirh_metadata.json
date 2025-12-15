@@ -1,11 +1,11 @@
 {
   "name": "get-snirh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package to automate downloading water resource data from SNIRH",
   "author": "Rui Hugman, Luis Costa",
   "license": null,
   "home_page": null,
-  "download_filename": "get_snirh-0.1.0.tar.gz",
-  "download_time": "2025-12-15T13:12:32.650954",
+  "download_filename": "get_snirh-0.1.1.tar.gz",
+  "download_time": "2025-12-15T15:15:56.227780",
   "package_url": "https://pypi.org/project/get-snirh/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "optds-iv",
+  "version": "0.1.0",
+  "summary": "The Calculator. Implied volatility, Greeks, Surface interpolation. | `optds-core`, `scipy`, `numba`",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optds_iv-0.1.0.tar.gz",
+  "download_time": "2025-12-15T15:15:19.631956",
+  "package_url": "https://pypi.org/project/optds-iv/"
+}

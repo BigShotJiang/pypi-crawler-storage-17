@@ -1,0 +1,11 @@
+{
+  "name": "capo",
+  "version": "0.5",
+  "summary": "Capo: A Python Library for Guitar Chord Transposition",
+  "author": "Sepand Haghighi",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/capo",
+  "download_filename": "capo-0.5.tar.gz",
+  "download_time": "2025-12-15T15:16:02.492920",
+  "package_url": "https://pypi.org/project/capo/"
+}

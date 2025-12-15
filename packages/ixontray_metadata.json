@@ -1,0 +1,11 @@
+{
+  "name": "ixontray",
+  "version": "0.5.6",
+  "summary": "A tray application and launcher to connect to remote systems using IXON",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "ixontray-0.5.6.tar.gz",
+  "download_time": "2025-12-15T15:15:34.621666",
+  "package_url": "https://pypi.org/project/ixontray/"
+}

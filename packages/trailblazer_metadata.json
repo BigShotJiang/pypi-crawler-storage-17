@@ -1,0 +1,11 @@
+{
+  "name": "trailblazer",
+  "version": "21.10.6",
+  "summary": "Keep track of and manage analyses",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trailblazer-21.10.6.tar.gz",
+  "download_time": "2025-12-15T15:15:44.608814",
+  "package_url": "https://pypi.org/project/trailblazer/"
+}

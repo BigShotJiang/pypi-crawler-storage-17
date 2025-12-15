@@ -1,0 +1,11 @@
+{
+  "name": "drf-commons",
+  "version": "1.0.0",
+  "summary": "Django REST Framework Common Utilities - Modular apps for enhanced DRF functionality",
+  "author": "Victoire HABAMUNGU",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drf_commons-1.0.0.tar.gz",
+  "download_time": "2025-12-15T15:15:39.022093",
+  "package_url": "https://pypi.org/project/drf-commons/"
+}
