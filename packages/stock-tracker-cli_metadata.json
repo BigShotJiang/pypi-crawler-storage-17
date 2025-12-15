@@ -1,0 +1,11 @@
+{
+  "name": "stock-tracker-cli",
+  "version": "0.3.0",
+  "summary": "A CLI tool to track stock portfolios with AI-powered analysis and automated GitHub Actions reporting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stock_tracker_cli-0.3.0.tar.gz",
+  "download_time": "2025-12-15T04:57:22.062410",
+  "package_url": "https://pypi.org/project/stock-tracker-cli/"
+}

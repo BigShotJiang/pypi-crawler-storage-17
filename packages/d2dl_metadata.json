@@ -1,0 +1,11 @@
+{
+  "name": "d2dl",
+  "version": "1.1",
+  "summary": "Dive into Deep Learning",
+  "author": "D2L Developers",
+  "license": "MIT-0",
+  "home_page": "https://d2l.ai",
+  "download_filename": "d2dl-1.1.tar.gz",
+  "download_time": "2025-12-15T04:58:00.595892",
+  "package_url": "https://pypi.org/project/d2dl/"
+}

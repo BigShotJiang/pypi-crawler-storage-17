@@ -1,0 +1,11 @@
+{
+  "name": "filoani",
+  "version": "0.1.1",
+  "summary": "API FiloAni: unificación de JkAnime y AnimeFLV (Python)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filoani-0.1.1.tar.gz",
+  "download_time": "2025-12-15T04:58:02.155914",
+  "package_url": "https://pypi.org/project/filoani/"
+}

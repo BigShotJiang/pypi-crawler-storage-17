@@ -1,11 +1,11 @@
 {
   "name": "ieee-gui",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "summary": "Testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ieee_gui-0.0.25.tar.gz",
-  "download_time": "2025-12-15T04:28:55.096930",
+  "download_filename": "ieee_gui-0.0.26.tar.gz",
+  "download_time": "2025-12-15T04:57:38.776507",
   "package_url": "https://pypi.org/project/ieee-gui/"
 }

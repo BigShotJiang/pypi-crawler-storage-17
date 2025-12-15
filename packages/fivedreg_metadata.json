@@ -1,0 +1,11 @@
+{
+  "name": "fivedreg",
+  "version": "0.0.6",
+  "summary": "A lightweight, configurable neural network for 5D interpolation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fivedreg-0.0.6.tar.gz",
+  "download_time": "2025-12-15T04:58:03.715772",
+  "package_url": "https://pypi.org/project/fivedreg/"
+}
