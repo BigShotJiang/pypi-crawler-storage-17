@@ -1,11 +1,11 @@
 {
   "name": "exptime",
-  "version": "0.1.9",
-  "summary": "A Python module for doing custom timeout-based expections.",
+  "version": "0.2.0",
+  "summary": "Simple timeout-based exception helpers.",
   "author": "wirnty",
-  "license": "MIT",
-  "home_page": "https://github.com/yourusername/exptime",
-  "download_filename": "exptime-0.1.9.tar.gz",
-  "download_time": "2025-12-15T11:10:55.810999",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exptime-0.2.0.tar.gz",
+  "download_time": "2025-12-15T15:41:24.604706",
   "package_url": "https://pypi.org/project/exptime/"
 }

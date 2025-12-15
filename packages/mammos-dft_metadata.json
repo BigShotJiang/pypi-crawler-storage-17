@@ -1,0 +1,11 @@
+{
+  "name": "mammos-dft",
+  "version": "0.4.0",
+  "summary": "Density functional theory (DFT) methods package for ab-initio calculations.",
+  "author": "Andrea Petrocchi, Swapneel Amit Pathak, Martin Lang, Sam Holt, Hans Fangohr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mammos_dft-0.4.0.tar.gz",
+  "download_time": "2025-12-15T15:41:32.054863",
+  "package_url": "https://pypi.org/project/mammos-dft/"
+}

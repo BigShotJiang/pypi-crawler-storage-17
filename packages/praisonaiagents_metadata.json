@@ -1,11 +1,11 @@
 {
   "name": "praisonaiagents",
-  "version": "0.0.177",
+  "version": "0.0.178",
   "summary": "Praison AI agents for completing complex tasks with Self Reflection Agents",
   "author": "Mervin Praison",
   "license": null,
   "home_page": null,
-  "download_filename": "praisonaiagents-0.0.177.tar.gz",
-  "download_time": "2025-12-15T14:46:44.361692",
+  "download_filename": "praisonaiagents-0.0.178.tar.gz",
+  "download_time": "2025-12-15T15:40:43.286592",
   "package_url": "https://pypi.org/project/praisonaiagents/"
 }

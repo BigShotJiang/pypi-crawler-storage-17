@@ -1,0 +1,11 @@
+{
+  "name": "cdk-code-server",
+  "version": "1.0.6",
+  "summary": "CDK Construct for a VSCode Server development environment on EC2",
+  "author": "Kazuho CryerShinozuka<malaysia.cryer@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/badmintoncryer/cdk-code-server.git",
+  "download_filename": "cdk_code_server-1.0.6.tar.gz",
+  "download_time": "2025-12-15T15:41:39.125455",
+  "package_url": "https://pypi.org/project/cdk-code-server/"
+}

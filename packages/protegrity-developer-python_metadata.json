@@ -1,0 +1,11 @@
+{
+  "name": "protegrity-developer-python",
+  "version": "1.1.0",
+  "summary": "Python module for integrating Protegrity's Data Discovery and Protection APIs into GenAI and traditional applications.",
+  "author": "Protegrity",
+  "license": null,
+  "home_page": "https://www.protegrity.com/developers",
+  "download_filename": "protegrity_developer_python-1.1.0-py3-none-any.whl",
+  "download_time": "2025-12-15T15:41:20.421354",
+  "package_url": "https://pypi.org/project/protegrity-developer-python/"
+}

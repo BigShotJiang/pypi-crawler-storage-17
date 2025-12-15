@@ -1,0 +1,11 @@
+{
+  "name": "pylogpy",
+  "version": "1.5.2",
+  "summary": "Production-ready Python logging package with color-coded output, rotating file logs, and optional email alerts",
+  "author": "bek42",
+  "license": "MIT",
+  "home_page": "https://github.com/bek42/logpy",
+  "download_filename": "pylogpy-1.5.2.tar.gz",
+  "download_time": "2025-12-15T15:41:18.492611",
+  "package_url": "https://pypi.org/project/pylogpy/"
+}
