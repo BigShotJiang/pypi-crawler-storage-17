@@ -1,0 +1,11 @@
+{
+  "name": "expections",
+  "version": "0.2.7",
+  "summary": "A simple module that can make custom expections in specific commands.",
+  "author": "wirnty",
+  "license": null,
+  "home_page": "https://pypi.org/project/expections/",
+  "download_filename": "expections-0.2.7.tar.gz",
+  "download_time": "2025-12-15T16:16:51.538998",
+  "package_url": "https://pypi.org/project/expections/"
+}

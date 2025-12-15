@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-ai-jira",
+  "version": "0.1.2",
+  "summary": "Airbyte Jira Connector for AI platforms",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_ai_jira-0.1.2.tar.gz",
+  "download_time": "2025-12-15T16:16:09.800062",
+  "package_url": "https://pypi.org/project/airbyte-ai-jira/"
+}

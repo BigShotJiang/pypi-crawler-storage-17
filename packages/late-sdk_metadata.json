@@ -1,0 +1,11 @@
+{
+  "name": "late-sdk",
+  "version": "1.1.0",
+  "summary": "Python SDK for Late API - Social Media Scheduling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "late_sdk-1.1.0.tar.gz",
+  "download_time": "2025-12-15T16:16:32.922798",
+  "package_url": "https://pypi.org/project/late-sdk/"
+}

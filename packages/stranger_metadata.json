@@ -1,0 +1,11 @@
+{
+  "name": "stranger",
+  "version": "0.10.0",
+  "summary": "Annotate VCF files with STR variants with pathogenicity implications",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "stranger-0.10.0.tar.gz",
+  "download_time": "2025-12-15T16:16:31.719589",
+  "package_url": "https://pypi.org/project/stranger/"
+}

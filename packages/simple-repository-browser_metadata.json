@@ -1,0 +1,11 @@
+{
+  "name": "simple-repository-browser",
+  "version": "0.10.0",
+  "summary": "A web interface to browse and search packages in any simple package repository (PEP-503), inspired by PyPI / warehouse",
+  "author": "Phil Elson, Francesco Iannaccone, Ivan Sinkarenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_repository_browser-0.10.0.tar.gz",
+  "download_time": "2025-12-15T16:16:46.838944",
+  "package_url": "https://pypi.org/project/simple-repository-browser/"
+}

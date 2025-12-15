@@ -1,0 +1,11 @@
+{
+  "name": "jlab-archiver-client",
+  "version": "2.0.0",
+  "summary": "Software library for interacting with myquery web service",
+  "author": null,
+  "license": "JLab",
+  "home_page": null,
+  "download_filename": "jlab_archiver_client-2.0.0.tar.gz",
+  "download_time": "2025-12-15T16:16:23.949430",
+  "package_url": "https://pypi.org/project/jlab-archiver-client/"
+}

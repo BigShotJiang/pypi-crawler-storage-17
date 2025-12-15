@@ -1,0 +1,11 @@
+{
+  "name": "krl-types",
+  "version": "0.1.0",
+  "summary": "Shared type definitions for the KRL Analytics Platform",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "krl_types-0.1.0.tar.gz",
+  "download_time": "2025-12-15T16:16:20.775943",
+  "package_url": "https://pypi.org/project/krl-types/"
+}

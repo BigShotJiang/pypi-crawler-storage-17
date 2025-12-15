@@ -1,11 +1,11 @@
 {
   "name": "alexasomba-paystack",
-  "version": "1.1.1",
+  "version": "1.1.6",
   "summary": "Paystack",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "alexasomba_paystack-1.1.1.tar.gz",
-  "download_time": "2025-12-15T14:15:24.560817",
+  "download_filename": "alexasomba_paystack-1.1.6.tar.gz",
+  "download_time": "2025-12-15T16:16:51.028565",
   "package_url": "https://pypi.org/project/alexasomba-paystack/"
 }
