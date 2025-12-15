@@ -1,0 +1,11 @@
+{
+  "name": "dsmemail",
+  "version": "0.0.10",
+  "summary": "A simple way to send email. for dsm",
+  "author": "DigitalStoreMesh Co.,Ltd",
+  "license": "MIT License",
+  "home_page": "https://gitlab.com/public-project2/dsm-email",
+  "download_filename": "dsmemail-0.0.10.tar.gz",
+  "download_time": "2025-12-15T07:41:54.245001",
+  "package_url": "https://pypi.org/project/dsmemail/"
+}
