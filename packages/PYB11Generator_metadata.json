@@ -1,0 +1,11 @@
+{
+  "name": "PYB11Generator",
+  "version": "2025.12.0",
+  "summary": "PYB11Generator is a code generation tool which generates pybind11 code for binding C++ to Python. Documentation is available at https://pyb11generator.readthedocs.io/",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyb11generator-2025.12.0.tar.gz",
+  "download_time": "2025-12-15T23:12:05.019860",
+  "package_url": "https://pypi.org/project/PYB11Generator/"
+}

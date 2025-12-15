@@ -1,11 +1,11 @@
 {
   "name": "colorbridge",
-  "version": "2.1.12",
+  "version": "2.1.13",
   "summary": "🌈 ColorBridge - AI8051U串口助手，半透明多巴胺配色串口调试工具",
   "author": "076lik",
   "license": null,
   "home_page": "https://atomgit.com/H076lik/ColorBridge",
-  "download_filename": "colorbridge-2.1.12.tar.gz",
-  "download_time": "2025-12-15T22:11:43.454781",
+  "download_filename": "colorbridge-2.1.13.tar.gz",
+  "download_time": "2025-12-15T23:11:54.492472",
   "package_url": "https://pypi.org/project/colorbridge/"
 }

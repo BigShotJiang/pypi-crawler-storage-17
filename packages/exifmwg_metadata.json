@@ -1,0 +1,11 @@
+{
+  "name": "exifmwg",
+  "version": "0.6.0",
+  "summary": "A Python interface to read and write Metadata Working Group fields using exiftool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exifmwg-0.6.0.tar.gz",
+  "download_time": "2025-12-15T23:11:45.080266",
+  "package_url": "https://pypi.org/project/exifmwg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-osrm-backend",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python implementation of OSRM backend core functionality",
   "author": "GalTechDev",
   "license": "MIT",
   "home_page": "https://github.com/GalTechDev/py-osrm-backend",
-  "download_filename": "py_osrm_backend-0.1.0.tar.gz",
-  "download_time": "2025-12-15T22:50:53.366823",
+  "download_filename": "py_osrm_backend-0.1.1.tar.gz",
+  "download_time": "2025-12-15T23:11:43.957303",
   "package_url": "https://pypi.org/project/py-osrm-backend/"
 }
