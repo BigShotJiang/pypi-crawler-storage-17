@@ -1,0 +1,11 @@
+{
+  "name": "hdh",
+  "version": "0.2",
+  "summary": "Hybrid Dependency Hypergraphs for quantum computation: translation, visualization, and partitioning.",
+  "author": "Maria Gragera Garces",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/hdh/",
+  "download_filename": "hdh-0.2.tar.gz",
+  "download_time": "2025-12-15T14:15:20.295185",
+  "package_url": "https://pypi.org/project/hdh/"
+}

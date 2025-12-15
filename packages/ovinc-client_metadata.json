@@ -1,0 +1,11 @@
+{
+  "name": "ovinc-client",
+  "version": "0.4.3",
+  "summary": "A Tool for OVINC Union API",
+  "author": "OVINC",
+  "license": null,
+  "home_page": "https://www.ovinc.cn/",
+  "download_filename": "ovinc_client-0.4.3.tar.gz",
+  "download_time": "2025-12-15T14:15:42.627915",
+  "package_url": "https://pypi.org/project/ovinc-client/"
+}

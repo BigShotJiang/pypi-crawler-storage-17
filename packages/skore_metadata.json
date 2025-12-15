@@ -1,0 +1,11 @@
+{
+  "name": "skore",
+  "version": "0.11.4",
+  "summary": "𝗢𝘄𝗻 𝗬𝗼𝘂𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲. Skore's open-source Python library accelerates ML model development with automated evaluation reports, smart methodological guidance, and comprehensive cross-validation analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skore-0.11.4.tar.gz",
+  "download_time": "2025-12-15T14:15:16.072025",
+  "package_url": "https://pypi.org/project/skore/"
+}

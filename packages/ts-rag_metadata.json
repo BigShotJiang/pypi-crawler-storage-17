@@ -1,11 +1,11 @@
 {
   "name": "ts-rag",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "summary": "多论文 RAG 问答系统 - 基于检索增强生成的科研论文问答系统",
   "author": "TashanRAG Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ts_rag-0.1.4.tar.gz",
-  "download_time": "2025-12-15T08:52:49.386861",
+  "download_filename": "ts_rag-0.1.9.tar.gz",
+  "download_time": "2025-12-15T14:15:19.776419",
   "package_url": "https://pypi.org/project/ts-rag/"
 }

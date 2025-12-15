@@ -1,11 +1,11 @@
 {
   "name": "py-parkour",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "A Hybrid Scraper Framework: cookie consent, auto-pagination, temp identities, session bridging, and API discovery.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_parkour-2.1.0.tar.gz",
-  "download_time": "2025-12-15T13:12:33.704505",
+  "download_filename": "py_parkour-2.2.0.tar.gz",
+  "download_time": "2025-12-15T14:15:36.663246",
   "package_url": "https://pypi.org/project/py-parkour/"
 }

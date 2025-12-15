@@ -1,0 +1,11 @@
+{
+  "name": "rfind",
+  "version": "0.4.0",
+  "summary": "⚡ Ultra-fast file discovery in directories with execute-only permission - Pure C acceleration with Python wrapper",
+  "author": "nsyhykui",
+  "license": "MIT",
+  "home_page": "https://github.com/nsyhykui/rfind",
+  "download_filename": "rfind-0.4.0.tar.gz",
+  "download_time": "2025-12-15T14:15:34.069584",
+  "package_url": "https://pypi.org/project/rfind/"
+}

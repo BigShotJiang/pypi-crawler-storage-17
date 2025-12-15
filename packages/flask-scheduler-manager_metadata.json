@@ -1,0 +1,11 @@
+{
+  "name": "flask-scheduler-manager",
+  "version": "1.0.0",
+  "summary": "基于Flask SQLAlchemy和flask_apscheduler的动态定时任务管理系统",
+  "author": "binger",
+  "license": null,
+  "home_page": "https://github.com/BingerYang/flask-scheduler-manager",
+  "download_filename": "flask_scheduler_manager-1.0.0-py2.py3-none-any.whl",
+  "download_time": "2025-12-15T14:15:30.946527",
+  "package_url": "https://pypi.org/project/flask-scheduler-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memoflow",
+  "version": "0.1.0",
+  "summary": "MemoFlow - Your Second Brain: A command-line workflow management tool",
+  "author": "MemoFlow Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memoflow-0.1.0.tar.gz",
+  "download_time": "2025-12-15T14:15:41.034100",
+  "package_url": "https://pypi.org/project/memoflow/"
+}

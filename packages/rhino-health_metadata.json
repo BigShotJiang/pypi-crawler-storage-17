@@ -1,0 +1,11 @@
+{
+  "name": "rhino-health",
+  "version": "2.1.13",
+  "summary": "Standard Development Kit for interacting with the Rhino Health Federated Learning Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rhino_health-2.1.13-py3-none-any.whl",
+  "download_time": "2025-12-15T14:15:18.728402",
+  "package_url": "https://pypi.org/project/rhino-health/"
+}
