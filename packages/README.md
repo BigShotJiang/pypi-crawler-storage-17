@@ -1,16 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-15T22:35:40.058812
-- **Total Packages**: 83
-- **Total Size**: 68.68 MB
+- **Download Time**: 2025-12-15T22:51:36.543395
+- **Total Packages**: 91
+- **Total Size**: 35.66 MB
 
 ## Packages List
+- deliberate
+- frequenz-gridpool
+- bugcam
+- llama-index-readers-confluence
+- dhisana
+- nexaroa
+- PraisonAI
+- alxhttp
+- viralQC
+- py-osrm-backend
+- kryten-py
+- django-glue
+- blendsql
+- pipen-deprecated
+- griptape-nodes
+- emod-malaria
+- langgraph-api
+- ultralytics
+- git-adr
+- geek-cafe-saas-sdk
+- fin-infra
+- parsl
+- methodnetworkscan
+- vidrl-hiv
+- stellium
+- aiptx
+- vsdmitri-latex-utils
+- ai-infra
+- python3-cyberfusion-rabbitmq-consumer
+- statstests
+- hypha
+- scwidgets
+- radixtarget
+- hmd-cli-librarian-sync-watcher
+- hmd-cli-librarian-sync-manager
+- vlmrun-hub
+- hmd-lib-telemetry
+- media-downloader
+- metabOmics
+- flowmason
+- pyrig
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- qblox-instruments
+- sc-utility
+- inferedge-moss
+- roastcoffea
+- policyengine-us
+- pyjamas-rfglab
+- fastapi-api-key
 - winiutils
 - sap-bdc-connect-sdk
 - NekoDL
 - birds-bi
-- nexaroa
 - hgpaktool
 - pulumi-splunk
 - modelswrkpi
@@ -20,14 +69,11 @@
 - tszclient-py
 - eventplane
 - spark-llm-eval
-- stellium
 - pycocotools
 - WuttaWeb
-- kryten-py
 - appthreat-chen
 - stardist
 - con-duct
-- pyrig
 - kinemotion
 - LazyQL
 - contrast-fireball
@@ -51,41 +97,3 @@
 - google-cloud-datastore
 - pyiceberg-firestore-gcs
 - accmix
-- airbyte-agent-stripe
-- airbyte-agent-asana
-- mathhook
-- airbyte-agent-linear
-- airbyte-agent-mcp
-- flowmason
-- real-ladybug
-- winipyside
-- moose-lib
-- liger-kernel-nightly
-- agentor
-- compose-farm
-- piedomains
-- PraisonAI
-- elementary-hpo
-- dhisana
-- apc-ups-security-auditor
-- wisent
-- pgconnect
-- univi
-- libcasm-global
-- schmitech-orbit-client
-- h3
-- waccy
-- unitysvc-services
-- knowsmore
-- google-auth-httplib2
-- praisonaiagents
-- music-assistant-frontend
-- labthings-fastapi
-- justhtml
-- kicoil
-- piwave
-- policyengine-us
-- nominal-api-protos
-- lego-Denis
-- nominal-api
-- ascend-sdk
