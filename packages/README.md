@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-15T23:31:49.009371
+- **Download Time**: 2025-12-15T23:49:23.023764
 - **Total Packages**: 83
-- **Total Size**: 46.92 MB
+- **Total Size**: 10.11 MB
 
 ## Packages List
-- ivoryos
-- giftpy
-- sqlalchemy-spanner
-- cloudformation-dataclasses
-- emod-hiv
-- open-rag-eval
-- trampoline-client
 - sigenergy2mqtt
 - PyGPUkit
 - geek-cafe-saas-sdk
@@ -62,6 +55,7 @@
 - llama-index-vector-stores-lancedb
 - good-agent
 - nuxbt
+- emod-hiv
 - doi2bib3
 - arcade-pylon
 - js-api
@@ -89,3 +83,9 @@
 - winidjango
 - emod-malaria
 - llama-index-llms-aibadgr
+- schemactl
+- zucaro
+- mathhook
+- sienge-ecbiesek-mcp
+- winipyside
+- colorbridge

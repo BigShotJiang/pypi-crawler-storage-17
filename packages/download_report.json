@@ -1,15 +1,8 @@
 {
-  "download_time": "2025-12-15T23:31:49.009371",
+  "download_time": "2025-12-15T23:49:23.023764",
   "total_packages_downloaded": 83,
-  "total_size_mb": 46.92,
+  "total_size_mb": 10.11,
   "packages": [
-    "ivoryos",
-    "giftpy",
-    "sqlalchemy-spanner",
-    "cloudformation-dataclasses",
-    "emod-hiv",
-    "open-rag-eval",
-    "trampoline-client",
     "sigenergy2mqtt",
     "PyGPUkit",
     "geek-cafe-saas-sdk",
@@ -59,6 +52,7 @@
     "llama-index-vector-stores-lancedb",
     "good-agent",
     "nuxbt",
+    "emod-hiv",
     "doi2bib3",
     "arcade-pylon",
     "js-api",
@@ -85,6 +79,12 @@
     "model-hosting-container-standards",
     "winidjango",
     "emod-malaria",
-    "llama-index-llms-aibadgr"
+    "llama-index-llms-aibadgr",
+    "schemactl",
+    "zucaro",
+    "mathhook",
+    "sienge-ecbiesek-mcp",
+    "winipyside",
+    "colorbridge"
   ]
 }
