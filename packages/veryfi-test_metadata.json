@@ -1,0 +1,11 @@
+{
+  "name": "veryfi-test",
+  "version": "0.2.0",
+  "summary": "Utilities for Veryfi Data Annotations Engineer test",
+  "author": "Omar Zapata",
+  "license": null,
+  "home_page": null,
+  "download_filename": "veryfi_test-0.2.0.tar.gz",
+  "download_time": "2025-12-15T06:55:21.215684",
+  "package_url": "https://pypi.org/project/veryfi-test/"
+}

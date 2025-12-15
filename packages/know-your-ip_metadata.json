@@ -1,0 +1,11 @@
+{
+  "name": "know-your-ip",
+  "version": "0.2.1",
+  "summary": "Get data on IP addresses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "know_your_ip-0.2.1.tar.gz",
+  "download_time": "2025-12-15T06:55:12.456838",
+  "package_url": "https://pypi.org/project/know-your-ip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "web-SRE-ENGINE",
+  "version": "0.1.0",
+  "summary": "AI-powered self-healing web locator listener for Robot Framework",
+  "author": "Abhilesh Thakuria",
+  "license": null,
+  "home_page": null,
+  "download_filename": "web_sre_engine-0.1.0.tar.gz",
+  "download_time": "2025-12-15T06:55:10.207896",
+  "package_url": "https://pypi.org/project/web-SRE-ENGINE/"
+}

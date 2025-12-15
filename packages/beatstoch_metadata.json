@@ -1,0 +1,11 @@
+{
+  "name": "beatstoch",
+  "version": "1.5.2",
+  "summary": "BPM-aware stochastic drum generator: library + CLI.",
+  "author": "James Campbell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beatstoch-1.5.2.tar.gz",
+  "download_time": "2025-12-15T06:54:54.636966",
+  "package_url": "https://pypi.org/project/beatstoch/"
+}
