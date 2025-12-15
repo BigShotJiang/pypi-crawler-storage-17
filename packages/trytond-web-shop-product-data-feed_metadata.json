@@ -1,0 +1,11 @@
+{
+  "name": "trytond-web-shop-product-data-feed",
+  "version": "7.8.0",
+  "summary": "Tryton module to expose product data feed",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_web_shop_product_data_feed-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:30.931009",
+  "package_url": "https://pypi.org/project/trytond-web-shop-product-data-feed/"
+}

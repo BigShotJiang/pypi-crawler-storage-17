@@ -1,0 +1,11 @@
+{
+  "name": "b32k",
+  "version": "0.0.2",
+  "summary": "Canonical Base32768 (B32K) lattice + codec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "b32k-0.0.2.tar.gz",
+  "download_time": "2025-12-15T19:47:19.588905",
+  "package_url": "https://pypi.org/project/b32k/"
+}

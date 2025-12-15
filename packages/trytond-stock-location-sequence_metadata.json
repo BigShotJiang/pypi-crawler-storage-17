@@ -1,0 +1,11 @@
+{
+  "name": "trytond-stock-location-sequence",
+  "version": "7.8.0",
+  "summary": "Tryton module to add sequence on location",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_stock_location_sequence-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:59.063460",
+  "package_url": "https://pypi.org/project/trytond-stock-location-sequence/"
+}

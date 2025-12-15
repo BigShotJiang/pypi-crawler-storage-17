@@ -1,0 +1,11 @@
+{
+  "name": "trytond-stock-supply-day",
+  "version": "7.8.0",
+  "summary": "Tryton module to add supply weekdays",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_stock_supply_day-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:43.373230",
+  "package_url": "https://pypi.org/project/trytond-stock-supply-day/"
+}

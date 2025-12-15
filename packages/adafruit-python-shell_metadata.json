@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-python-shell",
+  "version": "1.11.1",
+  "summary": "Python helper for running Shell scripts in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_python_shell-1.11.1.tar.gz",
+  "download_time": "2025-12-15T19:47:22.156580",
+  "package_url": "https://pypi.org/project/adafruit-python-shell/"
+}

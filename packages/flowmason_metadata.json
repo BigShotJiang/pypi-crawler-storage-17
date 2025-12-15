@@ -1,11 +1,11 @@
 {
   "name": "flowmason",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "summary": "Universal AI Workflow Infrastructure - Build, debug, and deploy intelligent pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowmason-1.0.13-py3-none-any.whl",
-  "download_time": "2025-12-15T19:31:56.354814",
+  "download_filename": "flowmason-1.0.15-py3-none-any.whl",
+  "download_time": "2025-12-15T19:47:18.998640",
   "package_url": "https://pypi.org/project/flowmason/"
 }

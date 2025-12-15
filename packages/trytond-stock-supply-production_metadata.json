@@ -1,0 +1,11 @@
+{
+  "name": "trytond-stock-supply-production",
+  "version": "7.8.0",
+  "summary": "Tryton module for stock supply of production",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_stock_supply_production-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:42.346715",
+  "package_url": "https://pypi.org/project/trytond-stock-supply-production/"
+}

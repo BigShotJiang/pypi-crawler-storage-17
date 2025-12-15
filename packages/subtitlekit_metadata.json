@@ -1,0 +1,11 @@
+{
+  "name": "subtitlekit",
+  "version": "0.1.7",
+  "summary": "Subtitle processing toolkit: merge, sync, fix overlaps, and apply corrections",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "subtitlekit-0.1.7.tar.gz",
+  "download_time": "2025-12-15T19:47:16.870312",
+  "package_url": "https://pypi.org/project/subtitlekit/"
+}

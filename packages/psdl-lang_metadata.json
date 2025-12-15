@@ -1,0 +1,11 @@
+{
+  "name": "psdl-lang",
+  "version": "0.3.1",
+  "summary": "Patient Scenario Definition Language - Reference Implementation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "psdl_lang-0.3.1.tar.gz",
+  "download_time": "2025-12-15T19:47:38.180879",
+  "package_url": "https://pypi.org/project/psdl-lang/"
+}

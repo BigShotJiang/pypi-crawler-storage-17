@@ -1,0 +1,11 @@
+{
+  "name": "proteus",
+  "version": "7.8.0",
+  "summary": "Library to access Tryton server as a client",
+  "author": "Tryton",
+  "license": "LGPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "proteus-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:27.345750",
+  "package_url": "https://pypi.org/project/proteus/"
+}

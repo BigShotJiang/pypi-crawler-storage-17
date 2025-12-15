@@ -1,0 +1,11 @@
+{
+  "name": "trytond-web-user",
+  "version": "7.8.0",
+  "summary": "Tryton module to manage Web users",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_web_user-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:33.516799",
+  "package_url": "https://pypi.org/project/trytond-web-user/"
+}

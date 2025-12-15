@@ -1,0 +1,11 @@
+{
+  "name": "trytond-stock-product-location-place",
+  "version": "7.8.0",
+  "summary": "Tryton module to define a product place for each location",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_stock_product_location_place-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:32.487900",
+  "package_url": "https://pypi.org/project/trytond-stock-product-location-place/"
+}

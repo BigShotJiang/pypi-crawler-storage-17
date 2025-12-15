@@ -1,0 +1,11 @@
+{
+  "name": "trytond-stock-package-shipping",
+  "version": "7.8.0",
+  "summary": "The package shipping module of the Tryton application platform.",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_stock_package_shipping-7.8.0.tar.gz",
+  "download_time": "2025-12-15T19:47:55.938541",
+  "package_url": "https://pypi.org/project/trytond-stock-package-shipping/"
+}

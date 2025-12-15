@@ -1,0 +1,11 @@
+{
+  "name": "demix",
+  "version": "1.0.1",
+  "summary": "Separate audio into stems (vocals, instruments) using AI-powered Spleeter",
+  "author": "pwittchen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "demix-1.0.1.tar.gz",
+  "download_time": "2025-12-15T19:47:15.782552",
+  "package_url": "https://pypi.org/project/demix/"
+}
