@@ -1,11 +1,11 @@
 {
   "name": "sentinelseed",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "AI safety toolkit with THSP protocol, memory integrity, and fiduciary AI - Practical alignment for developers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sentinelseed-2.4.0.tar.gz",
-  "download_time": "2025-12-15T14:15:59.535672",
+  "download_filename": "sentinelseed-2.5.0.tar.gz",
+  "download_time": "2025-12-15T21:10:36.642374",
   "package_url": "https://pypi.org/project/sentinelseed/"
 }

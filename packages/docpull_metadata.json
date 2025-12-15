@@ -1,0 +1,11 @@
+{
+  "name": "docpull",
+  "version": "2.2.0",
+  "summary": "Pull documentation from the web and convert to clean markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docpull-2.2.0.tar.gz",
+  "download_time": "2025-12-15T21:10:52.080932",
+  "package_url": "https://pypi.org/project/docpull/"
+}

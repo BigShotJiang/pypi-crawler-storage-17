@@ -1,0 +1,11 @@
+{
+  "name": "obal",
+  "version": "0.13.0",
+  "summary": "packaging wrapper using ansible",
+  "author": "The Foreman Project",
+  "license": null,
+  "home_page": "https://github.com/theforeman/obal",
+  "download_filename": "obal-0.13.0.tar.gz",
+  "download_time": "2025-12-15T21:10:59.484555",
+  "package_url": "https://pypi.org/project/obal/"
+}
