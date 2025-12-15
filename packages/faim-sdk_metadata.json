@@ -1,11 +1,11 @@
 {
   "name": "faim-sdk",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Python SDK for FAIM time-series forecasting with foundation AI models",
   "author": "FAIM",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "faim_sdk-0.5.0.tar.gz",
-  "download_time": "2025-12-15T21:32:17.077461",
+  "download_filename": "faim_sdk-0.5.1.tar.gz",
+  "download_time": "2025-12-15T21:49:38.583852",
   "package_url": "https://pypi.org/project/faim-sdk/"
 }

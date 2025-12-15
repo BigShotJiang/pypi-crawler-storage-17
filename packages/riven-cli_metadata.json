@@ -1,11 +1,11 @@
 {
   "name": "riven-cli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A powerful TUI for Riven. Manage your library, search content, and monitor your server directly from the terminal.",
   "author": "Goldy",
   "license": null,
   "home_page": null,
-  "download_filename": "riven_cli-0.1.5.tar.gz",
-  "download_time": "2025-12-15T15:41:34.042570",
+  "download_filename": "riven_cli-0.1.6.tar.gz",
+  "download_time": "2025-12-15T21:49:34.779521",
   "package_url": "https://pypi.org/project/riven-cli/"
 }

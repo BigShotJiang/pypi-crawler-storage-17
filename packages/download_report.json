@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-12-15T21:33:09.296015",
-  "total_packages_downloaded": 89,
-  "total_size_mb": 24.64,
+  "download_time": "2025-12-15T21:50:23.141739",
+  "total_packages_downloaded": 88,
+  "total_size_mb": 9.46,
   "packages": [
+    "policyengine-us",
+    "pypnm-docsis",
+    "riven-cli",
+    "nobs",
     "quantconnect-stubs",
     "nsj-rest-lib2",
     "pgconnect",
@@ -47,7 +51,6 @@
     "ohm-mcp",
     "nsj-multi-database-lib",
     "prune-code",
-    "alphaloops-dot-enrichment",
     "guacli",
     "specify-extend",
     "coiled",
@@ -87,10 +90,6 @@
     "pyiceberg-firestore-gcs",
     "thelab-typing",
     "datalab-python-sdk",
-    "agilix-api-fr8train",
-    "wisent",
-    "crypticorn",
-    "kleinkram",
-    "tinytag"
+    "agilix-api-fr8train"
   ]
 }
