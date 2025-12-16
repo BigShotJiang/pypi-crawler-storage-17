@@ -1,0 +1,11 @@
+{
+  "name": "tidyviz",
+  "version": "0.1.0",
+  "summary": "A Python package for tidying and visualizing survey data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tidyviz-0.1.0.tar.gz",
+  "download_time": "2025-12-16T19:13:12.951937",
+  "package_url": "https://pypi.org/project/tidyviz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "networkx-reverse-topological-sort",
+  "version": "0.1.0a0",
+  "summary": "Reverse topological sort utilities for NetworkX: easily stratify or sort nodes in a DAG from leaves to root.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "networkx_reverse_topological_sort-0.1.0a0.tar.gz",
+  "download_time": "2025-12-16T19:13:03.068534",
+  "package_url": "https://pypi.org/project/networkx-reverse-topological-sort/"
+}

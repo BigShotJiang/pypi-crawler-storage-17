@@ -1,11 +1,11 @@
 {
   "name": "py-pdf-compress",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "Compress all PDFs in the current directory using Ghostscript",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_pdf_compress-1.0.3.tar.gz",
-  "download_time": "2025-12-16T18:53:26.673216",
+  "download_filename": "py_pdf_compress-1.1.0.tar.gz",
+  "download_time": "2025-12-16T19:13:00.988714",
   "package_url": "https://pypi.org/project/py-pdf-compress/"
 }
