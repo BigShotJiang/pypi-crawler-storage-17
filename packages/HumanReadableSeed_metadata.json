@@ -1,0 +1,11 @@
+{
+  "name": "HumanReadableSeed",
+  "version": "0.0.10",
+  "summary": "Reversible conversion between seeds and human readable words",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/thiswillbeyourgithub/HumanReadableSeed",
+  "download_filename": "humanreadableseed-0.0.10.tar.gz",
+  "download_time": "2025-12-16T18:18:24.962394",
+  "package_url": "https://pypi.org/project/HumanReadableSeed/"
+}

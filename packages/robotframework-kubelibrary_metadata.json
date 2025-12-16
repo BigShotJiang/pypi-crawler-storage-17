@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-kubelibrary",
+  "version": "0.8.10",
+  "summary": "Kubernetes library for Robot Framework",
+  "author": "Michał Wcisło",
+  "license": "MIT",
+  "home_page": "https://github.com/devopsspiral/KubeLibrary",
+  "download_filename": "robotframework_kubelibrary-0.8.10.tar.gz",
+  "download_time": "2025-12-16T18:18:04.129855",
+  "package_url": "https://pypi.org/project/robotframework-kubelibrary/"
+}

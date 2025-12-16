@@ -1,11 +1,11 @@
 {
   "name": "langrepl",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "summary": "Interactive terminal CLI for building and running LLM agents. Built with LangChain, LangGraph, Prompt Toolkit, and Rich.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langrepl-1.9.4.tar.gz",
-  "download_time": "2025-12-15T17:17:29.306794",
+  "download_filename": "langrepl-1.9.5.tar.gz",
+  "download_time": "2025-12-16T18:18:01.444688",
   "package_url": "https://pypi.org/project/langrepl/"
 }
