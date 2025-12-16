@@ -1,0 +1,11 @@
+{
+  "name": "plasmidkit",
+  "version": "0.1.0",
+  "summary": "Fast Python library for plasmid annotation and makeability scoring",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plasmidkit-0.1.0.tar.gz",
+  "download_time": "2025-12-16T22:50:10.593323",
+  "package_url": "https://pypi.org/project/plasmidkit/"
+}

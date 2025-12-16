@@ -1,0 +1,11 @@
+{
+  "name": "microsim",
+  "version": "0.0.12",
+  "summary": "Light microscopy simulation in python",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "microsim-0.0.12.tar.gz",
+  "download_time": "2025-12-16T22:50:24.039017",
+  "package_url": "https://pypi.org/project/microsim/"
+}

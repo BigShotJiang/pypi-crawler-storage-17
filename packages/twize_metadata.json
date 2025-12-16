@@ -1,11 +1,11 @@
 {
   "name": "twize",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A package for multi-linear regression with Markdown-formatted output.",
   "author": "IZERE HIRWA Roger",
   "license": null,
   "home_page": "https://github.com/hirwaroger/twize",
-  "download_filename": "twize-0.1.4.tar.gz",
-  "download_time": "2025-12-16T21:49:28.827086",
+  "download_filename": "twize-0.1.5.tar.gz",
+  "download_time": "2025-12-16T22:50:16.429957",
   "package_url": "https://pypi.org/project/twize/"
 }

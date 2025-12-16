@@ -1,0 +1,11 @@
+{
+  "name": "tensorflow-riemopt",
+  "version": "0.3.1",
+  "summary": "a library for optimization on Riemannian manifolds",
+  "author": "Oleg Smirnov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorflow_riemopt-0.3.1.tar.gz",
+  "download_time": "2025-12-16T22:50:26.660858",
+  "package_url": "https://pypi.org/project/tensorflow-riemopt/"
+}

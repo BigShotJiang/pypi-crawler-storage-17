@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-llms-txt",
+  "version": "0.7.1",
+  "summary": "llms-full.txt generator for Sphinx",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sphinx_llms_txt-0.7.1.tar.gz",
+  "download_time": "2025-12-16T22:50:27.703613",
+  "package_url": "https://pypi.org/project/sphinx-llms-txt/"
+}

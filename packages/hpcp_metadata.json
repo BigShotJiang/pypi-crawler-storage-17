@@ -1,0 +1,11 @@
+{
+  "name": "hpcp",
+  "version": "9.42",
+  "summary": "Highly Parallel CoPy / HPC coPy: A simple script optimized for distributed file store / NVMe / SSD storage medias for use in High Performace Computing environments.",
+  "author": "Yufei Pan",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/yufei-pan/hpcp",
+  "download_filename": "hpcp-9.42.tar.gz",
+  "download_time": "2025-12-16T22:50:15.907572",
+  "package_url": "https://pypi.org/project/hpcp/"
+}

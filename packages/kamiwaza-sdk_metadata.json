@@ -1,0 +1,11 @@
+{
+  "name": "kamiwaza-sdk",
+  "version": "0.8.1",
+  "summary": "Python client library for the Kamiwaza AI Platform",
+  "author": "Kamiwaza Team",
+  "license": null,
+  "home_page": "https://github.com/kamiwaza/kamiwaza-sdk",
+  "download_filename": "kamiwaza_sdk-0.8.1.tar.gz",
+  "download_time": "2025-12-16T22:50:15.359518",
+  "package_url": "https://pypi.org/project/kamiwaza-sdk/"
+}

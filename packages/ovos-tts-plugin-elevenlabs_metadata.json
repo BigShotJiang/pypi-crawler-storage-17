@@ -1,0 +1,11 @@
+{
+  "name": "ovos-tts-plugin-elevenlabs",
+  "version": "0.1.0",
+  "summary": "OVOS TTS plugin for ElevenLabs text-to-speech API",
+  "author": "reklis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ovos_tts_plugin_elevenlabs-0.1.0.tar.gz",
+  "download_time": "2025-12-16T22:50:34.228550",
+  "package_url": "https://pypi.org/project/ovos-tts-plugin-elevenlabs/"
+}
