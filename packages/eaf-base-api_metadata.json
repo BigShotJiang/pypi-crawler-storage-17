@@ -1,0 +1,11 @@
+{
+  "name": "eaf-base-api",
+  "version": "2.5.1",
+  "summary": "A base API for EchterAlsFake's Porn APIs",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "eaf_base_api-2.5.1.tar.gz",
+  "download_time": "2025-12-16T09:56:49.337334",
+  "package_url": "https://pypi.org/project/eaf-base-api/"
+}

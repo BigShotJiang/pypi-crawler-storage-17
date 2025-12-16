@@ -1,0 +1,11 @@
+{
+  "name": "neewerlite",
+  "version": "0.2.2",
+  "summary": "A clean Python library for controlling Neewer RGB lights via Bluetooth LE.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neewerlite-0.2.2.tar.gz",
+  "download_time": "2025-12-16T09:56:42.370478",
+  "package_url": "https://pypi.org/project/neewerlite/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "SessizMuezzin",
-  "version": "0.0.0",
-  "summary": null,
+  "version": "0.0.2",
+  "summary": "Python programming course assignments and solutions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sessizmuezzin-0.0.0.tar.gz",
-  "download_time": "2025-12-16T09:45:22.371771",
+  "download_filename": "sessizmuezzin-0.0.2.tar.gz",
+  "download_time": "2025-12-16T09:56:37.149600",
   "package_url": "https://pypi.org/project/SessizMuezzin/"
 }

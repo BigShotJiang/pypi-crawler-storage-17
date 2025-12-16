@@ -1,0 +1,11 @@
+{
+  "name": "whitebox-plugin-location",
+  "version": "0.1.1",
+  "summary": "A plugin for Whitebox that provides location utilities and extensions",
+  "author": "Milos",
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "whitebox_plugin_location-0.1.1.tar.gz",
+  "download_time": "2025-12-16T09:56:31.436811",
+  "package_url": "https://pypi.org/project/whitebox-plugin-location/"
+}

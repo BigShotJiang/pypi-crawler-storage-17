@@ -1,0 +1,11 @@
+{
+  "name": "skelarm",
+  "version": "0.1.0",
+  "summary": "A simple dynamics simulator for a configurable planar robot arm.",
+  "author": "Hiroshi Atsuta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skelarm-0.1.0.tar.gz",
+  "download_time": "2025-12-16T09:56:50.476491",
+  "package_url": "https://pypi.org/project/skelarm/"
+}

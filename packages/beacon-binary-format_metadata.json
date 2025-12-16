@@ -1,0 +1,11 @@
+{
+  "name": "beacon-binary-format",
+  "version": "3.0.0a0",
+  "summary": "Python bindings for the Beacon Binary Format collection writer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beacon_binary_format-3.0.0a0.tar.gz",
+  "download_time": "2025-12-16T09:56:47.572044",
+  "package_url": "https://pypi.org/project/beacon-binary-format/"
+}

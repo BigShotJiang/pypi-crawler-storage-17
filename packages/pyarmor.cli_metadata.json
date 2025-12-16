@@ -1,0 +1,11 @@
+{
+  "name": "pyarmor.cli",
+  "version": "9.2.3",
+  "summary": "A comand line tool to obfuscate python scripts",
+  "author": "Jondy Zhao",
+  "license": "Free To Use But Restricted",
+  "home_page": "https://github.com/dashingsoft/pyarmor",
+  "download_filename": "pyarmor_cli-9.2.3.tar.gz",
+  "download_time": "2025-12-16T09:56:55.117811",
+  "package_url": "https://pypi.org/project/pyarmor.cli/"
+}
