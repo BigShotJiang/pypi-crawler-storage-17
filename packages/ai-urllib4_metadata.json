@@ -1,11 +1,11 @@
 {
   "name": "ai-urllib4",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "A modern HTTP client for Python with HTTP/3, WebSocket extensions, and enhanced security features",
   "author": "Zied Boughdir",
   "license": null,
   "home_page": "https://github.com/zinzied/urllib4-enhanced",
-  "download_filename": "ai_urllib4-2.0.0.tar.gz",
-  "download_time": "2025-12-16T19:47:37.109294",
+  "download_filename": "ai_urllib4-2.0.2.tar.gz",
+  "download_time": "2025-12-16T20:13:41.860797",
   "package_url": "https://pypi.org/project/ai-urllib4/"
 }

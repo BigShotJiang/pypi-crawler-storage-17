@@ -1,0 +1,11 @@
+{
+  "name": "campers",
+  "version": "0.1.2",
+  "summary": "CLI tool for managing remote development environments on the cloud",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "campers-0.1.2.tar.gz",
+  "download_time": "2025-12-16T20:13:26.035926",
+  "package_url": "https://pypi.org/project/campers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lasso.issues",
+  "version": "2.0.0",
+  "summary": "Issue handling for the Planetary Data System",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/lasso-issues",
+  "download_filename": "lasso_issues-2.0.0-py3-none-any.whl",
+  "download_time": "2025-12-16T20:13:33.967542",
+  "package_url": "https://pypi.org/project/lasso.issues/"
+}
