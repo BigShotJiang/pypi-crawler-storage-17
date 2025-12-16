@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T05:39:08.493779
-- **Total Packages**: 86
-- **Total Size**: 16.03 MB
+- **Download Time**: 2025-12-16T05:53:14.539696
+- **Total Packages**: 82
+- **Total Size**: 14.53 MB
 
 ## Packages List
+- particlespell
+- fin-agent
+- api-foundry-query-engine
+- python3-openEuler
+- alita-sdk
+- lidb
+- ddss
+- werkpool
+- pipen-lock
+- hana-ml
+- py-wlcommands
+- marsguard
+- funputer
+- mobiu-q
+- dedalus-mcp
+- standard-block-auditor
+- tahrir-api
+- jax-dataloader
+- lyapprove
+- orq-ai-sdk
+- latexxxgenerator
+- rds-proxy-password-rotation
+- pydantic-encryption
+- langevin
+- maleo-identity-client
+- Asialuxe
+- django-spire
+- superstream-clients-beta
+- aiptx
+- halib
+- silverstreamingapplication
+- snaplogic-common-robot
+- newpersonlei-demo-202151216
+- raindrop-ai
+- pipen-filters
+- toolio-agent
+- osm-shortlink
+- llm-limiters
 - GPTQModel
 - maltopic
 - snps
@@ -28,15 +66,12 @@
 - autoops
 - blendertoolbox
 - pan123
-- snaplogic-common-robot
 - slothy
 - pranaam
 - aider-ce
 - agentpool
 - mat3ra-made
 - code-scalpel
-- lidb
-- latexxxgenerator
 - quillmark
 - localstack-core
 - napistu
@@ -47,48 +82,9 @@
 - papermc-plugin-manager
 - pipen-args
 - mcp-memory-service
-- py-wlcommands
 - query-patterns
 - murmurai
 - cpan123
-- sop4py
 - Encryptors
 - CQL3DUI
 - pipen-verbose
-- kleur
-- maleo-metadata-client
-- pdflinkcheck
-- utg-base
-- mcp-feedback-enhanced-x
-- dossier-tools
-- mcp-browser
-- mcp-vector-search
-- biosak
-- sphinx-localecmddoc
-- mcp-mesh
-- pipen
-- feedparser-rs
-- lookout-config
-- lookout-cli
-- guava-ml
-- keyhole-comm
-- dhengine
-- mai-tai-mcp
-- particleEX
-- biovault-beaver
-- AutoImblearn
-- azuresfimcpagent-test
-- tatools01
-- pyThunderbird
-- cxxheaderparser
-- avanak
-- nexo-soma
-- pullapprove
-- iamdata
-- treeline-money
-- auto-coder
-- nora-observability
-- PyGPUkit
-- vexor
-- pydantic-encryption
-- papyru

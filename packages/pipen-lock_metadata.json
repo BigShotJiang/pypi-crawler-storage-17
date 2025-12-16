@@ -1,0 +1,11 @@
+{
+  "name": "pipen-lock",
+  "version": "1.0.0",
+  "summary": "Process lock for pipen to prevent multiple runs at the same time",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipen_lock-1.0.0.tar.gz",
+  "download_time": "2025-12-16T05:52:34.950159",
+  "package_url": "https://pypi.org/project/pipen-lock/"
+}

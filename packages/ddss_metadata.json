@@ -1,11 +1,11 @@
 {
   "name": "ddss",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "Distributed Deductive System Sorts",
-  "author": null,
+  "author": "Hao Zhang",
   "license": null,
   "home_page": null,
-  "download_filename": "ddss-0.0.9.tar.gz",
-  "download_time": "2025-12-16T04:26:52.525682",
+  "download_filename": "ddss-0.0.10.tar.gz",
+  "download_time": "2025-12-16T05:52:33.927423",
   "package_url": "https://pypi.org/project/ddss/"
 }

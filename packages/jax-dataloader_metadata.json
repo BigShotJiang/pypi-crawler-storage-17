@@ -1,0 +1,11 @@
+{
+  "name": "jax-dataloader",
+  "version": "0.1.4",
+  "summary": "Dataloader for jax",
+  "author": "BirkhoffG",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/birkhoffg/jax-dataloader",
+  "download_filename": "jax_dataloader-0.1.4.tar.gz",
+  "download_time": "2025-12-16T05:52:39.652565",
+  "package_url": "https://pypi.org/project/jax-dataloader/"
+}

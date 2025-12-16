@@ -1,0 +1,11 @@
+{
+  "name": "funputer",
+  "version": "1.7.1",
+  "summary": "Intelligent imputation analysis with automatic data validation, metadata inference, storage type detection, percentile-based ranges, and frequency-based categorical filtering",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "funputer-1.7.1.tar.gz",
+  "download_time": "2025-12-16T05:52:37.084829",
+  "package_url": "https://pypi.org/project/funputer/"
+}
