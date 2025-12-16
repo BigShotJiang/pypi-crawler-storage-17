@@ -1,0 +1,11 @@
+{
+  "name": "spotmate",
+  "version": "2.0.0",
+  "summary": "A command-line utility tool for Spotify playlists and albums",
+  "author": "Ankit Kumar Ravi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotmate-2.0.0.tar.gz",
+  "download_time": "2025-12-16T19:32:04.962596",
+  "package_url": "https://pypi.org/project/spotmate/"
+}

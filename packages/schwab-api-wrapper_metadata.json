@@ -1,0 +1,11 @@
+{
+  "name": "schwab-api-wrapper",
+  "version": "0.3.1",
+  "summary": "A wrapper package around the schwab http api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schwab_api_wrapper-0.3.1.tar.gz",
+  "download_time": "2025-12-16T19:32:24.255759",
+  "package_url": "https://pypi.org/project/schwab-api-wrapper/"
+}

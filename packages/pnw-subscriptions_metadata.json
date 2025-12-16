@@ -1,11 +1,11 @@
 {
   "name": "pnw-subscriptions",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Subscription utilities for PNW",
   "author": "Sumnor",
   "license": null,
   "home_page": null,
-  "download_filename": "pnw_subscriptions-0.2.0.tar.gz",
-  "download_time": "2025-12-16T16:48:09.502151",
+  "download_filename": "pnw_subscriptions-0.2.3.tar.gz",
+  "download_time": "2025-12-16T19:31:59.086384",
   "package_url": "https://pypi.org/project/pnw-subscriptions/"
 }

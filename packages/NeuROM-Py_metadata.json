@@ -1,0 +1,11 @@
+{
+  "name": "NeuROM-Py",
+  "version": "4.0.6",
+  "summary": "NeuROM, a NN-PGD architecture based on the HiDeNN Framework (Finite Element Neural Network Interpolation)",
+  "author": "Alexandre Daby-Seesaram, Katerina Skardova, Martin Genet",
+  "license": "GPLv3",
+  "home_page": "https://github.com/AlexandreDabySeesaram/NeuROM",
+  "download_filename": "neurom_py-4.0.6.tar.gz",
+  "download_time": "2025-12-16T19:32:08.221068",
+  "package_url": "https://pypi.org/project/NeuROM-Py/"
+}

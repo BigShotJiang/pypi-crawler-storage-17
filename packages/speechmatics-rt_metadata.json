@@ -1,0 +1,11 @@
+{
+  "name": "speechmatics-rt",
+  "version": "0.5.3",
+  "summary": "Speechmatics Real-Time API Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "speechmatics_rt-0.5.3.tar.gz",
+  "download_time": "2025-12-16T19:32:11.830803",
+  "package_url": "https://pypi.org/project/speechmatics-rt/"
+}
