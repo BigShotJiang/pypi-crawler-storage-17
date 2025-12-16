@@ -1,0 +1,11 @@
+{
+  "name": "tparton",
+  "version": "2.0.0",
+  "summary": "Evolution of the transversity parton distribution functions via two methods: (1) direct integration of the DGLAP equations along the energy scale and (2) fast Mellin inversion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tparton-2.0.0.tar.gz",
+  "download_time": "2025-12-16T21:32:41.327716",
+  "package_url": "https://pypi.org/project/tparton/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rubin-nublado-client",
+  "version": "10.0.0",
+  "summary": "Client for JupyterHub/JupyterLab in the Rubin Science Platform context",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubin_nublado_client-10.0.0.tar.gz",
+  "download_time": "2025-12-16T21:32:15.286565",
+  "package_url": "https://pypi.org/project/rubin-nublado-client/"
+}

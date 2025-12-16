@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-ext-ui",
+  "version": "1.4.3.20251216",
+  "summary": "DuckDB extension package for duckdb/core-extensions/ui",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_ext_ui-1.4.3.20251216-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-16T21:32:44.511546",
+  "package_url": "https://pypi.org/project/duckdb-ext-ui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nuee",
+  "version": "0.1.6",
+  "summary": "Community Ecology Analysis in Python",
+  "author": "nuee Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nuee-0.1.6.tar.gz",
+  "download_time": "2025-12-16T21:32:45.544588",
+  "package_url": "https://pypi.org/project/nuee/"
+}

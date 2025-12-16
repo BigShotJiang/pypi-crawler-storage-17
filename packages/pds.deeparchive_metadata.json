@@ -1,0 +1,11 @@
+{
+  "name": "pds.deeparchive",
+  "version": "2.0.0",
+  "summary": "PDS Deep Archive software for generating OAIS AIPs and SIPs for PDS4 Archives",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/deep-archive",
+  "download_filename": "pds_deeparchive-2.0.0-py3-none-any.whl",
+  "download_time": "2025-12-16T21:32:37.220894",
+  "package_url": "https://pypi.org/project/pds.deeparchive/"
+}
