@@ -1,0 +1,11 @@
+{
+  "name": "apolo-all",
+  "version": "25.12.1",
+  "summary": "Combo package for installing all Apolo command line tools by 'pipx install apolo-all' command",
+  "author": "Apolo Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "apolo_all-25.12.1.tar.gz",
+  "download_time": "2025-12-16T13:50:03.017957",
+  "package_url": "https://pypi.org/project/apolo-all/"
+}

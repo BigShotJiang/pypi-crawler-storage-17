@@ -1,0 +1,11 @@
+{
+  "name": "si-fi-o",
+  "version": "2025.1",
+  "summary": "SImple Flask IO App Skeleton",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/si-fi-o/",
+  "download_filename": "si_fi_o-2025.1.tar.gz",
+  "download_time": "2025-12-16T13:49:51.877209",
+  "package_url": "https://pypi.org/project/si-fi-o/"
+}

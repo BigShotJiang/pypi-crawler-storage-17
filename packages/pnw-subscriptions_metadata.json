@@ -1,0 +1,11 @@
+{
+  "name": "pnw-subscriptions",
+  "version": "0.1.1",
+  "summary": "Subscription utilities for PNW",
+  "author": "Sumnor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pnw_subscriptions-0.1.1.tar.gz",
+  "download_time": "2025-12-16T13:49:28.630261",
+  "package_url": "https://pypi.org/project/pnw-subscriptions/"
+}

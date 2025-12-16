@@ -1,0 +1,11 @@
+{
+  "name": "rrq",
+  "version": "0.7.1",
+  "summary": "RRQ is a Python library for creating reliable job queues using Redis and asyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rrq-0.7.1.tar.gz",
+  "download_time": "2025-12-16T13:49:45.590293",
+  "package_url": "https://pypi.org/project/rrq/"
+}

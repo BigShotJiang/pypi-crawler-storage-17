@@ -1,0 +1,11 @@
+{
+  "name": "typepack",
+  "version": "0.6.1",
+  "summary": "Fast, safe binary serialization for Python supporting dataclasses, datetime, Decimal, UUID and custom types",
+  "author": "Niler Barcelos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typepack-0.6.1.tar.gz",
+  "download_time": "2025-12-16T13:49:50.833013",
+  "package_url": "https://pypi.org/project/typepack/"
+}

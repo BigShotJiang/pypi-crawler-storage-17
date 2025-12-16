@@ -1,0 +1,11 @@
+{
+  "name": "raidionicsseg",
+  "version": "1.5.1",
+  "summary": "Raidionics segmentation and classification back-end with ONNX runtime",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "raidionicsseg-1.5.1.tar.gz",
+  "download_time": "2025-12-16T13:49:47.678110",
+  "package_url": "https://pypi.org/project/raidionicsseg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lemons-crowd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python wrapper for the LEMONS library to generate anthropometry-based, non-circular pedestrian shapes, visualize crowds, and simulate 2D dynamics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lemons_crowd-1.0.0.tar.gz",
-  "download_time": "2025-12-15T19:47:21.646060",
+  "download_filename": "lemons_crowd-1.0.1.tar.gz",
+  "download_time": "2025-12-16T13:49:47.167942",
   "package_url": "https://pypi.org/project/lemons-crowd/"
 }

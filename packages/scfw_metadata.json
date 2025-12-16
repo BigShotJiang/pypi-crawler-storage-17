@@ -1,0 +1,11 @@
+{
+  "name": "scfw",
+  "version": "2.5.0",
+  "summary": "A tool for preventing the installation of malicious open-source packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scfw-2.5.0.tar.gz",
+  "download_time": "2025-12-16T13:49:54.460071",
+  "package_url": "https://pypi.org/project/scfw/"
+}
