@@ -1,0 +1,11 @@
+{
+  "name": "hfortix",
+  "version": "0.3.7",
+  "summary": "HFortix - Python SDK for Fortinet products (FortiOS, FortiManager, FortiAnalyzer)",
+  "author": "Herman W. Jacobsen",
+  "license": "MIT",
+  "home_page": "https://github.com/hermanwjacobsen/hfortix",
+  "download_filename": "hfortix-0.3.7.tar.gz",
+  "download_time": "2025-12-16T00:52:20.124035",
+  "package_url": "https://pypi.org/project/hfortix/"
+}

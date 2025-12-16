@@ -1,11 +1,11 @@
 {
   "name": "roastcoffea",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Comprehensive performance monitoring and metrics collection for Coffea-based High Energy Physics analysis workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "roastcoffea-0.1.1.tar.gz",
-  "download_time": "2025-12-15T22:51:12.894794",
+  "download_filename": "roastcoffea-0.1.2.tar.gz",
+  "download_time": "2025-12-16T00:52:25.637562",
   "package_url": "https://pypi.org/project/roastcoffea/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aionetiface",
+  "version": "0.0.1",
+  "summary": "Async network-interface-level primitives",
+  "author": "Matthew Roberts",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aionetiface-0.0.1.tar.gz",
+  "download_time": "2025-12-16T00:52:27.684144",
+  "package_url": "https://pypi.org/project/aionetiface/"
+}

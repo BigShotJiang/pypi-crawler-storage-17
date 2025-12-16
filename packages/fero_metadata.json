@@ -1,0 +1,11 @@
+{
+  "name": "fero",
+  "version": "2.2.8",
+  "summary": "Python client for accessing Fero API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/FeroLabs/fero_client",
+  "download_filename": "fero-2.2.8.tar.gz",
+  "download_time": "2025-12-16T00:52:30.511661",
+  "package_url": "https://pypi.org/project/fero/"
+}
