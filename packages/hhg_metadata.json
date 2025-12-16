@@ -1,0 +1,11 @@
+{
+  "name": "hhg",
+  "version": "0.0.17",
+  "summary": "Hybrid file search — semantic + keyword matching",
+  "author": "nijaru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hhg-0.0.17-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-16T14:44:28.840827",
+  "package_url": "https://pypi.org/project/hhg/"
+}

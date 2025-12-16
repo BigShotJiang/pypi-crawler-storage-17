@@ -1,0 +1,11 @@
+{
+  "name": "selfdb",
+  "version": "0.0.5",
+  "summary": "Python SDK for SelfDB - Full Self-Hosted BaaS Built for AI Agents",
+  "author": "SelfDB Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "selfdb-0.0.5.tar.gz",
+  "download_time": "2025-12-16T14:44:42.556378",
+  "package_url": "https://pypi.org/project/selfdb/"
+}

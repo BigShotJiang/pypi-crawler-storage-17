@@ -1,0 +1,11 @@
+{
+  "name": "aws-mp-utils",
+  "version": "0.1.0",
+  "summary": "Package that provides utilities for handling Marketplace Catalog API in AWS Cloud.",
+  "author": "SUSE",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/SUSE-Enceladus/aws-mp-utils",
+  "download_filename": "aws_mp_utils-0.1.0.tar.gz",
+  "download_time": "2025-12-16T14:45:00.450088",
+  "package_url": "https://pypi.org/project/aws-mp-utils/"
+}

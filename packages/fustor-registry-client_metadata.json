@@ -1,11 +1,11 @@
 {
   "name": "fustor-registry-client",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Client for Fustor Registry service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_registry_client-0.1.7.tar.gz",
-  "download_time": "2025-12-16T14:15:25.762780",
+  "download_filename": "fustor_registry_client-0.1.8.tar.gz",
+  "download_time": "2025-12-16T14:44:18.747829",
   "package_url": "https://pypi.org/project/fustor-registry-client/"
 }

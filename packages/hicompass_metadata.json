@@ -1,11 +1,11 @@
 {
   "name": "hicompass",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Hi-Compass: Depth-aware deep learning framework for cell-type-specific chromatin interaction prediction from ATAC-seq",
   "author": "Yuanchen Sun",
   "license": "MIT",
   "home_page": "https://github.com/EndeavourSyc/Hi-Compass/",
-  "download_filename": "hicompass-1.0.0.tar.gz",
-  "download_time": "2025-12-16T09:46:01.065603",
+  "download_filename": "hicompass-1.0.2.tar.gz",
+  "download_time": "2025-12-16T14:44:30.553213",
   "package_url": "https://pypi.org/project/hicompass/"
 }
