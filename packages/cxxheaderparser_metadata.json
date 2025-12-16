@@ -1,0 +1,11 @@
+{
+  "name": "cxxheaderparser",
+  "version": "1.6.2",
+  "summary": "Modern C++ header parser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cxxheaderparser-1.6.2.tar.gz",
+  "download_time": "2025-12-16T05:14:44.399788",
+  "package_url": "https://pypi.org/project/cxxheaderparser/"
+}

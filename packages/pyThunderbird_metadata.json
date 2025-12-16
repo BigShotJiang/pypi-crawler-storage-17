@@ -1,0 +1,11 @@
+{
+  "name": "pyThunderbird",
+  "version": "0.3.2",
+  "summary": "python based access to Thunderbird mail with nicegui frontend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythunderbird-0.3.2.tar.gz",
+  "download_time": "2025-12-16T05:14:43.376267",
+  "package_url": "https://pypi.org/project/pyThunderbird/"
+}

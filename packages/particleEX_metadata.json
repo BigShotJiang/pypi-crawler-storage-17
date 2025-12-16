@@ -1,0 +1,11 @@
+{
+  "name": "particleEX",
+  "version": "0.0.1",
+  "summary": "PDG-powered particle data tool with multi-name variant support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "particleex-0.0.1.tar.gz",
+  "download_time": "2025-12-16T05:14:39.286612",
+  "package_url": "https://pypi.org/project/particleEX/"
+}
