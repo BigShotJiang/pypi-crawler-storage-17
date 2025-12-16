@@ -1,0 +1,11 @@
+{
+  "name": "llm-costs",
+  "version": "0.1.0",
+  "summary": "LLM cost calculator for major providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_costs-0.1.0.tar.gz",
+  "download_time": "2025-12-16T06:18:41.023831",
+  "package_url": "https://pypi.org/project/llm-costs/"
+}

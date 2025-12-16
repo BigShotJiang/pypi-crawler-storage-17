@@ -1,0 +1,11 @@
+{
+  "name": "github-pr-analyzer",
+  "version": "3.0.7",
+  "summary": "Intelligent tool for collecting, analyzing, and summarizing GitHub Pull Requests and commits",
+  "author": "GitHub PR Analyzer Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/github-pr-analyzer",
+  "download_filename": "github_pr_analyzer-3.0.7.tar.gz",
+  "download_time": "2025-12-16T06:18:18.542394",
+  "package_url": "https://pypi.org/project/github-pr-analyzer/"
+}

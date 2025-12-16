@@ -1,11 +1,11 @@
 {
   "name": "werkpool",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Worker pool in Python with size and rate bounding options",
   "author": "FlexDW",
   "license": "MIT",
   "home_page": "https://github.com/FlexDW/py-workers",
-  "download_filename": "werkpool-0.1.4.tar.gz",
-  "download_time": "2025-12-16T05:52:34.439146",
+  "download_filename": "werkpool-0.2.0.tar.gz",
+  "download_time": "2025-12-16T06:18:17.998163",
   "package_url": "https://pypi.org/project/werkpool/"
 }
