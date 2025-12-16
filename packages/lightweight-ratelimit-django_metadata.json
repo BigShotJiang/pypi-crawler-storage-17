@@ -1,0 +1,11 @@
+{
+  "name": "lightweight-ratelimit-django",
+  "version": "1.0.6",
+  "summary": "Lightweight, decorator-based rate limiting for Django views using TTL-based cache keys.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightweight_ratelimit_django-1.0.6.tar.gz",
+  "download_time": "2025-12-16T20:52:54.768668",
+  "package_url": "https://pypi.org/project/lightweight-ratelimit-django/"
+}

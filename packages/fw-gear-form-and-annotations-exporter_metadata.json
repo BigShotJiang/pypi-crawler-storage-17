@@ -1,0 +1,11 @@
+{
+  "name": "fw-gear-form-and-annotations-exporter",
+  "version": "0.2.5",
+  "summary": "Export Form Responses and/or Annotations to CSV file(s).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fw_gear_form_and_annotations_exporter-0.2.5-py3-none-any.whl",
+  "download_time": "2025-12-16T20:52:55.342688",
+  "package_url": "https://pypi.org/project/fw-gear-form-and-annotations-exporter/"
+}

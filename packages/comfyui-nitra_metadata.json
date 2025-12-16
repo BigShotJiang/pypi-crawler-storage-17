@@ -1,11 +1,11 @@
 {
   "name": "comfyui-nitra",
-  "version": "1.0.36",
+  "version": "1.0.38",
   "summary": "Nitra custom node for ComfyUI",
   "author": "Nitra Labs",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "comfyui_nitra-1.0.36-cp39-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2025-12-16T20:37:45.760603",
+  "download_filename": "comfyui_nitra-1.0.38-cp39-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-12-16T20:52:50.099136",
   "package_url": "https://pypi.org/project/comfyui-nitra/"
 }

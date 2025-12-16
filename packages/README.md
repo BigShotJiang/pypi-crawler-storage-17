@@ -1,13 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T20:37:51.365965
-- **Total Packages**: 84
-- **Total Size**: 53.56 MB
+- **Download Time**: 2025-12-16T20:53:30.132507
+- **Total Packages**: 85
+- **Total Size**: 33.76 MB
 
 ## Packages List
-- mlx-audio
+- cybrid-api-organization-python
+- MyoGen
+- vivarium
+- turintech_dev_utils
+- turintech_data_types
+- uvrules
+- thrash-protect
+- sqlsession
+- giftpy
+- pulumi-provider-boilerplate
+- pyaether
+- wikirate4py
+- factpulse
+- django-admin-range
+- comfyui-nitra
+- pulumi-xyz
+- dataops-testgen
+- twize
+- small-cache
+- gsam-utils
+- bugcam
+- fsai-proto-specs
+- lightweight-ratelimit-django
+- fw-gear-form-and-annotations-exporter
+- dkist-processing-cryonirsp
+- rocket-welder-sdk
+- eagle-tools
+- together
+- onnxscript
+- isqx
+- pyrig
+- polars-fastembed
+- fastloop
+- transformerlab
+- abstract-webtools
+- amalgam-lang
+- openc3
+- macsdk
+- sgraph
+- pyauto-desktop
+- skillport
+- quantum-simulator
+- knowgraph
+- dkist-processing-visp
 - matiopy
+- fabric-cicd
+- coinmetrics-api-client
+- ExoIris
+- lf-jump-starter
+- kathir-bloom-filter
+- gabriel-client
+- krewlyzer
+- mlx-audio
 - pushikoo-pusher-onebot
 - rykit
 - autocleaneeg-sl
@@ -19,14 +70,11 @@
 - fr-config
 - cisco-ai-mcp-scanner
 - not1mm
-- knowgraph
 - localstack-core
 - dbt-fusion-package-tools
 - dbt-autofix
-- abstract-webtools
 - polars-fastembed-cpu
 - selfies-tokenizer
-- pulumi-provider-boilerplate
 - Pairip
 - claude-linear
 - prqlc
@@ -43,50 +91,3 @@
 - pgfast
 - ai-md-scaffold
 - infrahub-server
-- reflex-hosting-cli
-- infrahub-testcontainers
-- netbox-services
-- watertap
-- earth-viz
-- ascend-boto3-wrapper
-- cursor-wrapped
-- ascend-ai-sdk
-- policyengine-api-simulation-client
-- policyengine-api-full-client
-- pulumi-xyz
-- fraiseql
-- bugcam
-- pulp-container
-- pulp-container-client
-- b2aiprep
-- muoblpsolvers
-- assemblyline-core
-- owid-grapher-py
-- assemblyline
-- assemblyline-v4-service
-- amazing-marvin-mcp-qemqemqem
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- iatoolkit
-- dkist-processing-core
-- mcp-search-server
-- nominal-api-protos
-- nominal-api
-- fastrub
-- django-blti
-- langchain-openai
-- quillmark
-- instinct8-agent
-- ghidrecomp
-- suricata-language-server
-- KekikStream
-- comfyui-nitra
-- atk-common
-- fastcrud
-- medical-mcps
-- simple-result
-- ddtrace
-- firecrawl
-- ty
-- firecrawl-py
