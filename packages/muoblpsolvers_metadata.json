@@ -1,0 +1,11 @@
+{
+  "name": "muoblpsolvers",
+  "version": "0.0.13",
+  "summary": "Solvers for multi objective linear programming",
+  "author": "Piotr Skowron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "muoblpsolvers-0.0.13.tar.gz",
+  "download_time": "2025-12-16T20:37:34.045550",
+  "package_url": "https://pypi.org/project/muoblpsolvers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-result",
+  "version": "0.2.0",
+  "summary": "A very simple, fully typed Rust-like Result type for Python 3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_result-0.2.0.tar.gz",
+  "download_time": "2025-12-16T20:37:47.856904",
+  "package_url": "https://pypi.org/project/simple-result/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memtab",
+  "version": "1.0.7",
+  "summary": "ELF File Memory Tabulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memtab-1.0.7.tar.gz",
+  "download_time": "2025-12-16T20:37:07.698682",
+  "package_url": "https://pypi.org/project/memtab/"
+}

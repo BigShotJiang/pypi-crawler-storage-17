@@ -1,0 +1,11 @@
+{
+  "name": "mlx-audio",
+  "version": "0.2.7",
+  "summary": "MLX-Audio is a package for inference of text-to-speech (TTS) and speech-to-speech (STS) models locally on your Mac using MLX",
+  "author": "Prince Canuma",
+  "license": "MIT",
+  "home_page": "https://github.com/Blaizzy/mlx-audio",
+  "download_filename": "mlx_audio-0.2.7.tar.gz",
+  "download_time": "2025-12-16T20:37:04.497576",
+  "package_url": "https://pypi.org/project/mlx-audio/"
+}

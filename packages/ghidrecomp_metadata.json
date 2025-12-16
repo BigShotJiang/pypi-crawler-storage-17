@@ -1,0 +1,11 @@
+{
+  "name": "ghidrecomp",
+  "version": "0.5.8",
+  "summary": "Python Command-Line Ghidra Decomplier",
+  "author": "clearbluejar",
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/clearbluejar/ghidrecomp",
+  "download_filename": "ghidrecomp-0.5.8.tar.gz",
+  "download_time": "2025-12-16T20:37:44.142541",
+  "package_url": "https://pypi.org/project/ghidrecomp/"
+}

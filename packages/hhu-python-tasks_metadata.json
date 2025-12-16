@@ -1,0 +1,11 @@
+{
+  "name": "hhu-python-tasks",
+  "version": "0.20.1",
+  "summary": "invoke-specific tasks for Python projects",
+  "author": "Detlef Lannert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hhu_python_tasks-0.20.1.tar.gz",
+  "download_time": "2025-12-16T20:37:18.317676",
+  "package_url": "https://pypi.org/project/hhu-python-tasks/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "watertap",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "WaterTAP modeling library",
   "author": "NAWI team",
   "license": "BSD",
   "home_page": "https://github.com/watertap-org/watertap",
-  "download_filename": "watertap-1.4.0.tar.gz",
-  "download_time": "2025-12-15T19:12:40.018858",
+  "download_filename": "watertap-1.5.0.tar.gz",
+  "download_time": "2025-12-16T20:37:26.736731",
   "package_url": "https://pypi.org/project/watertap/"
 }

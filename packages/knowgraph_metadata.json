@@ -1,11 +1,11 @@
 {
   "name": "knowgraph",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Knowledge Graph-Powered RAG system for code understanding",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "knowgraph-0.2.1.tar.gz",
-  "download_time": "2025-12-16T20:13:35.991500",
+  "download_filename": "knowgraph-0.2.2.tar.gz",
+  "download_time": "2025-12-16T20:37:11.431964",
   "package_url": "https://pypi.org/project/knowgraph/"
 }
