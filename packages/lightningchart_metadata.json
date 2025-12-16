@@ -1,0 +1,11 @@
+{
+  "name": "lightningchart",
+  "version": "2.1.0",
+  "summary": "An interactive high-performance data visualization library",
+  "author": "LightningChart Ltd.",
+  "license": null,
+  "home_page": "https://lightningchart.com/python-charts/",
+  "download_filename": "lightningchart-2.1.0-py3-none-any.whl",
+  "download_time": "2025-12-16T07:16:07.890688",
+  "package_url": "https://pypi.org/project/lightningchart/"
+}

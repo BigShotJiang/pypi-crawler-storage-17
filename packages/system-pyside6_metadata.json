@@ -1,0 +1,11 @@
+{
+  "name": "system-pyside6",
+  "version": "0.1.0",
+  "summary": "A Python package that exposes system-installed PySide6 packages into a virtual environment.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "system_pyside6-0.1.0.tar.gz",
+  "download_time": "2025-12-16T07:16:22.164779",
+  "package_url": "https://pypi.org/project/system-pyside6/"
+}

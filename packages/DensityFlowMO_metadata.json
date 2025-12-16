@@ -1,11 +1,11 @@
 {
   "name": "DensityFlowMO",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Learning multi-omics perturbation language",
   "author": "Feng Zeng",
   "license": null,
   "home_page": "https://github.com/ZengFLab/DensityFlowMO",
-  "download_filename": "densityflowmo-0.0.3.tar.gz",
-  "download_time": "2025-12-16T06:54:24.218767",
+  "download_filename": "densityflowmo-0.0.4.tar.gz",
+  "download_time": "2025-12-16T07:16:15.120669",
   "package_url": "https://pypi.org/project/DensityFlowMO/"
 }

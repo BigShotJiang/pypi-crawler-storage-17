@@ -1,0 +1,11 @@
+{
+  "name": "odoo-plugin-manager",
+  "version": "0.6.1",
+  "summary": "OPM - Plugin Manager for Odoo (CLI)",
+  "author": "Ahmet Atakan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_plugin_manager-0.6.1.tar.gz",
+  "download_time": "2025-12-16T07:15:59.766085",
+  "package_url": "https://pypi.org/project/odoo-plugin-manager/"
+}

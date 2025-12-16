@@ -1,0 +1,11 @@
+{
+  "name": "lm-deluge",
+  "version": "0.0.88",
+  "summary": "Python utility for using LLM API models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lm_deluge-0.0.88.tar.gz",
+  "download_time": "2025-12-16T07:15:55.553344",
+  "package_url": "https://pypi.org/project/lm-deluge/"
+}
