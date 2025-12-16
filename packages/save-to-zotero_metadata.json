@@ -1,0 +1,11 @@
+{
+  "name": "save-to-zotero",
+  "version": "1.2.1",
+  "summary": "Save webpages as PDFs and add them to Zotero",
+  "author": "save_to_zotero",
+  "license": null,
+  "home_page": "https://github.com/thiswillbeyourgithub/save_to_zotero",
+  "download_filename": "save_to_zotero-1.2.1.tar.gz",
+  "download_time": "2025-12-16T18:53:18.333670",
+  "package_url": "https://pypi.org/project/save-to-zotero/"
+}

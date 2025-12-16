@@ -1,0 +1,11 @@
+{
+  "name": "unstructured-client",
+  "version": "0.42.5",
+  "summary": "Python Client SDK for Unstructured API",
+  "author": "Unstructured",
+  "license": "MIT",
+  "home_page": "https://github.com/Unstructured-IO/unstructured-python-client.git",
+  "download_filename": "unstructured_client-0.42.5.tar.gz",
+  "download_time": "2025-12-16T18:53:27.195558",
+  "package_url": "https://pypi.org/project/unstructured-client/"
+}

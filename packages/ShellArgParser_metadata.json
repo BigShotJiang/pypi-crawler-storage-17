@@ -1,0 +1,11 @@
+{
+  "name": "ShellArgParser",
+  "version": "0.2.4",
+  "summary": "Simple tool to parse shell arguments using eval",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/thiswillbeyourgithub/ShellArgParser",
+  "download_filename": "shellargparser-0.2.4.tar.gz",
+  "download_time": "2025-12-16T18:53:11.541408",
+  "package_url": "https://pypi.org/project/ShellArgParser/"
+}

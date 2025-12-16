@@ -1,0 +1,11 @@
+{
+  "name": "openhands-sdk",
+  "version": "1.6.0",
+  "summary": "OpenHands SDK - Core functionality for building AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openhands_sdk-1.6.0.tar.gz",
+  "download_time": "2025-12-16T18:53:02.545512",
+  "package_url": "https://pypi.org/project/openhands-sdk/"
+}

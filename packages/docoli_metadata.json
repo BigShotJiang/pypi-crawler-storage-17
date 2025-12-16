@@ -1,0 +1,11 @@
+{
+  "name": "docoli",
+  "version": "1.0.3",
+  "summary": "Config linker for chezmoi and Nextcloud",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docoli-1.0.3.tar.gz",
+  "download_time": "2025-12-16T18:53:20.415091",
+  "package_url": "https://pypi.org/project/docoli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iron-sdk",
+  "version": "0.2.0",
+  "summary": "Pythonic SDK layer for Iron Cage agent protection with decorators and framework integrations",
+  "author": "Iron Cage Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iron_sdk-0.2.0.tar.gz",
+  "download_time": "2025-12-16T18:53:24.071868",
+  "package_url": "https://pypi.org/project/iron-sdk/"
+}

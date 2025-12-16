@@ -1,0 +1,11 @@
+{
+  "name": "pyinstantmeshes",
+  "version": "1.0.0",
+  "summary": "Python bindings for Instant Meshes - fast automatic retopology",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyinstantmeshes-1.0.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-16T18:52:54.705792",
+  "package_url": "https://pypi.org/project/pyinstantmeshes/"
+}

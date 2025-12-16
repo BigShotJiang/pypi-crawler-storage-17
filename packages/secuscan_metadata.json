@@ -1,0 +1,11 @@
+{
+  "name": "secuscan",
+  "version": "0.0.1",
+  "summary": "Placeholder for SecuScan name reservation",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "secuscan-0.0.1.tar.gz",
+  "download_time": "2025-12-16T18:53:32.442984",
+  "package_url": "https://pypi.org/project/secuscan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iron-cage",
+  "version": "0.2.0",
+  "summary": "Iron SDK - Python SDK for AI agent protection with LLM proxy and safety controls",
+  "author": "Iron Cage Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iron_cage-0.2.0.tar.gz",
+  "download_time": "2025-12-16T18:53:23.552565",
+  "package_url": "https://pypi.org/project/iron-cage/"
+}
