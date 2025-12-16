@@ -1,0 +1,11 @@
+{
+  "name": "intela-unibot",
+  "version": "1.0.1",
+  "summary": "edX plugin for Uni Bot setup",
+  "author": "Intela",
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "intela_unibot-1.0.1.tar.gz",
+  "download_time": "2025-12-16T16:16:23.986555",
+  "package_url": "https://pypi.org/project/intela-unibot/"
+}

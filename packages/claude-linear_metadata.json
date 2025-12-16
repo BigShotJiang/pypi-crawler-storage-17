@@ -1,0 +1,11 @@
+{
+  "name": "claude-linear",
+  "version": "0.1.0",
+  "summary": "Automate software development with Claude Code, Linear, and GitHub Actions",
+  "author": "Anthropic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_linear-0.1.0.tar.gz",
+  "download_time": "2025-12-16T16:16:13.048774",
+  "package_url": "https://pypi.org/project/claude-linear/"
+}

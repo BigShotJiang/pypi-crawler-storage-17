@@ -1,0 +1,11 @@
+{
+  "name": "hearken",
+  "version": "0.4.0",
+  "summary": "Robust speech recognition pipeline that prevents audio drops",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hearken-0.4.0.tar.gz",
+  "download_time": "2025-12-16T16:15:38.096429",
+  "package_url": "https://pypi.org/project/hearken/"
+}

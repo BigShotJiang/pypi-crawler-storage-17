@@ -1,0 +1,11 @@
+{
+  "name": "me-mover",
+  "version": "3.2.1",
+  "summary": "Organize movies and tv-shows",
+  "author": "Alexander Berlind",
+  "license": null,
+  "home_page": null,
+  "download_filename": "me_mover-3.2.1.tar.gz",
+  "download_time": "2025-12-16T16:16:05.657543",
+  "package_url": "https://pypi.org/project/me-mover/"
+}

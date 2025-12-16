@@ -1,0 +1,11 @@
+{
+  "name": "certbot-deployer",
+  "version": "2.1.1",
+  "summary": "certbot_deployer Pluggable certbot deploy hook framework",
+  "author": "IAS",
+  "license": null,
+  "home_page": "https://github.com/theias/certbot_deployer",
+  "download_filename": "certbot_deployer-2.1.1.tar.gz",
+  "download_time": "2025-12-16T16:16:18.807118",
+  "package_url": "https://pypi.org/project/certbot-deployer/"
+}

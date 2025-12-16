@@ -1,0 +1,11 @@
+{
+  "name": "cs3client",
+  "version": "1.6.0",
+  "summary": "CS3 client for Python",
+  "author": "Rasmus Welander, Diogo Castro, Giuseppe Lo Presti",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/cs3org/cs3-python-client",
+  "download_filename": "cs3client-1.6.0.tar.gz",
+  "download_time": "2025-12-16T16:16:05.147032",
+  "package_url": "https://pypi.org/project/cs3client/"
+}
