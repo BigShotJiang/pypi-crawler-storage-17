@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-error-reporting",
+  "version": "1.14.0",
+  "summary": "Google Cloud Error Reporting API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/python-error-reporting",
+  "download_filename": "google_cloud_error_reporting-1.14.0.tar.gz",
+  "download_time": "2025-12-16T22:33:16.086933",
+  "package_url": "https://pypi.org/project/google-cloud-error-reporting/"
+}

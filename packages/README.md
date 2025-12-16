@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T22:12:29.257612
-- **Total Packages**: 100
-- **Total Size**: 30.16 MB
+- **Download Time**: 2025-12-16T22:33:58.772972
+- **Total Packages**: 97
+- **Total Size**: 38.72 MB
 
 ## Packages List
+- pypicoboot
+- GEOS5FP
+- sentry-options
+- solarwinds-apm
+- tensor-truth
+- sqlglot
+- sentry-arroyo
+- traia-iatp
+- conformity-calib
+- ai-todo
+- jobbergate-core
+- jobbergate-api
+- jobbergate-agent
+- jobbergate-cli
+- truss
+- scc-cli
+- ez_ados
+- agentready
+- drm-protect
+- ivybloom
+- netrise-turbine-sdk
+- google-cloud-error-reporting
+- scloop
+- pyxindy
+- chaiverse
+- leap-bundle
+- dkist-data-simulator
+- quillmark
+- xsuite
 - cycls
 - rxlm
 - istari-digital-client
@@ -39,7 +68,6 @@
 - vision-agents-plugins-aws
 - vision-agents-plugins-anthropic
 - vision-agents
-- ez_ados
 - RegularizedDiscriminantAnalysis
 - mfi-mpower
 - mlforge-sdk
@@ -75,34 +103,3 @@
 - livekit-plugins-langchain
 - livekit-plugins-inworld
 - livekit-plugins-hume
-- livekit-plugins-hedra
-- livekit-plugins-groq
-- livekit-plugins-gradium
-- livekit-plugins-google
-- livekit-plugins-gladia
-- livekit-plugins-fishaudio
-- livekit-plugins-fireworksai
-- livekit-plugins-fal
-- livekit-plugins-elevenlabs
-- livekit-plugins-deepgram
-- livekit-plugins-clova
-- livekit-plugins-cartesia
-- livekit-plugins-bithuman
-- livekit-plugins-bey
-- livekit-plugins-baseten
-- livekit-plugins-azure
-- livekit-plugins-aws
-- livekit-plugins-avatartalk
-- livekit-plugins-assemblyai
-- livekit-plugins-anthropic
-- livekit-plugins-anam
-- livekit-agents
-- container-magic
-- FLiESANN
-- kalshi-python-async
-- kalshi-python-sync
-- comfyui-nitra
-- inception-reports
-- sentry-options
-- biosero-data-models
-- LineDream

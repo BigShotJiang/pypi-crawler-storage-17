@@ -1,11 +1,11 @@
 {
   "name": "xsuite",
-  "version": "0.45.9",
+  "version": "0.45.10",
   "summary": "Integrated suite for particle accelerator simulations.",
   "author": "Riccardo De Maria, Giovanni Iadarola, Szymon Łopaciuk, et al.",
   "license": null,
   "home_page": null,
-  "download_filename": "xsuite-0.45.9.tar.gz",
-  "download_time": "2025-12-16T21:32:18.967827",
+  "download_filename": "xsuite-0.45.10.tar.gz",
+  "download_time": "2025-12-16T22:33:20.743627",
   "package_url": "https://pypi.org/project/xsuite/"
 }
