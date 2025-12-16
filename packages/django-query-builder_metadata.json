@@ -1,0 +1,11 @@
+{
+  "name": "django-query-builder",
+  "version": "3.2.1",
+  "summary": "Build complex nested queries",
+  "author": "Wes Okes",
+  "license": "MIT",
+  "home_page": "https://github.com/ambitioninc/django-query-builder",
+  "download_filename": "django_query_builder-3.2.1.tar.gz",
+  "download_time": "2025-12-16T04:53:45.925306",
+  "package_url": "https://pypi.org/project/django-query-builder/"
+}

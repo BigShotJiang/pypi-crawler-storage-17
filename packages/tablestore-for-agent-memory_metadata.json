@@ -1,0 +1,11 @@
+{
+  "name": "tablestore-for-agent-memory",
+  "version": "1.1.2",
+  "summary": "Tablestore for Agent Memory in AI Agent.",
+  "author": "xunjian.sl",
+  "license": "Apache-2.0",
+  "home_page": "https://www.aliyun.com/product/ots",
+  "download_filename": "tablestore_for_agent_memory-1.1.2.tar.gz",
+  "download_time": "2025-12-16T04:53:54.310036",
+  "package_url": "https://pypi.org/project/tablestore-for-agent-memory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ski-resort-lift-status",
+  "version": "1.0.0",
+  "summary": "Aggregated reporting of lift status at various ski resorts",
+  "author": "NietoSkunk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ski_resort_lift_status-1.0.0.tar.gz",
+  "download_time": "2025-12-16T04:53:42.577718",
+  "package_url": "https://pypi.org/project/ski-resort-lift-status/"
+}
