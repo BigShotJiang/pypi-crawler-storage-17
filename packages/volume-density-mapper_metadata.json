@@ -1,0 +1,11 @@
+{
+  "name": "volume-density-mapper",
+  "version": "0.1.4",
+  "summary": "Reconstructs 3D density distributions from 2D column density maps using constrained diffusion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "volume_density_mapper-0.1.4.tar.gz",
+  "download_time": "2025-12-16T07:40:39.843848",
+  "package_url": "https://pypi.org/project/volume-density-mapper/"
+}

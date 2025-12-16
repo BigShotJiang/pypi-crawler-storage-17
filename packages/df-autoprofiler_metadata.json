@@ -1,11 +1,11 @@
 {
   "name": "df-autoprofiler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Automated data profiling and exploratory analysis for tabular datasets.",
   "author": "Cameron Scolari",
   "license": null,
   "home_page": null,
-  "download_filename": "df_autoprofiler-0.1.0.tar.gz",
-  "download_time": "2025-12-16T07:16:01.872622",
+  "download_filename": "df_autoprofiler-0.1.1.tar.gz",
+  "download_time": "2025-12-16T07:40:58.730992",
   "package_url": "https://pypi.org/project/df-autoprofiler/"
 }

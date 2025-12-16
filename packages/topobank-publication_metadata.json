@@ -1,0 +1,11 @@
+{
+  "name": "topobank-publication",
+  "version": "1.10.0",
+  "summary": "This is a plugin for \"topobank\" for publishing digital surface twins (including assigning DOIs) via DataCite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "topobank_publication-1.10.0.tar.gz",
+  "download_time": "2025-12-16T07:40:40.946628",
+  "package_url": "https://pypi.org/project/topobank-publication/"
+}

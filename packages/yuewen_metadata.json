@@ -1,0 +1,11 @@
+{
+  "name": "yuewen",
+  "version": "0.0.38",
+  "summary": "阅文小说平台的方法封装",
+  "author": "ZeroSeeker",
+  "license": null,
+  "home_page": "https://gitee.com/ZeroSeeker/yuewen",
+  "download_filename": "yuewen-0.0.38.tar.gz",
+  "download_time": "2025-12-16T07:40:49.325017",
+  "package_url": "https://pypi.org/project/yuewen/"
+}

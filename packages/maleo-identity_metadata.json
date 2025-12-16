@@ -1,11 +1,11 @@
 {
   "name": "maleo-identity",
-  "version": "0.1.62",
+  "version": "0.1.63",
   "summary": "MaleoIdentity service package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_identity-0.1.62.tar.gz",
-  "download_time": "2025-12-15T16:16:28.287245",
+  "download_filename": "maleo_identity-0.1.63.tar.gz",
+  "download_time": "2025-12-16T07:41:04.555225",
   "package_url": "https://pypi.org/project/maleo-identity/"
 }

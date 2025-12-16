@@ -1,0 +1,11 @@
+{
+  "name": "feapder",
+  "version": "1.9.3",
+  "summary": "feapder是一款支持分布式、批次采集、数据防丢、报警丰富的python爬虫框架",
+  "author": "Boris",
+  "license": "MIT",
+  "home_page": "https://github.com/Boris-code/feapder.git",
+  "download_filename": "feapder-1.9.3.tar.gz",
+  "download_time": "2025-12-16T07:40:51.413389",
+  "package_url": "https://pypi.org/project/feapder/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "uvtx",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "A modern Python task runner built for uv with profiles, inheritance, and PEP 723 support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uvtx-0.2.0.tar.gz",
-  "download_time": "2025-12-15T07:42:11.165484",
+  "download_filename": "uvtx-0.3.1.tar.gz",
+  "download_time": "2025-12-16T07:40:41.473318",
   "package_url": "https://pypi.org/project/uvtx/"
 }

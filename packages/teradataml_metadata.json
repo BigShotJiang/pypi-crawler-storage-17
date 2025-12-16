@@ -1,0 +1,11 @@
+{
+  "name": "teradataml",
+  "version": "20.0.0.9",
+  "summary": "Teradata Vantage Python package for Advanced Analytics",
+  "author": "Teradata Corporation",
+  "license": "Teradata License Agreement",
+  "home_page": "http://www.teradata.com/",
+  "download_filename": "teradataml-20.0.0.9-py3-none-any.whl",
+  "download_time": "2025-12-16T07:40:54.567502",
+  "package_url": "https://pypi.org/project/teradataml/"
+}

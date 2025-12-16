@@ -1,0 +1,11 @@
+{
+  "name": "phonofix",
+  "version": "0.3.1",
+  "summary": "Multilingual phonetic-similarity replacement engine — a proper-noun substitution tool based on phonetic similarity, supporting ASR/LLM post-processing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phonofix-0.3.1.tar.gz",
+  "download_time": "2025-12-16T07:41:15.496738",
+  "package_url": "https://pypi.org/project/phonofix/"
+}
