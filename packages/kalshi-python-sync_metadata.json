@@ -1,0 +1,11 @@
+{
+  "name": "kalshi-python-sync",
+  "version": "3.2.0",
+  "summary": "Manually defined OpenAPI spec for endpoints being migrated to spec-first approach",
+  "author": null,
+  "license": "LicenseRef-Proprietary",
+  "home_page": null,
+  "download_filename": "kalshi_python_sync-3.2.0.tar.gz",
+  "download_time": "2025-12-16T22:12:26.135571",
+  "package_url": "https://pypi.org/project/kalshi-python-sync/"
+}
