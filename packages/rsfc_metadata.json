@@ -1,0 +1,11 @@
+{
+  "name": "rsfc",
+  "version": "0.0.7",
+  "summary": "EVERSE Research Software Fairness Checks",
+  "author": "Andres Montero",
+  "license": "MIT",
+  "home_page": "https://github.com/oeg-upm/rsfc",
+  "download_filename": "rsfc-0.0.7.tar.gz",
+  "download_time": "2025-12-16T11:31:57.099449",
+  "package_url": "https://pypi.org/project/rsfc/"
+}

@@ -1,17 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T11:13:28.222822
-- **Total Packages**: 92
-- **Total Size**: 30.75 MB
+- **Download Time**: 2025-12-16T11:32:43.905358
+- **Total Packages**: 83
+- **Total Size**: 13.96 MB
 
 ## Packages List
+- rfc9420
+- cloud-cert-renewer
+- innaguma-mcp
+- distributex-cloud
+- rsfc
+- supervisely
+- orun-py
+- wetlands
+- speechall
+- uipath
+- scc-firewall-manager-sdk
+- django-ip-access-middleware
+- slapos.core
+- catch-them-all
+- llama-index-digitalocean-embeddings
+- batrachian-toad
+- mistocr
+- datamind-ai
+- openmeter
+- nyancad
+- gguf-cua
+- whatsapp-toolkit
+- electricsystemclasses
+- data-science-document-ai
+- typus-dsl
+- sqladbx
+- ewoksid31
+- reaktiv
+- uproot
+- chapkit
+- GPTQModel
+- lazyclaude
+- nahiarhdNLP
+- charonload
+- py-pdf-compress
+- deknp
 - pg0-embedded
 - datapizza-ai-core
 - llm-goose
 - python-cdo-wrapper
 - arp-standard-py
-- py-pdf-compress
 - pina-mathlab
 - tabfix-tool
 - fast-mu-builder
@@ -21,28 +56,22 @@
 - libsemigroups-pybind11
 - pypi-fairylandlogger
 - ddtrace
-- typus-dsl
 - propp-fr
-- cloud-cert-renewer
 - polars-luxical
 - trainy-policy-nightly
-- batrachian-toad
 - orq-ai-sdk
 - trainy-mlop-nightly
 - visioncube
-- orun-py
 - nvidia-nat-redis
 - nvidia-nat-data-flywheel
 - sqltypes
 - nvidia-nat-semantic-kernel
 - environ-odoo-config
 - nvidia-nat-opentelemetry
-- uipath
 - modbus-api
 - nvidia-nat-openpipe-art
 - nvidia-nat-llama-index
 - pyneuphonic
-- gguf-cua
 - nvidia-nat-mem0ai
 - nvidia-nat-langchain
 - nvidia-nat-phoenix
@@ -60,41 +89,3 @@
 - PraisonAI
 - release-gh-action
 - stonefish-license-manager
-- nvidia-nat-agno
-- icat-plus-client
-- nvidia-nat-strands
-- nvidia-nat-ingestion
-- check-datapackage
-- letta-nightly
-- pyrethrin
-- nvidia-nat-mysql
-- fusesell
-- nvidia-nat-vanna
-- voluntrain
-- paytechuz
-- nvidia-nat-mcp
-- nvidia-nat-ragaai
-- nvidia-nat-profiling
-- praisonaiagents
-- nvidia-nat-adk
-- nvidia-nat-nemo-customizer
-- nvidia-nat-s3
-- retab
-- nvidia-nat-weave
-- aiqtoolkit-crewai
-- any-llm-sdk
-- relenv
-- llama-index-digitalocean-embeddings
-- aiqtoolkit-weave
-- aiqtoolkit-test
-- openmeter
-- aiqtoolkit-semantic-kernel
-- imio.zamqp.pm
-- aiqtoolkit-agno
-- myboot
-- aiqtoolkit-langchain
-- slotixmcp
-- aiqtoolkit-zep-cloud
-- cv-matcher
-- imio.zamqp.core
-- aiqtoolkit-llama-index

@@ -1,11 +1,11 @@
 {
   "name": "electricsystemclasses",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "A collection of electric system components classes for simulation purposes",
   "author": "ropimen",
   "license": "Server Side Public License (SSPL), Version 1.0",
   "home_page": null,
-  "download_filename": "electricsystemclasses-2.3.0.tar.gz",
-  "download_time": "2025-12-16T10:44:09.455807",
+  "download_filename": "electricsystemclasses-2.3.1.tar.gz",
+  "download_time": "2025-12-16T11:32:09.055804",
   "package_url": "https://pypi.org/project/electricsystemclasses/"
 }

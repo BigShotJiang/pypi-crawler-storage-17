@@ -1,0 +1,11 @@
+{
+  "name": "sqladbx",
+  "version": "0.0.4",
+  "summary": "Modern async SQLAlchemy database context manager for FastAPI, Taskiq, Temporal, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqladbx-0.0.4.tar.gz",
+  "download_time": "2025-12-16T11:32:10.804129",
+  "package_url": "https://pypi.org/project/sqladbx/"
+}

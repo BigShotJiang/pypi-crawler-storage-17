@@ -1,0 +1,11 @@
+{
+  "name": "catch-them-all",
+  "version": "1.0.0",
+  "summary": "Not just a traceback formatter — but a universal exception handler. A single @decorator that transforms every exception into a structured, multi-format report",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "catch_them_all-1.0.0.tar.gz",
+  "download_time": "2025-12-16T11:32:03.111208",
+  "package_url": "https://pypi.org/project/catch-them-all/"
+}

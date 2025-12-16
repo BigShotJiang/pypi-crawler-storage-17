@@ -1,11 +1,11 @@
 {
   "name": "GPTQModel",
-  "version": "5.6.8",
+  "version": "5.6.10",
   "summary": "Production ready LLM model compression/quantization toolkit with hw accelerated inference support for both cpu/gpu via HF, vLLM, and SGLang.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gptqmodel-5.6.8.tar.gz",
-  "download_time": "2025-12-16T05:38:22.275377",
+  "download_filename": "gptqmodel-5.6.10.tar.gz",
+  "download_time": "2025-12-16T11:32:14.093874",
   "package_url": "https://pypi.org/project/GPTQModel/"
 }

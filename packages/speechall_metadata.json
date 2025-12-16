@@ -1,0 +1,11 @@
+{
+  "name": "speechall",
+  "version": "0.3.0",
+  "summary": "Python SDK for Speechall API - Speech-to-text transcription service",
+  "author": "Speechall",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speechall-0.3.0.tar.gz",
+  "download_time": "2025-12-16T11:31:59.763194",
+  "package_url": "https://pypi.org/project/speechall/"
+}
