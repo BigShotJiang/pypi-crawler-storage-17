@@ -1,0 +1,11 @@
+{
+  "name": "libuuu",
+  "version": "1.5.243",
+  "summary": "A python wraper for libuuu.",
+  "author": "NXP",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "libuuu-1.5.243-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-16T14:58:27.758421",
+  "package_url": "https://pypi.org/project/libuuu/"
+}

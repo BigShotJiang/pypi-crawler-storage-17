@@ -1,0 +1,11 @@
+{
+  "name": "l3d-rs-python",
+  "version": "0.2.3",
+  "summary": "Python bindings for l3d-rs - L3D luminaire file format parser",
+  "author": null,
+  "license": "MIT OR GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "l3d_rs_python-0.2.3.tar.gz",
+  "download_time": "2025-12-16T14:59:23.096195",
+  "package_url": "https://pypi.org/project/l3d-rs-python/"
+}

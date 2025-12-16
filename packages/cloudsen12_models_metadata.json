@@ -1,0 +1,11 @@
+{
+  "name": "cloudsen12_models",
+  "version": "1.0.1",
+  "summary": "🛰️ CloudSEN12 models",
+  "author": "Gonzalo Mateo-García",
+  "license": "\tLGPL-3.0",
+  "home_page": "https://github.com/IPL-UV/cloudsen12_models",
+  "download_filename": "cloudsen12_models-1.0.1.tar.gz",
+  "download_time": "2025-12-16T14:58:45.423299",
+  "package_url": "https://pypi.org/project/cloudsen12_models/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymiecs",
+  "version": "0.5",
+  "summary": "A simple python Mie solver for core-shell nano-spheres.",
+  "author": "Peter R. Wiecha",
+  "license": "GPLv3+",
+  "home_page": "https://gitlab.com/wiechapeter/pymiecs",
+  "download_filename": "pymiecs-0.5.tar.gz",
+  "download_time": "2025-12-16T14:59:17.452965",
+  "package_url": "https://pypi.org/project/pymiecs/"
+}

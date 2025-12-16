@@ -1,11 +1,11 @@
 {
   "name": "fmtr.tools",
-  "version": "1.4.7",
+  "version": "1.4.9",
   "summary": "Collection of high-level tools to simplify everyday development tasks, with a focus on AI/ML",
   "author": "Frontmatter",
   "license": "Copyright © 2025 Frontmatter. All rights reserved.",
   "home_page": "https://github.com/fmtr/fmtr.tools",
-  "download_filename": "fmtr_tools-1.4.7.tar.gz",
-  "download_time": "2025-12-16T14:15:15.003492",
+  "download_filename": "fmtr_tools-1.4.9.tar.gz",
+  "download_time": "2025-12-16T14:59:22.457836",
   "package_url": "https://pypi.org/project/fmtr.tools/"
 }

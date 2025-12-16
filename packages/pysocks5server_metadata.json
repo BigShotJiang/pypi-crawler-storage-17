@@ -1,0 +1,11 @@
+{
+  "name": "pysocks5server",
+  "version": "0.1.2",
+  "summary": "Simple socks5 proxy server",
+  "author": "RuslanUC",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysocks5server-0.1.2.tar.gz",
+  "download_time": "2025-12-16T14:59:12.222192",
+  "package_url": "https://pypi.org/project/pysocks5server/"
+}

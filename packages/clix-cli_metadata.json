@@ -1,0 +1,11 @@
+{
+  "name": "clix-cli",
+  "version": "0.1.2",
+  "summary": "A terminal-based AI companion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clix_cli-0.1.2.tar.gz",
+  "download_time": "2025-12-16T14:58:26.905017",
+  "package_url": "https://pypi.org/project/clix-cli/"
+}
