@@ -1,0 +1,11 @@
+{
+  "name": "caen-libs",
+  "version": "3.1.0",
+  "summary": "Official Python binding for CAEN VMELib, CAEN Comm, CAEN Digitizer, CAEN PLU, CAEN HV Wrapper and CAEN DPP Library.",
+  "author": "Giovanni Cerretani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "caen_libs-3.1.0.tar.gz",
+  "download_time": "2025-12-16T08:51:25.455166",
+  "package_url": "https://pypi.org/project/caen-libs/"
+}

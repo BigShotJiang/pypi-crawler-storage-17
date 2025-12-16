@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-mobilenetwork",
+  "version": "3.3.1",
+  "summary": "Microsoft Azure Mobilenetwork Management Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_mgmt_mobilenetwork-3.3.1.tar.gz",
+  "download_time": "2025-12-16T08:51:12.047834",
+  "package_url": "https://pypi.org/project/azure-mgmt-mobilenetwork/"
+}

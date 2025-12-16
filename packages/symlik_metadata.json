@@ -1,0 +1,11 @@
+{
+  "name": "symlik",
+  "version": "0.2.0",
+  "summary": "Symbolic likelihood models for statistical inference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "symlik-0.2.0.tar.gz",
+  "download_time": "2025-12-16T08:50:51.407577",
+  "package_url": "https://pypi.org/project/symlik/"
+}

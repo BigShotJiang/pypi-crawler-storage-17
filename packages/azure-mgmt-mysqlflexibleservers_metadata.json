@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-mysqlflexibleservers",
+  "version": "1.0.0",
+  "summary": "Microsoft Azure Mysqlflexibleservers Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_mysqlflexibleservers-1.0.0.tar.gz",
+  "download_time": "2025-12-16T08:51:13.611679",
+  "package_url": "https://pypi.org/project/azure-mgmt-mysqlflexibleservers/"
+}

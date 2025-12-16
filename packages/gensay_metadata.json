@@ -1,0 +1,11 @@
+{
+  "name": "gensay",
+  "version": "0.2.0",
+  "summary": "Multi-provider TTS tool compatible with macOS say command",
+  "author": "Anthony Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gensay-0.2.0.tar.gz",
+  "download_time": "2025-12-16T08:51:06.895497",
+  "package_url": "https://pypi.org/project/gensay/"
+}

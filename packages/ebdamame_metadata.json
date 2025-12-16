@@ -1,11 +1,11 @@
 {
   "name": "ebdamame",
-  "version": "0.13.0",
+  "version": "1.0.0",
   "summary": "A scraper to library to scrape .docx files with 'Entscheidungsbaumdiagramm' tables into a truely machine readable structure",
   "author": null,
   "license": "GPL",
   "home_page": null,
-  "download_filename": "ebdamame-0.13.0.tar.gz",
-  "download_time": "2025-12-15T14:15:38.291352",
+  "download_filename": "ebdamame-1.0.0.tar.gz",
+  "download_time": "2025-12-16T08:51:33.675568",
   "package_url": "https://pypi.org/project/ebdamame/"
 }
