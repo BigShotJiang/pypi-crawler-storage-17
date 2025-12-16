@@ -1,11 +1,11 @@
 {
   "name": "open-multicaller",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "web3py multicaller simplified interface",
   "author": "gerrrg",
   "license": null,
   "home_page": "https://github.com/gerrrg/multicaller",
-  "download_filename": "open_multicaller-0.3.3.tar.gz",
-  "download_time": "2025-12-16T16:16:18.291599",
+  "download_filename": "open_multicaller-0.3.5.tar.gz",
+  "download_time": "2025-12-16T17:45:54.767908",
   "package_url": "https://pypi.org/project/open-multicaller/"
 }

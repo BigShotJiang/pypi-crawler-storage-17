@@ -1,11 +1,11 @@
 {
   "name": "pixi-bot",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "A modular and multiplatform AI chatbot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixi_bot-1.1.2.tar.gz",
-  "download_time": "2025-12-16T17:17:10.906483",
+  "download_filename": "pixi_bot-1.1.3.tar.gz",
+  "download_time": "2025-12-16T17:46:00.553498",
   "package_url": "https://pypi.org/project/pixi-bot/"
 }

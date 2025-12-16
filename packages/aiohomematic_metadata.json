@@ -1,11 +1,11 @@
 {
   "name": "aiohomematic",
-  "version": "2025.12.30",
+  "version": "2025.12.31",
   "summary": "Homematic interface for Home Assistant running on Python 3.",
   "author": null,
   "license": "MIT License",
   "home_page": "https://github.com/sukramj/aiohomematic",
-  "download_filename": "aiohomematic-2025.12.30.tar.gz",
-  "download_time": "2025-12-16T11:48:49.209956",
+  "download_filename": "aiohomematic-2025.12.31.tar.gz",
+  "download_time": "2025-12-16T17:45:55.849387",
   "package_url": "https://pypi.org/project/aiohomematic/"
 }

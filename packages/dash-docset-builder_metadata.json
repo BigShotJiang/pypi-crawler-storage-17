@@ -1,0 +1,11 @@
+{
+  "name": "dash-docset-builder",
+  "version": "2025.12.16",
+  "summary": "Library for generating dash docsets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dash_docset_builder-2025.12.16.tar.gz",
+  "download_time": "2025-12-16T17:45:50.460489",
+  "package_url": "https://pypi.org/project/dash-docset-builder/"
+}

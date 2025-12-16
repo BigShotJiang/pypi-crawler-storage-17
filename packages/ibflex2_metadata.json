@@ -1,0 +1,11 @@
+{
+  "name": "ibflex2",
+  "version": "1.0.0",
+  "summary": "('Parse Interactive Brokers Flex XML reports and convert to Python types (maintained fork)',)",
+  "author": "Christopher Singley",
+  "license": "MIT",
+  "home_page": "https://github.com/robcohen/ibflex2",
+  "download_filename": "ibflex2-1.0.0.tar.gz",
+  "download_time": "2025-12-16T17:46:08.374457",
+  "package_url": "https://pypi.org/project/ibflex2/"
+}
