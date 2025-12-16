@@ -1,65 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T10:44:34.188030
-- **Total Packages**: 90
-- **Total Size**: 38.26 MB
+- **Download Time**: 2025-12-16T10:57:22.785341
+- **Total Packages**: 92
+- **Total Size**: 10.42 MB
 
 ## Packages List
-- praisonaiagents
-- nvidia-nat-adk
-- nvidia-nat-nemo-customizer
-- nvidia-nat-s3
-- retab
-- nvidia-nat-weave
-- check-datapackage
-- aiqtoolkit-crewai
-- any-llm-sdk
-- relenv
-- llama-index-digitalocean-embeddings
-- aiqtoolkit-weave
-- aiqtoolkit-test
-- openmeter
-- aiqtoolkit-semantic-kernel
-- imio.zamqp.pm
-- aiqtoolkit-agno
-- myboot
-- aiqtoolkit-langchain
-- slotixmcp
-- aiqtoolkit-zep-cloud
-- cv-matcher
-- imio.zamqp.core
-- aiqtoolkit-llama-index
-- base-aux
-- aiosafeconsumer
-- aiqtoolkit-mem0ai
-- pytuflow
-- aiqtoolkit
-- llama-index-llms-digitalocean-gradientai
-- pytron-kit
-- pytest-llm-agent
-- easycoder
-- gguf-cua
-- transcribe-align-textgrid
-- python-binance
-- subnoto-api-client
-- ddss
-- MetaRpcMT5
-- MetaRpcMT4
-- blackboard-core
-- imio.annex
-- beads-mcp
-- ha-mcp
-- tabfix-tool
-- rhiza
-- carlib
-- electricsystemclasses
-- qrgrader
-- py-pdf-compress
-- crocodile-linker
 - pyrethrin
 - cyvest
+- myboot
 - ct-leg-bone-split-patch
+- gguf-cua
+- cv-matcher
 - gcl-sdk
 - mistocr
 - collective.dms.scanbehavior
@@ -71,6 +23,7 @@
 - pyneuphonic
 - file-download-server
 - odoo-addon-stock-picking-send-by-mail
+- pytest-llm-agent
 - silkworm-rs
 - protolink
 - arango-cve-processor
@@ -82,6 +35,7 @@
 - observ
 - nemo-evaluator
 - nemo-evaluator-launcher
+- carlib
 - django-docxtpl
 - apyds
 - wsba-hockey
@@ -96,3 +50,51 @@
 - waifuboard
 - django-ninja-aio-crud
 - data-retrieval-monitor
+- tabfix-tool
+- kumoai
+- octopize.avatar
+- acoriss-payment-gateway
+- cursor-wrapped
+- cloud-cert-renewer
+- apyds-bnf
+- policyengine-api-simulation-client
+- policyengine-api-full-client
+- vital
+- alibabacloud-bailianmodelonchip20240816
+- django-db-anonymiser
+- SonarKAN
+- pystrm
+- composio-openai-agents
+- composio-openai
+- composio-llamaindex
+- composio-langgraph
+- composio-langchain
+- composio-google-adk
+- composio-google
+- composio-gemini
+- composio-crewai
+- composio-autogen
+- composio-anthropic
+- composio
+- cognite-neat
+- pte-adapter-model-explorer
+- ai-edge-torch-nightly
+- gw-limr
+- satispy
+- nsekit-mcp
+- easycoder
+- aipyapp
+- scrapeMM
+- rcbench
+- fastlabel
+- fraiseql
+- tgzr.shell_apps.manager_panel
+- pyprofqueue
+- darfix-batch
+- fluxgate
+- chellow
+- ovos-workshop
+- foundationallm-agent-plugins-langchain
+- foundationallm-agent-plugins-azure-ai
+- foundationallm-agent-plugins-experimental
+- govee-local-api

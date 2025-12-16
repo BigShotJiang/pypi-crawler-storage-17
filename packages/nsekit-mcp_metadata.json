@@ -1,11 +1,11 @@
 {
   "name": "nsekit-mcp",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "FastMCP server for NSE India market data using NseKit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nsekit_mcp-0.0.11.tar.gz",
-  "download_time": "2025-12-15T14:15:35.099086",
+  "download_filename": "nsekit_mcp-0.0.12.tar.gz",
+  "download_time": "2025-12-16T10:57:13.756440",
   "package_url": "https://pypi.org/project/nsekit-mcp/"
 }
