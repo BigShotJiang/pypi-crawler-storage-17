@@ -1,0 +1,11 @@
+{
+  "name": "pdbufr",
+  "version": "0.14.1",
+  "summary": "Pandas reader for the BUFR format using ecCodes.",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "pdbufr-0.14.1.tar.gz",
+  "download_time": "2025-12-16T15:30:00.089556",
+  "package_url": "https://pypi.org/project/pdbufr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chuk-motion",
+  "version": "0.2.0",
+  "summary": "Remotion MCP Server - A design-system-first approach to AI-powered video generation",
+  "author": "Chris Hay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chuk_motion-0.2.0.tar.gz",
+  "download_time": "2025-12-16T15:30:22.800893",
+  "package_url": "https://pypi.org/project/chuk-motion/"
+}

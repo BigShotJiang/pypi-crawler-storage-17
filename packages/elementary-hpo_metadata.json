@@ -1,11 +1,11 @@
 {
   "name": "elementary-hpo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A lightweight hyperparameter optimization tool using Sobol sequences.",
   "author": "BetikuOluwatobi",
   "license": null,
-  "home_page": "https://github.com/BetikuOluwatobi/elementary-hpo",
-  "download_filename": "elementary_hpo-0.1.1.tar.gz",
-  "download_time": "2025-12-16T14:59:09.035803",
+  "home_page": null,
+  "download_filename": "elementary_hpo-0.1.2.tar.gz",
+  "download_time": "2025-12-16T15:30:20.938043",
   "package_url": "https://pypi.org/project/elementary-hpo/"
 }

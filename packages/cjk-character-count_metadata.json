@@ -1,0 +1,11 @@
+{
+  "name": "cjk-character-count",
+  "version": "0.60",
+  "summary": "This is a program that counts the amount of CJK characters based on Unicode ranges and Chinese encoding standards.  ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cjk_character_count-0.60.tar.gz",
+  "download_time": "2025-12-16T15:30:25.114875",
+  "package_url": "https://pypi.org/project/cjk-character-count/"
+}
