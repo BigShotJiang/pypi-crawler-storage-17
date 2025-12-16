@@ -1,0 +1,11 @@
+{
+  "name": "vulkan-object",
+  "version": "1.4.336",
+  "summary": "An easy-to-use Python wrapper for the Vulkan API registry.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vulkan_object-1.4.336.tar.gz",
+  "download_time": "2025-12-16T03:53:17.602679",
+  "package_url": "https://pypi.org/project/vulkan-object/"
+}

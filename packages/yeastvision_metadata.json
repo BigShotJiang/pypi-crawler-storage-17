@@ -1,0 +1,11 @@
+{
+  "name": "yeastvision",
+  "version": "0.1.70",
+  "summary": "Deep learning-enabled image analysis of the full yeast life cycle",
+  "author": "Berk Yalcinkaya",
+  "license": "BSD",
+  "home_page": "https://github.com/berkyalcinkaya/yeastvision",
+  "download_filename": "yeastvision-0.1.70.tar.gz",
+  "download_time": "2025-12-16T03:53:55.749021",
+  "package_url": "https://pypi.org/project/yeastvision/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "equiboots",
+  "version": "0.0.1a11",
+  "summary": "A Python library for fairness-aware model evaluation, bias auditing, and performance visualization, supporting classification and regression models with robust analytics across demographic groups.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "equiboots-0.0.1a11.tar.gz",
+  "download_time": "2025-12-16T03:53:28.917017",
+  "package_url": "https://pypi.org/project/equiboots/"
+}

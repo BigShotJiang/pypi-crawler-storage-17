@@ -1,0 +1,11 @@
+{
+  "name": "dbsync-py",
+  "version": "1.1.2",
+  "summary": "Python helper package for interacting with Cardano DB Sync databases",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dbsync_py-1.1.2.tar.gz",
+  "download_time": "2025-12-16T03:53:19.738927",
+  "package_url": "https://pypi.org/project/dbsync-py/"
+}

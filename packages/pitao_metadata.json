@@ -1,0 +1,11 @@
+{
+  "name": "pitao",
+  "version": "0.1.0",
+  "summary": "Python com palavras reservadas em Português",
+  "author": "Ivan Neto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pitao-0.1.0.tar.gz",
+  "download_time": "2025-12-16T03:53:08.214071",
+  "package_url": "https://pypi.org/project/pitao/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hil-core",
+  "version": "0.0.8.post4",
+  "summary": "Carota HIL核心库",
+  "author": "notmmao",
+  "license": "Carota HIL License",
+  "home_page": null,
+  "download_filename": "hil_core-0.0.8.post4-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-16T03:53:42.220231",
+  "package_url": "https://pypi.org/project/hil-core/"
+}

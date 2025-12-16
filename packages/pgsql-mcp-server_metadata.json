@@ -1,0 +1,11 @@
+{
+  "name": "pgsql-mcp-server",
+  "version": "1.4.2",
+  "summary": "PostgreSQL MCP Server",
+  "author": "curry tang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgsql_mcp_server-1.4.2.tar.gz",
+  "download_time": "2025-12-16T03:53:50.898544",
+  "package_url": "https://pypi.org/project/pgsql-mcp-server/"
+}
