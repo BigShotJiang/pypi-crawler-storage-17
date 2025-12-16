@@ -1,0 +1,11 @@
+{
+  "name": "py-geth",
+  "version": "6.4.0",
+  "summary": "py-geth: Run Go-Ethereum as a subprocess",
+  "author": "The Ethereum Foundation",
+  "license": "MIT",
+  "home_page": "https://github.com/ethereum/py-geth",
+  "download_filename": "py_geth-6.4.0.tar.gz",
+  "download_time": "2025-12-16T04:26:30.398226",
+  "package_url": "https://pypi.org/project/py-geth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neutrolab",
+  "version": "1.3.2",
+  "summary": "NeutroLab: A Unified Library for Neutrosophic Learning, Configuration Analysis, and Decision-Making under Uncertainty",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neutrolab-1.3.2.tar.gz",
+  "download_time": "2025-12-16T04:26:27.830122",
+  "package_url": "https://pypi.org/project/neutrolab/"
+}

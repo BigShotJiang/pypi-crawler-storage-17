@@ -1,0 +1,11 @@
+{
+  "name": "ese-parser",
+  "version": "0.1.6",
+  "summary": "High-performance Microsoft ESE (Extensible Storage Engine) database parser",
+  "author": "Claude Sonnet 4.5 (LOL no way im doin this by myself)",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "ese_parser-0.1.6.tar.gz",
+  "download_time": "2025-12-16T04:26:52.013480",
+  "package_url": "https://pypi.org/project/ese-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tatools01",
+  "version": "3.0.1",
+  "summary": "Thư viện hữu ích của Tuấn Anh.",
+  "author": "Tuấn Anh - Foxconn",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/tatools01/",
+  "download_filename": "tatools01-3.0.1.tar.gz",
+  "download_time": "2025-12-16T04:26:38.614009",
+  "package_url": "https://pypi.org/project/tatools01/"
+}

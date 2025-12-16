@@ -1,0 +1,11 @@
+{
+  "name": "wdtagger",
+  "version": "0.16.0",
+  "summary": "A simple and easy-to-use wrapper for the tagger model created by [SmilingWolf](https://github.com/SmilingWolf) which is specifically designed for tagging anime illustrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wdtagger-0.16.0.tar.gz",
+  "download_time": "2025-12-16T04:26:46.372486",
+  "package_url": "https://pypi.org/project/wdtagger/"
+}

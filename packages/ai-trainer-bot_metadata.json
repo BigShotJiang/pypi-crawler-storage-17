@@ -1,0 +1,11 @@
+{
+  "name": "ai-trainer-bot",
+  "version": "0.0.1",
+  "summary": "A comprehensive machine learning training framework",
+  "author": "Girish Kor",
+  "license": "MIT",
+  "home_page": "https://github.com/girish-kor/ai-trainer-bot",
+  "download_filename": "ai_trainer_bot-0.0.1.tar.gz",
+  "download_time": "2025-12-16T04:26:33.968969",
+  "package_url": "https://pypi.org/project/ai-trainer-bot/"
+}
