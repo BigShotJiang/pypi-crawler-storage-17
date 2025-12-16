@@ -1,0 +1,11 @@
+{
+  "name": "country-iso2ify",
+  "version": "0.1.3",
+  "summary": "Pure-Python country name to ISO-3166 alpha-2 resolver with custom aliases.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "country_iso2ify-0.1.3.tar.gz",
+  "download_time": "2025-12-16T09:45:34.932486",
+  "package_url": "https://pypi.org/project/country-iso2ify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "a2a-acl",
+  "version": "0.0.10",
+  "summary": "ACL agents on A2A protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "a2a_acl-0.0.10.tar.gz",
+  "download_time": "2025-12-16T09:45:33.895667",
+  "package_url": "https://pypi.org/project/a2a-acl/"
+}

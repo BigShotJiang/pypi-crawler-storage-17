@@ -1,11 +1,11 @@
 {
   "name": "gitlab-pr-analyzer",
-  "version": "0.9.1",
+  "version": "0.9.3",
   "summary": "Intelligent tool for collecting, analyzing, and summarizing GitLab Merge Requests and commits",
   "author": "GitLab PR Analyzer Team",
   "license": null,
   "home_page": "https://example.com/gitlab-pr-analyzer",
-  "download_filename": "gitlab_pr_analyzer-0.9.1.tar.gz",
-  "download_time": "2025-12-16T09:17:02.868022",
+  "download_filename": "gitlab_pr_analyzer-0.9.3.tar.gz",
+  "download_time": "2025-12-16T09:45:29.214993",
   "package_url": "https://pypi.org/project/gitlab-pr-analyzer/"
 }

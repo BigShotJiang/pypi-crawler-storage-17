@@ -1,11 +1,11 @@
 {
   "name": "zCtk",
-  "version": "0.0.0",
+  "version": "0.0.0.5",
   "summary": null,
   "author": "zisia13",
   "license": null,
   "home_page": null,
-  "download_filename": "zctk-0.0.0.tar.gz",
-  "download_time": "2025-12-16T08:16:36.731975",
+  "download_filename": "zctk-0.0.0.5.tar.gz",
+  "download_time": "2025-12-16T09:45:34.413953",
   "package_url": "https://pypi.org/project/zCtk/"
 }

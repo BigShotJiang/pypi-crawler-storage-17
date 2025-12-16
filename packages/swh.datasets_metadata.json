@@ -1,0 +1,11 @@
+{
+  "name": "swh.datasets",
+  "version": "2.1.0",
+  "summary": "Tooling to generate various datasets from on the Software Heritage archive, based on swh-graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_datasets-2.1.0.tar.gz",
+  "download_time": "2025-12-16T09:45:52.754836",
+  "package_url": "https://pypi.org/project/swh.datasets/"
+}

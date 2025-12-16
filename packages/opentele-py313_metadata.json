@@ -1,0 +1,11 @@
+{
+  "name": "opentele-py313",
+  "version": "1.15.2",
+  "summary": "A Python 3.13+ compatible fork of opentele - Telegram API Library for converting between tdata and telethon sessions.",
+  "author": "Aleksey (fork maintainer)",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/opentele-py313",
+  "download_filename": "opentele_py313-1.15.2.tar.gz",
+  "download_time": "2025-12-16T09:45:57.431003",
+  "package_url": "https://pypi.org/project/opentele-py313/"
+}

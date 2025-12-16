@@ -1,11 +1,11 @@
 {
   "name": "neuratensor",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "summary": "Production neuromorphic inference SDK with CUDA acceleration",
   "author": "Neuramorphic, Inc.",
   "license": "Proprietary",
   "home_page": "https://neuramorphic.ai",
-  "download_filename": "neuratensor-1.1.4.tar.gz",
-  "download_time": "2025-12-16T09:16:46.611268",
+  "download_filename": "neuratensor-1.1.6-py3-none-any.whl",
+  "download_time": "2025-12-16T09:45:16.385884",
   "package_url": "https://pypi.org/project/neuratensor/"
 }
