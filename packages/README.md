@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T23:11:02.892534
-- **Total Packages**: 70
-- **Total Size**: 22.61 MB
+- **Download Time**: 2025-12-16T23:31:32.429090
+- **Total Packages**: 61
+- **Total Size**: 28.38 MB
 
 ## Packages List
+- thds.mops
+- thds.attrs-utils
+- thds.adls
+- thds.core
+- shipengine
+- thds.atacama
+- thds.termtool
+- thds.humenc
+- abstract-hugpy
+- ai-infra
+- service-capacity-modeling
+- fin-infra
+- esiaccel
+- PraisonAI
+- adventuresinodyssey
+- praisonaiagents
+- kleur
+- eo-tides
+- squawk-cli
+- brewbar
+- rp
+- pii-codex
+- ragit
+- fastyaml-rs
+- ztensor
+- pyqttier
+- vandamme-proxy
+- deltachat-rpc-server
+- task-ng
+- ipsdk
+- pytest-pve-cloud
+- ledger2bql
+- hikari-wave
+- colablinter
+- githubtakeout
+- ai-parrot
+- ocrtestdata
+- py-pve-cloud
+- bloggy
+- fireworks-ai
+- bugcam
+- arize-phoenix-client
+- google-cloud-documentai-toolbox
+- sentinelseed
 - macbundler
 - datacompy
 - moose-lib
@@ -13,7 +57,6 @@
 - oilpriceapi
 - stinger-python-utils
 - flet-charts
-- praisonaiagents
 - flwr-nightly
 - eeco
 - cloudsmith-cli
@@ -21,58 +64,6 @@
 - dreadnode
 - mcp-ticketer
 - mcp-server-http-request
-- abstract-hugpy
 - PyiMAi
 - napistu
 - s3-credentials
-- astronomer-starship
-- g4x_helpers
-- groundx
-- mcp-server-for-oscal
-- tocount
-- AutoImblearn
-- gpgnotes
-- PraisonAI
-- iam-policy-validator
-- videoipath-automation-tool
-- cat-cafe-client
-- wagtail-block-fields
-- uvd-x402-sdk
-- laser-core
-- mlalib
-- nova-galaxy
-- hfortix
-- pyiceberg-firestore-gcs
-- mini-arcade-core
-- rp
-- mloda
-- cyberdesk
-- gguf-cua
-- malevich-coretools
-- scurry-kit
-- comfyui-nitra
-- claude-mpm
-- abstract-webtools
-- cursor-wrapped
-- openadapt-ml
-- agterm
-- deltachat-rpc-client
-- vlab_prepro
-- masgent
-- jaxify
-- zepben.protobuf
-- bugcam
-- griptape-nodes
-- lasp-curryer
-- jampy
-- google-cloud-pubsub
-- marlin-brahma
-- pyeph
-- pymicro-vad
-- videofetch
-- finlight-client
-- dinari-api-sdk
-- re-add-modeler
-- cas-toolbox
-- plasmidkit
-- RubigramClient

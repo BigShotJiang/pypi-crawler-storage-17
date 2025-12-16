@@ -1,0 +1,11 @@
+{
+  "name": "deltachat-rpc-server",
+  "version": "2.35.0",
+  "summary": "Delta Chat JSON-RPC server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deltachat_rpc_server-2.35.0-py3-none-android_21_armeabi_v7a.whl",
+  "download_time": "2025-12-16T23:31:10.116609",
+  "package_url": "https://pypi.org/project/deltachat-rpc-server/"
+}
