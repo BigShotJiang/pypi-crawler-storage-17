@@ -1,0 +1,11 @@
+{
+  "name": "hdim-opt",
+  "version": "1.2.3",
+  "summary": "Optimization toolkit for high-dimensional, non-differentiable problems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdim_opt-1.2.3.tar.gz",
+  "download_time": "2025-12-16T08:16:40.895207",
+  "package_url": "https://pypi.org/project/hdim-opt/"
+}

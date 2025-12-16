@@ -1,11 +1,11 @@
 {
   "name": "bec-server",
-  "version": "3.85.0",
+  "version": "3.85.2",
   "summary": "BEC server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bec_server-3.85.0.tar.gz",
-  "download_time": "2025-12-15T14:15:46.318710",
+  "download_filename": "bec_server-3.85.2.tar.gz",
+  "download_time": "2025-12-16T08:16:47.077222",
   "package_url": "https://pypi.org/project/bec-server/"
 }

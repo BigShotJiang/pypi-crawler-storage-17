@@ -1,0 +1,11 @@
+{
+  "name": "scapy-usbbluetooth",
+  "version": "0.1.1",
+  "summary": "Scapy helpers to communicate with Bluetooth controllers",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "scapy_usbbluetooth-0.1.1.tar.gz",
+  "download_time": "2025-12-16T08:16:43.451555",
+  "package_url": "https://pypi.org/project/scapy-usbbluetooth/"
+}

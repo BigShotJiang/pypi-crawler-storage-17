@@ -1,11 +1,11 @@
 {
   "name": "length-tokenizer-rs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "LengthTokenizer Rust (DP 最少 token / 最低 TPC) Python extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "length_tokenizer_rs-0.1.2-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-15T19:47:54.907807",
+  "download_filename": "length_tokenizer_rs-0.1.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-16T08:16:57.499411",
   "package_url": "https://pypi.org/project/length-tokenizer-rs/"
 }

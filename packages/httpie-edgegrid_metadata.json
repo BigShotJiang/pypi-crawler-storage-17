@@ -1,0 +1,11 @@
+{
+  "name": "httpie-edgegrid",
+  "version": "2.2.4",
+  "summary": "Edgegrid plugin for HTTPie.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/akamai/httpie-edgegrid",
+  "download_filename": "httpie_edgegrid-2.2.4-py3-none-any.whl",
+  "download_time": "2025-12-16T08:16:52.816524",
+  "package_url": "https://pypi.org/project/httpie-edgegrid/"
+}

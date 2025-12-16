@@ -1,0 +1,11 @@
+{
+  "name": "vastdb",
+  "version": "2.0.3",
+  "summary": "VAST Data SDK",
+  "author": "VAST DATA",
+  "license": "Copyright (C) VAST Data Ltd.",
+  "home_page": "https://github.com/vast-data/vastdb_sdk",
+  "download_filename": "vastdb-2.0.3.tar.gz",
+  "download_time": "2025-12-16T08:16:43.962424",
+  "package_url": "https://pypi.org/project/vastdb/"
+}

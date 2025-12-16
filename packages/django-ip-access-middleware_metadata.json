@@ -1,0 +1,11 @@
+{
+  "name": "django-ip-access-middleware",
+  "version": "1.1.1",
+  "summary": "Django middleware for IP and hostname-based access control",
+  "author": "Mohammad Mohammad Hosseini",
+  "license": "MIT",
+  "home_page": "https://github.com/mhmohamad1380/django-ip-access-middleware",
+  "download_filename": "django_ip_access_middleware-1.1.1.tar.gz",
+  "download_time": "2025-12-16T08:17:00.588061",
+  "package_url": "https://pypi.org/project/django-ip-access-middleware/"
+}

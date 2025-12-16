@@ -1,11 +1,11 @@
 {
   "name": "trellis-3d-python",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "TRELLIS is a large 3D asset generation model.",
   "author": "Microsoft Corporation",
   "license": "MIT",
   "home_page": "https://github.com/microsoft/trellis",
-  "download_filename": "trellis_3d_python-0.1.12.tar.gz",
-  "download_time": "2025-12-16T07:41:14.452629",
+  "download_filename": "trellis_3d_python-0.1.14.tar.gz",
+  "download_time": "2025-12-16T08:16:54.398094",
   "package_url": "https://pypi.org/project/trellis-3d-python/"
 }

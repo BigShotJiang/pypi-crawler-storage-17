@@ -1,11 +1,11 @@
 {
   "name": "autoops",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "AutoOps: Fully automatic AI DevOps agent with polling mode (no webhooks required)",
   "author": "AutoOps",
   "license": null,
   "home_page": null,
-  "download_filename": "autoops-0.2.4.tar.gz",
-  "download_time": "2025-12-16T07:51:10.622814",
+  "download_filename": "autoops-0.2.5.tar.gz",
+  "download_time": "2025-12-16T08:17:12.100304",
   "package_url": "https://pypi.org/project/autoops/"
 }

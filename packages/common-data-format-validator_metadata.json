@@ -1,0 +1,11 @@
+{
+  "name": "common-data-format-validator",
+  "version": "0.0.13",
+  "summary": "A package for validating common data format files",
+  "author": "Joris Bekkers",
+  "license": null,
+  "home_page": "https://github.com/unravelsports/common-data-format-validator",
+  "download_filename": "common_data_format_validator-0.0.13.tar.gz",
+  "download_time": "2025-12-16T08:17:10.543199",
+  "package_url": "https://pypi.org/project/common-data-format-validator/"
+}

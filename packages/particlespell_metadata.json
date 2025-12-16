@@ -1,11 +1,11 @@
 {
   "name": "particlespell",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "PDG-powered particle data tool with multi-name variant support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "particlespell-0.0.1.tar.gz",
-  "download_time": "2025-12-16T05:52:30.797347",
+  "download_filename": "particlespell-0.0.2.tar.gz",
+  "download_time": "2025-12-16T08:16:45.000002",
   "package_url": "https://pypi.org/project/particlespell/"
 }

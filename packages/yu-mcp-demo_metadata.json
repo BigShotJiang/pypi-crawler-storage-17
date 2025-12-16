@@ -1,11 +1,11 @@
 {
   "name": "yu-mcp-demo",
-  "version": "0.2.0",
-  "summary": "mcp demo --add description",
+  "version": "0.3.0",
+  "summary": "A demo MCP server with basic arithmetic operations (add, subtract, multiply, divide) and greeting features.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yu_mcp_demo-0.2.0.tar.gz",
-  "download_time": "2025-12-15T04:28:36.252697",
+  "download_filename": "yu_mcp_demo-0.3.0.tar.gz",
+  "download_time": "2025-12-16T08:17:11.590052",
   "package_url": "https://pypi.org/project/yu-mcp-demo/"
 }
