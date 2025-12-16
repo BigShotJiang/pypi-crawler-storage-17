@@ -1,11 +1,11 @@
 {
   "name": "pypi-fairylandlogger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A comprehensive Python package for FairylandLogger project",
   "author": null,
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": null,
-  "download_filename": "pypi_fairylandlogger-1.0.1.tar.gz",
-  "download_time": "2025-12-16T04:53:21.136205",
+  "download_filename": "pypi_fairylandlogger-1.0.2.tar.gz",
+  "download_time": "2025-12-16T11:12:40.341491",
   "package_url": "https://pypi.org/project/pypi-fairylandlogger/"
 }

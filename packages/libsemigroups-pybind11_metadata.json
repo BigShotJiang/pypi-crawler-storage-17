@@ -1,0 +1,11 @@
+{
+  "name": "libsemigroups-pybind11",
+  "version": "1.2.0",
+  "summary": "A python package for the libsemigroups C++ library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libsemigroups_pybind11-1.2.0.tar.gz",
+  "download_time": "2025-12-16T11:12:39.696746",
+  "package_url": "https://pypi.org/project/libsemigroups-pybind11/"
+}
