@@ -1,0 +1,11 @@
+{
+  "name": "outlook-account-generator",
+  "version": "1.0.2",
+  "summary": "A Python wrapper to generate real Outlook/Hotmail accounts and fetch OTPs via JSON.",
+  "author": "TempOutlookAPI",
+  "license": null,
+  "home_page": "https://rapidapi.com/EymenTakak/api/temp-outlook-api",
+  "download_filename": "outlook_account_generator-1.0.2.tar.gz",
+  "download_time": "2025-12-16T14:15:44.218983",
+  "package_url": "https://pypi.org/project/outlook-account-generator/"
+}

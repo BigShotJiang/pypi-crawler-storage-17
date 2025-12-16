@@ -1,0 +1,11 @@
+{
+  "name": "email-function-whl",
+  "version": "1.0.0",
+  "summary": "Simple email API client and utility functions for Fabric Notebook team",
+  "author": "Abhilash Ibrahimpatnam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "email_function_whl-1.0.0.tar.gz",
+  "download_time": "2025-12-16T14:15:02.704241",
+  "package_url": "https://pypi.org/project/email-function-whl/"
+}

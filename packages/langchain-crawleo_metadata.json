@@ -1,0 +1,11 @@
+{
+  "name": "langchain-crawleo",
+  "version": "0.1.1",
+  "summary": "An integration package connecting Crawleo (privacy-first search & crawler) and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/crawleo/langchain-crawleo",
+  "download_filename": "langchain_crawleo-0.1.1.tar.gz",
+  "download_time": "2025-12-16T14:15:35.454803",
+  "package_url": "https://pypi.org/project/langchain-crawleo/"
+}

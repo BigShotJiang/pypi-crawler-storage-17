@@ -1,0 +1,11 @@
+{
+  "name": "armis-sdk",
+  "version": "1.0.0",
+  "summary": "The Armis SDK is a package that encapsulates common use-cases for interacting with the Armis platform.",
+  "author": "Shai Lachmanovich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "armis_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-16T14:15:46.455666",
+  "package_url": "https://pypi.org/project/armis-sdk/"
+}

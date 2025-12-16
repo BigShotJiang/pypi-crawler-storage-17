@@ -1,0 +1,11 @@
+{
+  "name": "fustor-pusher-echo",
+  "version": "0.1.7",
+  "summary": "An echo pusher for Fustor Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fustor_pusher_echo-0.1.7.tar.gz",
+  "download_time": "2025-12-16T14:15:24.079144",
+  "package_url": "https://pypi.org/project/fustor-pusher-echo/"
+}

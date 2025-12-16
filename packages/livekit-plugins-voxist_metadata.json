@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-voxist",
+  "version": "0.9.0",
+  "summary": "LiveKit STT plugin for Voxist ASR with ultra-low latency connection pooling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "livekit_plugins_voxist-0.9.0.tar.gz",
+  "download_time": "2025-12-16T14:15:14.432471",
+  "package_url": "https://pypi.org/project/livekit-plugins-voxist/"
+}
