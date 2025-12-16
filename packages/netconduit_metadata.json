@@ -1,11 +1,11 @@
 {
   "name": "netconduit",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "summary": "Production-ready async bidirectional TCP communication library with custom binary protocol, type-safe RPC, and Pydantic integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netconduit-4.0.0.tar.gz",
-  "download_time": "2025-12-16T11:49:27.846334",
+  "download_filename": "netconduit-5.0.0.tar.gz",
+  "download_time": "2025-12-16T15:54:29.608511",
   "package_url": "https://pypi.org/project/netconduit/"
 }

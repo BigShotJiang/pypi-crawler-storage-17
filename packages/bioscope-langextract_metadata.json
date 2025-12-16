@@ -1,0 +1,11 @@
+{
+  "name": "bioscope-langextract",
+  "version": "0.0.1",
+  "summary": "A lightweight library for extracting structured data from language models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioscope_langextract-0.0.1.tar.gz",
+  "download_time": "2025-12-16T15:54:27.284691",
+  "package_url": "https://pypi.org/project/bioscope-langextract/"
+}

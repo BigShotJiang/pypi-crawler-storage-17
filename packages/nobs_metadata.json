@@ -1,11 +1,11 @@
 {
   "name": "nobs",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "A project that makes it easier to deploy Python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nobs-0.1.11.tar.gz",
-  "download_time": "2025-12-15T21:49:35.355882",
+  "download_filename": "nobs-0.1.12.tar.gz",
+  "download_time": "2025-12-16T15:54:31.862023",
   "package_url": "https://pypi.org/project/nobs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cvxlab",
-  "version": "1.0.0b1",
+  "version": "1.0.1b1",
   "summary": "CVXlab - Open-source Python laboratory for convex algebraic modeling",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cvxlab-1.0.0b1.tar.gz",
-  "download_time": "2025-12-16T15:30:21.576734",
+  "download_filename": "cvxlab-1.0.1b1.tar.gz",
+  "download_time": "2025-12-16T15:54:38.160563",
   "package_url": "https://pypi.org/project/cvxlab/"
 }

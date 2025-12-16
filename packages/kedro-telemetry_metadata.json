@@ -1,0 +1,11 @@
+{
+  "name": "kedro-telemetry",
+  "version": "0.7.0",
+  "summary": "Kedro-Telemetry",
+  "author": "Kedro",
+  "license": "Apache Software License (Apache 2.0)",
+  "home_page": null,
+  "download_filename": "kedro_telemetry-0.7.0.tar.gz",
+  "download_time": "2025-12-16T15:54:44.536980",
+  "package_url": "https://pypi.org/project/kedro-telemetry/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "StructReader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "use class to parse binary format",
   "author": "wood",
   "license": "MIT",
   "home_page": "https://github.com/Rin-Wood/StructReader",
-  "download_filename": "structreader-1.0.1.tar.gz",
-  "download_time": "2025-12-16T14:59:02.587146",
+  "download_filename": "structreader-1.0.2.tar.gz",
+  "download_time": "2025-12-16T15:54:20.478390",
   "package_url": "https://pypi.org/project/StructReader/"
 }

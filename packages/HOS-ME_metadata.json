@@ -1,11 +1,11 @@
 {
   "name": "HOS-ME",
-  "version": "1.0.7",
-  "summary": "HOS可扩展式办公平台 - HOS-ME",
-  "author": "HOS Team",
+  "version": "1.1.2",
+  "summary": "HOS ME - 一个功能强大的办公自动化平台，支持批量任务处理、模板管理、复杂内容渲染和文档导入导出",
+  "author": "HOS ME Team",
   "license": null,
-  "home_page": "https://github.com/hos-project/hos-me",
-  "download_filename": "hos_me-1.0.7.tar.gz",
-  "download_time": "2025-12-15T07:51:33.386687",
+  "home_page": "https://github.com/hos-me/hos-me",
+  "download_filename": "hos_me-1.1.2.tar.gz",
+  "download_time": "2025-12-16T15:54:39.997406",
   "package_url": "https://pypi.org/project/HOS-ME/"
 }

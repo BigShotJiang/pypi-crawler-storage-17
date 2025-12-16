@@ -1,0 +1,11 @@
+{
+  "name": "polars-fastembed-cuda",
+  "version": "0.1.6",
+  "summary": "CUDA ONNX Runtime provider for polars-fastembed",
+  "author": "Louis Maddox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_fastembed_cuda-0.1.6-py3-none-win_amd64.whl",
+  "download_time": "2025-12-16T15:54:59.136637",
+  "package_url": "https://pypi.org/project/polars-fastembed-cuda/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deeplightrag",
+  "version": "1.0.22",
+  "summary": "DeepLightRAG: High-performance Document Indexing and Retrieval System (use with any LLM)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deeplightrag-1.0.22-py3-none-any.whl",
+  "download_time": "2025-12-16T15:54:36.487986",
+  "package_url": "https://pypi.org/project/deeplightrag/"
+}

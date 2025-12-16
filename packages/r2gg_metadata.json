@@ -1,0 +1,11 @@
+{
+  "name": "r2gg",
+  "version": "3.1.4",
+  "summary": "Route Graph Generator (r2gg) est un script Python qui permet la génération de graphes pour des moteurs de calcul d'itinéraire",
+  "author": "IGNF",
+  "license": null,
+  "home_page": "https://github.com/IGNF/route-graph-generator/",
+  "download_filename": "r2gg-3.1.4.tar.gz",
+  "download_time": "2025-12-16T15:54:34.758342",
+  "package_url": "https://pypi.org/project/r2gg/"
+}
