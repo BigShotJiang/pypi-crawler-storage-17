@@ -1,26 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T22:50:41.699899
-- **Total Packages**: 81
-- **Total Size**: 34.72 MB
+- **Download Time**: 2025-12-16T23:11:02.892534
+- **Total Packages**: 70
+- **Total Size**: 22.61 MB
 
 ## Packages List
+- macbundler
+- datacompy
+- moose-lib
+- methodtenable
+- oilpriceapi
+- stinger-python-utils
+- flet-charts
+- praisonaiagents
+- flwr-nightly
+- eeco
+- cloudsmith-cli
+- unitfield
+- dreadnode
+- mcp-ticketer
+- mcp-server-http-request
+- abstract-hugpy
+- PyiMAi
+- napistu
+- s3-credentials
+- astronomer-starship
+- g4x_helpers
+- groundx
+- mcp-server-for-oscal
+- tocount
+- AutoImblearn
+- gpgnotes
+- PraisonAI
+- iam-policy-validator
+- videoipath-automation-tool
+- cat-cafe-client
+- wagtail-block-fields
+- uvd-x402-sdk
+- laser-core
+- mlalib
+- nova-galaxy
+- hfortix
+- pyiceberg-firestore-gcs
+- mini-arcade-core
 - rp
+- mloda
+- cyberdesk
+- gguf-cua
+- malevich-coretools
+- scurry-kit
+- comfyui-nitra
+- claude-mpm
+- abstract-webtools
 - cursor-wrapped
 - openadapt-ml
 - agterm
 - deltachat-rpc-client
 - vlab_prepro
 - masgent
-- cyberdesk
-- PyiMAi
 - jaxify
 - zepben.protobuf
 - bugcam
 - griptape-nodes
 - lasp-curryer
-- gguf-cua
 - jampy
 - google-cloud-pubsub
 - marlin-brahma
@@ -33,57 +76,3 @@
 - cas-toolbox
 - plasmidkit
 - RubigramClient
-- ant-ray-cpp-nightly
-- mcp-ticketer
-- methodtenable
-- nifti2bids
-- hucira
-- kamiwaza-sdk
-- hpcp
-- twize
-- tako-sdk
-- oxrpy
-- abi-core-ai
-- biosero-data-models
-- abstract-hugpy
-- biovault-beaver
-- oss-sustain-guard
-- modal
-- ncp-sdk
-- spec-kitty-cli
-- coq-tools
-- nicecall
-- pdflinkcheck
-- microsim
-- haplohub-cli
-- cool-number
-- plato-sdk
-- haplohub
-- tensorflow-riemopt
-- ctfsolver
-- sphinx-llms-txt
-- evoke-sdk
-- finetune-lab
-- prommis
-- prqlc
-- shadowlib
-- acspype
-- ape-safe
-- femtocrux
-- compose-farm
-- proportions
-- saturn-notebook
-- ovos-tts-plugin-elevenlabs
-- player-tools-xlr-types
-- hmd-cli-neuronsphere
-- player-tools-dsl-generator
-- baseten-performance-client
-- player-tools-dsl
-- commons-metrics
-- zavudev
-- kaqing
-- rxlm
-- stats-compass-mcp
-- sqlglotrs
-- truss-transfer
-- stats-compass-core

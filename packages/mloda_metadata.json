@@ -1,0 +1,11 @@
+{
+  "name": "mloda",
+  "version": "0.4.0",
+  "summary": "Make data, feature and context engineering shareable",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mloda-0.4.0.tar.gz",
+  "download_time": "2025-12-16T23:10:47.078592",
+  "package_url": "https://pypi.org/project/mloda/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "astronomer-starship",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "summary": "Migrations to Astro",
   "author": null,
   "license": "PROPRIETARY",
   "home_page": null,
-  "download_filename": "astronomer_starship-2.8.0.tar.gz",
-  "download_time": "2025-12-16T22:11:56.813543",
+  "download_filename": "astronomer_starship-2.8.1.tar.gz",
+  "download_time": "2025-12-16T23:10:36.276542",
   "package_url": "https://pypi.org/project/astronomer-starship/"
 }
