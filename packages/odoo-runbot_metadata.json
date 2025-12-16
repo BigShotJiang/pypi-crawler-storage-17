@@ -1,11 +1,11 @@
 {
   "name": "odoo-runbot",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "summary": "Main CLI to run test in GitLab CI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_runbot-1.7.2.tar.gz",
-  "download_time": "2025-12-15T21:10:43.065005",
+  "download_filename": "odoo_runbot-1.7.3.tar.gz",
+  "download_time": "2025-12-16T11:49:00.275269",
   "package_url": "https://pypi.org/project/odoo-runbot/"
 }

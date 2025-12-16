@@ -1,0 +1,11 @@
+{
+  "name": "brainglobe-template-builder",
+  "version": "0.1.1",
+  "summary": "Build unbiased anatomical templates from individual images",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "brainglobe_template_builder-0.1.1.tar.gz",
+  "download_time": "2025-12-16T11:49:26.808453",
+  "package_url": "https://pypi.org/project/brainglobe-template-builder/"
+}

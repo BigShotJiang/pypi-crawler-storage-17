@@ -1,0 +1,11 @@
+{
+  "name": "gitx-cli",
+  "version": "0.3.0",
+  "summary": "Git superset CLI with workspace support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitx_cli-0.3.0-py3-none-any.whl",
+  "download_time": "2025-12-16T11:49:21.580437",
+  "package_url": "https://pypi.org/project/gitx-cli/"
+}

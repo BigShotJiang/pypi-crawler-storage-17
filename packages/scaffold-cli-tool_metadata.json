@@ -1,0 +1,11 @@
+{
+  "name": "scaffold-cli-tool",
+  "version": "0.2.0",
+  "summary": "A simple CLI tool to scaffold Python projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scaffold_cli_tool-0.2.0.tar.gz",
+  "download_time": "2025-12-16T11:48:57.147196",
+  "package_url": "https://pypi.org/project/scaffold-cli-tool/"
+}

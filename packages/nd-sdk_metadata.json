@@ -1,11 +1,11 @@
 {
   "name": "nd-sdk",
-  "version": "1.2.5",
+  "version": "1.2.8",
   "summary": "Unified SDK for Observability, Caching and Storage",
   "author": "Jeyesh Vishnu",
   "license": null,
   "home_page": null,
-  "download_filename": "nd_sdk-1.2.5.tar.gz",
-  "download_time": "2025-12-15T16:54:37.985602",
+  "download_filename": "nd_sdk-1.2.8.tar.gz",
+  "download_time": "2025-12-16T11:49:02.930664",
   "package_url": "https://pypi.org/project/nd-sdk/"
 }

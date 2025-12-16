@@ -1,0 +1,11 @@
+{
+  "name": "teradatamlspk",
+  "version": "20.0.0.4",
+  "summary": "Python package for running Spark workloads on Teradata Vantage",
+  "author": "Teradata Corporation",
+  "license": "Teradata License Agreement",
+  "home_page": "http://www.teradata.com/",
+  "download_filename": "teradatamlspk-20.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-16T11:49:08.145028",
+  "package_url": "https://pypi.org/project/teradatamlspk/"
+}

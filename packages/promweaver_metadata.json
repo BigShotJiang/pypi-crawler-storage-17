@@ -1,0 +1,11 @@
+{
+  "name": "promweaver",
+  "version": "0.5.2",
+  "summary": "Prominence/Filament Radiative Transfer Modelling with Lightweaver",
+  "author": "Chris Osborne",
+  "license": "MIT",
+  "home_page": "http://github.com/Goobley/Promweaver",
+  "download_filename": "promweaver-0.5.2.tar.gz",
+  "download_time": "2025-12-16T11:48:57.665879",
+  "package_url": "https://pypi.org/project/promweaver/"
+}

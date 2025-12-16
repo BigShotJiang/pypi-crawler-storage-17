@@ -1,0 +1,11 @@
+{
+  "name": "xserver-cli",
+  "version": "0.1.1",
+  "summary": "A command line tool for XServer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xserver_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-16T11:49:31.998640",
+  "package_url": "https://pypi.org/project/xserver-cli/"
+}

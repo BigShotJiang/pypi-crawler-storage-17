@@ -1,0 +1,11 @@
+{
+  "name": "boltzmann9",
+  "version": "0.1.0",
+  "summary": "Restricted Boltzmann Machine implementation in PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boltzmann9-0.1.0.tar.gz",
+  "download_time": "2025-12-16T11:49:33.554607",
+  "package_url": "https://pypi.org/project/boltzmann9/"
+}

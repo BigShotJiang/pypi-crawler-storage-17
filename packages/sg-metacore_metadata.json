@@ -1,0 +1,11 @@
+{
+  "name": "sg-metacore",
+  "version": "0.1.0a0",
+  "summary": "A sophisticated type system enhancement library for metaprogramming and runtime behavior modification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sg_metacore-0.1.0a0.tar.gz",
+  "download_time": "2025-12-16T11:49:03.968872",
+  "package_url": "https://pypi.org/project/sg-metacore/"
+}
