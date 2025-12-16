@@ -1,11 +1,11 @@
 {
   "name": "qrek",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Quantum-Resilient Encryption Kit - Python SDK",
   "author": "qREK Team",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "qrek-0.0.2-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-12-16T18:53:29.304110",
+  "download_filename": "qrek-0.0.3-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-16T19:47:55.378446",
   "package_url": "https://pypi.org/project/qrek/"
 }
