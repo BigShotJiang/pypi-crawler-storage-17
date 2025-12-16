@@ -1,11 +1,11 @@
 {
   "name": "specdirs",
-  "version": "0.1.0b1",
+  "version": "0.1.0b2",
   "summary": "Modern, composable, and specifications-compliant standard directories library",
   "author": "Asadullah Shaikh",
   "license": null,
   "home_page": null,
-  "download_filename": "specdirs-0.1.0b1.tar.gz",
-  "download_time": "2025-12-15T17:55:56.284309",
+  "download_filename": "specdirs-0.1.0b2.tar.gz",
+  "download_time": "2025-12-16T02:47:51.513667",
   "package_url": "https://pypi.org/project/specdirs/"
 }
