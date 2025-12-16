@@ -1,11 +1,11 @@
 {
   "name": "sql-query-anonymizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tool for anonymizing schema data in SQL queries.",
   "author": "Nicholas Carsner",
   "license": null,
   "home_page": null,
-  "download_filename": "sql_query_anonymizer-0.1.1.tar.gz",
-  "download_time": "2025-12-15T22:35:10.940171",
+  "download_filename": "sql_query_anonymizer-0.1.2.tar.gz",
+  "download_time": "2025-12-16T19:42:53.236781",
   "package_url": "https://pypi.org/project/sql-query-anonymizer/"
 }

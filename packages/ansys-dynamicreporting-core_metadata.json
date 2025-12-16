@@ -1,0 +1,11 @@
+{
+  "name": "ansys-dynamicreporting-core",
+  "version": "0.10.6",
+  "summary": "Python interface to Ansys Dynamic Reporting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ansys_dynamicreporting_core-0.10.6.tar.gz",
+  "download_time": "2025-12-16T19:42:26.414461",
+  "package_url": "https://pypi.org/project/ansys-dynamicreporting-core/"
+}

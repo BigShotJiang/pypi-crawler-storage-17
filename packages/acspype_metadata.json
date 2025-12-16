@@ -1,0 +1,11 @@
+{
+  "name": "acspype",
+  "version": "0.3.4",
+  "summary": "A Python package for serial data acquisition and advanced processing for the Sea-Bird Scientific ACS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acspype-0.3.4.tar.gz",
+  "download_time": "2025-12-16T19:42:43.215767",
+  "package_url": "https://pypi.org/project/acspype/"
+}

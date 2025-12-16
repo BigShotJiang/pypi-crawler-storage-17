@@ -1,0 +1,11 @@
+{
+  "name": "micro-http-server",
+  "version": "0.1.1",
+  "summary": "a simple HTTP server using functional principles for Micropython and CPython",
+  "author": "Topi Kanerva",
+  "license": null,
+  "home_page": null,
+  "download_filename": "micro_http_server-0.1.1.tar.gz",
+  "download_time": "2025-12-16T19:42:34.696625",
+  "package_url": "https://pypi.org/project/micro-http-server/"
+}

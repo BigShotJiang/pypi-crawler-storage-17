@@ -1,0 +1,11 @@
+{
+  "name": "setup-cfg-fmt",
+  "version": "3.2.0",
+  "summary": "apply a consistent format to `setup.cfg` files",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/asottile/setup-cfg-fmt",
+  "download_filename": "setup_cfg_fmt-3.2.0.tar.gz",
+  "download_time": "2025-12-16T19:42:39.283508",
+  "package_url": "https://pypi.org/project/setup-cfg-fmt/"
+}

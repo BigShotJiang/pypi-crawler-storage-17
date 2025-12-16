@@ -1,0 +1,11 @@
+{
+  "name": "parquet-lf",
+  "version": "1.0.0",
+  "summary": "A lingua franca utility for converting between data formats (JSON, CSV) and Parquet.",
+  "author": "Matt McNaughton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parquet_lf-1.0.0.tar.gz",
+  "download_time": "2025-12-16T19:42:24.685349",
+  "package_url": "https://pypi.org/project/parquet-lf/"
+}

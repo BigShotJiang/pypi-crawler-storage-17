@@ -1,11 +1,11 @@
 {
   "name": "python-tensorlogic",
-  "version": "0.3.0",
+  "version": "0.3.5",
   "summary": "Neural-symbolic AI framework unifying logical reasoning and tensor computation",
   "author": "TensorLogic Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_tensorlogic-0.3.0.tar.gz",
-  "download_time": "2025-12-15T20:37:00.084508",
+  "download_filename": "python_tensorlogic-0.3.5.tar.gz",
+  "download_time": "2025-12-16T19:42:33.670988",
   "package_url": "https://pypi.org/project/python-tensorlogic/"
 }
