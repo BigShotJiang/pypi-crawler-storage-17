@@ -1,11 +1,11 @@
 {
   "name": "nobodywho",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python bindings for nobodywho",
   "author": null,
-  "license": null,
+  "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "nobodywho-0.2.0-cp38-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-15T20:37:12.543384",
+  "download_filename": "nobodywho-0.3.0-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-16T16:48:06.421604",
   "package_url": "https://pypi.org/project/nobodywho/"
 }

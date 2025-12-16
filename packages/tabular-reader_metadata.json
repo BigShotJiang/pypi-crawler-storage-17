@@ -1,11 +1,11 @@
 {
   "name": "tabular-reader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Read XLSX, XLS and CSV files with a uniform interface Read XLSX, XLS and CSV files with a uniform interface",
   "author": "arkhan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tabular_reader-0.1.1.tar.gz",
-  "download_time": "2025-12-16T15:30:04.059190",
+  "download_filename": "tabular_reader-0.1.2.tar.gz",
+  "download_time": "2025-12-16T16:48:32.795997",
   "package_url": "https://pypi.org/project/tabular-reader/"
 }

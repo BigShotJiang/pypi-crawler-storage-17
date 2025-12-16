@@ -1,11 +1,11 @@
 {
   "name": "logger-maoze",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "summary": "A python logger extension package",
   "author": "maoze",
   "license": null,
   "home_page": null,
-  "download_filename": "logger_maoze-0.0.1.tar.gz",
-  "download_time": "2025-12-16T16:16:19.319527",
+  "download_filename": "logger_maoze-0.0.6.tar.gz",
+  "download_time": "2025-12-16T16:48:16.688887",
   "package_url": "https://pypi.org/project/logger-maoze/"
 }

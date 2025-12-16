@@ -1,0 +1,11 @@
+{
+  "name": "django-dbchoices",
+  "version": "0.1.0",
+  "summary": "Simple Runtime Choices for Django Models & Forms.",
+  "author": "Avishrant Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_dbchoices-0.1.0.tar.gz",
+  "download_time": "2025-12-16T16:48:10.534709",
+  "package_url": "https://pypi.org/project/django-dbchoices/"
+}

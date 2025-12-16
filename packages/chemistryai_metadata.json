@@ -1,11 +1,11 @@
 {
   "name": "chemistryai",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Simple chemical structure parser, IUPAC namer, and visualizer",
   "author": "education_is_self_done",
   "license": null,
   "home_page": "https://github.com/infinity390/chemistryai",
-  "download_filename": "chemistryai-0.1.0.tar.gz",
-  "download_time": "2025-12-16T16:15:47.477276",
+  "download_filename": "chemistryai-0.1.2.tar.gz",
+  "download_time": "2025-12-16T16:48:07.450300",
   "package_url": "https://pypi.org/project/chemistryai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gqc-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "GQC Agent provides a multi-agent AI pipeline for intent classification, query rephrasing, and note creation using GPT and Gemini models.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gqc_agent-1.0.1.tar.gz",
-  "download_time": "2025-12-15T15:41:34.677537",
+  "download_filename": "gqc_agent-1.0.2.tar.gz",
+  "download_time": "2025-12-16T16:48:18.231354",
   "package_url": "https://pypi.org/project/gqc-agent/"
 }
