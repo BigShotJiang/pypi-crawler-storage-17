@@ -1,0 +1,11 @@
+{
+  "name": "plivo-stream-sdk",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for the Plivo Streaming API with asyncio, WebSockets and FastAPI support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plivo_stream_sdk-0.1.1.tar.gz",
+  "download_time": "2025-12-16T13:10:39.057579",
+  "package_url": "https://pypi.org/project/plivo-stream-sdk/"
+}

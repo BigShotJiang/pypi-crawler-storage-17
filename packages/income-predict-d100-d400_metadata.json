@@ -1,0 +1,11 @@
+{
+  "name": "income-predict-d100-d400",
+  "version": "0.1.4",
+  "summary": "My installable package for income prediction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "income_predict_d100_d400-0.1.4.tar.gz",
+  "download_time": "2025-12-16T13:10:43.743137",
+  "package_url": "https://pypi.org/project/income-predict-d100-d400/"
+}

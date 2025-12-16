@@ -1,0 +1,11 @@
+{
+  "name": "eflips-opt",
+  "version": "0.3.15",
+  "summary": "A collection of pre-simulation optimization algorithms for eFLIPS.",
+  "author": "Ludger Heide",
+  "license": "AGPLV3.md",
+  "home_page": null,
+  "download_filename": "eflips_opt-0.3.15.tar.gz",
+  "download_time": "2025-12-16T13:11:04.242371",
+  "package_url": "https://pypi.org/project/eflips-opt/"
+}
