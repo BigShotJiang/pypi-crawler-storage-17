@@ -1,11 +1,11 @@
 {
   "name": "contact",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "summary": "This Python curses client for Meshtastic is a terminal-based client designed to manage device settings, enable mesh chat communication, and handle configuration backups and restores.",
   "author": "Ben Lipsey",
   "license": null,
   "home_page": null,
-  "download_filename": "contact-1.4.5.tar.gz",
-  "download_time": "2025-12-16T06:18:31.373918",
+  "download_filename": "contact-1.4.6.tar.gz",
+  "download_time": "2025-12-16T17:17:27.115625",
   "package_url": "https://pypi.org/project/contact/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py-wlcommands",
-  "version": "0.2.26",
+  "version": "0.2.27",
   "summary": "py_wlcommands - Python项目",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_wlcommands-0.2.26-cp312-cp312-win_amd64.whl",
-  "download_time": "2025-12-16T16:48:05.375478",
+  "download_filename": "py_wlcommands-0.2.27-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-12-16T17:17:11.420123",
   "package_url": "https://pypi.org/project/py-wlcommands/"
 }

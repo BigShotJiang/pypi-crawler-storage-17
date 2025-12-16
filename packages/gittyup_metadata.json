@@ -1,0 +1,11 @@
+{
+  "name": "gittyup",
+  "version": "1.2.0",
+  "summary": "Automatically discover and update all git repositories in a directory tree",
+  "author": "Michael Kennedy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gittyup-1.2.0.tar.gz",
+  "download_time": "2025-12-16T17:17:05.730701",
+  "package_url": "https://pypi.org/project/gittyup/"
+}

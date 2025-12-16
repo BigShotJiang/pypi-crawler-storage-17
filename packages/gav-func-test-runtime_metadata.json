@@ -1,0 +1,11 @@
+{
+  "name": "gav-func-test-runtime",
+  "version": "1.1.0b5.dev1",
+  "summary": "Test package for Python Language Worker TZ support - Azure Functions Runtime V2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gav_func_test_runtime-1.1.0b5.dev1.tar.gz",
+  "download_time": "2025-12-16T17:16:58.510243",
+  "package_url": "https://pypi.org/project/gav-func-test-runtime/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "detective-benno",
+  "version": "0.1.0",
+  "summary": "An intelligent code review detective powered by LLM - solving code mysteries, one PR at a time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "detective_benno-0.1.0.tar.gz",
+  "download_time": "2025-12-16T17:16:50.802356",
+  "package_url": "https://pypi.org/project/detective-benno/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tinybird",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Tinybird Command Line Tool",
   "author": "Tinybird",
   "license": null,
   "home_page": "https://www.tinybird.co/docs/forward/commands",
-  "download_filename": "tinybird-1.1.1.tar.gz",
-  "download_time": "2025-12-15T18:52:34.873396",
+  "download_filename": "tinybird-1.1.2.tar.gz",
+  "download_time": "2025-12-16T17:17:32.236521",
   "package_url": "https://pypi.org/project/tinybird/"
 }

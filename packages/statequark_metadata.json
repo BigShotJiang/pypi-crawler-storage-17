@@ -1,11 +1,11 @@
 {
   "name": "statequark",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Lightweight atomic state management for IoT devices and embedded systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "statequark-0.5.2.tar.gz",
-  "download_time": "2025-12-15T17:45:15.638633",
+  "download_filename": "statequark-0.5.3.tar.gz",
+  "download_time": "2025-12-16T17:17:39.681202",
   "package_url": "https://pypi.org/project/statequark/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "argdec",
+  "version": "0.2.1",
+  "summary": "A decorator-based, declarative interface to Python's argparse for building hierarchical CLI applications.",
+  "author": "argdec contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "argdec-0.2.1.tar.gz",
+  "download_time": "2025-12-16T17:17:07.802231",
+  "package_url": "https://pypi.org/project/argdec/"
+}

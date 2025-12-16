@@ -1,0 +1,11 @@
+{
+  "name": "frameshift",
+  "version": "0.1.0",
+  "summary": "Load pandas DataFrames into Amazon Redshift without S3 - using the somewhat-efficient multi-row INSERT statement AWS Redshift offers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frameshift-0.1.0.tar.gz",
+  "download_time": "2025-12-16T17:17:40.191191",
+  "package_url": "https://pypi.org/project/frameshift/"
+}

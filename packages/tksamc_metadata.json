@@ -1,0 +1,11 @@
+{
+  "name": "tksamc",
+  "version": "1.0.0",
+  "summary": "TKSA - Electrostatic Free Energy calculation for each ionizable residue",
+  "author": "Vinícius G. Contessoto",
+  "license": null,
+  "home_page": "https://github.com/contessoto/tksamc",
+  "download_filename": "tksamc-1.0.0.tar.gz",
+  "download_time": "2025-12-16T17:17:26.604793",
+  "package_url": "https://pypi.org/project/tksamc/"
+}

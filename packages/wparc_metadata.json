@@ -1,11 +1,11 @@
 {
   "name": "wparc",
-  "version": "1.0.5",
-  "summary": "yspcrawler: a command-line tool to backup documents from Yandex.Disk public resources",
+  "version": "1.0.7",
+  "summary": "WordPress API Crawler and Backup Tool",
   "author": "Ivan Begtin",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/ruarxive/wparc/",
-  "download_filename": "wparc-1.0.5.tar.gz",
-  "download_time": "2025-12-16T13:50:02.506515",
+  "download_filename": "wparc-1.0.7-py3-none-any.whl",
+  "download_time": "2025-12-16T17:17:29.163546",
   "package_url": "https://pypi.org/project/wparc/"
 }
