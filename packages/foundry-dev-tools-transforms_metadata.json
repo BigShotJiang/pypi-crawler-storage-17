@@ -1,0 +1,11 @@
+{
+  "name": "foundry-dev-tools-transforms",
+  "version": "2.1.22",
+  "summary": "Seamlessly run your Palantir Foundry Repository transforms code on your local machine.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "foundry_dev_tools_transforms-2.1.22.tar.gz",
+  "download_time": "2025-12-16T10:15:48.098192",
+  "package_url": "https://pypi.org/project/foundry-dev-tools-transforms/"
+}

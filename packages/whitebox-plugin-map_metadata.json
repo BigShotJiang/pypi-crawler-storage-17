@@ -1,0 +1,11 @@
+{
+  "name": "whitebox-plugin-map",
+  "version": "0.1.24",
+  "summary": "A plugin for whitebox to display map & GPS data using Leaflet.js",
+  "author": "avilabss",
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "whitebox_plugin_map-0.1.24.tar.gz",
+  "download_time": "2025-12-16T10:15:41.790376",
+  "package_url": "https://pypi.org/project/whitebox-plugin-map/"
+}

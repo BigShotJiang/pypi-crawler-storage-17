@@ -1,11 +1,11 @@
 {
   "name": "cluesbysam-solver",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Wrapper around the Z3 SMT Solver to assist in solving CluesBySam puzzles.",
   "author": "Joost Rijneveld",
   "license": null,
   "home_page": null,
-  "download_filename": "cluesbysam_solver-0.1.1.tar.gz",
-  "download_time": "2025-12-15T15:41:27.827153",
+  "download_filename": "cluesbysam_solver-0.2.0.tar.gz",
+  "download_time": "2025-12-16T10:15:39.713977",
   "package_url": "https://pypi.org/project/cluesbysam-solver/"
 }

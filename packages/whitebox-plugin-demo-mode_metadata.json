@@ -1,0 +1,11 @@
+{
+  "name": "whitebox-plugin-demo-mode",
+  "version": "0.1.1",
+  "summary": "Plugin description",
+  "author": "Milos",
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "whitebox_plugin_demo_mode-0.1.1.tar.gz",
+  "download_time": "2025-12-16T10:15:24.091082",
+  "package_url": "https://pypi.org/project/whitebox-plugin-demo-mode/"
+}

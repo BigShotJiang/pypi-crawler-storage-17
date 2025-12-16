@@ -1,0 +1,11 @@
+{
+  "name": "meteole",
+  "version": "0.2.4",
+  "summary": "A Python client library for forecast model APIs (e.g., Météo-France).",
+  "author": "ThomasBouche, GratienDSX",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "meteole-0.2.4.tar.gz",
+  "download_time": "2025-12-16T10:15:24.610990",
+  "package_url": "https://pypi.org/project/meteole/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odp-sdk",
+  "version": "0.28.7",
+  "summary": "ODP Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odp_sdk-0.28.7.tar.gz",
+  "download_time": "2025-12-16T10:15:18.336754",
+  "package_url": "https://pypi.org/project/odp-sdk/"
+}

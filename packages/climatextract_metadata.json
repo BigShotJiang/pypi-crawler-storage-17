@@ -1,11 +1,11 @@
 {
   "name": "climatextract",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Extract CO2 emissions data from PDF sustainability reports using LLMs",
   "author": "ClimXtract Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "climatextract-0.1.1.tar.gz",
-  "download_time": "2025-12-15T10:14:50.709664",
+  "download_filename": "climatextract-0.2.0.tar.gz",
+  "download_time": "2025-12-16T10:15:43.863112",
   "package_url": "https://pypi.org/project/climatextract/"
 }

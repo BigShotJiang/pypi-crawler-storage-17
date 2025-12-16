@@ -1,11 +1,11 @@
 {
   "name": "gammapy",
-  "version": "2.0",
+  "version": "2.0.1",
   "summary": "A Python package for gamma-ray astronomy",
-  "author": "The Gammapy developers",
-  "license": "BSD-3-Clause",
-  "home_page": "https://gammapy.org",
-  "download_filename": "gammapy-2.0.tar.gz",
-  "download_time": "2025-12-15T14:15:55.885153",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gammapy-2.0.1.tar.gz",
+  "download_time": "2025-12-16T10:15:17.812221",
   "package_url": "https://pypi.org/project/gammapy/"
 }
