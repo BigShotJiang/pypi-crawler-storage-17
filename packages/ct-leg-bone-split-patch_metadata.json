@@ -1,11 +1,11 @@
 {
   "name": "ct-leg-bone-split-patch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Given a 128×128 grayscale image representing a CT cross-sectional slice, identify bone tissue from it and generate a binary mask.",
   "author": "GGN_2015",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ct_leg_bone_split_patch-0.1.1.tar.gz",
-  "download_time": "2025-12-16T10:15:16.750844",
+  "download_filename": "ct_leg_bone_split_patch-0.1.2.tar.gz",
+  "download_time": "2025-12-16T10:44:12.884291",
   "package_url": "https://pypi.org/project/ct-leg-bone-split-patch/"
 }

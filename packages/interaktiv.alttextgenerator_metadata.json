@@ -1,0 +1,11 @@
+{
+  "name": "interaktiv.alttextgenerator",
+  "version": "1.0.0",
+  "summary": "Generate alternative texts for images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interaktiv_alttextgenerator-1.0.0.tar.gz",
+  "download_time": "2025-12-16T10:44:30.328666",
+  "package_url": "https://pypi.org/project/interaktiv.alttextgenerator/"
+}

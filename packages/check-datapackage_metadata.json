@@ -1,11 +1,11 @@
 {
   "name": "check-datapackage",
-  "version": "0.26.2",
+  "version": "0.26.3",
   "summary": "Check your Data Package's metadata against the Data Package standard to ensure that it's compliant with the standard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "check_datapackage-0.26.2.tar.gz",
-  "download_time": "2025-12-15T15:41:32.764561",
+  "download_filename": "check_datapackage-0.26.3.tar.gz",
+  "download_time": "2025-12-16T10:43:47.305907",
   "package_url": "https://pypi.org/project/check-datapackage/"
 }

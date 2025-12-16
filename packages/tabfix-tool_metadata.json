@@ -1,11 +1,11 @@
 {
   "name": "tabfix-tool",
-  "version": "1.2.5",
+  "version": "1.2.5.2",
   "summary": "Advanced tool for fixing tab/space indentation issues in code files",
   "author": "hairpin01",
   "license": "GNU General Public License v3.0",
   "home_page": "https://github.com/hairpin01/tabfix",
-  "download_filename": "tabfix_tool-1.2.5.tar.gz",
-  "download_time": "2025-12-16T08:16:38.318633",
+  "download_filename": "tabfix_tool-1.2.5.2.tar.gz",
+  "download_time": "2025-12-16T10:44:07.843269",
   "package_url": "https://pypi.org/project/tabfix-tool/"
 }

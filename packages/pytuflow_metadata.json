@@ -1,0 +1,11 @@
+{
+  "name": "pytuflow",
+  "version": "1.0.2",
+  "summary": "Official Python library for TUFLOW. A library for working with TUFLOW input and outputs with basic running capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytuflow-1.0.2-py3-none-any.whl",
+  "download_time": "2025-12-16T10:43:58.438936",
+  "package_url": "https://pypi.org/project/pytuflow/"
+}

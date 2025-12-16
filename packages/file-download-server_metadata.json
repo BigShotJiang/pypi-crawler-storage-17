@@ -1,0 +1,11 @@
+{
+  "name": "file-download-server",
+  "version": "1.2.1",
+  "summary": "A simple file server",
+  "author": "Ricardo",
+  "license": null,
+  "home_page": "https://github.com/GeekRicardo/file-download-server",
+  "download_filename": "file_download_server-1.2.1.tar.gz",
+  "download_time": "2025-12-16T10:44:18.392936",
+  "package_url": "https://pypi.org/project/file-download-server/"
+}

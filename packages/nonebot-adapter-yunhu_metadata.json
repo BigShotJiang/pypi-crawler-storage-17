@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-adapter-yunhu",
+  "version": "0.0.8",
+  "summary": "A NoneBot adapter for YunHu",
+  "author": "molanp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_adapter_yunhu-0.0.8.tar.gz",
+  "download_time": "2025-12-16T10:44:28.732854",
+  "package_url": "https://pypi.org/project/nonebot-adapter-yunhu/"
+}

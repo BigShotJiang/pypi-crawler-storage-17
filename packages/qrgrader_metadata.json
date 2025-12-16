@@ -1,0 +1,11 @@
+{
+  "name": "qrgrader",
+  "version": "0.0.19",
+  "summary": "A framework for automatic grading of exams using QR codes",
+  "author": "Danilo Tardioli",
+  "license": null,
+  "home_page": "https://github.com/dantard/qrgrader",
+  "download_filename": "qrgrader-0.0.19.tar.gz",
+  "download_time": "2025-12-16T10:44:09.994407",
+  "package_url": "https://pypi.org/project/qrgrader/"
+}
