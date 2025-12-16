@@ -1,0 +1,11 @@
+{
+  "name": "sandshrew",
+  "version": "0.1.0",
+  "summary": "Production-ready tool integration library for LLMs",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "sandshrew-0.1.0.tar.gz",
+  "download_time": "2025-12-16T21:49:42.266761",
+  "package_url": "https://pypi.org/project/sandshrew/"
+}

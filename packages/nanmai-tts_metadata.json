@@ -1,11 +1,11 @@
 {
   "name": "nanmai-tts",
-  "version": "2025.12.16.124832",
+  "version": "2025.12.17.54655",
   "summary": "Async Python library for Nanmai TTS (DeepSeek/Kimi voices)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nanmai_tts-2025.12.16.124832.tar.gz",
-  "download_time": "2025-12-16T04:53:23.951765",
+  "download_filename": "nanmai_tts-2025.12.17.54655.tar.gz",
+  "download_time": "2025-12-16T21:49:27.765440",
   "package_url": "https://pypi.org/project/nanmai-tts/"
 }
