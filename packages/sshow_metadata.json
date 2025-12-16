@@ -1,11 +1,11 @@
 {
   "name": "sshow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Prettify and group your ~/.ssh/config.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sshow-0.1.0.tar.gz",
-  "download_time": "2025-12-16T08:16:49.693180",
+  "download_filename": "sshow-0.1.1.tar.gz",
+  "download_time": "2025-12-16T09:16:59.259869",
   "package_url": "https://pypi.org/project/sshow/"
 }

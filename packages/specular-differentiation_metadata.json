@@ -1,11 +1,11 @@
 {
   "name": "specular-differentiation",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "summary": "Specular differentiation in normed vector spaces and its applications",
   "author": "Kiyuob Jung",
   "license": null,
   "home_page": "https://github.com/kyjung2357/specular-differentiation",
-  "download_filename": "specular_differentiation-0.0.7.tar.gz",
-  "download_time": "2025-12-16T04:53:21.719415",
+  "download_filename": "specular_differentiation-0.1.0.tar.gz",
+  "download_time": "2025-12-16T09:16:56.664174",
   "package_url": "https://pypi.org/project/specular-differentiation/"
 }

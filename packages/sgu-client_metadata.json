@@ -1,0 +1,11 @@
+{
+  "name": "sgu-client",
+  "version": "0.4.2",
+  "summary": "A modern Python client library for accessing Geological Survey of Sweden groundwater data APIs with type safety and pandas integration",
+  "author": "Anders Retzner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sgu_client-0.4.2.tar.gz",
+  "download_time": "2025-12-16T09:17:19.163131",
+  "package_url": "https://pypi.org/project/sgu-client/"
+}

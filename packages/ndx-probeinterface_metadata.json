@@ -1,0 +1,11 @@
+{
+  "name": "ndx-probeinterface",
+  "version": "0.2.0",
+  "summary": "Extension for defining neural probes in the probeinterface format",
+  "author": "Alessio Buccino, Kyu Hyun Lee, Geeling Chau",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ndx_probeinterface-0.2.0.tar.gz",
+  "download_time": "2025-12-16T09:17:31.786872",
+  "package_url": "https://pypi.org/project/ndx-probeinterface/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sparse-dot-topn",
+  "version": "1.2.0",
+  "summary": "This package boosts a sparse matrix multiplication followed by selecting the top-n multiplication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparse_dot_topn-1.2.0.tar.gz",
+  "download_time": "2025-12-16T09:16:48.801949",
+  "package_url": "https://pypi.org/project/sparse-dot-topn/"
+}

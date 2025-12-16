@@ -1,0 +1,11 @@
+{
+  "name": "webgpu",
+  "version": "1.0.20",
+  "summary": "A Python based WebGPU API using pyodide",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "webgpu-1.0.20-py3-none-any.whl",
+  "download_time": "2025-12-16T09:17:28.643235",
+  "package_url": "https://pypi.org/project/webgpu/"
+}

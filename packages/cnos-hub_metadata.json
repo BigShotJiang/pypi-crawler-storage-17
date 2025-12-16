@@ -1,0 +1,11 @@
+{
+  "name": "cnos-hub",
+  "version": "0.1.0",
+  "summary": "The official Python library for the cnos-hub API",
+  "author": "Cnos Hub",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cnos_hub-0.1.0.tar.gz",
+  "download_time": "2025-12-16T09:17:15.046355",
+  "package_url": "https://pypi.org/project/cnos-hub/"
+}

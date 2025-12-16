@@ -1,0 +1,11 @@
+{
+  "name": "proximity-lock-system",
+  "version": "2.1.0",
+  "summary": "Security-style CLI that locks your system when your phone leaves Bluetooth range.",
+  "author": "Akarsh Jha",
+  "license": null,
+  "home_page": "https://github.com/Akarshjha03/ProximityLockSystem",
+  "download_filename": "proximity_lock_system-2.1.0.tar.gz",
+  "download_time": "2025-12-16T09:17:23.355289",
+  "package_url": "https://pypi.org/project/proximity-lock-system/"
+}

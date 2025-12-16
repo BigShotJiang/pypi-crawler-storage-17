@@ -1,0 +1,11 @@
+{
+  "name": "domino-spatial",
+  "version": "0.1.5",
+  "summary": "DOMINO: diffusion-optimised graph learning identifies domain structures with enhanced accuracy and scalability",
+  "author": "Pan Jia, Wenjun Liu, Ning Liu, and Fuyi Li",
+  "license": "MIT",
+  "home_page": "https://github.com/ABILiLab/DOMINO",
+  "download_filename": "domino_spatial-0.1.5.tar.gz",
+  "download_time": "2025-12-16T09:16:59.778385",
+  "package_url": "https://pypi.org/project/domino-spatial/"
+}
