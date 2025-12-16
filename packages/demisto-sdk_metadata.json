@@ -1,0 +1,11 @@
+{
+  "name": "demisto-sdk",
+  "version": "1.38.15",
+  "summary": "\"A Python library for the Demisto SDK\"",
+  "author": "Demisto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "demisto_sdk-1.38.15.tar.gz",
+  "download_time": "2025-12-16T23:42:30.095032",
+  "package_url": "https://pypi.org/project/demisto-sdk/"
+}

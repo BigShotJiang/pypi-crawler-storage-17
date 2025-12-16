@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T23:31:32.429090
-- **Total Packages**: 61
-- **Total Size**: 28.38 MB
+- **Download Time**: 2025-12-16T23:43:00.048864
+- **Total Packages**: 83
+- **Total Size**: 17.91 MB
 
 ## Packages List
+- django-orbit
+- cforge
+- kiarina-utils-file
+- kiarina-utils-common
+- kiarina-llm
+- kiarina-lib-redisearch
+- kiarina-lib-redis
+- kiarina-lib-openai
+- kiarina-lib-google-cloud-storage
+- kiarina-lib-google-auth
+- kiarina-lib-falkordb
+- kiarina-lib-cloudflare-d1
+- guidelinely
+- kiarina-lib-cloudflare-auth
+- kiarina-lib-anthropic
+- kiarina-i18n
+- kiarina
+- hspylib-askai
+- rxlm
+- rp
+- cograph-generator
+- torch-optstate
+- claude-vault-mcp
+- coalex
+- bugcam
+- saboteur
+- kleur
+- standardbots
+- brewbar
+- demisto-sdk
+- stinger-python-utils
+- anc
+- kardioutils
+- jijzept-sdk
+- heaserver
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- heartkit
+- mini-arcade-core
+- objectory
+- biblemategui
+- gebpy
+- mdxcanvas
+- scenario-characterization
+- burla
+- roampal
+- expt-logger
+- norm_toolkit
+- ctfsolver
+- tfs-mt
+- pysdm-examples
+- pysdm
+- par-term-emu-core-rust
+- ripperdoc
+- ledger2bql
+- nifti2bids
 - thds.mops
 - thds.attrs-utils
 - thds.adls
@@ -22,11 +79,8 @@
 - PraisonAI
 - adventuresinodyssey
 - praisonaiagents
-- kleur
 - eo-tides
 - squawk-cli
-- brewbar
-- rp
 - pii-codex
 - ragit
 - fastyaml-rs
@@ -35,35 +89,3 @@
 - vandamme-proxy
 - deltachat-rpc-server
 - task-ng
-- ipsdk
-- pytest-pve-cloud
-- ledger2bql
-- hikari-wave
-- colablinter
-- githubtakeout
-- ai-parrot
-- ocrtestdata
-- py-pve-cloud
-- bloggy
-- fireworks-ai
-- bugcam
-- arize-phoenix-client
-- google-cloud-documentai-toolbox
-- sentinelseed
-- macbundler
-- datacompy
-- moose-lib
-- methodtenable
-- oilpriceapi
-- stinger-python-utils
-- flet-charts
-- flwr-nightly
-- eeco
-- cloudsmith-cli
-- unitfield
-- dreadnode
-- mcp-ticketer
-- mcp-server-http-request
-- PyiMAi
-- napistu
-- s3-credentials

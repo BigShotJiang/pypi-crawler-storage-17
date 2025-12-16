@@ -1,11 +1,11 @@
 {
   "name": "stinger-python-utils",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "Common utilities for Stinger Python services.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stinger_python_utils-0.1.0.tar.gz",
-  "download_time": "2025-12-16T23:10:28.467065",
+  "download_filename": "stinger_python_utils-0.1.1.tar.gz",
+  "download_time": "2025-12-16T23:42:30.616944",
   "package_url": "https://pypi.org/project/stinger-python-utils/"
 }

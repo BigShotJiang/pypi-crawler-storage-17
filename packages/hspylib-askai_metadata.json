@@ -1,0 +1,11 @@
+{
+  "name": "hspylib-askai",
+  "version": "1.2.19",
+  "summary": "HomeSetup - AskAI",
+  "author": "Hugo Saporetti Junior",
+  "license": "MIT",
+  "home_page": "https://github.com/yorevs/hspylib",
+  "download_filename": "hspylib_askai-1.2.19.tar.gz",
+  "download_time": "2025-12-16T23:42:23.175980",
+  "package_url": "https://pypi.org/project/hspylib-askai/"
+}
