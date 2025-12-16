@@ -1,0 +1,11 @@
+{
+  "name": "pystave",
+  "version": "1.1.0",
+  "summary": "musical stave trainer",
+  "author": "Jeremy Hill",
+  "license": "GPLv3+",
+  "home_page": "https://bitbucket.org/jezhill/pystave",
+  "download_filename": "pystave-1.1.0-py2.py3-none-any.whl",
+  "download_time": "2025-12-16T06:54:24.795227",
+  "package_url": "https://pypi.org/project/pystave/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grass-gis-helpers",
+  "version": "2.3.5",
+  "summary": "This library provides functions which can be used for developing GRASS GIS addons.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grass_gis_helpers-2.3.5.tar.gz",
+  "download_time": "2025-12-16T06:54:20.293525",
+  "package_url": "https://pypi.org/project/grass-gis-helpers/"
+}

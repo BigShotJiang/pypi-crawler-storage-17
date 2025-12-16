@@ -1,0 +1,11 @@
+{
+  "name": "pyoaev",
+  "version": "2.0.8",
+  "summary": "Python API client for OpenAEV.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyoaev-2.0.8.tar.gz",
+  "download_time": "2025-12-16T06:54:27.048459",
+  "package_url": "https://pypi.org/project/pyoaev/"
+}
