@@ -1,0 +1,11 @@
+{
+  "name": "fcm-send",
+  "version": "0.1.0",
+  "summary": "A Python CLI tool for sending Firebase Cloud Messaging (FCM) notifications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fcm_send-0.1.0.tar.gz",
+  "download_time": "2025-12-16T15:43:16.958463",
+  "package_url": "https://pypi.org/project/fcm-send/"
+}
