@@ -1,11 +1,11 @@
 {
   "name": "terrakio-api",
-  "version": "0.5.17",
+  "version": "0.5.18",
   "summary": "Client version of the terrakio-python-api",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terrakio_api-0.5.17.tar.gz",
-  "download_time": "2025-12-15T05:20:40.962446",
+  "download_filename": "terrakio_api-0.5.18.tar.gz",
+  "download_time": "2025-12-16T05:38:26.460012",
   "package_url": "https://pypi.org/project/terrakio-api/"
 }

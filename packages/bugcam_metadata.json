@@ -1,11 +1,11 @@
 {
   "name": "bugcam",
-  "version": "0.1.9",
+  "version": "0.1.13",
   "summary": "detect and classify insects on a raspberry pi",
   "author": "Deniz Aydemir",
   "license": "MIT",
   "home_page": "https://github.com/MIT-Senseable-City-Lab/sensing-garden",
-  "download_filename": "bugcam-0.1.9.tar.gz",
-  "download_time": "2025-12-16T05:14:43.887881",
+  "download_filename": "bugcam-0.1.13.tar.gz",
+  "download_time": "2025-12-16T05:38:23.848287",
   "package_url": "https://pypi.org/project/bugcam/"
 }

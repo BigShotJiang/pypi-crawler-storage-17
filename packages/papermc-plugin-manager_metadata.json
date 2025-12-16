@@ -1,11 +1,11 @@
 {
   "name": "papermc-plugin-manager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A modern CLI tool for managing PaperMC server plugins",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "papermc_plugin_manager-0.0.2.tar.gz",
-  "download_time": "2025-12-16T03:53:21.877776",
+  "download_filename": "papermc_plugin_manager-0.0.3.tar.gz",
+  "download_time": "2025-12-16T05:38:42.290914",
   "package_url": "https://pypi.org/project/papermc-plugin-manager/"
 }
