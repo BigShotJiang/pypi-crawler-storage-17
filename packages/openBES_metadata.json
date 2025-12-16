@@ -1,0 +1,11 @@
+{
+  "name": "openBES",
+  "version": "0.1.5",
+  "summary": "Python implementation of the Open Building Energy Simulation (OpenBES) tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openbes-0.1.5.tar.gz",
+  "download_time": "2025-12-16T12:22:51.158877",
+  "package_url": "https://pypi.org/project/openBES/"
+}

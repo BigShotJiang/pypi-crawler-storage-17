@@ -1,41 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T11:49:34.580883
-- **Total Packages**: 88
-- **Total Size**: 30.42 MB
+- **Download Time**: 2025-12-16T12:22:51.659768
+- **Total Packages**: 87
+- **Total Size**: 16.42 MB
 
 ## Packages List
-- adaptive-cards-py
-- aiohomematic-test-support
-- datamind-ai
-- colab-vscode-bridge
-- aiohomematic
-- iron_sdk
-- funboost
-- langwatch
-- ironcageai
-- batrachian-toad
-- aspire-bilby
-- openjiuwen
-- drf-auth-kit
-- odoo-addon-gestion-editorial
-- odoo-addon-sinli
-- odoo-addon-importar-lineas-pedido
-- odoo-addon-importar-lineas-compra
-- odoo-addon-exportar-stock-editorial-xls
-- odoo-addon-exportar-deposito-xls
-- scaffold-cli-tool
-- promweaver
-- bibliomorph
-- iron_cage
-- objectdb
-- custom-context-menu
-- odoo-runbot
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- servicegraph
 - nd-sdk
 - litesearch
 - sg-metacore
@@ -66,10 +36,12 @@
 - pctx-client
 - ddi-fw
 - dragon-ml-toolbox
+- datamind-ai
 - narwhals
 - grg-pheno-sim
 - paytechuz
 - kumo-api
+- batrachian-toad
 - gitx-cli
 - torchft-nightly
 - alibaba-cloud-application-management-mcp-server
@@ -94,3 +66,30 @@
 - fusesell
 - boltzmann9
 - stigg-api-client-v2
+- florestbotfunctions
+- analogic-framework
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- visioncube
+- vital
+- stigg-api-client
+- photonforge
+- xpander-sdk
+- pdbpp
+- lofar-vlbi-plot
+- sroka
+- aiinbx
+- alita-sdk
+- Oasys.REPORTER
+- pyvips-binary
+- innaguma-mcp
+- Oasys.THIS
+- gguf-cua
+- Oasys.D3PLOT
+- openBES

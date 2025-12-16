@@ -1,0 +1,11 @@
+{
+  "name": "Oasys.THIS",
+  "version": "22.1.0",
+  "summary": "Python API for Oasys T/HIS",
+  "author": "Miles Thornton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oasys_this-22.1.0.tar.gz",
+  "download_time": "2025-12-16T12:22:49.290337",
+  "package_url": "https://pypi.org/project/Oasys.THIS/"
+}

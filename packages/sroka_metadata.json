@@ -1,0 +1,11 @@
+{
+  "name": "sroka",
+  "version": "0.1.1",
+  "summary": "Package for access GA, GAM, MOAT, Qubole, Athena, S3, Rubicon APIs, BigQuery, MySQL",
+  "author": "Ad Engineering FANDOM",
+  "license": null,
+  "home_page": "https://github.com/Wikia/sroka",
+  "download_filename": "sroka-0.1.1.tar.gz",
+  "download_time": "2025-12-16T12:22:45.569084",
+  "package_url": "https://pypi.org/project/sroka/"
+}
