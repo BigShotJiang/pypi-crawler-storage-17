@@ -1,11 +1,11 @@
 {
   "name": "cursor-wrapped",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Your Cursor IDE year in review - see your AI coding stats for 2025",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cursor_wrapped-1.0.5.tar.gz",
-  "download_time": "2025-12-16T20:37:28.296177",
+  "download_filename": "cursor_wrapped-1.0.6.tar.gz",
+  "download_time": "2025-12-16T21:12:08.617356",
   "package_url": "https://pypi.org/project/cursor-wrapped/"
 }

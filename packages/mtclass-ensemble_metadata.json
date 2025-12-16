@@ -1,0 +1,11 @@
+{
+  "name": "mtclass-ensemble",
+  "version": "0.1.0",
+  "summary": "MTClass ensemble algorithm for identifying multi-phenotype cis-eQTLs",
+  "author": "Ronnie Li",
+  "license": "MIT",
+  "home_page": "https://github.com/ronnieli0114/MTClass",
+  "download_filename": "mtclass_ensemble-0.1.0.tar.gz",
+  "download_time": "2025-12-16T21:12:27.633767",
+  "package_url": "https://pypi.org/project/mtclass-ensemble/"
+}

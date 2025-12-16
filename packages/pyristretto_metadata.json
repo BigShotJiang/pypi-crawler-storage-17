@@ -1,0 +1,11 @@
+{
+  "name": "pyristretto",
+  "version": "0.1.0",
+  "summary": "Accelerated Ristretto255 primitives for Python, backed by libsodium.",
+  "author": "Xylen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyristretto-0.1.0.tar.gz",
+  "download_time": "2025-12-16T21:12:34.501383",
+  "package_url": "https://pypi.org/project/pyristretto/"
+}

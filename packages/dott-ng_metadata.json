@@ -1,0 +1,11 @@
+{
+  "name": "dott-ng",
+  "version": "1.21.3",
+  "summary": "Debugger-based on Target Testing (DOTT)",
+  "author": "Thomas Winkler",
+  "license": null,
+  "home_page": "https://github.com/tw-ghub/dott-ng",
+  "download_filename": "dott_ng-1.21.3-py3-none-any.whl",
+  "download_time": "2025-12-16T21:12:35.013085",
+  "package_url": "https://pypi.org/project/dott-ng/"
+}

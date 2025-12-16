@@ -1,0 +1,11 @@
+{
+  "name": "tfs-mt",
+  "version": "0.1.1",
+  "summary": "Transformer from scratch for Machine Translation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tfs_mt-0.1.1.tar.gz",
+  "download_time": "2025-12-16T21:12:22.929492",
+  "package_url": "https://pypi.org/project/tfs-mt/"
+}

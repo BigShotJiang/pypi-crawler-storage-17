@@ -1,0 +1,11 @@
+{
+  "name": "nes-zelda-walking-tour",
+  "version": "0.1.0",
+  "summary": "A Pygame program to let you wander the NES Legend of Zelda overworld map.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nes_zelda_walking_tour-0.1.0.tar.gz",
+  "download_time": "2025-12-16T21:12:11.303170",
+  "package_url": "https://pypi.org/project/nes-zelda-walking-tour/"
+}
