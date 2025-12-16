@@ -1,0 +1,11 @@
+{
+  "name": "odoorpc-toolbox",
+  "version": "0.2.0",
+  "summary": "Helper Functions for OdooRPC.",
+  "author": "Equitania Software GmbH",
+  "license": null,
+  "home_page": "https://github.com/equitania/odoorpc-toolbox",
+  "download_filename": "odoorpc_toolbox-0.2.0.tar.gz",
+  "download_time": "2025-12-16T17:56:06.350866",
+  "package_url": "https://pypi.org/project/odoorpc-toolbox/"
+}

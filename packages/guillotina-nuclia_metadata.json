@@ -1,0 +1,11 @@
+{
+  "name": "guillotina-nuclia",
+  "version": "1.0.6",
+  "summary": "nuclia support for guillotina",
+  "author": "Nil Bacardit Vinyals",
+  "license": "GPL version 3",
+  "home_page": "https://github.com/guillotinaweb/guillotina_nuclia",
+  "download_filename": "guillotina_nuclia-1.0.6.tar.gz",
+  "download_time": "2025-12-16T17:56:23.004061",
+  "package_url": "https://pypi.org/project/guillotina-nuclia/"
+}

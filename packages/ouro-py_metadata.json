@@ -1,0 +1,11 @@
+{
+  "name": "ouro-py",
+  "version": "0.3.13",
+  "summary": "The official Python library for the Ouro API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ouro_py-0.3.13.tar.gz",
+  "download_time": "2025-12-16T17:56:07.910124",
+  "package_url": "https://pypi.org/project/ouro-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-generativeai",
+  "version": "0.8.6",
+  "summary": "Google Generative AI High level API client library and tools.",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google/generative-ai-python",
+  "download_filename": "google_generativeai-0.8.6-py3-none-any.whl",
+  "download_time": "2025-12-16T17:56:09.985675",
+  "package_url": "https://pypi.org/project/google-generativeai/"
+}

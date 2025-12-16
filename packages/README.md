@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-16T17:46:34.770898
-- **Total Packages**: 87
-- **Total Size**: 34.82 MB
+- **Download Time**: 2025-12-16T17:56:52.388723
+- **Total Packages**: 86
+- **Total Size**: 18.02 MB
 
 ## Packages List
+- odoorpc-toolbox
+- argdec
+- LazyQL
+- ouro-py
+- envdrift
+- openinference-instrumentation-dspy
+- google-generativeai
+- tensorlake
+- gr8tool
+- hcsegment
+- bandersnatch
+- agenta
+- fin-infra
+- pyprland
+- wisent
+- ununennium
+- cudag
+- genai-pygame
+- recaptcha-domain-replicator
+- chemistryai
+- gnu-libc-dash-docset-generator
+- llama-index-llms-digitalocean-gradientai
+- Onya
+- commons-metrics
+- numbasom
+- synqly
+- pyranges1
+- open-multicaller
+- aibioagent
+- guillotina-nuclia
+- pyvex
+- cle
+- claripy
+- archinfo
+- angr-management
+- cross-docs
+- opengate-data
+- swgo-charli
+- simple-chetec
+- angr
+- Karboni
+- pysegmenters-md_splitter
+- botda
+- rhiza
+- mini-arcade-core
 - trophy
 - graphql-api
 - jupyterlab-favorites
@@ -14,12 +59,10 @@
 - dash-docset-builder
 - hifast
 - pulumi
-- wisent
 - whop-sdk
 - ferrmion
 - sentinelseed
 - teareduce
-- open-multicaller
 - aiohomematic-test-support
 - aiohomematic
 - featureform-enterprise
@@ -27,11 +70,9 @@
 - tacotoolbox
 - alethiotx
 - hedit
-- gr8tool
 - localrouter
 - skill-issues
 - pixi-bot
-- botda
 - cl0l-minecraft-lib
 - pdflinkcheck
 - sienge-ecbiesek-mcp
@@ -44,7 +85,6 @@
 - odoo-addon-impersonate-login
 - gui-agents
 - howler-api
-- recaptcha-domain-replicator
 - ibflex2
 - appthreat-chen
 - langgraph-api
@@ -52,44 +92,3 @@
 - langsmith
 - aury-ai-model
 - doordeck-headless-sdk
-- commons-metrics
-- spectrumx
-- github-mcp-server
-- cnhkmcp
-- python-sn2
-- weaviate-haystack
-- odoo-addon-sale-order-tag
-- praisonaiwp
-- polymarket-apis
-- polvo
-- tenets
-- alibabacloud-adb20211201
-- tucavoc
-- odoo-addon-sale-require-po-doc
-- chat-bot-cli-mexo
-- alibabacloud-esa20240910
-- chalkpy
-- liblaf-peach
-- alibabacloud-vs20181212
-- allisbns
-- alibabacloud-dms20250414
-- sl-shared-assets
-- pyconverters-mistralocr
-- noisemonitor
-- globe-server
-- mccode-plumber
-- cybrid-api-bank-python
-- avoca
-- cybrid-api-organization-python
-- valediction
-- llama-index-llms-digitalocean-gradientai
-- cybrid-api-id-python
-- compose-farm
-- sap-bdc-mcp-server
-- wppkg
-- contextfs
-- shub-workflow
-- django-ninja-aio-crud
-- chromin
-- restage
-- securevector-ai-monitor
