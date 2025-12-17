@@ -1,11 +1,11 @@
 {
   "name": "adaptivegears",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "CLI tools for data engineering workflows",
   "author": "Andrey Gubarev",
   "license": null,
   "home_page": null,
-  "download_filename": "adaptivegears-0.2.5.tar.gz",
-  "download_time": "2025-12-17T19:42:20.289685",
+  "download_filename": "adaptivegears-0.2.6.tar.gz",
+  "download_time": "2025-12-17T20:14:07.099629",
   "package_url": "https://pypi.org/project/adaptivegears/"
 }

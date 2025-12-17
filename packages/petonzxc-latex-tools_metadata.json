@@ -1,11 +1,11 @@
 {
   "name": "petonzxc-latex-tools",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Simple LaTeX table and image generation tools",
   "author": "Petr Tyapkin",
   "license": null,
   "home_page": null,
-  "download_filename": "petonzxc_latex_tools-0.1.0.tar.gz",
-  "download_time": "2025-12-17T19:19:18.268233",
+  "download_filename": "petonzxc_latex_tools-0.2.1.tar.gz",
+  "download_time": "2025-12-17T20:13:55.203526",
   "package_url": "https://pypi.org/project/petonzxc-latex-tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "par-term-emu-core-rust",
-  "version": "0.19.1",
+  "version": "0.19.3",
   "summary": "A comprehensive terminal emulator library in Rust with Python bindings - supports true color, alt screen, mouse reporting, bracketed paste, and full Unicode",
   "author": null,
   "license": null,
   "home_page": "https://github.com/paulrobello/par-term-emu-core-rust",
-  "download_filename": "par_term_emu_core_rust-0.19.1.tar.gz",
-  "download_time": "2025-12-17T05:38:29.984463",
+  "download_filename": "par_term_emu_core_rust-0.19.3.tar.gz",
+  "download_time": "2025-12-17T20:13:52.098009",
   "package_url": "https://pypi.org/project/par-term-emu-core-rust/"
 }

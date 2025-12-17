@@ -1,0 +1,11 @@
+{
+  "name": "ruamel.yaml",
+  "version": "0.18.17",
+  "summary": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+  "author": "Anthon van der Neut",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ruamel_yaml-0.18.17.tar.gz",
+  "download_time": "2025-12-17T20:13:50.515093",
+  "package_url": "https://pypi.org/project/ruamel.yaml/"
+}
