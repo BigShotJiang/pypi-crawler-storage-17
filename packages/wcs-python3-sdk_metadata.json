@@ -1,0 +1,11 @@
+{
+  "name": "wcs-python3-sdk",
+  "version": "5.0.36",
+  "summary": "Wangsu Cloud Storage Command Tool",
+  "author": "ChinaNetCenter.Wangsu Cloud Strage",
+  "license": "MIT",
+  "home_page": "https://wcs.chinanetcenter.com/document/SDK",
+  "download_filename": "wcs_python3_sdk-5.0.36-py3-none-any.whl",
+  "download_time": "2025-12-17T08:17:45.180581",
+  "package_url": "https://pypi.org/project/wcs-python3-sdk/"
+}

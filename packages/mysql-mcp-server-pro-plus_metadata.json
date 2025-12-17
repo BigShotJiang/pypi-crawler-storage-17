@@ -1,0 +1,11 @@
+{
+  "name": "mysql-mcp-server-pro-plus",
+  "version": "0.3.1",
+  "summary": "A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases. This server allows AI assistants to list tables, read data, and execute SQL queries through a controlled interface, making database exploration and analysis safer and more structured.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mysql_mcp_server_pro_plus-0.3.1.tar.gz",
+  "download_time": "2025-12-17T08:17:17.161714",
+  "package_url": "https://pypi.org/project/mysql-mcp-server-pro-plus/"
+}

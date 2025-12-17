@@ -1,0 +1,11 @@
+{
+  "name": "xml-sanitizer",
+  "version": "0.1.0",
+  "summary": "Safely escape ampersands in XML without double-encoding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xml_sanitizer-0.1.0.tar.gz",
+  "download_time": "2025-12-17T08:17:22.966818",
+  "package_url": "https://pypi.org/project/xml-sanitizer/"
+}

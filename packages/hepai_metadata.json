@@ -1,11 +1,11 @@
 {
   "name": "hepai",
-  "version": "1.2.19",
+  "version": "1.3.0",
   "summary": "High energy physics Artificial Intelligence platform, HAI.",
   "author": "Zhengde Zhang, Dongbo Xiong",
   "license": "MIT",
   "home_page": "https://github.com/hepaihub/hepai",
-  "download_filename": "hepai-1.2.19.tar.gz",
-  "download_time": "2025-12-16T14:15:02.136186",
+  "download_filename": "hepai-1.3.0.tar.gz",
+  "download_time": "2025-12-17T08:17:50.856436",
   "package_url": "https://pypi.org/project/hepai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hbutils",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "summary": "Some useful functions and classes in Python infrastructure development.",
   "author": "HansBug",
   "license": "Apache License, Version 2.0",
   "home_page": "https://github.com/HansBug/hbutils",
-  "download_filename": "hbutils-0.14.1.tar.gz",
-  "download_time": "2025-12-16T14:58:37.728684",
+  "download_filename": "hbutils-0.14.2.tar.gz",
+  "download_time": "2025-12-17T08:17:57.560180",
   "package_url": "https://pypi.org/project/hbutils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "microeye",
+  "version": "2.3.13",
+  "summary": "A python toolkit for fluorescence microscopy         that features hardware control, data analysis and vizualization         for super-resolution single-molecule localization microscopy and         single-partical tracking.",
+  "author": "Mohammad Nour Alsamsam",
+  "license": null,
+  "home_page": "https://github.com/samhitech/microEye",
+  "download_filename": "microeye-2.3.13.tar.gz",
+  "download_time": "2025-12-17T08:17:16.125688",
+  "package_url": "https://pypi.org/project/microeye/"
+}

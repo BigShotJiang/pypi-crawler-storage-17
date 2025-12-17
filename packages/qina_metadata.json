@@ -1,0 +1,11 @@
+{
+  "name": "qina",
+  "version": "1.0.7",
+  "summary": "A code monitoring and vulnerability scanning terminal application",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qina-1.0.7.tar.gz",
+  "download_time": "2025-12-17T08:17:41.510142",
+  "package_url": "https://pypi.org/project/qina/"
+}
