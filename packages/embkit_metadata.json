@@ -1,0 +1,11 @@
+{
+  "name": "embkit",
+  "version": "0.2",
+  "summary": "Embedding Kit for embedding models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "embkit-0.2.tar.gz",
+  "download_time": "2025-12-17T23:49:39.345555",
+  "package_url": "https://pypi.org/project/embkit/"
+}

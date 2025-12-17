@@ -1,11 +1,11 @@
 {
   "name": "msgmodel",
-  "version": "3.1.2",
-  "summary": "Privacy-focused Python library for interacting with LLM providers (OpenAI, Gemini). Zero-retention middleware with mandatory encryption and billing verification.",
+  "version": "3.2.0",
+  "summary": "Privacy-focused Python library for interacting with LLM providers (OpenAI, Gemini). Zero-retention middleware with stateless BytesIO-only file uploads.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "msgmodel-3.1.2.tar.gz",
-  "download_time": "2025-12-17T05:14:34.078355",
+  "download_filename": "msgmodel-3.2.0.tar.gz",
+  "download_time": "2025-12-17T23:50:06.165802",
   "package_url": "https://pypi.org/project/msgmodel/"
 }

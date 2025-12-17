@@ -1,11 +1,11 @@
 {
   "name": "TWMetro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A simple package for reading data from the Tyne and Wear Metro API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twmetro-0.0.1.tar.gz",
-  "download_time": "2025-12-17T23:31:49.404446",
+  "download_filename": "twmetro-0.0.2.tar.gz",
+  "download_time": "2025-12-17T23:49:46.690486",
   "package_url": "https://pypi.org/project/TWMetro/"
 }
