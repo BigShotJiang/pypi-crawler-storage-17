@@ -1,11 +1,11 @@
 {
   "name": "easy-tornado",
-  "version": "0.7.13",
+  "version": "0.7.14",
   "summary": "A tornado based web framework and toolkit package",
   "author": "Wang Shugen",
   "license": null,
   "home_page": "https://artifacts.wshugen.cn/python/easy_tornado",
-  "download_filename": "easy_tornado-0.7.13.tar.gz",
-  "download_time": "2025-12-16T16:16:06.169087",
+  "download_filename": "easy_tornado-0.7.14.tar.gz",
+  "download_time": "2025-12-17T15:17:19.283221",
   "package_url": "https://pypi.org/project/easy-tornado/"
 }

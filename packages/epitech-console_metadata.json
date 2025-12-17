@@ -1,0 +1,11 @@
+{
+  "name": "epitech-console",
+  "version": "0.1.8",
+  "summary": "Console tools (animation / colored printing / formating / etc...)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epitech_console-0.1.8.tar.gz",
+  "download_time": "2025-12-17T15:17:01.850053",
+  "package_url": "https://pypi.org/project/epitech-console/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "connect-cli",
-  "version": "40.2",
+  "version": "40.3",
   "summary": "CloudBlue Connect Command Line Interface",
   "author": "CloudBlue LLC",
   "license": "Apache-2.0",
   "home_page": "https://connect.cloudblue.com",
-  "download_filename": "connect_cli-40.2.tar.gz",
-  "download_time": "2025-12-17T14:41:58.302487",
+  "download_filename": "connect_cli-40.3.tar.gz",
+  "download_time": "2025-12-17T15:17:05.471930",
   "package_url": "https://pypi.org/project/connect-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-chutney",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Tasty accompaniments to go with the Django web framework.",
   "author": "Adam Alton",
   "license": null,
   "home_page": "https://github.com/adamalton/django-chutney",
-  "download_filename": "django_chutney-0.2.1.tar.gz",
-  "download_time": "2025-12-17T12:22:27.327711",
+  "download_filename": "django_chutney-0.2.2.tar.gz",
+  "download_time": "2025-12-17T15:17:40.940545",
   "package_url": "https://pypi.org/project/django-chutney/"
 }

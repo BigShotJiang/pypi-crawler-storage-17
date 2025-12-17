@@ -1,0 +1,11 @@
+{
+  "name": "profiles-pycorelib",
+  "version": "0.24.0",
+  "summary": "A Python Native package that registers the core python models",
+  "author": "Shubham Mehra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "profiles_pycorelib-0.24.0-py3-none-any.whl",
+  "download_time": "2025-12-17T15:17:08.905491",
+  "package_url": "https://pypi.org/project/profiles-pycorelib/"
+}
