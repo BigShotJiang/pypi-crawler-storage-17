@@ -1,0 +1,11 @@
+{
+  "name": "mprov-jobserver",
+  "version": "0.0.59",
+  "summary": "The job server component of mProv",
+  "author": "Jason Williams",
+  "license": null,
+  "home_page": "https://github.com/mprov-ng/mprov_jobserver",
+  "download_filename": "mprov_jobserver-0.0.59.tar.gz",
+  "download_time": "2025-12-17T22:36:29.300418",
+  "package_url": "https://pypi.org/project/mprov-jobserver/"
+}

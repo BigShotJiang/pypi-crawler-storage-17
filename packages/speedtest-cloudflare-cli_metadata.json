@@ -1,11 +1,11 @@
 {
   "name": "speedtest-cloudflare-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Speed CLI tool to test your network connectivity",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "speedtest_cloudflare_cli-0.1.0.tar.gz",
-  "download_time": "2025-12-17T20:14:04.017476",
+  "download_filename": "speedtest_cloudflare_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-17T22:35:54.900372",
   "package_url": "https://pypi.org/project/speedtest-cloudflare-cli/"
 }

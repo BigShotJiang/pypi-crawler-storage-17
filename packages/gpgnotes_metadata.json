@@ -1,11 +1,11 @@
 {
   "name": "gpgnotes",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "GPGNotes - A CLI note-taking tool with GPG encryption, tagging, and Git sync",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gpgnotes-0.2.5.tar.gz",
-  "download_time": "2025-12-17T21:49:50.969235",
+  "download_filename": "gpgnotes-0.2.7.tar.gz",
+  "download_time": "2025-12-17T22:35:59.253227",
   "package_url": "https://pypi.org/project/gpgnotes/"
 }

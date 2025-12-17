@@ -1,0 +1,11 @@
+{
+  "name": "test-dataflow-dbt",
+  "version": "0.0.3rc1",
+  "summary": "DBT customized for Dataflow",
+  "author": "Dataflow",
+  "license": null,
+  "home_page": "https://github.com/Digital-Back-Office/dataflow-dbt",
+  "download_filename": "test_dataflow_dbt-0.0.3rc1.tar.gz",
+  "download_time": "2025-12-17T22:36:17.300634",
+  "package_url": "https://pypi.org/project/test-dataflow-dbt/"
+}

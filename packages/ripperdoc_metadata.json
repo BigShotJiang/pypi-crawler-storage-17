@@ -1,11 +1,11 @@
 {
   "name": "ripperdoc",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "AI-powered terminal assistant for coding tasks",
   "author": "Ripperdoc Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ripperdoc-0.2.6.tar.gz",
-  "download_time": "2025-12-16T23:42:43.694260",
+  "download_filename": "ripperdoc-0.2.7.tar.gz",
+  "download_time": "2025-12-17T22:36:05.958250",
   "package_url": "https://pypi.org/project/ripperdoc/"
 }

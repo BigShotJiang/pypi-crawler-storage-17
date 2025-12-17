@@ -1,11 +1,11 @@
 {
   "name": "h2ogpte",
-  "version": "1.6.51",
+  "version": "1.6.52",
   "summary": "Client library for Enterprise h2oGPTe",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "h2ogpte-1.6.51-py3-none-any.whl",
-  "download_time": "2025-12-16T21:12:21.903350",
+  "download_filename": "h2ogpte-1.6.52-py3-none-any.whl",
+  "download_time": "2025-12-17T22:35:54.316030",
   "package_url": "https://pypi.org/project/h2ogpte/"
 }
