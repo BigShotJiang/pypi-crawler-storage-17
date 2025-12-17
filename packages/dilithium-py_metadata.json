@@ -1,0 +1,11 @@
+{
+  "name": "dilithium-py",
+  "version": "1.4.0",
+  "summary": "A pure python implementation of ML-DSA (FIPS 204)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dilithium_py-1.4.0.tar.gz",
+  "download_time": "2025-12-17T19:31:38.403610",
+  "package_url": "https://pypi.org/project/dilithium-py/"
+}

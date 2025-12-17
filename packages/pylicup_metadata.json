@@ -1,0 +1,11 @@
+{
+  "name": "pylicup",
+  "version": "0.3.0",
+  "summary": "Python License Update (PyLicUp). Updates all the python headers of your project with the provided license text.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylicup-0.3.0.tar.gz",
+  "download_time": "2025-12-17T19:31:03.159562",
+  "package_url": "https://pypi.org/project/pylicup/"
+}

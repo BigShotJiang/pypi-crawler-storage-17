@@ -1,0 +1,11 @@
+{
+  "name": "lsst-rsp",
+  "version": "0.10.0",
+  "summary": "Utility functions for the Rubin Science Platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lsst_rsp-0.10.0.tar.gz",
+  "download_time": "2025-12-17T19:30:58.354062",
+  "package_url": "https://pypi.org/project/lsst-rsp/"
+}

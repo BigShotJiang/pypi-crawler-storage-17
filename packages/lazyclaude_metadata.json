@@ -1,11 +1,11 @@
 {
   "name": "lazyclaude",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "A lazygit-style TUI for visualizing Claude Code customizations",
   "author": "nikiforovall",
   "license": null,
   "home_page": null,
-  "download_filename": "lazyclaude-0.8.0.tar.gz",
-  "download_time": "2025-12-16T11:32:15.029740",
+  "download_filename": "lazyclaude-0.9.0.tar.gz",
+  "download_time": "2025-12-17T19:31:11.428657",
   "package_url": "https://pypi.org/project/lazyclaude/"
 }
