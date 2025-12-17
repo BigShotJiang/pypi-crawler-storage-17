@@ -1,0 +1,11 @@
+{
+  "name": "labii-sdk",
+  "version": "1.13.14",
+  "summary": "An SDK for the Labii ELN & LIMS platform (https://www.labii.com) that provides interaction with the Labii API.",
+  "author": "Labii Inc.",
+  "license": "GNU GPLv3",
+  "home_page": "https://gitlab.com/labii-dev/labii-sdk-python",
+  "download_filename": "labii_sdk-1.13.14.tar.gz",
+  "download_time": "2025-12-17T21:33:34.005031",
+  "package_url": "https://pypi.org/project/labii-sdk/"
+}

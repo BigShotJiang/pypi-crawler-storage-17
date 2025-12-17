@@ -1,11 +1,11 @@
 {
   "name": "super-bario",
-  "version": "0.2.4",
+  "version": "0.2.7",
   "summary": "Super Bario: a powerful Python library for multi-bar, multi-layout terminal progress indicators with themes, widgets, and thread-safe updates.",
   "author": "Igor Iatsenko",
   "license": null,
   "home_page": null,
-  "download_filename": "super_bario-0.2.4.tar.gz",
-  "download_time": "2025-12-15T16:54:32.251232",
+  "download_filename": "super_bario-0.2.7.tar.gz",
+  "download_time": "2025-12-17T21:33:52.109101",
   "package_url": "https://pypi.org/project/super-bario/"
 }
