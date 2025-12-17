@@ -1,0 +1,11 @@
+{
+  "name": "rextio",
+  "version": "0.0.1",
+  "summary": "The Rust-Extended I/O for Web. (Coming Soon)",
+  "author": "Song Si-young",
+  "license": null,
+  "home_page": "https://github.com/rextio/rextio",
+  "download_filename": "rextio-0.0.1.tar.gz",
+  "download_time": "2025-12-17T11:11:47.005437",
+  "package_url": "https://pypi.org/project/rextio/"
+}

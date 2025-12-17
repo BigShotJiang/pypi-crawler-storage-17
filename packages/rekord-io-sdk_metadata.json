@@ -1,11 +1,11 @@
 {
   "name": "rekord-io-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Rekord.io Python SDK",
   "author": "DABL Team",
   "license": null,
   "home_page": "https://github.com/dabl/rekord-sdk",
-  "download_filename": "rekord_io_sdk-1.0.2.tar.gz",
-  "download_time": "2025-12-16T21:49:36.567533",
+  "download_filename": "rekord_io_sdk-1.0.3.tar.gz",
+  "download_time": "2025-12-17T11:11:56.218946",
   "package_url": "https://pypi.org/project/rekord-io-sdk/"
 }

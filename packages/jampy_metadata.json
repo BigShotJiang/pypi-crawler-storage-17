@@ -1,11 +1,11 @@
 {
   "name": "jampy",
-  "version": "8.1.1",
+  "version": "8.1.2",
   "summary": "JamPy: Jeans Anisotropic Models for Galactic Dynamics",
   "author": "Michele Cappellari",
   "license": "Other/Proprietary License",
   "home_page": "https://purl.org/cappellari/software",
-  "download_filename": "jampy-8.1.1.tar.gz",
-  "download_time": "2025-12-16T22:50:05.276465",
+  "download_filename": "jampy-8.1.2.tar.gz",
+  "download_time": "2025-12-17T11:11:44.446971",
   "package_url": "https://pypi.org/project/jampy/"
 }

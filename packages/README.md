@@ -1,20 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T10:56:23.025711
-- **Total Packages**: 87
-- **Total Size**: 27.25 MB
+- **Download Time**: 2025-12-17T11:12:22.570765
+- **Total Packages**: 83
+- **Total Size**: 13.87 MB
 
 ## Packages List
-- abTEM
+- combadge
+- skilleter-thingy
+- geotessera
+- finder-enrichment-ai-client
+- oilpriceapi
+- ode-filters
+- kisti-flydog2-text-writer
+- agentapprove
+- tensorpotential
+- naeural-core
+- ratio1
+- dataflow-conda-plugin
+- alibaba-cloud-application-management-mcp-server
+- jampy
+- liteopt
+- brynq-sdk-brynq
+- craft-ai-sdk
+- dataflow-airflow
+- rextio
+- silkworm-rs
+- gitlab-ci-verify
+- agentbill-py-sdk
+- tgwrap
+- decayshape
+- sqlalchemy-hana
+- ohmyscrapper
+- fast-plscan
+- blender-remote
+- pdf2podcast
+- bagit-create
+- malwi-box
+- skilleter-readable
+- mtu
+- rekord-io-sdk
+- knowgraph
+- stigg-sidecar-sdk
+- mlrun
+- nomenclature-sdk
+- pulumi-xyz
+- Rubka
+- ccd2md
+- cfs-cli
+- dataflow-core
+- pywen
+- nsfwpy
+- gertrude
+- pyxetabase
+- jararaca
+- myskoda
+- someip-py
+- django-node-modules
+- unified-planning
+- touchlab-comm-py
 - aiosendspin
 - chainswarm-core
 - ubiops
-- pdf2podcast
 - ideal-ai
 - psr-factory
 - spec-kitty-cli
-- django-node-modules
 - streamable
 - konduktor-nightly
 - acton-agent
@@ -29,7 +79,6 @@
 - trainy-policy-nightly
 - pyairahome
 - aiida-dftk
-- ccd2md
 - recombass
 - netbox-plugin-dns
 - fusesell
@@ -40,56 +89,3 @@
 - genai-prices
 - ebm4subjects
 - cribl-control-plane
-- pytest-argus-reporter
-- pyoptex
-- argus-alm
-- carlib
-- apify-client
-- mobile-mcp-ai
-- kostyl-toolkit
-- getdist
-- asyncpg-recorder
-- tenzir-changelog
-- pydictionaria
-- polycubetools
-- letta-nightly
-- frappe-local-backup
-- sensingpy
-- matha-lib
-- policyengine-api-simulation-client
-- policyengine-api-full-client
-- castor-extractor
-- nomenclature-sdk
-- malwi-box
-- ndtkit-api
-- sigdetect
-- apolo-app-types
-- rsfc
-- orq-ai-sdk
-- metanetmap
-- octopize.avatar
-- okrand
-- agorai
-- graphflex
-- anjia-test
-- agentbill-py-crewai
-- agentbill-py-langchain
-- agentbill-py-sdk
-- modaic
-- django-cfg
-- HDF5-BLS-analyse
-- pymetal-cpp
-- keepeek
-- fastlisaresponse-cuda12x
-- cloud-cert-renewer
-- fastlisaresponse-cuda11x
-- nmaipy
-- nucliadb-admin-assets
-- unified-planning
-- esrf-ontologies
-- fastlisaresponse
-- blackboard-core
-- silkworm-rs
-- param-manager
-- doctyper
-- pytabkit

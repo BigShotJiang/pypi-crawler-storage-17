@@ -1,0 +1,11 @@
+{
+  "name": "gertrude",
+  "version": "0.2.0a1",
+  "summary": "GTD done right!",
+  "author": "Tanguy Le Carrour",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "gertrude-0.2.0a1.tar.gz",
+  "download_time": "2025-12-17T11:12:02.672276",
+  "package_url": "https://pypi.org/project/gertrude/"
+}
