@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T17:40:29.574221
-- **Total Packages**: 93
-- **Total Size**: 26.29 MB
+- **Download Time**: 2025-12-17T17:54:51.241385
+- **Total Packages**: 88
+- **Total Size**: 33.92 MB
 
 ## Packages List
+- fluidattacks_etl_utils
+- reflex-enterprise
+- open-taranis
+- kl-mcp-client
+- django-link-shortener
+- justhtml
+- encourage-rag
+- cubexpress
+- teareduce
+- snipster-tui
+- trading-models
+- pipez
+- torchlingo
+- funcnodes-react-flow
+- syncengine
+- lecrapaud
+- pyThermoEst
+- pywiim
+- VIStk
+- APCSPy
+- morphZ
+- pytest-bec-e2e
+- bec-server
+- bec-lib
+- bec-ipython-client
+- adaptivegears
+- dash
+- neoncontract-gen
+- traits
+- pyfhog
+- gtfobinsuid
+- getdango
+- alibabacloud-ecd20200930
+- django-orbit
+- keyneg-mcp
+- alibabacloud-ess20220222
+- alibabacloud-ehpc20240730
+- extergram
+- pydantic-bq
+- alibabacloud-dms20250414
+- cloudcheck
+- aignostics
+- rheopy
+- sqlaltery
 - bugpilot-cli
 - feedback-mcp
 - langchain-prefid
@@ -22,16 +66,10 @@
 - pulumi-xyz
 - nishkoder-ai-common
 - fundamend
-- kl-mcp-client
 - nnunetv2-cam
 - http-api-tool
 - rocktick
 - cmShoppingList
-- pytest-bec-e2e
-- bec-server
-- bec-lib
-- bec-ipython-client
-- adaptivegears
 - django-nativemojo
 - apache-airflow-provider-ovhcloud-ai
 - galileo-core
@@ -49,53 +87,10 @@
 - ape-langchain
 - foundationallm
 - ape-anthropic
-- VIStk
 - ape-lang
-- extergram
 - pyfibers
 - tsf-sh
 - alphavec
 - thailint
 - cmdorc
 - lmapp
-- setupEM
-- holocron-sync
-- KekikStream
-- gofigr
-- pymimir-rl
-- text2story
-- sqlaltery
-- turbines
-- mysql-shell-client
-- trondec
-- airbyte-agent-gong
-- turbopdf
-- music-assistant-frontend
-- mdpres
-- chemomae
-- pystac
-- hh-applicant-tool
-- localstack-core
-- ohmyscrapper
-- hw2-latex-generator
-- kytchen-rlm
-- dbt-fusion-package-tools
-- dbt-autofix
-- alibabacloud-pai-dsw20220101
-- pipemake-utils
-- dark-matter
-- fw-gear-dcm-to-mips
-- seqera
-- kytchen-sdk
-- cumulus-library
-- django-lti-provider
-- djangochan
-- quetzal-ai
-- airbyte-source-google-ads
-- spec-kitty-cli
-- uaal-core
-- tobiko-cloud-api-client
-- pyepics
-- ibm-vpc
-- tobiko-cloud-pydantic
-- ai-md-scaffold

@@ -1,0 +1,11 @@
+{
+  "name": "morphZ",
+  "version": "0.3.6",
+  "summary": "Morph-Z for high accuracy marginal likelihood estimation package.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "morphz-0.3.6-py3-none-any.whl",
+  "download_time": "2025-12-17T17:54:15.234030",
+  "package_url": "https://pypi.org/project/morphZ/"
+}
