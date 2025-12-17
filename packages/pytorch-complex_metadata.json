@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-complex",
+  "version": "0.2.1",
+  "summary": "PyTorch wrapper for complex-valued operations. Usage: Similar to PyTorch. For using the Complex features of this library, just change the regular torch imports with torchcomplex imports. For example: import torchcomplex.nn as nn instead of import torch.nn as nn Then, simply nn.Conv2d for both torch and torchcomplex, for 2D Convolution",
+  "author": "Soumick Chatterjee, PhD",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytorch_complex-0.2.1.tar.gz",
+  "download_time": "2025-12-17T10:43:00.990546",
+  "package_url": "https://pypi.org/project/pytorch-complex/"
+}

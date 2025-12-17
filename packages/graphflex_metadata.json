@@ -1,0 +1,11 @@
+{
+  "name": "graphflex",
+  "version": "0.1.1",
+  "summary": "Flexible Framework for Graph Feature Engineering",
+  "author": "Bram Steenwinckel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphflex-0.1.1.tar.gz",
+  "download_time": "2025-12-17T10:42:45.378691",
+  "package_url": "https://pypi.org/project/graphflex/"
+}

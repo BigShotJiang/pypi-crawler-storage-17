@@ -1,0 +1,11 @@
+{
+  "name": "sagemcom-api",
+  "version": "1.4.3",
+  "summary": "Python client to interact with SagemCom F@st routers via internal API's.",
+  "author": "Mick Vleeshouwer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sagemcom_api-1.4.3.tar.gz",
+  "download_time": "2025-12-17T10:43:25.204770",
+  "package_url": "https://pypi.org/project/sagemcom-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nomenclature-sdk",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nomenclature_sdk-1.0.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2025-12-17T10:14:13.280236",
+  "download_filename": "nomenclature_sdk-1.0.4-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-17T10:43:01.502778",
   "package_url": "https://pypi.org/project/nomenclature-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "HDF5-BLS-analyse",
+  "version": "1.1.1",
+  "summary": "A package to extract a power spectrum from raw data of arbitrary Brillouin spectrometers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdf5_bls_analyse-1.1.1.tar.gz",
+  "download_time": "2025-12-17T10:42:49.662347",
+  "package_url": "https://pypi.org/project/HDF5-BLS-analyse/"
+}

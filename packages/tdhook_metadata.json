@@ -1,0 +1,11 @@
+{
+  "name": "tdhook",
+  "version": "0.1.2",
+  "summary": "Interpretability with tensordict and torch hooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tdhook-0.1.2.tar.gz",
+  "download_time": "2025-12-17T10:43:11.717154",
+  "package_url": "https://pypi.org/project/tdhook/"
+}

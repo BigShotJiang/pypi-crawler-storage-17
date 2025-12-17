@@ -1,11 +1,11 @@
 {
   "name": "mobile-mcp-ai",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "summary": "移动端自动化 MCP Server - 支持 Android/iOS，AI 功能可选（基础工具不需要 AI）",
   "author": "douzi",
   "license": null,
   "home_page": "https://github.com/test111ddff-hash/mobile-mcp-ai",
-  "download_filename": "mobile_mcp_ai-2.2.7.tar.gz",
-  "download_time": "2025-12-17T04:20:35.659920",
+  "download_filename": "mobile_mcp_ai-2.2.8.tar.gz",
+  "download_time": "2025-12-17T10:42:46.524741",
   "package_url": "https://pypi.org/project/mobile-mcp-ai/"
 }

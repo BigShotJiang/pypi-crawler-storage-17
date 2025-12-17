@@ -1,11 +1,11 @@
 {
   "name": "cloud-cert-renewer",
-  "version": "0.2.9b2",
+  "version": "0.3.0b1",
   "summary": "Automated HTTPS certificate renewal tool for cloud services, supporting CDN and Load Balancer (multi-cloud support, currently supports Alibaba Cloud)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloud_cert_renewer-0.2.9b2.tar.gz",
-  "download_time": "2025-12-17T08:51:39.697469",
+  "download_filename": "cloud_cert_renewer-0.3.0b1.tar.gz",
+  "download_time": "2025-12-17T10:42:52.857978",
   "package_url": "https://pypi.org/project/cloud-cert-renewer/"
 }

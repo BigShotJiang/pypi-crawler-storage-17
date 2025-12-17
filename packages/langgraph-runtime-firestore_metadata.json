@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-runtime-firestore",
+  "version": "1.0.1",
+  "summary": "Firestore runtime implementation for LangGraph.",
+  "author": "Marco Furrer",
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "langgraph_runtime_firestore-1.0.1.tar.gz",
+  "download_time": "2025-12-17T10:43:08.141754",
+  "package_url": "https://pypi.org/project/langgraph-runtime-firestore/"
+}

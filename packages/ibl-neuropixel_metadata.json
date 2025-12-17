@@ -1,0 +1,11 @@
+{
+  "name": "ibl-neuropixel",
+  "version": "1.9.2",
+  "summary": "Collection of tools for Neuropixel 1.0 and 2.0 probes data",
+  "author": "The International Brain Laboratory",
+  "license": null,
+  "home_page": "https://github.com/int-brain-lab/ibl-neuropixel",
+  "download_filename": "ibl_neuropixel-1.9.2.tar.gz",
+  "download_time": "2025-12-17T10:43:28.834427",
+  "package_url": "https://pypi.org/project/ibl-neuropixel/"
+}
