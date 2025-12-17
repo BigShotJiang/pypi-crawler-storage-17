@@ -1,0 +1,11 @@
+{
+  "name": "octobot-commons",
+  "version": "1.9.92",
+  "summary": "OctoBot project common modules",
+  "author": "Drakkar-Software",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/OctoBot-Commons",
+  "download_filename": "octobot_commons-1.9.92.tar.gz",
+  "download_time": "2025-12-17T09:19:11.462557",
+  "package_url": "https://pypi.org/project/octobot-commons/"
+}

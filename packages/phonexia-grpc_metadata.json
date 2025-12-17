@@ -1,0 +1,11 @@
+{
+  "name": "phonexia-grpc",
+  "version": "2.27.1",
+  "summary": "Library for communication with microservices developed by phonexia using grpc application interface.",
+  "author": "Phonexia s.r.o.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "phonexia_grpc-2.27.1.tar.gz",
+  "download_time": "2025-12-17T09:18:30.266139",
+  "package_url": "https://pypi.org/project/phonexia-grpc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ansys-tools-local-product-launcher",
+  "version": "0.3.0",
+  "summary": "A utility for launching Ansys products on a local machine",
+  "author": "ANSYS, Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ansys_tools_local_product_launcher-0.3.0.tar.gz",
+  "download_time": "2025-12-17T09:18:34.960266",
+  "package_url": "https://pypi.org/project/ansys-tools-local-product-launcher/"
+}

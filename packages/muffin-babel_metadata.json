@@ -1,0 +1,11 @@
+{
+  "name": "muffin-babel",
+  "version": "1.7.0",
+  "summary": "Localization support for the Muffin Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "muffin_babel-1.7.0.tar.gz",
+  "download_time": "2025-12-17T09:19:05.603851",
+  "package_url": "https://pypi.org/project/muffin-babel/"
+}
