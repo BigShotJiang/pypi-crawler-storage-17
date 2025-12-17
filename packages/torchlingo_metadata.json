@@ -1,0 +1,11 @@
+{
+  "name": "torchlingo",
+  "version": "0.1.0",
+  "summary": "Educational PyTorch NMT library for coursework and instruction.",
+  "author": "TorchLingo Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchlingo-0.1.0.tar.gz",
+  "download_time": "2025-12-17T05:52:07.510568",
+  "package_url": "https://pypi.org/project/torchlingo/"
+}

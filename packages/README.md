@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T05:39:03.490780
-- **Total Packages**: 92
-- **Total Size**: 34.83 MB
+- **Download Time**: 2025-12-17T05:52:39.183004
+- **Total Packages**: 91
+- **Total Size**: 19.97 MB
 
 ## Packages List
+- pulumi-f5bigip
+- ipa-python-kit
+- skypilot
+- waclient
+- pulumi-external
+- simsimd
+- kleur
+- agnt
+- hfortix
+- pulumi-databricks
+- gpgnotes
+- cirq-google
+- cirq-core
+- cirq-web
+- pycontroldae
+- cirq-aqt
+- cirq
+- cirq-ionq
+- cirq-pasqal
+- pulumi-dnsimple
+- djb
+- rockpool
+- mipcandy
+- pulumi-dbtcloud
+- in-dbt-spark
+- wcommon
+- pulumi-alicloud
+- paintcan
+- IntelliMaint
+- pulumi-consul
+- torchlingo
+- zpui-lib
+- toms-structures
+- dataqueryanalyze
+- pulumi-confluentcloud
+- django-polymorphic
+- python-wml
+- pipen-log2file
+- recce
 - recce-cloud
 - speterlin-stocks
 - pulumi-cloudngfwaws
@@ -27,7 +66,6 @@
 - cjm-fasthtml-workflow-transcription-single-file
 - utubes
 - jijmodeling
-- agnt
 - openarmx-driver
 - pkg-19544
 - mcp-memory-service
@@ -45,11 +83,9 @@
 - layerlens
 - openanp
 - LLMRateLimiter
-- kleur
 - pulumi-akamai
 - pulumi-archive
 - harbor
-- gpgnotes
 - bloggy
 - thermal-face-alignment
 - pulumi-aiven
@@ -61,40 +97,3 @@
 - gym-csle-apt-game
 - csle-tolerance
 - veadk-python
-- csle-cluster
-- csle-cli
-- csle-rest-api
-- csle-agents
-- gym-csle-intrusion-response-game
-- gym-csle-stopping-game
-- my-eldar-guess-the-number-game
-- csle-system-identification
-- csle-defender
-- csle-attacker
-- csle-common
-- csle-collector
-- csle-ryu
-- csle-base
-- enn-iot-oc-sdk
-- merger-cli
-- vizflow
-- sqlalchemy-fastmcp
-- commons-metrics
-- almapiwrapper
-- renfield
-- surfhub
-- infrapilot
-- mplp-sdk
-- nexuseval
-- neo-whisper
-- openai-usage
-- pylibsparseir
-- docker-tui
-- aisbom-cli
-- safetensors-layer-grabber
-- tidylog
-- nexaroa
-- ez-a-sync
-- google-cloud-spanner
-- lisaanalysistools-cuda12x
-- lisaanalysistools-cuda11x

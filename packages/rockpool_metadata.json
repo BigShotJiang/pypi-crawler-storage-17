@@ -1,0 +1,11 @@
+{
+  "name": "rockpool",
+  "version": "3.0.3",
+  "summary": "A Python package for developing, simulating and training spiking neural networks, and deploying on neuromorphic hardware",
+  "author": "SynSense",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rockpool-3.0.3.tar.gz",
+  "download_time": "2025-12-17T05:52:02.835566",
+  "package_url": "https://pypi.org/project/rockpool/"
+}
