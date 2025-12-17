@@ -1,11 +1,11 @@
 {
   "name": "idscrub",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": null,
   "author": "Department for Business and Trade",
   "license": null,
   "home_page": null,
-  "download_filename": "idscrub-0.2.1.tar.gz",
-  "download_time": "2025-12-17T14:15:34.487760",
+  "download_filename": "idscrub-0.2.2.tar.gz",
+  "download_time": "2025-12-17T14:42:16.680493",
   "package_url": "https://pypi.org/project/idscrub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "collective.ckeditor",
+  "version": "5.0.0",
+  "summary": "CKEditor for Plone",
+  "author": "Plone Collective (started by Alterway Solutions)",
+  "license": "GPL",
+  "home_page": "https://github.com/collective/collective.ckeditor",
+  "download_filename": "collective_ckeditor-5.0.0.tar.gz",
+  "download_time": "2025-12-17T14:42:09.343930",
+  "package_url": "https://pypi.org/project/collective.ckeditor/"
+}

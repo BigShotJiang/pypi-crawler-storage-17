@@ -1,0 +1,11 @@
+{
+  "name": "cmr-file-utils",
+  "version": "1.0.0",
+  "summary": "A simple and intuitive Python library for reading and writing files in various formats",
+  "author": "CataMRubio",
+  "license": "MIT",
+  "home_page": "https://github.com/CataMRubio/cmr_file_utils",
+  "download_filename": "cmr_file_utils-1.0.0.tar.gz",
+  "download_time": "2025-12-17T14:42:30.340248",
+  "package_url": "https://pypi.org/project/cmr-file-utils/"
+}
