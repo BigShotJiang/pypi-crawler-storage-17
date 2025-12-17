@@ -1,11 +1,11 @@
 {
   "name": "nucliadb-telemetry",
-  "version": "6.9.7.post5555",
+  "version": "6.9.7.post5559",
   "summary": "NucliaDB Telemetry Library Python process",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucliadb_telemetry-6.9.7.post5555-py3-none-any.whl",
-  "download_time": "2025-12-16T12:22:35.897147",
+  "download_filename": "nucliadb_telemetry-6.9.7.post5559-py3-none-any.whl",
+  "download_time": "2025-12-17T11:32:38.142156",
   "package_url": "https://pypi.org/project/nucliadb-telemetry/"
 }

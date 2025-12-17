@@ -1,11 +1,11 @@
 {
   "name": "tidylog",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Clean, colorized structured logging for Python with JSON extra fields",
   "author": "Ayush Joshi",
   "license": null,
   "home_page": null,
-  "download_filename": "tidylog-0.1.3.tar.gz",
-  "download_time": "2025-12-17T05:14:24.960777",
+  "download_filename": "tidylog-0.1.4.tar.gz",
+  "download_time": "2025-12-17T11:32:33.494333",
   "package_url": "https://pypi.org/project/tidylog/"
 }

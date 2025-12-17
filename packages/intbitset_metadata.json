@@ -1,0 +1,11 @@
+{
+  "name": "intbitset",
+  "version": "4.1.0",
+  "summary": "C-based extension implementing fast integer bit sets.",
+  "author": "Invenio collaboration, maintained by Philippe Ombredanne and AboutCode.org",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "http://github.com/inveniosoftware-contrib/intbitset/",
+  "download_filename": "intbitset-4.1.0.tar.gz",
+  "download_time": "2025-12-17T11:32:15.561744",
+  "package_url": "https://pypi.org/project/intbitset/"
+}
