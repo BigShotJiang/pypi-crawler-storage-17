@@ -1,0 +1,11 @@
+{
+  "name": "aiguard-sdk-python",
+  "version": "0.1.0",
+  "summary": "AIGuard SDK for monitoring and logging AI model invocations",
+  "author": "AIGuard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiguard_sdk_python-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-17T19:42:18.697973",
+  "package_url": "https://pypi.org/project/aiguard-sdk-python/"
+}

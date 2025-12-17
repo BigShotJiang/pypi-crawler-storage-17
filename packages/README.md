@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T19:31:48.118271
-- **Total Packages**: 94
-- **Total Size**: 68.12 MB
+- **Download Time**: 2025-12-17T19:43:07.256292
+- **Total Packages**: 92
+- **Total Size**: 43.98 MB
 
 ## Packages List
+- pytest-intent
+- centrex-tlf-julia-extension
+- univi
+- forexy
+- muna
+- beer-garden
+- bluetti-bt-lib
+- aiguard-sdk-python
+- odoo-addon-account-payment-sale
+- adaptivegears
+- pywats-api
+- aiguard-sdk
+- procaaso-seams-sdk
+- gen-latex-petr1furious
+- ttnn-visualizer
+- easy-utils-dev
+- adafruit-circuitpython-display-text
+- DeltaAgent
+- toctoc-controller-router-sdk
+- mlx-audio
+- mju_univ_auth
 - lsst-rsp
 - gammarers.aws-daily-cost-usage-report-stack
 - fin-infra
@@ -38,7 +59,6 @@
 - reflex-enterprise
 - adaptive_router
 - mcp-stata
-- DeltaAgent
 - submitit
 - ai-edge-litert
 - deepseek-ocr-cli
@@ -78,25 +98,3 @@
 - uzpreprocessor
 - comfygit-core
 - odoo-addon-account-payment-return
-- pg-sui
-- lusid-sdk
-- pulumi
-- dilithium-py
-- simile
-- repo-fetcher
-- langchain-openai
-- fedramp-20x-mcp
-- gpgnotes
-- kenobix
-- moose-lib
-- composennent
-- sentry-options
-- mcp-hydrolix
-- spotoptim
-- turbines
-- pyeph
-- dazzle-preserve
-- create-django-inertia
-- polars-fastembed
-- yori
-- univi
