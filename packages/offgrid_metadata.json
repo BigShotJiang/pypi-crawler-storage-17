@@ -1,0 +1,11 @@
+{
+  "name": "offgrid",
+  "version": "0.1.7",
+  "summary": "Python client for OffGrid LLM - Run AI models completely offline",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "offgrid-0.1.7.tar.gz",
+  "download_time": "2025-12-17T07:50:42.850177",
+  "package_url": "https://pypi.org/project/offgrid/"
+}

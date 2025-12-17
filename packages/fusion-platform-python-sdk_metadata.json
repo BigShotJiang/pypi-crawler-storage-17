@@ -1,0 +1,11 @@
+{
+  "name": "fusion-platform-python-sdk",
+  "version": "2.1.1",
+  "summary": "Python SDK used to interact with the Fusion Platform(r)",
+  "author": "Digital Content Analysis Technology Ltd",
+  "license": "MIT",
+  "home_page": "https://github.com/d-cat-support/fusion-platform-python-sdk",
+  "download_filename": "fusion_platform_python_sdk-2.1.1.tar.gz",
+  "download_time": "2025-12-17T07:50:49.687670",
+  "package_url": "https://pypi.org/project/fusion-platform-python-sdk/"
+}

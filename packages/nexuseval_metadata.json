@@ -1,11 +1,11 @@
 {
   "name": "nexuseval",
-  "version": "0.3.0",
-  "summary": "An open-source LLM evaluation framework.",
+  "version": "0.4.0",
+  "summary": "A production-ready LLM evaluation framework with intelligent caching and dataset management.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexuseval-0.3.0.tar.gz",
-  "download_time": "2025-12-17T05:14:20.024381",
+  "download_filename": "nexuseval-0.4.0.tar.gz",
+  "download_time": "2025-12-17T07:50:33.077864",
   "package_url": "https://pypi.org/project/nexuseval/"
 }

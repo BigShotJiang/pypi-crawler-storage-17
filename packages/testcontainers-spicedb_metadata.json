@@ -1,11 +1,11 @@
 {
   "name": "testcontainers-spicedb",
-  "version": "0.1.1",
-  "summary": "Testcontainers module for SpiceDB. Based on Guillermo Mariscal's SpiceDB Testcontainer written in Go.",
+  "version": "0.1.2",
+  "summary": "Python module for Testcontainers that provides a SpiceDB container for integration testing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testcontainers_spicedb-0.1.1.tar.gz",
-  "download_time": "2025-12-17T07:35:01.530878",
+  "download_filename": "testcontainers_spicedb-0.1.2.tar.gz",
+  "download_time": "2025-12-17T07:50:43.885072",
   "package_url": "https://pypi.org/project/testcontainers-spicedb/"
 }

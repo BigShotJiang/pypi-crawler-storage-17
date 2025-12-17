@@ -1,11 +1,11 @@
 {
   "name": "fastapi-intelligent-cache",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Intelligent caching library for FastAPI with automatic invalidation",
   "author": "Cloud11 Team",
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_intelligent_cache-0.1.2.tar.gz",
-  "download_time": "2025-12-17T06:18:57.386156",
+  "download_filename": "fastapi_intelligent_cache-0.1.4.tar.gz",
+  "download_time": "2025-12-17T07:50:46.450144",
   "package_url": "https://pypi.org/project/fastapi-intelligent-cache/"
 }

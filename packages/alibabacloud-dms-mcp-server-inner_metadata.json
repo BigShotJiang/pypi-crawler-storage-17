@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dms-mcp-server-inner",
+  "version": "0.1.2",
+  "summary": "MCP Server for DMS",
+  "author": "DMS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alibabacloud_dms_mcp_server_inner-0.1.2.tar.gz",
+  "download_time": "2025-12-17T07:50:40.799721",
+  "package_url": "https://pypi.org/project/alibabacloud-dms-mcp-server-inner/"
+}
