@@ -1,0 +1,11 @@
+{
+  "name": "inlayr",
+  "version": "0.2.1",
+  "summary": "Modular, chain-agnostic SDK for crypto trading on DEXs",
+  "author": "Oleg Mitsik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inlayr-0.2.1.tar.gz",
+  "download_time": "2025-12-17T22:52:18.915711",
+  "package_url": "https://pypi.org/project/inlayr/"
+}

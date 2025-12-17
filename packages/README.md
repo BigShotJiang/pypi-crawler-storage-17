@@ -1,25 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T22:36:42.613445
-- **Total Packages**: 86
-- **Total Size**: 30.03 MB
+- **Download Time**: 2025-12-17T22:52:48.840657
+- **Total Packages**: 84
+- **Total Size**: 17.41 MB
 
 ## Packages List
+- auto-trainer-training
+- kpmx
+- ai-edge-quantizer
+- coiled
+- modal
+- pulumi-xyz
+- nextmv
+- nidaqmx
+- TTS-ka
+- turbodash-core
+- fastloop
+- storytelling
+- mcp-browser
+- dbt-core
+- felicidad
+- sapiopylib
+- fastapi-views
+- powl
+- archetypeai
+- pulumi-provider-boilerplate
+- ai-agent-rules
+- lunalib
+- stellium
+- mermaid-py
+- fastlowess
+- datasail
+- inlayr
+- pyhdl-if
+- files-com
+- synth-ai
+- kosty
+- kenobix
+- e-commerce-trust-score
+- goodmem-client
+- agentor
+- kubiya-control-plane-api
+- pypnm-docsis
+- assemblyai
+- CPILake-Utils
+- uni-tokenizer
+- fluidattacks_zoho_sdk
+- sparsekit
 - h2ogpte
 - speedtest-cloudflare-cli
-- pulumi-provider-boilerplate
 - hexswitch
-- files-com
 - xontrib-history-looseene
 - accmix
 - teareduce
-- pulumi-xyz
 - gpgnotes
 - thailint
 - okta-opa
 - odsbox
-- archetypeai
 - standardbots
 - stanley-cbp
 - fedinesia
@@ -52,43 +90,3 @@
 - test-dataflow-airflow
 - test-dataflow-conda-plugin
 - combicode
-- coiled
-- agentic-threat-hunting-framework
-- dhisana
-- dump-things-service
-- toon-parse
-- algoliasearch
-- TTS-ka
-- fastloop
-- modal
-- numba-cuda
-- cloudcheck
-- pulumi-awsx
-- quillmark
-- aa-bb
-- dh-json-logger
-- sprocket-systems.coda.sdk
-- jupyter-micropython-extended-kernel
-- mprov-jobserver
-- dazzle-preserve
-- dedalus-mcp
-- biopipen
-- rappel
-- xdsl-jax
-- mcp-simple-pubmed
-- vortex-python-sdk
-- data-designer
-- farm-precip-project
-- dulwich
-- regula-documentreader-webclient
-- findsylls
-- pvcheetahdemo
-- lazynet
-- kegscraper
-- musica
-- csle-attack-profiler
-- amg-player
-- gym-csle-cyborg
-- gym-csle-apt-game
-- csle-tolerance
-- csle-cluster

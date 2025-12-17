@@ -1,11 +1,11 @@
 {
   "name": "archetypeai",
-  "version": "25.12.17.2",
+  "version": "25.12.17.3",
   "summary": "The official python client for the Archetype AI API.",
   "author": "Archetype AI",
   "license": null,
   "home_page": "https://github.com/archetypeai/python-client",
-  "download_filename": "archetypeai-25.12.17.2.tar.gz",
-  "download_time": "2025-12-17T22:36:01.539936",
+  "download_filename": "archetypeai-25.12.17.3.tar.gz",
+  "download_time": "2025-12-17T22:52:14.707392",
   "package_url": "https://pypi.org/project/archetypeai/"
 }

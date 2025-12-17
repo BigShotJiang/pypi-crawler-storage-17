@@ -1,0 +1,11 @@
+{
+  "name": "datasail",
+  "version": "1.3.0",
+  "summary": "A package to compute hard out-of-distribution data splits for machine learning, challenging generalization of models.",
+  "author": "Roman Joeres",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasail-1.3.0.tar.gz",
+  "download_time": "2025-12-17T22:52:18.396121",
+  "package_url": "https://pypi.org/project/datasail/"
+}
