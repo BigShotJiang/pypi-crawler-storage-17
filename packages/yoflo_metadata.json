@@ -1,0 +1,11 @@
+{
+  "name": "yoflo",
+  "version": "1.1.2",
+  "summary": "YO-FLO: A proof-of-concept in using advanced vision models as a YOLO alternative.",
+  "author": "Charles Norton",
+  "license": null,
+  "home_page": "https://github.com/CharlesCNorton/yoflo-cli",
+  "download_filename": "yoflo-1.1.2.tar.gz",
+  "download_time": "2025-12-17T00:47:44.930834",
+  "package_url": "https://pypi.org/project/yoflo/"
+}

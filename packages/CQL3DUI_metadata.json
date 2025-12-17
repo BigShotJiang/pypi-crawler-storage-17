@@ -1,11 +1,11 @@
 {
   "name": "CQL3DUI",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "A small UI for running CQL3D",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cql3dui-0.0.4.tar.gz",
-  "download_time": "2025-12-16T05:38:47.017408",
+  "download_filename": "cql3dui-0.0.7.tar.gz",
+  "download_time": "2025-12-17T00:47:51.758500",
   "package_url": "https://pypi.org/project/CQL3DUI/"
 }
