@@ -1,32 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T17:54:51.241385
-- **Total Packages**: 88
-- **Total Size**: 33.92 MB
+- **Download Time**: 2025-12-17T18:18:51.289085
+- **Total Packages**: 85
+- **Total Size**: 1.61 MB
 
 ## Packages List
-- fluidattacks_etl_utils
-- reflex-enterprise
-- open-taranis
-- kl-mcp-client
-- django-link-shortener
-- justhtml
-- encourage-rag
-- cubexpress
-- teareduce
-- snipster-tui
-- trading-models
-- pipez
-- torchlingo
-- funcnodes-react-flow
-- syncengine
-- lecrapaud
-- pyThermoEst
-- pywiim
-- VIStk
-- APCSPy
-- morphZ
 - pytest-bec-e2e
 - bec-server
 - bec-lib
@@ -66,6 +45,7 @@
 - pulumi-xyz
 - nishkoder-ai-common
 - fundamend
+- kl-mcp-client
 - nnunetv2-cam
 - http-api-tool
 - rocktick
@@ -87,6 +67,7 @@
 - ape-langchain
 - foundationallm
 - ape-anthropic
+- VIStk
 - ape-lang
 - pyfibers
 - tsf-sh
@@ -94,3 +75,19 @@
 - thailint
 - cmdorc
 - lmapp
+- setupEM
+- holocron-sync
+- KekikStream
+- gofigr
+- pymimir-rl
+- text2story
+- turbines
+- mysql-shell-client
+- airbyte-agent-gong
+- turbopdf
+- music-assistant-frontend
+- mdpres
+- chemomae
+- pystac
+- hh-applicant-tool
+- localstack-core
