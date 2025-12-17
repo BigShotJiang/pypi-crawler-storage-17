@@ -1,0 +1,11 @@
+{
+  "name": "grompt",
+  "version": "0.3.1",
+  "summary": "Git for prompts - Manage LLM prompts with version control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grompt-0.3.1.tar.gz",
+  "download_time": "2025-12-17T19:48:04.656818",
+  "package_url": "https://pypi.org/project/grompt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pvmlib",
+  "version": "1.9.11",
+  "summary": "Python library for PVM",
+  "author": "Henrry Cañedo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pvmlib-1.9.11-py3-none-any.whl",
+  "download_time": "2025-12-17T19:48:05.180513",
+  "package_url": "https://pypi.org/project/pvmlib/"
+}

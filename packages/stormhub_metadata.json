@@ -1,0 +1,11 @@
+{
+  "name": "stormhub",
+  "version": "0.4.0",
+  "summary": "Create catalogs, data, and metadata for hydrologic modeling in the cloud.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stormhub-0.4.0.tar.gz",
+  "download_time": "2025-12-17T19:48:06.220473",
+  "package_url": "https://pypi.org/project/stormhub/"
+}

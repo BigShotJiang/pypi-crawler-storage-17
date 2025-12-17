@@ -1,0 +1,11 @@
+{
+  "name": "schema-evolution",
+  "version": "1.0.0",
+  "summary": "A reusable package for handling schema evolution in Spark/Hive tables",
+  "author": "KSMC Data Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/ksmc/schema-evolution",
+  "download_filename": "schema_evolution-1.0.0.tar.gz",
+  "download_time": "2025-12-17T19:48:08.821051",
+  "package_url": "https://pypi.org/project/schema-evolution/"
+}
