@@ -1,0 +1,11 @@
+{
+  "name": "mathnexus",
+  "version": "0.1.5",
+  "summary": "A professional library for Linear Algebra, 2D Geometry, and Physics Simulations.",
+  "author": "Sidra Saqlain",
+  "license": null,
+  "home_page": "https://github.com/Sidra-009/mathnexus",
+  "download_filename": "mathnexus-0.1.5.tar.gz",
+  "download_time": "2025-12-17T16:19:19.976421",
+  "package_url": "https://pypi.org/project/mathnexus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sparkless",
-  "version": "3.17.3",
+  "version": "3.17.4",
   "summary": "Lightning-fast PySpark testing without JVM - 10x faster with 100% API compatibility",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sparkless-3.17.3.tar.gz",
-  "download_time": "2025-12-17T02:32:06.644902",
+  "download_filename": "sparkless-3.17.4.tar.gz",
+  "download_time": "2025-12-17T16:19:12.718346",
   "package_url": "https://pypi.org/project/sparkless/"
 }

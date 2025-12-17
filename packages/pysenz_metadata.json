@@ -1,0 +1,11 @@
+{
+  "name": "pysenz",
+  "version": "1.0.0",
+  "summary": "Async Typed Python package for the Chemelex (nVent) RAYCHEM SENZ RestAPI",
+  "author": "Åke Strandberg",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/nordicopen/pysenz",
+  "download_filename": "pysenz-1.0.0.tar.gz",
+  "download_time": "2025-12-17T16:19:08.461035",
+  "package_url": "https://pypi.org/project/pysenz/"
+}

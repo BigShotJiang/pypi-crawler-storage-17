@@ -1,0 +1,11 @@
+{
+  "name": "quantum-flows",
+  "version": "0.1.16",
+  "summary": "A python library for interacting with Transilvania-Quantum Quantum Flows quantum computing API backbone.",
+  "author": "Radu Marginean",
+  "license": "MIT",
+  "home_page": "https://github.com/Transilvania-Quantum/quantum-flows",
+  "download_filename": "quantum_flows-0.1.16.tar.gz",
+  "download_time": "2025-12-17T16:19:28.713189",
+  "package_url": "https://pypi.org/project/quantum-flows/"
+}

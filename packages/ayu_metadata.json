@@ -1,0 +1,11 @@
+{
+  "name": "ayu",
+  "version": "0.4.5",
+  "summary": "An interactive TUI for pytest",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ayu-0.4.5.tar.gz",
+  "download_time": "2025-12-17T16:19:29.238619",
+  "package_url": "https://pypi.org/project/ayu/"
+}

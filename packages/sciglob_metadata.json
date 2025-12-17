@@ -1,0 +1,11 @@
+{
+  "name": "sciglob",
+  "version": "0.1.5",
+  "summary": "Python library for controlling SciGlob scientific instrumentation: Head Sensors, Trackers, Filter Wheels, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sciglob-0.1.5.tar.gz",
+  "download_time": "2025-12-17T16:19:08.975271",
+  "package_url": "https://pypi.org/project/sciglob/"
+}

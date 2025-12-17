@@ -1,12 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T16:04:59.436929
-- **Total Packages**: 90
-- **Total Size**: 31.77 MB
+- **Download Time**: 2025-12-17T16:19:54.339846
+- **Total Packages**: 88
+- **Total Size**: 39.1 MB
 
 ## Packages List
+- rubxy
+- ucapi
+- scimba
+- pysenz
+- sciglob
+- mnemo-cli
+- django-cognito-auth-middleware
+- wyld-api
+- tol-sdk
+- commonroad-reach
+- sec_gemini
+- sparkless
+- mxcubeweb
+- zndraw
+- rcsb.utils.citation
+- lila-framework
+- SFlock2
+- arthur-client
+- algokit-client-generator
+- pipes-compat
+- simplyprint-bambu-lab
+- python-playwright-helper
+- odoo-addon-document-page-reference
+- odoo-addon-document-page-approval
+- mathnexus
+- odoo-addon-document-page
+- pipen-report
+- jhat
+- WuttaWeb
+- local-abbfreeathome
+- aptt
+- django-frontend-kit
+- WuttJamaican
+- pjf_donation_dropbox_api
 - jp_tools
+- eval-studio-client
+- eval-studio-guardrails
+- napari-stream
+- freshrss-mcp
+- quantum-flows
+- ayu
+- mangono-addon-odoo-custom-server
+- django-import-export-stomp
+- alita-sdk
+- tidy3d
+- firewheel
+- autumn-sdk
+- ffun
+- zoo_mcp
+- fdog
+- etlr
+- django-extended-ol
 - seqera-ai
 - seqera
 - teradatamlwidgets
@@ -25,7 +76,6 @@
 - malevich-coretools
 - mapof
 - mcp-sap-datasphere-server
-- django-frontend-kit
 - webtap-tool
 - dissect.util
 - viewtools
@@ -34,7 +84,6 @@
 - signxai2
 - streaming-tts
 - scurry-kit
-- freshrss-mcp
 - neuracore
 - icare-sensor-client
 - orb-billing
@@ -45,54 +94,3 @@
 - rhubarbe
 - mure
 - mfi-mpower
-- MeteoShrooms
-- globus-compute-endpoint
-- fundamend
-- pi-zero-pytorch
-- dm-haiku
-- globus-compute-sdk
-- fmu-manipulation-toolbox
-- upd-cli
-- rcrlm
-- onedl-mmdetection
-- agent-framework-lib
-- pykaos
-- music-assistant-frontend
-- semtag
-- tokio-memq-python
-- django-extended-ol
-- delve-taxonomy
-- storey
-- cicerone
-- stouputils
-- tidy3d-extras
-- together
-- feedback-mcp
-- code-discovery
-- spark-bestfit
-- q-store
-- talktrace-ai
-- dkinst
-- nucliadb-utils
-- nucliadb-telemetry
-- nucliadb-sdk
-- nucliadb-protos
-- nucliadb-models
-- nucliadb-dataset
-- nucliadb
-- nidx-protos
-- dash-maplibre
-- expops
-- synalinks
-- filare
-- mbo-fastplotlib
-- sentry-cli
-- quetzal-ai
-- ectf
-- sindri-dev
-- beekeeper-ai
-- zoo_mcp
-- curvaceous
-- Qubx
-- hexswitch
-- python-roborock

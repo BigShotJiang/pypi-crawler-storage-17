@@ -1,0 +1,11 @@
+{
+  "name": "django-cognito-auth-middleware",
+  "version": "0.1.0",
+  "summary": "Reusable Django middleware for AWS Cognito authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cognito_auth_middleware-0.1.0.tar.gz",
+  "download_time": "2025-12-17T16:19:10.077781",
+  "package_url": "https://pypi.org/project/django-cognito-auth-middleware/"
+}

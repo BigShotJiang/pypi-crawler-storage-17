@@ -1,11 +1,11 @@
 {
   "name": "firewheel",
-  "version": "2.10.1",
+  "version": "2.11.0",
   "summary": "FIREWHEEL is an experiment orchestration tool that assists a user in building, controlling, observing, and analyzing repeatable experiments of distributed network systems at any scale.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "firewheel-2.10.1.tar.gz",
-  "download_time": "2025-12-17T15:45:23.526626",
+  "download_filename": "firewheel-2.11.0.tar.gz",
+  "download_time": "2025-12-17T16:19:31.912861",
   "package_url": "https://pypi.org/project/firewheel/"
 }
