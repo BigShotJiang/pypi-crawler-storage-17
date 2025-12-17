@@ -1,0 +1,11 @@
+{
+  "name": "copernicusmarine",
+  "version": "2.2.5",
+  "summary": "Command line interface and Python API for accessing Copernicus Marine data and related services.",
+  "author": "Copernicus Marine User Support",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copernicusmarine-2.2.5.tar.gz",
+  "download_time": "2025-12-17T11:49:52.800549",
+  "package_url": "https://pypi.org/project/copernicusmarine/"
+}

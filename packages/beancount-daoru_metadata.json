@@ -1,11 +1,11 @@
 {
   "name": "beancount-daoru",
-  "version": "0.1.0a2",
-  "summary": "library for importing Chinese bills into beancount",
+  "version": "0.1.0a3",
+  "summary": "beancount importers for Chinese",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beancount_daoru-0.1.0a2.tar.gz",
-  "download_time": "2025-12-16T15:43:43.858298",
+  "download_filename": "beancount_daoru-0.1.0a3.tar.gz",
+  "download_time": "2025-12-17T11:49:42.011408",
   "package_url": "https://pypi.org/project/beancount-daoru/"
 }

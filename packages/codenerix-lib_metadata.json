@@ -1,0 +1,11 @@
+{
+  "name": "codenerix-lib",
+  "version": "1.0.30",
+  "summary": "Basic libraries used by CODENERIX.",
+  "author": "Juanmi Taboada",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/codenerix/codenerix-lib",
+  "download_filename": "codenerix_lib-1.0.30.tar.gz",
+  "download_time": "2025-12-17T11:49:42.526875",
+  "package_url": "https://pypi.org/project/codenerix-lib/"
+}

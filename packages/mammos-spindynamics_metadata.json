@@ -1,0 +1,11 @@
+{
+  "name": "mammos-spindynamics",
+  "version": "0.3.0",
+  "summary": "Spin dynamics package.",
+  "author": "Andrea Petrocchi, Swapneel Amit Pathak, Martin Lang, Sam Holt, Hans Fangohr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mammos_spindynamics-0.3.0.tar.gz",
+  "download_time": "2025-12-17T11:49:39.964738",
+  "package_url": "https://pypi.org/project/mammos-spindynamics/"
+}

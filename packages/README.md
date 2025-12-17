@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T11:32:52.090159
+- **Download Time**: 2025-12-17T11:50:18.666473
 - **Total Packages**: 95
-- **Total Size**: 23.0 MB
+- **Total Size**: 12.84 MB
 
 ## Packages List
+- numcodecs-huffman
+- sema4ai-common
+- openmeter
+- PraisonAI
+- buz
+- vital
+- ohmyscrapper
+- odoo-addon-fs-storage
+- piwave
+- cognite-toolkit
+- numcodecs-tokenize
+- dbt-platform-helper
+- babanovtex-external
+- praisonaiagents
+- fastcs-pandablocks
+- amulet-map-editor
+- bexhoma
+- liberal-alpha
+- curies
+- pywinGUI
+- dp-cgans
+- mammos-spindynamics
+- exasol-python-extension-common
+- rheopy
+- tencent-wedata-auto-ml-dev
+- beancount-daoru
+- codenerix-lib
+- meshrt
+- minecraft-resource-pack
+- swarm-orchestrator
+- ponytool
+- legit-api-client
+- omium
+- unsloth
+- aws-simple
+- alibabacloud-appstream-center20210901
+- ruamel.yaml.clibz
+- django-chutney
+- torchx-nightly
+- privalyse-cli
+- streamlit-octostar-utils
+- wanabi
+- rypi
+- vn-speaker-profiling
+- rundmark
+- copernicusmarine
+- kisti-flydog2-naver-news-crawler
+- nvidia-nat-redis
+- unsloth-zoo
+- nvidia-nat-data-flywheel
+- fivedreg-tf
+- nvidia-nat-semantic-kernel
+- interpy-bg
+- nvidia-nat-opentelemetry
 - nvidia-nat-ragaai
 - interpy-synth
 - nvidia-nat-openpipe-art
@@ -30,7 +84,6 @@
 - pyconverters-openai_vision
 - apcloudy
 - nvidia-nat-zep-cloud
-- babanovtex-external
 - nvidia-nat-agno
 - intbitset
 - nvidia-nat-strands
@@ -48,56 +101,3 @@
 - nvidia-nat-profiling
 - unblu-mcp
 - gondola
-- nvidia-nat-adk
-- assumphelp
-- nvidia-nat-nemo-customizer
-- nvidia-nat-s3
-- shotgun-sh
-- helpr
-- fraiseql
-- nvidia-nat-weave
-- aiqtoolkit-crewai
-- abstract-utilities
-- aiqtoolkit-weave
-- pab-cli
-- aiqtoolkit-test
-- aiqtoolkit-semantic-kernel
-- scifem
-- aiqtoolkit-agno
-- cumesh
-- aiqtoolkit-langchain
-- tidylog
-- scikit-survival
-- aiqtoolkit-zep-cloud
-- pymobiledevice3
-- aiqtoolkit-llama-index
-- aiqtoolkit-mem0ai
-- aiqtoolkit
-- fastcdm
-- nucliadb-utils
-- nucliadb-telemetry
-- nucliadb-sdk
-- nucliadb-protos
-- nucliadb-models
-- nucliadb-dataset
-- zpp_config
-- nucliadb
-- nidx-protos
-- aiinbx
-- holado
-- langgraph-agent-toolkit
-- agentbox-python-sdk
-- control-plane-openapi-mcp
-- lib-cli-exit-tools
-- spacetime-lab
-- falcon-md
-- vaultsandbox
-- django-node-modules
-- vn-speaker-profiling
-- pulka
-- cloud-cert-renewer
-- dodopayments
-- ponytool
-- crowdsec-tracker-api
-- unaiverse
-- python-cdo-wrapper
