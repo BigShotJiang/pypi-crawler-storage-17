@@ -1,11 +1,11 @@
 {
   "name": "solverforge",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Python bindings for SolverForge constraint solver",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "solverforge-0.2.4.tar.gz",
-  "download_time": "2025-12-17T15:46:13.733356",
+  "download_filename": "solverforge-0.2.5.tar.gz",
+  "download_time": "2025-12-17T21:11:39.556229",
   "package_url": "https://pypi.org/project/solverforge/"
 }

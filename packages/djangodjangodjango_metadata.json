@@ -1,11 +1,11 @@
 {
   "name": "djangodjangodjango",
-  "version": "4.0",
+  "version": "6.0",
   "summary": "Did you mean Django?",
   "author": "SPWG",
   "license": null,
   "home_page": null,
-  "download_filename": "djangodjangodjango-4.0.tar.gz",
-  "download_time": "2025-12-17T20:53:48.144142",
+  "download_filename": "djangodjangodjango-6.0.tar.gz",
+  "download_time": "2025-12-17T21:11:55.180711",
   "package_url": "https://pypi.org/project/djangodjangodjango/"
 }
