@@ -1,11 +1,11 @@
 {
   "name": "leadguru-jobs",
-  "version": "0.749.0",
+  "version": "0.750.0",
   "summary": "LGT jobs builds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "leadguru_jobs-0.749.0.tar.gz",
-  "download_time": "2025-12-17T13:57:54.479889",
+  "download_filename": "leadguru_jobs-0.750.0.tar.gz",
+  "download_time": "2025-12-17T14:58:00.100341",
   "package_url": "https://pypi.org/project/leadguru-jobs/"
 }

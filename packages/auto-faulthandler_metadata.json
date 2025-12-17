@@ -1,0 +1,11 @@
+{
+  "name": "auto-faulthandler",
+  "version": "1.0.0",
+  "summary": "Automatically enable Python's faulthandler for extension development.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_faulthandler-1.0.0.tar.gz",
+  "download_time": "2025-12-17T14:58:18.750783",
+  "package_url": "https://pypi.org/project/auto-faulthandler/"
+}
