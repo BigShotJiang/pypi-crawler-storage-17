@@ -1,0 +1,11 @@
+{
+  "name": "gps-time",
+  "version": "3.0.0",
+  "summary": "This module is used to represent GPS time and provide tools for handling it. It is an alternative to the python built-in datetime module that is easier to use for scientific computing.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gps_time-3.0.0.tar.gz",
+  "download_time": "2025-12-17T05:38:32.594394",
+  "package_url": "https://pypi.org/project/gps-time/"
+}
