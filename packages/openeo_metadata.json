@@ -1,0 +1,11 @@
+{
+  "name": "openeo",
+  "version": "0.47.0",
+  "summary": "Client API for openEO",
+  "author": "Jeroen Dries",
+  "license": null,
+  "home_page": "https://github.com/Open-EO/openeo-python-client",
+  "download_filename": "openeo-0.47.0-py3-none-any.whl",
+  "download_time": "2025-12-17T20:54:00.119014",
+  "package_url": "https://pypi.org/project/openeo/"
+}

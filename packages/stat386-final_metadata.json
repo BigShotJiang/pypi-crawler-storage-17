@@ -1,11 +1,11 @@
 {
   "name": "stat386-final",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Statistical analysis of video game sales data with preprocessing, visualization, and predictive modeling",
   "author": "Adam Britner, Corbin Christiansen",
   "license": null,
   "home_page": null,
-  "download_filename": "stat386_final-0.1.10.tar.gz",
-  "download_time": "2025-12-17T20:38:27.019684",
+  "download_filename": "stat386_final-0.1.11.tar.gz",
+  "download_time": "2025-12-17T20:53:43.458980",
   "package_url": "https://pypi.org/project/stat386-final/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jbpy",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Library for reading and writing Joint BIIF Profile (JBP) files (NITF and NSIF)",
   "author": "Valkyrie Systems Corporation",
   "license": null,
   "home_page": null,
-  "download_filename": "jbpy-0.5.0.tar.gz",
-  "download_time": "2025-12-16T21:12:20.813435",
+  "download_filename": "jbpy-0.5.1.tar.gz",
+  "download_time": "2025-12-17T20:54:01.141252",
   "package_url": "https://pypi.org/project/jbpy/"
 }

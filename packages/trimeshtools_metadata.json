@@ -1,11 +1,11 @@
 {
   "name": "trimeshtools",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Trimesh tools collection",
   "author": "Smoren",
   "license": null,
   "home_page": "https://github.com/Smoren/trimeshtools-pypi",
-  "download_filename": "trimeshtools-0.1.4.tar.gz",
-  "download_time": "2025-12-17T20:13:57.765207",
+  "download_filename": "trimeshtools-0.1.5.tar.gz",
+  "download_time": "2025-12-17T20:53:49.683509",
   "package_url": "https://pypi.org/project/trimeshtools/"
 }
