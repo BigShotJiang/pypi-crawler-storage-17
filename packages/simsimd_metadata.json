@@ -5,7 +5,7 @@
   "author": "Ash Vardanian",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ashvardanian/simsimd",
-  "download_filename": "simsimd-6.5.8-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-12-17T05:51:54.342244",
+  "download_filename": "simsimd-6.5.8.tar.gz",
+  "download_time": "2025-12-17T06:19:11.294573",
   "package_url": "https://pypi.org/project/simsimd/"
 }

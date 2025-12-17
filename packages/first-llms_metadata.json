@@ -1,11 +1,11 @@
 {
   "name": "first-llms",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "My tiny package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "first_llms-0.1.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2025-12-15T07:41:54.866150",
+  "download_filename": "first_llms-0.1.19-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-12-17T06:18:53.588232",
   "package_url": "https://pypi.org/project/first-llms/"
 }
