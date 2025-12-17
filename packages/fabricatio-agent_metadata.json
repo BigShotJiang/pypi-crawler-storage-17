@@ -1,0 +1,11 @@
+{
+  "name": "fabricatio-agent",
+  "version": "0.2.0",
+  "summary": "An extension of fabricatio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabricatio_agent-0.2.0-cp312-cp312-manylinux_2_34_aarch64.whl",
+  "download_time": "2025-12-17T19:18:42.739439",
+  "package_url": "https://pypi.org/project/fabricatio-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sparkrouter",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Platform-agnostic job routing framework for Spark ETL pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sparkrouter-0.1.0.tar.gz",
-  "download_time": "2025-12-17T02:32:01.211560",
+  "download_filename": "sparkrouter-0.2.1.tar.gz",
+  "download_time": "2025-12-17T19:18:41.411280",
   "package_url": "https://pypi.org/project/sparkrouter/"
 }

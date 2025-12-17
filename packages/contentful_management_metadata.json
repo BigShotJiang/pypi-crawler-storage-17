@@ -1,0 +1,11 @@
+{
+  "name": "contentful_management",
+  "version": "2.15.1",
+  "summary": "Contentful Management API Client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contentful_management-2.15.1.tar.gz",
+  "download_time": "2025-12-17T19:18:48.788267",
+  "package_url": "https://pypi.org/project/contentful_management/"
+}

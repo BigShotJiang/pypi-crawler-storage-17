@@ -1,11 +1,11 @@
 {
   "name": "dsl-spa",
-  "version": "0.3.13",
+  "version": "0.4.0",
   "summary": "A tool for building Structured Agentic Pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dsl_spa-0.3.13.tar.gz",
-  "download_time": "2025-12-17T17:39:45.575639",
+  "download_filename": "dsl_spa-0.4.0.tar.gz",
+  "download_time": "2025-12-17T19:18:59.890190",
   "package_url": "https://pypi.org/project/dsl-spa/"
 }

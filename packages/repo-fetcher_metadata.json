@@ -1,0 +1,11 @@
+{
+  "name": "repo-fetcher",
+  "version": "1.0.0",
+  "summary": "Grab any repository, anywhere, anytime.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "repo_fetcher-1.0.0.tar.gz",
+  "download_time": "2025-12-17T19:18:30.829964",
+  "package_url": "https://pypi.org/project/repo-fetcher/"
+}
