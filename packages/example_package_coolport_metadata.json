@@ -1,0 +1,11 @@
+{
+  "name": "example_package_coolport",
+  "version": "0.0.10",
+  "summary": "pypi, git tags, workflow, cicd practice package",
+  "author": "Aidan Alcayde",
+  "license": null,
+  "home_page": null,
+  "download_filename": "example_package_coolport-0.0.10.tar.gz",
+  "download_time": "2025-12-17T02:31:24.817690",
+  "package_url": "https://pypi.org/project/example_package_coolport/"
+}

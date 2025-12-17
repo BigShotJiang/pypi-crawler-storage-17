@@ -1,0 +1,11 @@
+{
+  "name": "pexams",
+  "version": "0.8.0",
+  "summary": "A Python library for generating and correcting exams using Playwright and OpenCV.",
+  "author": "Oscar J. Pellicer-Valero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pexams-0.8.0.tar.gz",
+  "download_time": "2025-12-17T02:31:36.844034",
+  "package_url": "https://pypi.org/project/pexams/"
+}

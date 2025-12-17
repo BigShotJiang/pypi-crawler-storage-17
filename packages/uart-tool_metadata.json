@@ -1,11 +1,11 @@
 {
   "name": "uart-tool",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "uart 工具",
   "author": "nobitaqaq",
   "license": null,
   "home_page": null,
-  "download_filename": "uart_tool-0.0.3-py3-none-any.whl",
-  "download_time": "2025-12-16T03:53:27.312668",
+  "download_filename": "uart_tool-0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-17T02:31:48.211757",
   "package_url": "https://pypi.org/project/uart-tool/"
 }
