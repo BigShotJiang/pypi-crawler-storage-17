@@ -1,11 +1,11 @@
 {
   "name": "vizflow",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vizflow-0.4.3-py3-none-any.whl",
-  "download_time": "2025-12-17T05:38:52.753908",
+  "download_filename": "vizflow-0.4.4-py3-none-any.whl",
+  "download_time": "2025-12-17T07:35:08.159268",
   "package_url": "https://pypi.org/project/vizflow/"
 }

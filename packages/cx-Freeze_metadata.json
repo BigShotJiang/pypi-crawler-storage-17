@@ -1,0 +1,11 @@
+{
+  "name": "cx-Freeze",
+  "version": "8.5.1",
+  "summary": "Create standalone executables from Python scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cx_freeze-8.5.1.tar.gz",
+  "download_time": "2025-12-17T07:35:10.896596",
+  "package_url": "https://pypi.org/project/cx-Freeze/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "enn-iot-oc-sdk",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "summary": "IoC数据SDK - 提供工业物联网数据查询接口",
   "author": "ENN Energy",
   "license": null,
   "home_page": "https://github.com/enn-energy/enn-iot-oc-sdk",
-  "download_filename": "enn_iot_oc_sdk-2.0.7.tar.gz",
-  "download_time": "2025-12-17T07:15:53.559717",
+  "download_filename": "enn_iot_oc_sdk-2.0.8.tar.gz",
+  "download_time": "2025-12-17T07:34:59.815272",
   "package_url": "https://pypi.org/project/enn-iot-oc-sdk/"
 }

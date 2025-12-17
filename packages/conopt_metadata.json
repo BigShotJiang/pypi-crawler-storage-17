@@ -1,0 +1,11 @@
+{
+  "name": "conopt",
+  "version": "4.39.0",
+  "summary": "Nonlinear Programming Solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conopt-4.39.0-cp310-cp310-manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-17T07:35:13.035975",
+  "package_url": "https://pypi.org/project/conopt/"
+}

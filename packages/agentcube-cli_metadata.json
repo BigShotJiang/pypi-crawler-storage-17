@@ -1,0 +1,11 @@
+{
+  "name": "agentcube-cli",
+  "version": "0.2.0",
+  "summary": "AgentCube CLI - A developer tool for packaging, building, and deploying AI agents to AgentCube",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentcube_cli-0.2.0.tar.gz",
+  "download_time": "2025-12-17T07:34:57.706595",
+  "package_url": "https://pypi.org/project/agentcube-cli/"
+}

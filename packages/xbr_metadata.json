@@ -1,11 +1,11 @@
 {
   "name": "xbr",
-  "version": "25.12.1",
+  "version": "25.12.2",
   "summary": "XBR smart contracts and ABIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xbr-25.12.1.tar.gz",
-  "download_time": "2025-12-16T17:17:22.960584",
+  "download_filename": "xbr-25.12.2.tar.gz",
+  "download_time": "2025-12-17T07:35:07.083854",
   "package_url": "https://pypi.org/project/xbr/"
 }
