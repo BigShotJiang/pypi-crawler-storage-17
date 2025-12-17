@@ -1,15 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-17T22:52:48.840657
-- **Total Packages**: 84
-- **Total Size**: 17.41 MB
+- **Download Time**: 2025-12-17T23:12:48.928480
+- **Total Packages**: 85
+- **Total Size**: 7.94 MB
 
 ## Packages List
+- ai-agent-rules
+- okareo
+- quantumdrive
+- fast-plaid
+- quillmark
+- arena-rank
+- graflo
+- kugelaudio
+- duppy
+- namel3ss
+- coiled
+- dhisana
+- anthropic-bridge
+- auto-trainer-api
+- globus-sdk
+- rayai
+- n8n-deploy
+- aither
+- zoneramaapi
+- devservices
+- combicode
+- wcp-library
+- dbt-snowflake
+- dbt-spark
 - auto-trainer-training
 - kpmx
 - ai-edge-quantizer
-- coiled
 - modal
 - pulumi-xyz
 - nextmv
@@ -26,7 +49,6 @@
 - powl
 - archetypeai
 - pulumi-provider-boilerplate
-- ai-agent-rules
 - lunalib
 - stellium
 - mermaid-py
@@ -69,24 +91,3 @@
 - ket-lang
 - ontolutils
 - skpro
-- schemathesis
-- dbxdebug
-- particle-tracking-manager
-- expandai
-- upd-cli
-- pdf-image-extractor-mcp
-- vital
-- pyfusion37
-- jfuse
-- nbragg
-- kumoai
-- nominal-streaming
-- par-term-emu-core-rust
-- kaqing
-- defense-predictor
-- graphlit-client
-- routir
-- test-dataflow-dbt
-- test-dataflow-airflow
-- test-dataflow-conda-plugin
-- combicode

@@ -1,0 +1,11 @@
+{
+  "name": "arena-rank",
+  "version": "0.0.1",
+  "summary": "Ranking methodology powering the LMArena leaderboard.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "arena_rank-0.0.1.tar.gz",
+  "download_time": "2025-12-17T23:12:07.073409",
+  "package_url": "https://pypi.org/project/arena-rank/"
+}
