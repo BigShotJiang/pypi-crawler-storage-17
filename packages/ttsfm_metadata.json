@@ -1,0 +1,11 @@
+{
+  "name": "ttsfm",
+  "version": "3.4.2",
+  "summary": "Text-to-Speech API Client with OpenAI compatibility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttsfm-3.4.2.tar.gz",
+  "download_time": "2025-12-17T09:47:37.716095",
+  "package_url": "https://pypi.org/project/ttsfm/"
+}

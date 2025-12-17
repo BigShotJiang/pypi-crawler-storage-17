@@ -1,0 +1,11 @@
+{
+  "name": "shoestring-setup",
+  "version": "0.2.7",
+  "summary": "Installs dependencies needed to run shoestring solutions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shoestring_setup-0.2.7.tar.gz",
+  "download_time": "2025-12-17T09:47:18.777653",
+  "package_url": "https://pypi.org/project/shoestring-setup/"
+}

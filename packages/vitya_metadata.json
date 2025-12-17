@@ -1,0 +1,11 @@
+{
+  "name": "vitya",
+  "version": "0.20.20",
+  "summary": "Validators for different russian banking values",
+  "author": "hicebank.ru",
+  "license": null,
+  "home_page": "https://github.com/hicebank/vitya",
+  "download_filename": "vitya-0.20.20.tar.gz",
+  "download_time": "2025-12-17T09:47:47.623685",
+  "package_url": "https://pypi.org/project/vitya/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deel-torchlip",
+  "version": "1.0.3",
+  "summary": "PyTorch implementation for k-Lipschitz layers",
+  "author": "Mathieu SERRURIER, Franck MAMALET, Thibaut BOISSIN, Mikaël CAPELLE, Justin PLAKOO",
+  "license": "MIT",
+  "home_page": "https://github.com/deel-ai/deel-torchlip",
+  "download_filename": "deel_torchlip-1.0.3.tar.gz",
+  "download_time": "2025-12-17T09:47:19.297232",
+  "package_url": "https://pypi.org/project/deel-torchlip/"
+}

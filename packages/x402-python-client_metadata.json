@@ -1,0 +1,11 @@
+{
+  "name": "x402-python-client",
+  "version": "0.1.0",
+  "summary": "Python client for the x402 Payment Protocol (v2) - HTTP 402 payments made easy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "x402_python_client-0.1.0.tar.gz",
+  "download_time": "2025-12-17T09:47:40.326478",
+  "package_url": "https://pypi.org/project/x402-python-client/"
+}
