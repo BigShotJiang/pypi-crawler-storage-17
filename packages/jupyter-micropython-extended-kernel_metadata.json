@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-micropython-extended-kernel",
+  "version": "2025.1.0",
+  "summary": "JupyterLab kernel to interact with a MicroPython ESP8266 or ESP32 over its serial REPL. For ESP32 it also allowes to connect over BLE. It provides IPython-cells from where MicroPython code and data can be accessed.",
+  "author": "Alfred Fuchs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_micropython_extended_kernel-2025.1.0.tar.gz",
+  "download_time": "2025-12-17T22:12:23.813086",
+  "package_url": "https://pypi.org/project/jupyter-micropython-extended-kernel/"
+}

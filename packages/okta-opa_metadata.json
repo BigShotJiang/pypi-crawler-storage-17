@@ -1,0 +1,11 @@
+{
+  "name": "okta-opa",
+  "version": "0.1.1",
+  "summary": "Python script for working with Okta APIs, esp OPA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "okta_opa-0.1.1.tar.gz",
+  "download_time": "2025-12-17T22:12:03.218175",
+  "package_url": "https://pypi.org/project/okta-opa/"
+}

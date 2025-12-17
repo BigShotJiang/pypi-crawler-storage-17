@@ -1,0 +1,11 @@
+{
+  "name": "ncompass",
+  "version": "0.1.11",
+  "summary": "Profiling and trace analysis SDK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ncompass-0.1.11-py3-none-any.whl",
+  "download_time": "2025-12-17T22:12:28.761941",
+  "package_url": "https://pypi.org/project/ncompass/"
+}

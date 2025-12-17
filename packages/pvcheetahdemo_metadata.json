@@ -1,0 +1,11 @@
+{
+  "name": "pvcheetahdemo",
+  "version": "3.0.0",
+  "summary": "Cheetah speech-to-text engine demos",
+  "author": "Picovoice",
+  "license": null,
+  "home_page": "https://github.com/Picovoice/cheetah",
+  "download_filename": "pvcheetahdemo-3.0.0.tar.gz",
+  "download_time": "2025-12-17T22:12:01.521992",
+  "package_url": "https://pypi.org/project/pvcheetahdemo/"
+}
