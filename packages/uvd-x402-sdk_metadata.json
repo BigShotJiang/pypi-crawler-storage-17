@@ -1,11 +1,11 @@
 {
   "name": "uvd-x402-sdk",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Python SDK for integrating x402 payments via the Ultravioleta DAO facilitator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uvd_x402_sdk-0.2.1.tar.gz",
-  "download_time": "2025-12-16T23:10:42.960859",
+  "download_filename": "uvd_x402_sdk-0.2.2.tar.gz",
+  "download_time": "2025-12-17T04:51:26.934788",
   "package_url": "https://pypi.org/project/uvd-x402-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aioqzone",
+  "version": "1.9.6.dev3",
+  "summary": "A Python wrapper for Qzone login and H5 APIs.",
+  "author": "aioqzone",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aioqzone-1.9.6.dev3.tar.gz",
+  "download_time": "2025-12-17T04:51:33.475912",
+  "package_url": "https://pypi.org/project/aioqzone/"
+}

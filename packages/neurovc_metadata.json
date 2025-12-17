@@ -1,0 +1,11 @@
+{
+  "name": "neurovc",
+  "version": "0.1.0",
+  "summary": "Framework for Computer Vision setups in Neuroscience",
+  "author": null,
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "neurovc-0.1.0.tar.gz",
+  "download_time": "2025-12-17T04:51:10.701096",
+  "package_url": "https://pypi.org/project/neurovc/"
+}

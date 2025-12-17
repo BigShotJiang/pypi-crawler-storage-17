@@ -1,11 +1,11 @@
 {
   "name": "piedomains",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "Predict categories based on domain names and their content",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "piedomains-0.4.2.tar.gz",
-  "download_time": "2025-12-15T22:35:25.120061",
+  "download_filename": "piedomains-0.5.0.tar.gz",
+  "download_time": "2025-12-17T04:50:58.696980",
   "package_url": "https://pypi.org/project/piedomains/"
 }
