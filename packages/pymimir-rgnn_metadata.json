@@ -1,0 +1,11 @@
+{
+  "name": "pymimir-rgnn",
+  "version": "0.2.5",
+  "summary": "Relational Graph Neural Network (R-GNN) package for Mimir based on PyTorch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymimir_rgnn-0.2.5.tar.gz",
+  "download_time": "2025-12-17T12:22:09.410251",
+  "package_url": "https://pypi.org/project/pymimir-rgnn/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ponytool",
-  "version": "1.0.1",
-  "summary": "Developer toolbox (dev)",
+  "version": "1.0.3",
+  "summary": "Developer toolbox (CLI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ponytool-1.0.1.tar.gz",
-  "download_time": "2025-12-17T11:49:44.577052",
+  "download_filename": "ponytool-1.0.3.tar.gz",
+  "download_time": "2025-12-17T12:22:20.664856",
   "package_url": "https://pypi.org/project/ponytool/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "blender-remote",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "Automate Blender workflows with external Python control, background operation, and LLM integration",
   "author": "blender-remote contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blender_remote-1.3.2.tar.gz",
-  "download_time": "2025-12-17T11:32:06.563903",
+  "download_filename": "blender_remote-1.3.3.tar.gz",
+  "download_time": "2025-12-17T12:22:03.805980",
   "package_url": "https://pypi.org/project/blender-remote/"
 }

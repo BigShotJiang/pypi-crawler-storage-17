@@ -1,11 +1,11 @@
 {
   "name": "aenvironment",
-  "version": "0.1.0",
+  "version": "0.1.0.post1",
   "summary": "AEnvironment Python SDK - Production-grade environment for AI agent tools",
-  "author": null,
+  "author": "AEnvironment Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aenvironment-0.1.0.tar.gz",
-  "download_time": "2025-12-17T03:45:49.124768",
+  "download_filename": "aenvironment-0.1.0.post1.tar.gz",
+  "download_time": "2025-12-17T12:22:18.389292",
   "package_url": "https://pypi.org/project/aenvironment/"
 }

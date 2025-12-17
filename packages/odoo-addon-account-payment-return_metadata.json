@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-return",
+  "version": "18.0.1.0.6",
+  "summary": "Manage the return of your payments",
+  "author": "Odoo Community Association (OCA),7 i TRIA, Tecnativa, initOS GmbH & Co.,",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_account_payment_return-18.0.1.0.6-py3-none-any.whl",
+  "download_time": "2025-12-17T12:22:01.008073",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-return/"
+}

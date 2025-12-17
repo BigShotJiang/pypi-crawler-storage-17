@@ -1,11 +1,11 @@
 {
   "name": "mf2dom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Microformats2 (mf2) parser and renderer powered by JustHTML.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mf2dom-0.1.0.tar.gz",
-  "download_time": "2025-12-16T19:47:35.449902",
+  "download_filename": "mf2dom-0.1.1.tar.gz",
+  "download_time": "2025-12-17T12:22:19.536410",
   "package_url": "https://pypi.org/project/mf2dom/"
 }

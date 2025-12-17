@@ -1,0 +1,11 @@
+{
+  "name": "eexp-engine-utils",
+  "version": "0.0.47",
+  "summary": "Helper utilities for eexp_engine - supporting ProActive and Kubeflow execution environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eexp_engine_utils-0.0.47.tar.gz",
+  "download_time": "2025-12-17T12:22:25.101393",
+  "package_url": "https://pypi.org/project/eexp-engine-utils/"
+}

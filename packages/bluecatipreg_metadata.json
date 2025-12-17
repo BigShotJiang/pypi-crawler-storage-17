@@ -1,0 +1,11 @@
+{
+  "name": "bluecatipreg",
+  "version": "0.0.1",
+  "summary": "Python module to perform IP hostname registration and unregistration in BlueCat",
+  "author": "BlueCat IP Reg Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bluecatipreg-0.0.1.tar.gz",
+  "download_time": "2025-12-17T12:21:42.815456",
+  "package_url": "https://pypi.org/project/bluecatipreg/"
+}

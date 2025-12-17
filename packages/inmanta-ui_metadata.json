@@ -1,0 +1,11 @@
+{
+  "name": "inmanta-ui",
+  "version": "6.0.0",
+  "summary": "Slice serving the inmanta UI",
+  "author": "Inmanta",
+  "license": "ASL 2.0",
+  "home_page": "https://github.com/inmanta/inmanta-ui",
+  "download_filename": "inmanta_ui-6.0.0.tar.gz",
+  "download_time": "2025-12-17T12:21:49.645828",
+  "package_url": "https://pypi.org/project/inmanta-ui/"
+}

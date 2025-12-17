@@ -1,0 +1,11 @@
+{
+  "name": "ubiops-cli",
+  "version": "2.29.0",
+  "summary": "UbiOps Command Line Interface to interact with the UbiOps API.",
+  "author": "UbiOps",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ubiops_cli-2.29.0.tar.gz",
+  "download_time": "2025-12-17T12:21:47.963336",
+  "package_url": "https://pypi.org/project/ubiops-cli/"
+}
