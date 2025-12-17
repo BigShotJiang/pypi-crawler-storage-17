@@ -1,11 +1,11 @@
 {
   "name": "iLibrary",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "iLibrary - Tools for IBM i library",
   "author": "jgh1",
   "license": null,
   "home_page": "https://legner.beer",
-  "download_filename": "ilibrary-0.0.9-py3-none-any.whl",
-  "download_time": "2025-12-17T09:47:00.440184",
+  "download_filename": "ilibrary-0.0.10-py3-none-any.whl",
+  "download_time": "2025-12-17T10:14:22.704397",
   "package_url": "https://pypi.org/project/iLibrary/"
 }

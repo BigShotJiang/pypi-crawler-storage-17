@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-sync",
+  "version": "0.1.0",
+  "summary": "A CLI tool to synchronize Obsidian vaults using GitHub.",
+  "author": "Minh Moment",
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidian_sync-0.1.0.tar.gz",
+  "download_time": "2025-12-17T10:14:25.382081",
+  "package_url": "https://pypi.org/project/obsidian-sync/"
+}

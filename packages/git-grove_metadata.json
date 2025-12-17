@@ -1,0 +1,11 @@
+{
+  "name": "git-grove",
+  "version": "1.0.0",
+  "summary": "A tool that cherry-picks and synchronizes specific files and directories across multiple Git repositories",
+  "author": "universetraveller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_grove-1.0.0.tar.gz",
+  "download_time": "2025-12-17T10:14:12.193603",
+  "package_url": "https://pypi.org/project/git-grove/"
+}

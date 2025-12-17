@@ -1,11 +1,11 @@
 {
   "name": "acex-client",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "ACE-X CLIENT - Client for ACE-X",
   "author": "Johan Lahti",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "acex_client-0.0.4.tar.gz",
-  "download_time": "2025-12-16T14:58:38.364274",
+  "download_filename": "acex_client-0.0.6.tar.gz",
+  "download_time": "2025-12-17T10:14:35.667910",
   "package_url": "https://pypi.org/project/acex-client/"
 }

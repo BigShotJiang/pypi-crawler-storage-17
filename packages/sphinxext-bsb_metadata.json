@@ -1,0 +1,11 @@
+{
+  "name": "sphinxext-bsb",
+  "version": "7.0.3",
+  "summary": "BSB Sphinx documentation extension",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxext_bsb-7.0.3.tar.gz",
+  "download_time": "2025-12-17T10:13:55.451008",
+  "package_url": "https://pypi.org/project/sphinxext-bsb/"
+}

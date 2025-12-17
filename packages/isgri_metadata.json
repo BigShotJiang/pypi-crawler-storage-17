@@ -1,11 +1,11 @@
 {
   "name": "isgri",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Python package for INTEGRAL IBIS/ISGRI lightcurve analysis",
   "author": "Dominik Patryk Pacholski",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isgri-0.5.0-py3-none-any.whl",
-  "download_time": "2025-12-16T14:44:25.502109",
+  "download_filename": "isgri-0.5.1-py3-none-any.whl",
+  "download_time": "2025-12-17T10:14:27.519427",
   "package_url": "https://pypi.org/project/isgri/"
 }

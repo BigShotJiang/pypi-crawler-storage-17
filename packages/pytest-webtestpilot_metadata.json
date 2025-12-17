@@ -1,0 +1,11 @@
+{
+  "name": "pytest-webtestpilot",
+  "version": "0.1.0",
+  "summary": "Pytest plugin for running WebTestPilot JSON tests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_webtestpilot-0.1.0.tar.gz",
+  "download_time": "2025-12-17T10:14:26.461462",
+  "package_url": "https://pypi.org/project/pytest-webtestpilot/"
+}

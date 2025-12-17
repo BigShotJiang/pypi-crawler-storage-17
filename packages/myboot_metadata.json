@@ -1,11 +1,11 @@
 {
   "name": "myboot",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "类似 Spring Boot 的 Python 快速开发框架",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "myboot-0.1.7.tar.gz",
-  "download_time": "2025-12-16T10:43:53.116099",
+  "download_filename": "myboot-0.1.8.tar.gz",
+  "download_time": "2025-12-17T10:14:29.114186",
   "package_url": "https://pypi.org/project/myboot/"
 }
