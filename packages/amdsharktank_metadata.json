@@ -1,0 +1,11 @@
+{
+  "name": "amdsharktank",
+  "version": "3.9.0",
+  "summary": "amdshark layers and inference models for genai",
+  "author": "amdshark Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amdsharktank-3.9.0-py3-none-any.whl",
+  "download_time": "2025-12-17T21:50:10.616064",
+  "package_url": "https://pypi.org/project/amdsharktank/"
+}

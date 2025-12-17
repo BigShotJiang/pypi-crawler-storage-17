@@ -1,0 +1,11 @@
+{
+  "name": "tacho",
+  "version": "0.8.8",
+  "summary": "CLI tool for measuring and comparing LLM inference speeds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tacho-0.8.8.tar.gz",
+  "download_time": "2025-12-17T21:49:39.536906",
+  "package_url": "https://pypi.org/project/tacho/"
+}
