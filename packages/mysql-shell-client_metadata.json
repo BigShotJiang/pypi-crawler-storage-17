@@ -1,11 +1,11 @@
 {
   "name": "mysql-shell-client",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "Python client for MySQL Shell",
   "author": "Sinclert Perez",
   "license": null,
   "home_page": null,
-  "download_filename": "mysql_shell_client-0.4.2.tar.gz",
-  "download_time": "2025-12-15T10:14:56.496933",
+  "download_filename": "mysql_shell_client-0.5.0.tar.gz",
+  "download_time": "2025-12-17T17:40:11.963485",
   "package_url": "https://pypi.org/project/mysql-shell-client/"
 }

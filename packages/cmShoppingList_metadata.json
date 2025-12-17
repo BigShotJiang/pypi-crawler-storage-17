@@ -1,11 +1,11 @@
 {
   "name": "cmShoppingList",
-  "version": "0.20",
+  "version": "0.21",
   "summary": "Shopping List plugin app for Alliance Auth.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmshoppinglist-0.20.tar.gz",
-  "download_time": "2025-12-17T04:20:44.801167",
+  "download_filename": "cmshoppinglist-0.21.tar.gz",
+  "download_time": "2025-12-17T17:39:51.254879",
   "package_url": "https://pypi.org/project/cmShoppingList/"
 }

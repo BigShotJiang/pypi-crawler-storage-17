@@ -1,0 +1,11 @@
+{
+  "name": "langchain-prefid",
+  "version": "0.1.0",
+  "summary": "LangChain integration for PrefID - Preference-aware AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_prefid-0.1.0.tar.gz",
+  "download_time": "2025-12-17T17:39:41.872709",
+  "package_url": "https://pypi.org/project/langchain-prefid/"
+}

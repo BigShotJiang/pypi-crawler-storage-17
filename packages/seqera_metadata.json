@@ -1,11 +1,11 @@
 {
   "name": "seqera",
-  "version": "0.2.0",
-  "summary": "Seqera AI CLI – Claude Code-like terminal assistant for bioinformatics and workflow management",
+  "version": "0.2.1",
+  "summary": "Seqera AI CLI – terminal assistant for Nextflow, bioinformatics, and workflow management",
   "author": null,
-  "license": "Apache-2.0",
+  "license": "Custom",
   "home_page": null,
-  "download_filename": "seqera-0.2.0.tar.gz",
-  "download_time": "2025-12-17T16:52:16.837210",
+  "download_filename": "seqera-0.2.1.tar.gz",
+  "download_time": "2025-12-17T17:40:22.234111",
   "package_url": "https://pypi.org/project/seqera/"
 }

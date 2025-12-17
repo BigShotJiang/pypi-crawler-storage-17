@@ -1,11 +1,11 @@
 {
   "name": "agentex-sdk",
-  "version": "0.7.4",
+  "version": "0.8.0",
   "summary": "The official Python library for the agentex API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentex_sdk-0.7.4.tar.gz",
-  "download_time": "2025-12-17T13:11:30.400142",
+  "download_filename": "agentex_sdk-0.8.0.tar.gz",
+  "download_time": "2025-12-17T17:39:42.404172",
   "package_url": "https://pypi.org/project/agentex-sdk/"
 }

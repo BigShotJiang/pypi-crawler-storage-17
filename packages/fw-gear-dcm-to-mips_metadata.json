@@ -1,0 +1,11 @@
+{
+  "name": "fw-gear-dcm-to-mips",
+  "version": "0.1.3",
+  "summary": "Convert dicom file to MIPS format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fw_gear_dcm_to_mips-0.1.3-py3-none-any.whl",
+  "download_time": "2025-12-17T17:40:21.720488",
+  "package_url": "https://pypi.org/project/fw-gear-dcm-to-mips/"
+}

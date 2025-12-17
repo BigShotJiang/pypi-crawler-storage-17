@@ -1,0 +1,11 @@
+{
+  "name": "mediapy",
+  "version": "1.2.5",
+  "summary": "Read/write/show images and videos in an IPython notebook",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mediapy-1.2.5.tar.gz",
+  "download_time": "2025-12-17T17:39:47.135668",
+  "package_url": "https://pypi.org/project/mediapy/"
+}

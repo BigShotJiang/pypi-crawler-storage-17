@@ -1,0 +1,11 @@
+{
+  "name": "eldar-hangman",
+  "version": "1.0.0",
+  "summary": "Classic Hangman game with CLI and colors",
+  "author": "Eldar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eldar_hangman-1.0.0.tar.gz",
+  "download_time": "2025-12-17T17:39:55.895464",
+  "package_url": "https://pypi.org/project/eldar-hangman/"
+}

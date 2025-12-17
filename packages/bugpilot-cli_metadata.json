@@ -1,11 +1,11 @@
 {
   "name": "bugpilot-cli",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "AI-powered penetration testing and bug hunting CLI tool",
   "author": "LAKSHMIKANTHAN K",
   "license": null,
   "home_page": "https://github.com/letchupkt/bugpilot-cli",
-  "download_filename": "bugpilot_cli-1.0.5.tar.gz",
-  "download_time": "2025-12-17T15:45:44.158829",
+  "download_filename": "bugpilot_cli-1.0.7-py3-none-any.whl",
+  "download_time": "2025-12-17T17:39:40.853649",
   "package_url": "https://pypi.org/project/bugpilot-cli/"
 }
