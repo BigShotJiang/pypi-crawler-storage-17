@@ -1,0 +1,11 @@
+{
+  "name": "ectf",
+  "version": "0.1.0",
+  "summary": "Tools for eCTF competitors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ectf-0.1.0.tar.gz",
+  "download_time": "2025-12-17T16:04:55.344309",
+  "package_url": "https://pypi.org/project/ectf/"
+}

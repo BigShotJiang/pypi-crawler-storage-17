@@ -1,0 +1,11 @@
+{
+  "name": "dm-haiku",
+  "version": "0.0.16",
+  "summary": "Haiku is a library for building neural networks in JAX.",
+  "author": "DeepMind",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/deepmind/dm-haiku",
+  "download_filename": "dm_haiku-0.0.16.tar.gz",
+  "download_time": "2025-12-17T16:04:34.212063",
+  "package_url": "https://pypi.org/project/dm-haiku/"
+}

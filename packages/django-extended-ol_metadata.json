@@ -1,0 +1,11 @@
+{
+  "name": "django-extended-ol",
+  "version": "1.2.0",
+  "summary": "An openlayers widget for Django with extended capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_extended_ol-1.2.0.tar.gz",
+  "download_time": "2025-12-17T16:04:40.073205",
+  "package_url": "https://pypi.org/project/django-extended-ol/"
+}

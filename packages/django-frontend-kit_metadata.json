@@ -1,0 +1,11 @@
+{
+  "name": "django-frontend-kit",
+  "version": "0.4.1",
+  "summary": "Opinionated Django frontend scaffolder using ViteJS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_frontend_kit-0.4.1.tar.gz",
+  "download_time": "2025-12-17T16:04:20.600471",
+  "package_url": "https://pypi.org/project/django-frontend-kit/"
+}

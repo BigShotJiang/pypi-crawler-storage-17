@@ -1,11 +1,11 @@
 {
   "name": "zoo_mcp",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "An MCP server utilizing Zoo's various tools",
   "author": "Ryan Barton",
   "license": null,
   "home_page": null,
-  "download_filename": "zoo_mcp-0.7.1-py3-none-any.whl",
-  "download_time": "2025-12-17T15:46:06.913157",
+  "download_filename": "zoo_mcp-0.7.2-py3-none-any.whl",
+  "download_time": "2025-12-17T16:04:56.879137",
   "package_url": "https://pypi.org/project/zoo_mcp/"
 }

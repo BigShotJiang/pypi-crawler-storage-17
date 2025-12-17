@@ -1,0 +1,11 @@
+{
+  "name": "onedl-mmdetection",
+  "version": "3.4.3",
+  "summary": "OneDL Detection Toolbox and Benchmark",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onedl_mmdetection-3.4.3.tar.gz",
+  "download_time": "2025-12-17T16:04:36.918957",
+  "package_url": "https://pypi.org/project/onedl-mmdetection/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "talktrace-ai",
+  "version": "1.0",
+  "summary": "Evaluating in-classroom teaching simulations leveraging the power of large language models.",
+  "author": "Jami Schorling",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/talktrace-ai/talktrace-ai",
+  "download_filename": "talktrace_ai-1.0-py3-none-any.whl",
+  "download_time": "2025-12-17T16:04:46.422064",
+  "package_url": "https://pypi.org/project/talktrace-ai/"
+}

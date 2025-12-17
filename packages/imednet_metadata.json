@@ -1,11 +1,11 @@
 {
   "name": "imednet",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Unofficial Python SDK for the iMednet clinical trials API",
   "author": "Frederick de Ruiter",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imednet-0.2.2.tar.gz",
-  "download_time": "2025-12-15T16:16:49.462567",
+  "download_filename": "imednet-0.2.3.tar.gz",
+  "download_time": "2025-12-17T16:04:13.869890",
   "package_url": "https://pypi.org/project/imednet/"
 }
