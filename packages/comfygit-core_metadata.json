@@ -1,11 +1,11 @@
 {
   "name": "comfygit-core",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "ComfyGit Core - Git-based ComfyUI environment manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comfygit_core-0.3.7.tar.gz",
-  "download_time": "2025-12-17T19:31:35.688053",
+  "download_filename": "comfygit_core-0.3.8.tar.gz",
+  "download_time": "2025-12-17T20:38:24.665026",
   "package_url": "https://pypi.org/project/comfygit-core/"
 }

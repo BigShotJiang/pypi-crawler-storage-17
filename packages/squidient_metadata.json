@@ -1,11 +1,11 @@
 {
   "name": "squidient",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "CI/CD framework for alya",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "squidient-1.0.0.tar.gz",
-  "download_time": "2025-12-15T16:16:41.924276",
+  "download_filename": "squidient-1.0.2.tar.gz",
+  "download_time": "2025-12-17T20:38:53.950195",
   "package_url": "https://pypi.org/project/squidient/"
 }

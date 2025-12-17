@@ -1,0 +1,11 @@
+{
+  "name": "ffmpegp",
+  "version": "1.20",
+  "summary": "ffmpegp is an enhanced version of FFmpeg, offering additional features and functionalities to extend its powerful media processing capabilities.",
+  "author": "Ankush Bhagat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpegp-1.20.tar.gz",
+  "download_time": "2025-12-17T20:38:36.390763",
+  "package_url": "https://pypi.org/project/ffmpegp/"
+}

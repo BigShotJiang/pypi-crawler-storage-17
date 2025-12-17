@@ -1,0 +1,11 @@
+{
+  "name": "datacore-sdk-python",
+  "version": "0.1.0",
+  "summary": "Python SDK skeleton for Tachyus DataCore API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datacore_sdk_python-0.1.0.tar.gz",
+  "download_time": "2025-12-17T20:38:40.170765",
+  "package_url": "https://pypi.org/project/datacore-sdk-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "millenniumdb-driver",
+  "version": "1.2.0",
+  "summary": "The official MillenniumDB driver for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "millenniumdb_driver-1.2.0.tar.gz",
+  "download_time": "2025-12-17T20:39:01.170616",
+  "package_url": "https://pypi.org/project/millenniumdb-driver/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mitre-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server providing access to MITRE ATT&CK threat intelligence framework",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mitre_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-12-15T13:12:50.824633",
+  "download_filename": "mitre_mcp_server-0.1.2.tar.gz",
+  "download_time": "2025-12-17T20:38:41.265488",
   "package_url": "https://pypi.org/project/mitre-mcp-server/"
 }

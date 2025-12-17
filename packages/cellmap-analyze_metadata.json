@@ -1,0 +1,11 @@
+{
+  "name": "cellmap-analyze",
+  "version": "0.1.5",
+  "summary": "Code to perform analysis on segmentations like those produced by CellMap",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cellmap_analyze-0.1.5.tar.gz",
+  "download_time": "2025-12-17T20:38:56.511152",
+  "package_url": "https://pypi.org/project/cellmap-analyze/"
+}

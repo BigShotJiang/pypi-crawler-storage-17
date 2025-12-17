@@ -1,0 +1,11 @@
+{
+  "name": "ezmsg-zmq",
+  "version": "1.4.3",
+  "summary": "Zero-MQ pub/sub units for ezmsg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezmsg_zmq-1.4.3.tar.gz",
+  "download_time": "2025-12-17T20:38:55.994659",
+  "package_url": "https://pypi.org/project/ezmsg-zmq/"
+}

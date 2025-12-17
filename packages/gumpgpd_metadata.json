@@ -1,0 +1,11 @@
+{
+  "name": "gumpgpd",
+  "version": "1.0.0",
+  "summary": "GPD analysis tools for DVCS, DVMP, and lattice inputs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gumpgpd-1.0.0.tar.gz",
+  "download_time": "2025-12-17T20:38:25.754666",
+  "package_url": "https://pypi.org/project/gumpgpd/"
+}
