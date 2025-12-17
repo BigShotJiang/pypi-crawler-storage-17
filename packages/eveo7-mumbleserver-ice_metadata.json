@@ -1,0 +1,11 @@
+{
+  "name": "eveo7-mumbleserver-ice",
+  "version": "0.0.6",
+  "summary": "Python bindings for interacting with Mumble server using ZeroC's ICE technology.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eveo7_mumbleserver_ice-0.0.6.tar.gz",
+  "download_time": "2025-12-17T08:52:15.823860",
+  "package_url": "https://pypi.org/project/eveo7-mumbleserver-ice/"
+}

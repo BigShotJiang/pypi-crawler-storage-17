@@ -1,0 +1,11 @@
+{
+  "name": "rpa-sap",
+  "version": "1.2.5",
+  "summary": "SAPGUI scripting automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpa_sap-1.2.5.tar.gz",
+  "download_time": "2025-12-17T08:51:28.686722",
+  "package_url": "https://pypi.org/project/rpa-sap/"
+}

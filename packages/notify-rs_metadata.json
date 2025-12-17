@@ -1,11 +1,11 @@
 {
   "name": "notify-rs",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Wrapper around notify-rust to show desktop notifications.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/domdfcoding/notify-rs",
-  "download_filename": "notify_rs-0.2.1.tar.gz",
-  "download_time": "2025-12-16T09:46:03.161786",
+  "download_filename": "notify_rs-0.3.0.tar.gz",
+  "download_time": "2025-12-17T08:51:55.031728",
   "package_url": "https://pypi.org/project/notify-rs/"
 }

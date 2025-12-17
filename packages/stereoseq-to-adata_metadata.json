@@ -1,0 +1,11 @@
+{
+  "name": "stereoseq-to-adata",
+  "version": "0.3.1",
+  "summary": "Quickly convert parquet files exported from stereo-seq to adata format and add appropriate metadata",
+  "author": "myuan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stereoseq_to_adata-0.3.1.tar.gz",
+  "download_time": "2025-12-17T08:51:29.208885",
+  "package_url": "https://pypi.org/project/stereoseq-to-adata/"
+}

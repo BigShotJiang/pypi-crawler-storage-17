@@ -1,11 +1,11 @@
 {
   "name": "testcontainers-spicedb",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python module for Testcontainers that provides a SpiceDB container for integration testing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testcontainers_spicedb-0.1.2.tar.gz",
-  "download_time": "2025-12-17T07:50:43.885072",
+  "download_filename": "testcontainers_spicedb-0.1.3.tar.gz",
+  "download_time": "2025-12-17T08:52:12.698408",
   "package_url": "https://pypi.org/project/testcontainers-spicedb/"
 }

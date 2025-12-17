@@ -1,0 +1,11 @@
+{
+  "name": "starbash",
+  "version": "0.2.3",
+  "summary": "A tool for automating/standardizing/sharing astrophotography workflows.",
+  "author": "Kevin Hester",
+  "license": null,
+  "home_page": null,
+  "download_filename": "starbash-0.2.3.tar.gz",
+  "download_time": "2025-12-17T08:51:56.585028",
+  "package_url": "https://pypi.org/project/starbash/"
+}

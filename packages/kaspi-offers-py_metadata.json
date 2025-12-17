@@ -1,0 +1,11 @@
+{
+  "name": "kaspi-offers-py",
+  "version": "0.2.1",
+  "summary": "Python client for Kaspi.kz offers API",
+  "author": "Nurzhan Aitbayev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaspi_offers_py-0.2.1.tar.gz",
+  "download_time": "2025-12-17T08:51:52.952401",
+  "package_url": "https://pypi.org/project/kaspi-offers-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gnucash-uk-vat",
+  "version": "1.8.5",
+  "summary": "UK HMRC VAT submission bridge for GnuCash users",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "gnucash_uk_vat-1.8.5.tar.gz",
+  "download_time": "2025-12-17T08:52:14.260966",
+  "package_url": "https://pypi.org/project/gnucash-uk-vat/"
+}
