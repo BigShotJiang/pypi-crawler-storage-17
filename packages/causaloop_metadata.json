@@ -1,0 +1,11 @@
+{
+  "name": "causaloop",
+  "version": "0.1.0",
+  "summary": "Autonomous causal reasoning and intelligent framework for modeling, simulating, and optimizing real-world systems with guaranteed feedback-loop consistency",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causaloop-0.1.0.tar.gz",
+  "download_time": "2025-12-17T13:46:26.196614",
+  "package_url": "https://pypi.org/project/causaloop/"
+}

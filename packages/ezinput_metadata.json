@@ -1,0 +1,11 @@
+{
+  "name": "ezinput",
+  "version": "0.0.12",
+  "summary": "Simplify the creation of GUI elements in terminals and Jupyter Notebooks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezinput-0.0.12.tar.gz",
+  "download_time": "2025-12-17T13:46:16.554023",
+  "package_url": "https://pypi.org/project/ezinput/"
+}

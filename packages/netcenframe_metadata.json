@@ -1,0 +1,11 @@
+{
+  "name": "netcenframe",
+  "version": "0.0.6",
+  "summary": "Wrapper around NetCenLib that produces as output a sorted pandas DataFrame",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netcenframe-0.0.6.tar.gz",
+  "download_time": "2025-12-17T13:46:20.998209",
+  "package_url": "https://pypi.org/project/netcenframe/"
+}

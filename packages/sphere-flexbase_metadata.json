@@ -1,0 +1,11 @@
+{
+  "name": "sphere-flexbase",
+  "version": "0.2.0",
+  "summary": "Python client for FlexBase HTTP API with advanced search, FTS, and fuzzy matching",
+  "author": "Sphere Team",
+  "license": null,
+  "home_page": "https://github.com/sphere-team/sphere-flexbase",
+  "download_filename": "sphere_flexbase-0.2.0.tar.gz",
+  "download_time": "2025-12-17T13:45:41.322462",
+  "package_url": "https://pypi.org/project/sphere-flexbase/"
+}

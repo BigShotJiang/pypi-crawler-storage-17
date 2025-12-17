@@ -1,0 +1,11 @@
+{
+  "name": "binject",
+  "version": "1.0.0",
+  "summary": "Binject: inject shared object to apk",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "binject-1.0.0.tar.gz",
+  "download_time": "2025-12-17T13:46:04.872013",
+  "package_url": "https://pypi.org/project/binject/"
+}
