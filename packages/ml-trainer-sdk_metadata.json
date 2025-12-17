@@ -1,11 +1,11 @@
 {
   "name": "ml-trainer-sdk",
-  "version": "0.4.1.2",
+  "version": "0.4.1.4",
   "summary": "A modular SDK for training ML models (image, tabular, timeseries, etc.)",
   "author": "Hypnotic",
   "license": null,
   "home_page": null,
-  "download_filename": "ml_trainer_sdk-0.4.1.2.tar.gz",
-  "download_time": "2025-12-16T15:54:31.297545",
+  "download_filename": "ml_trainer_sdk-0.4.1.4.tar.gz",
+  "download_time": "2025-12-17T06:53:59.511913",
   "package_url": "https://pypi.org/project/ml-trainer-sdk/"
 }

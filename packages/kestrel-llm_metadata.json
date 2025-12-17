@@ -1,0 +1,11 @@
+{
+  "name": "kestrel-llm",
+  "version": "0.1.0",
+  "summary": "Utilities to verify and maintain LLM.txt files (coverage, sorting, symbols blocks).",
+  "author": "kestrel-llm contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kestrel_llm-0.1.0.tar.gz",
+  "download_time": "2025-12-17T06:54:33.758891",
+  "package_url": "https://pypi.org/project/kestrel-llm/"
+}
