@@ -1,0 +1,11 @@
+{
+  "name": "sgr-deep-research",
+  "version": "0.5.0",
+  "summary": "SGR Agent Core - Schema-Guided Reasoning for building agent",
+  "author": "virrius, VaKovaLskii, abdullin, Pavel Zloi, Shadekss, mixaill76",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sgr_deep_research-0.5.0.tar.gz",
+  "download_time": "2025-12-17T07:15:50.421863",
+  "package_url": "https://pypi.org/project/sgr-deep-research/"
+}

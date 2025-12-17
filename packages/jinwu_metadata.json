@@ -1,11 +1,11 @@
 {
   "name": "jinwu",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "Joint inference and physical modeling toolkit for high-energy transient light-curve and spectral analysis.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "jinwu-0.0.20.tar.gz",
-  "download_time": "2025-12-17T06:54:39.503409",
+  "download_filename": "jinwu-0.0.21.tar.gz",
+  "download_time": "2025-12-17T07:15:51.461212",
   "package_url": "https://pypi.org/project/jinwu/"
 }

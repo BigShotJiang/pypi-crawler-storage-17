@@ -1,11 +1,11 @@
 {
   "name": "avanak",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python client library for Avanak voice message REST API",
   "author": "Hassan Pouralijan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "avanak-0.1.1.tar.gz",
-  "download_time": "2025-12-16T05:14:44.910511",
+  "download_filename": "avanak-0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-17T07:15:32.233516",
   "package_url": "https://pypi.org/project/avanak/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ubicoders-testpy",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "A small test base",
-  "author": "User",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ubicoders_testpy-0.0.2.tar.gz",
-  "download_time": "2025-12-17T06:18:46.886679",
+  "download_filename": "ubicoders_testpy-0.0.4.tar.gz",
+  "download_time": "2025-12-17T07:15:57.713039",
   "package_url": "https://pypi.org/project/ubicoders-testpy/"
 }
