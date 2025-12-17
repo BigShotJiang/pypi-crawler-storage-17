@@ -1,0 +1,11 @@
+{
+  "name": "planetfilter",
+  "version": "0.12.0",
+  "summary": "Filter for blog aggregators",
+  "author": "Francois Marier",
+  "license": "AGPL-3.0+",
+  "home_page": "https://launchpad.net/planetfilter",
+  "download_filename": "planetfilter-0.12.0.tar.gz",
+  "download_time": "2025-12-17T03:45:41.297196",
+  "package_url": "https://pypi.org/project/planetfilter/"
+}

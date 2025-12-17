@@ -1,0 +1,11 @@
+{
+  "name": "Shortners",
+  "version": "1.1.12",
+  "summary": "Python url shortner",
+  "author": "Clinton Abraham",
+  "license": "MIT",
+  "home_page": "https://github.com/Clinton-Abraham",
+  "download_filename": "shortners-1.1.12.tar.gz",
+  "download_time": "2025-12-17T03:45:25.346854",
+  "package_url": "https://pypi.org/project/Shortners/"
+}

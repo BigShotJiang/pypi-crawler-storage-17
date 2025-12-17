@@ -1,0 +1,11 @@
+{
+  "name": "qemb",
+  "version": "0.1.4",
+  "summary": "A script to do embedded cluster cutting and generate input files for calculations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qemb-0.1.4.tar.gz",
+  "download_time": "2025-12-17T03:45:11.625886",
+  "package_url": "https://pypi.org/project/qemb/"
+}

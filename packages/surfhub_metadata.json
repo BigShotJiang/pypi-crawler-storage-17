@@ -1,0 +1,11 @@
+{
+  "name": "surfhub",
+  "version": "0.0.4",
+  "summary": "A Python library for SERP and web scraping with multiple provider integration",
+  "author": "Bao Nguyen",
+  "license": null,
+  "home_page": "https://github.com/nqbao/surfhub",
+  "download_filename": "surfhub-0.0.4.tar.gz",
+  "download_time": "2025-12-17T03:45:44.943336",
+  "package_url": "https://pypi.org/project/surfhub/"
+}

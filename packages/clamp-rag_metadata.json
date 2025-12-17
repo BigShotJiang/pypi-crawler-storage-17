@@ -1,11 +1,11 @@
 {
   "name": "clamp-rag",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Git-like version control for RAG vector databases",
   "author": "Clamp Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clamp_rag-1.1.0.tar.gz",
-  "download_time": "2025-12-17T02:31:54.387733",
+  "download_filename": "clamp_rag-1.2.0.tar.gz",
+  "download_time": "2025-12-17T03:45:38.146530",
   "package_url": "https://pypi.org/project/clamp-rag/"
 }

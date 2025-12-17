@@ -1,0 +1,11 @@
+{
+  "name": "jsonl2htmlmd",
+  "version": "0.1.0",
+  "summary": "Convert JSONL files into HTML tables with full Markdown rendering support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jsonl2htmlmd-0.1.0.tar.gz",
+  "download_time": "2025-12-17T03:45:33.276487",
+  "package_url": "https://pypi.org/project/jsonl2htmlmd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastlisaresponse-cuda12x",
+  "version": "1.1.12",
+  "summary": "GPU-accelerated LISA Response Function",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastlisaresponse_cuda12x-1.1.12-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-12-17T03:45:12.163918",
+  "package_url": "https://pypi.org/project/fastlisaresponse-cuda12x/"
+}

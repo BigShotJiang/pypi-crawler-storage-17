@@ -1,0 +1,11 @@
+{
+  "name": "llacie",
+  "version": "1.0.4",
+  "summary": "An LLM-based clinical information extraction toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llacie-1.0.4.tar.gz",
+  "download_time": "2025-12-17T03:45:42.352114",
+  "package_url": "https://pypi.org/project/llacie/"
+}

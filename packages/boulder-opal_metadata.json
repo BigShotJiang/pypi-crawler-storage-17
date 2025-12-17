@@ -1,0 +1,11 @@
+{
+  "name": "boulder-opal",
+  "version": "5.0.5",
+  "summary": "Boulder Opal Client",
+  "author": "Q-CTRL",
+  "license": "https://q-ctrl.com/terms",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "boulder_opal-5.0.5.tar.gz",
+  "download_time": "2025-12-17T03:45:36.071550",
+  "package_url": "https://pypi.org/project/boulder-opal/"
+}

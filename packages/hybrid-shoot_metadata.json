@@ -1,11 +1,11 @@
 {
   "name": "hybrid-shoot",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A custom RL environment with C++ backend and Gymnasium wrapper.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hybrid_shoot-0.1.2.tar.gz",
-  "download_time": "2025-12-16T21:12:22.413868",
+  "download_filename": "hybrid_shoot-0.1.5.tar.gz",
+  "download_time": "2025-12-17T03:45:33.795959",
   "package_url": "https://pypi.org/project/hybrid-shoot/"
 }
