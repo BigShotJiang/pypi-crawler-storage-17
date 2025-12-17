@@ -1,11 +1,11 @@
 {
   "name": "airbyte-internal-ops",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "MCP and API interfaces that let the agents do the admin work",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airbyte_internal_ops-0.1.6.tar.gz",
-  "download_time": "2025-12-17T14:15:22.000259",
+  "download_filename": "airbyte_internal_ops-0.1.7.tar.gz",
+  "download_time": "2025-12-17T15:45:25.138569",
   "package_url": "https://pypi.org/project/airbyte-internal-ops/"
 }

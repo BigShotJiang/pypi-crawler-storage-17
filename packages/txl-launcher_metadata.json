@@ -1,0 +1,11 @@
+{
+  "name": "txl-launcher",
+  "version": "0.3.7",
+  "summary": "TXL plugin for a launcher",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txl_launcher-0.3.7.tar.gz",
+  "download_time": "2025-12-17T15:45:38.232977",
+  "package_url": "https://pypi.org/project/txl-launcher/"
+}

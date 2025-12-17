@@ -1,0 +1,11 @@
+{
+  "name": "txl-file-browser",
+  "version": "0.3.7",
+  "summary": "TXL plugin for a file browser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txl_file_browser-0.3.7.tar.gz",
+  "download_time": "2025-12-17T15:45:40.338517",
+  "package_url": "https://pypi.org/project/txl-file-browser/"
+}

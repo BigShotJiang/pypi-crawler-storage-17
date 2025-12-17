@@ -1,0 +1,11 @@
+{
+  "name": "piholelongtermstats",
+  "version": "0.2.0",
+  "summary": "A dashboard to explore long-term DNS query data from Pi-hole FTL database files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "piholelongtermstats-0.2.0.tar.gz",
+  "download_time": "2025-12-17T15:45:28.982485",
+  "package_url": "https://pypi.org/project/piholelongtermstats/"
+}

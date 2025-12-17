@@ -1,0 +1,11 @@
+{
+  "name": "txl-widgets",
+  "version": "0.3.7",
+  "summary": "TXL plugin for kernel widgets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txl_widgets-0.3.7.tar.gz",
+  "download_time": "2025-12-17T15:45:30.534235",
+  "package_url": "https://pypi.org/project/txl-widgets/"
+}

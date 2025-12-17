@@ -1,11 +1,11 @@
 {
   "name": "streaming-tts",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Lightweight streaming text-to-speech with Kokoro engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streaming_tts-0.3.5.tar.gz",
-  "download_time": "2025-12-17T07:15:44.727373",
+  "download_filename": "streaming_tts-0.3.6.tar.gz",
+  "download_time": "2025-12-17T15:46:02.773479",
   "package_url": "https://pypi.org/project/streaming-tts/"
 }

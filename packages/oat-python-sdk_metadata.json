@@ -1,0 +1,11 @@
+{
+  "name": "oat-python-sdk",
+  "version": "0.1.3",
+  "summary": "Python client for OAT (Optimization and Analysis Tooling) database",
+  "author": "Rikard Olsson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oat_python_sdk-0.1.3.tar.gz",
+  "download_time": "2025-12-17T15:46:11.675145",
+  "package_url": "https://pypi.org/project/oat-python-sdk/"
+}

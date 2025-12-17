@@ -1,0 +1,11 @@
+{
+  "name": "bmsspy",
+  "version": "2.2.0",
+  "summary": "A pure python bmssp solver for python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bmsspy-2.2.0.tar.gz",
+  "download_time": "2025-12-17T15:46:03.320917",
+  "package_url": "https://pypi.org/project/bmsspy/"
+}

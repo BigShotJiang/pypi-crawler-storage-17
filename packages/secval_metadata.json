@@ -1,11 +1,11 @@
 {
   "name": "secval",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A high-performance, security-focused Python validation library written in Rust",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "secval-0.1.0.tar.gz",
-  "download_time": "2025-12-17T14:15:02.896290",
+  "download_filename": "secval-0.1.1.tar.gz",
+  "download_time": "2025-12-17T15:45:54.542449",
   "package_url": "https://pypi.org/project/secval/"
 }

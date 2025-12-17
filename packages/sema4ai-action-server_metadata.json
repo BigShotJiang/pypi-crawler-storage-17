@@ -1,0 +1,11 @@
+{
+  "name": "sema4ai-action-server",
+  "version": "2.17.2",
+  "summary": "Sema4AI Action Server",
+  "author": "Sema4.ai, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sema4ai/actions/",
+  "download_filename": "sema4ai_action_server-2.17.2.tar.gz",
+  "download_time": "2025-12-17T15:45:48.613180",
+  "package_url": "https://pypi.org/project/sema4ai-action-server/"
+}

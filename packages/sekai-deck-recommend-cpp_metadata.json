@@ -1,11 +1,11 @@
 {
   "name": "sekai-deck-recommend-cpp",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sekai_deck_recommend_cpp-0.2.12.tar.gz",
-  "download_time": "2025-12-17T13:45:46.032216",
+  "download_filename": "sekai_deck_recommend_cpp-0.2.13.tar.gz",
+  "download_time": "2025-12-17T15:46:08.598087",
   "package_url": "https://pypi.org/project/sekai-deck-recommend-cpp/"
 }
