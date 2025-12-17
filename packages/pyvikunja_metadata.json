@@ -1,0 +1,11 @@
+{
+  "name": "pyvikunja",
+  "version": "0.23",
+  "summary": "A Python wrapper for Vikunja API",
+  "author": "Joseph Shufflebotham",
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "pyvikunja-0.23.tar.gz",
+  "download_time": "2025-12-17T17:16:20.685866",
+  "package_url": "https://pypi.org/project/pyvikunja/"
+}

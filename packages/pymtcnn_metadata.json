@@ -1,0 +1,11 @@
+{
+  "name": "pymtcnn",
+  "version": "1.1.1",
+  "summary": "High-performance cross-platform MTCNN face detection with CUDA and Apple Neural Engine support",
+  "author": "SplitFace",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/johnwilsoniv/pymtcnn",
+  "download_filename": "pymtcnn-1.1.1.tar.gz",
+  "download_time": "2025-12-17T17:16:32.828238",
+  "package_url": "https://pypi.org/project/pymtcnn/"
+}

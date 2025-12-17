@@ -1,0 +1,11 @@
+{
+  "name": "ags-mcp-server",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol (MCP) server for Anzo Graph Database",
+  "author": "Paresh Khandelwal",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cambridgesemantics/anzo-mcp-server",
+  "download_filename": "ags_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-12-17T17:17:03.883663",
+  "package_url": "https://pypi.org/project/ags-mcp-server/"
+}

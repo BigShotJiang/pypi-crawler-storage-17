@@ -1,11 +1,11 @@
 {
   "name": "pynodewidget",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A Python wrapper for ReactFlow using AnyWidget - build interactive node graphs without JavaScript",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pynodewidget-0.2.2.tar.gz",
-  "download_time": "2025-12-16T22:12:08.149915",
+  "download_filename": "pynodewidget-0.2.3.tar.gz",
+  "download_time": "2025-12-17T17:17:00.012045",
   "package_url": "https://pypi.org/project/pynodewidget/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "SQLUtilities",
+  "version": "0.1.1",
+  "summary": "A comprehensive Python library for unified database operations across multiple SQL database systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlutilities-0.1.1.tar.gz",
+  "download_time": "2025-12-17T17:16:15.846442",
+  "package_url": "https://pypi.org/project/SQLUtilities/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tidalapi",
+  "version": "0.8.10",
+  "summary": "Unofficial API for TIDAL music streaming service.",
+  "author": "Thomas Amland",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tidalapi-0.8.10.tar.gz",
+  "download_time": "2025-12-17T17:16:49.350026",
+  "package_url": "https://pypi.org/project/tidalapi/"
+}
