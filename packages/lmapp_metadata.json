@@ -1,0 +1,11 @@
+{
+  "name": "lmapp",
+  "version": "0.3.5",
+  "summary": "Local LLM Made Simple - Consumer-friendly AI assistant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lmapp-0.3.5.tar.gz",
+  "download_time": "2025-12-17T13:57:22.091162",
+  "package_url": "https://pypi.org/project/lmapp/"
+}

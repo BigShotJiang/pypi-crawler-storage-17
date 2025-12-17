@@ -1,0 +1,11 @@
+{
+  "name": "obsidian256",
+  "version": "1.0.0",
+  "summary": "Obsidian-256 advanced encryption algorithm with 3300-bit support",
+  "author": "mero",
+  "license": null,
+  "home_page": "https://t.me/qp4rm",
+  "download_filename": "obsidian256-1.0.0.tar.gz",
+  "download_time": "2025-12-17T13:57:25.916738",
+  "package_url": "https://pypi.org/project/obsidian256/"
+}

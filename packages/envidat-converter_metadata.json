@@ -1,0 +1,11 @@
+{
+  "name": "envidat-converter",
+  "version": "0.2.1",
+  "summary": "Converters for EnviDat metadata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envidat_converter-0.2.1.tar.gz",
+  "download_time": "2025-12-17T13:57:31.753077",
+  "package_url": "https://pypi.org/project/envidat-converter/"
+}

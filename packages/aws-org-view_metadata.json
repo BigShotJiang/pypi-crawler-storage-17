@@ -1,0 +1,11 @@
+{
+  "name": "aws-org-view",
+  "version": "1.0.0",
+  "summary": "Python helper library that provides a high-level, cached view of AWS Organizations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_org_view-1.0.0.tar.gz",
+  "download_time": "2025-12-17T13:57:29.616861",
+  "package_url": "https://pypi.org/project/aws-org-view/"
+}

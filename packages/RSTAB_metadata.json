@@ -1,0 +1,11 @@
+{
+  "name": "RSTAB",
+  "version": "2.0.1",
+  "summary": "Python Framework for RSTAB9 Web Services",
+  "author": "Dlubal Software",
+  "license": "MIT",
+  "home_page": "https://github.com/Dlubal-Software/RSTAB_Python_Client",
+  "download_filename": "rstab-2.0.1.tar.gz",
+  "download_time": "2025-12-17T13:58:01.177631",
+  "package_url": "https://pypi.org/project/RSTAB/"
+}

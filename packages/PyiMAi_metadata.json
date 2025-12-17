@@ -1,11 +1,11 @@
 {
   "name": "PyiMAi",
-  "version": "4.0.0",
+  "version": "7.0.0",
   "summary": "PyiMAi is a lightweight AI-powered CLI tool that allows you to interact with an AI model directly from your terminal, with optional image support.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyimai-4.0.0.tar.gz",
-  "download_time": "2025-12-16T23:10:34.746349",
+  "download_filename": "pyimai-7.0.0.tar.gz",
+  "download_time": "2025-12-17T13:57:23.699053",
   "package_url": "https://pypi.org/project/PyiMAi/"
 }

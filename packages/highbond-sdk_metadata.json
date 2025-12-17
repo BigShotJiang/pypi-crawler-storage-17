@@ -1,11 +1,11 @@
 {
   "name": "highbond-sdk",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "SDK Python completo para a API HighBond - Projects, Risks, Controls e Issues com paginação automática e multithreading",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "highbond_sdk-0.0.4.tar.gz",
-  "download_time": "2025-12-17T12:21:50.211139",
+  "download_filename": "highbond_sdk-0.0.6.tar.gz",
+  "download_time": "2025-12-17T13:57:31.222356",
   "package_url": "https://pypi.org/project/highbond-sdk/"
 }

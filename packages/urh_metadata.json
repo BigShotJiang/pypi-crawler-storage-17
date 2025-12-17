@@ -1,0 +1,11 @@
+{
+  "name": "urh",
+  "version": "2.10.0",
+  "summary": "Universal Radio Hacker: investigate wireless protocols like a boss",
+  "author": "Johannes Pohl",
+  "license": "GNU General Public License (GPL)",
+  "home_page": "https://github.com/jopohl/urh",
+  "download_filename": "urh-2.10.0.tar.gz",
+  "download_time": "2025-12-17T13:57:55.603980",
+  "package_url": "https://pypi.org/project/urh/"
+}

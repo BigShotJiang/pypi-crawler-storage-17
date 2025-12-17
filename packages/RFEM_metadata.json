@@ -1,0 +1,11 @@
+{
+  "name": "RFEM",
+  "version": "2.0.1",
+  "summary": "Python Framework for RFEM6 Web Services",
+  "author": "Dlubal Software",
+  "license": "MIT",
+  "home_page": "https://github.com/Dlubal-Software/RFEM_Python_Client",
+  "download_filename": "rfem-2.0.1.tar.gz",
+  "download_time": "2025-12-17T13:57:57.134359",
+  "package_url": "https://pypi.org/project/RFEM/"
+}
