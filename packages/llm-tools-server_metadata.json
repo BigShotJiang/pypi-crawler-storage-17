@@ -1,0 +1,11 @@
+{
+  "name": "llm-tools-server",
+  "version": "0.12.0",
+  "summary": "Reusable Flask server for LLM backends (Ollama, LM Studio) with tool calling",
+  "author": "LLM API Server Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_tools_server-0.12.0.tar.gz",
+  "download_time": "2025-12-17T23:31:46.747753",
+  "package_url": "https://pypi.org/project/llm-tools-server/"
+}

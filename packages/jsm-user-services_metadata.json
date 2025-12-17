@@ -1,0 +1,11 @@
+{
+  "name": "jsm-user-services",
+  "version": "2.5.0",
+  "summary": "Middleware to intercept JWT auth token and more utils functions",
+  "author": "Juntos Somos Mais",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jsm_user_services-2.5.0.tar.gz",
+  "download_time": "2025-12-17T23:32:18.859316",
+  "package_url": "https://pypi.org/project/jsm-user-services/"
+}

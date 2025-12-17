@@ -1,0 +1,11 @@
+{
+  "name": "splendaq",
+  "version": "0.9.0",
+  "summary": "Generalized offline data acquisition with a focus on the Moku",
+  "author": "SPLENDOR Collaboration",
+  "license": "MIT",
+  "home_page": "https://github.com/splendor-collab/splendaq",
+  "download_filename": "splendaq-0.9.0.tar.gz",
+  "download_time": "2025-12-17T23:32:22.154932",
+  "package_url": "https://pypi.org/project/splendaq/"
+}

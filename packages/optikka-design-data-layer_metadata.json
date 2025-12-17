@@ -1,11 +1,11 @@
 {
   "name": "optikka-design-data-layer",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Shared utilities for Optikka microservices (logger, errors, response utils, auth validation, database clients, AI clients)",
   "author": null,
   "license": "PROPRIETARY",
   "home_page": null,
-  "download_filename": "optikka_design_data_layer-0.1.11.tar.gz",
-  "download_time": "2025-12-15T15:55:49.558686",
+  "download_filename": "optikka_design_data_layer-0.1.12.tar.gz",
+  "download_time": "2025-12-17T23:32:02.963871",
   "package_url": "https://pypi.org/project/optikka-design-data-layer/"
 }

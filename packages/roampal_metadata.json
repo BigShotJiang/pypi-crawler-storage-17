@@ -1,11 +1,11 @@
 {
   "name": "roampal",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Persistent memory for AI coding tools (Claude Code, Cursor, etc.)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "roampal-0.1.4.tar.gz",
-  "download_time": "2025-12-16T23:48:53.960587",
+  "download_filename": "roampal-0.1.5.tar.gz",
+  "download_time": "2025-12-17T23:31:41.885284",
   "package_url": "https://pypi.org/project/roampal/"
 }

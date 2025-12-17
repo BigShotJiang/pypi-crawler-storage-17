@@ -1,0 +1,11 @@
+{
+  "name": "ai-edge-torch",
+  "version": "0.7.1",
+  "summary": "Supporting PyTorch models with the Google AI Edge TFLite runtime.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/google-ai-edge/ai-edge-torch",
+  "download_filename": "ai_edge_torch-0.7.1-py3-none-any.whl",
+  "download_time": "2025-12-17T23:31:47.795242",
+  "package_url": "https://pypi.org/project/ai-edge-torch/"
+}

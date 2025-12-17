@@ -1,0 +1,11 @@
+{
+  "name": "azul-bedrock",
+  "version": "9.0.32",
+  "summary": "Shared library for Azul models and operations.",
+  "author": "Azul",
+  "license": null,
+  "home_page": "https://www.asd.gov.au/",
+  "download_filename": "azul_bedrock-9.0.32.tar.gz",
+  "download_time": "2025-12-17T23:32:17.792100",
+  "package_url": "https://pypi.org/project/azul-bedrock/"
+}
