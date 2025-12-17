@@ -1,0 +1,11 @@
+{
+  "name": "mri2mesh",
+  "version": "0.2.1",
+  "summary": "Tool for converting labeled MRI data to a mesh",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mri2mesh-0.2.1.tar.gz",
+  "download_time": "2025-12-17T16:52:12.661746",
+  "package_url": "https://pypi.org/project/mri2mesh/"
+}

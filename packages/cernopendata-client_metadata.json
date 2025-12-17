@@ -1,0 +1,11 @@
+{
+  "name": "cernopendata-client",
+  "version": "1.0.2",
+  "summary": "cernopendata-client.",
+  "author": "CERN Open Data",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cernopendata_client-1.0.2.tar.gz",
+  "download_time": "2025-12-17T16:52:29.333799",
+  "package_url": "https://pypi.org/project/cernopendata-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "filetracker",
+  "version": "2.3.1",
+  "summary": "Filetracker caching file storage",
+  "author": null,
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "filetracker-2.3.1.tar.gz",
+  "download_time": "2025-12-17T16:52:06.411110",
+  "package_url": "https://pypi.org/project/filetracker/"
+}

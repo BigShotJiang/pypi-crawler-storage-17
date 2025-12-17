@@ -1,0 +1,11 @@
+{
+  "name": "gdptools-pygeoapi-plugin",
+  "version": "0.0.14",
+  "summary": "Gdptools Pygeoapi Plugin",
+  "author": "Richard McDonald",
+  "license": "LICENSE.md",
+  "home_page": "https://code.usgs.gov/wma/nhgf/toolsteam/gdptools-pygeoapi-plugin",
+  "download_filename": "gdptools_pygeoapi_plugin-0.0.14.tar.gz",
+  "download_time": "2025-12-17T16:52:08.495084",
+  "package_url": "https://pypi.org/project/gdptools-pygeoapi-plugin/"
+}

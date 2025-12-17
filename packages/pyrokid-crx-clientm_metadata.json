@@ -1,0 +1,11 @@
+{
+  "name": "pyrokid-crx-clientm",
+  "version": "0.0.1",
+  "summary": "A python port of the com.rokid.crx.client-m Java library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrokid_crx_clientm-0.0.1.tar.gz",
+  "download_time": "2025-12-17T16:52:41.948900",
+  "package_url": "https://pypi.org/project/pyrokid-crx-clientm/"
+}

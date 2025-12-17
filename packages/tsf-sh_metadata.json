@@ -1,0 +1,11 @@
+{
+  "name": "tsf-sh",
+  "version": "1.0.0",
+  "summary": "Асинхронная Python библиотека для работы с tsf.sh API",
+  "author": "tsf.sh",
+  "license": null,
+  "home_page": "https://tsf.sh",
+  "download_filename": "tsf_sh-1.0.0.tar.gz",
+  "download_time": "2025-12-17T16:52:07.974445",
+  "package_url": "https://pypi.org/project/tsf-sh/"
+}

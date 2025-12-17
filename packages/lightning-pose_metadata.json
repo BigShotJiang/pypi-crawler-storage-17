@@ -1,0 +1,11 @@
+{
+  "name": "lightning-pose",
+  "version": "2.0.3",
+  "summary": "Semi-supervised pose estimation using pytorch lightning",
+  "author": "Dan Biderman",
+  "license": null,
+  "home_page": "https://github.com/paninski-lab/lightning-pose",
+  "download_filename": "lightning_pose-2.0.3.tar.gz",
+  "download_time": "2025-12-17T16:52:33.054266",
+  "package_url": "https://pypi.org/project/lightning-pose/"
+}
