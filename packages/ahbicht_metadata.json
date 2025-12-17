@@ -1,0 +1,11 @@
+{
+  "name": "ahbicht",
+  "version": "1.2.0",
+  "summary": "Python Library to parse AHB expressions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ahbicht-1.2.0.tar.gz",
+  "download_time": "2025-12-17T13:11:15.995333",
+  "package_url": "https://pypi.org/project/ahbicht/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flask-rest-jsonapi-next",
+  "version": "0.45.0",
+  "summary": "Flask extension to create REST web api according to JSONAPI 1.0 specification with Flask, Marshmallow and data provider of your choice (SQLAlchemy, MongoDB, ...)",
+  "author": "original miLibris/flask-rest-jsonapi contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_rest_jsonapi_next-0.45.0.tar.gz",
+  "download_time": "2025-12-17T13:11:38.364364",
+  "package_url": "https://pypi.org/project/flask-rest-jsonapi-next/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "galaxy",
+  "version": "25.1.0",
+  "summary": "Galaxy server metapackage",
+  "author": "Galaxy Project and Community",
+  "license": "AFL",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy-25.1.0.tar.gz",
+  "download_time": "2025-12-17T13:10:55.771516",
+  "package_url": "https://pypi.org/project/galaxy/"
+}

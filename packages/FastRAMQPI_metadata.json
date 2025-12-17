@@ -1,11 +1,11 @@
 {
   "name": "FastRAMQPI",
-  "version": "14.2.2",
+  "version": "14.2.3",
   "summary": "Rammearkitektur integrations framework",
   "author": "Magenta ApS",
   "license": "MPL-2.0",
   "home_page": "https://magenta.dk/",
-  "download_filename": "fastramqpi-14.2.2.tar.gz",
-  "download_time": "2025-12-17T12:21:51.360985",
+  "download_filename": "fastramqpi-14.2.3.tar.gz",
+  "download_time": "2025-12-17T13:11:24.347307",
   "package_url": "https://pypi.org/project/FastRAMQPI/"
 }

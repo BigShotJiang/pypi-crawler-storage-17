@@ -1,11 +1,11 @@
 {
   "name": "mangono-odoo-clevercloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mangono_odoo_clevercloud-1.0.0.tar.gz",
-  "download_time": "2025-12-17T12:22:28.462800",
+  "download_filename": "mangono_odoo_clevercloud-1.0.1.tar.gz",
+  "download_time": "2025-12-17T13:11:33.617230",
   "package_url": "https://pypi.org/project/mangono-odoo-clevercloud/"
 }

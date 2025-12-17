@@ -1,0 +1,11 @@
+{
+  "name": "vtk-sequential-thinking",
+  "version": "0.1.0",
+  "summary": "VTK Python code generation with prompt clarification, task decomposition, and sequential generation (MCP + optional RAG)",
+  "author": "Patrick O'Leary",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vtk_sequential_thinking-0.1.0.tar.gz",
+  "download_time": "2025-12-17T13:11:35.183122",
+  "package_url": "https://pypi.org/project/vtk-sequential-thinking/"
+}

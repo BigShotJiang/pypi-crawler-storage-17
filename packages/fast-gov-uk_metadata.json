@@ -1,11 +1,11 @@
 {
   "name": "fast-gov-uk",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A toolkit for rapid development of simple gov.uk services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_gov_uk-0.9.0.tar.gz",
-  "download_time": "2025-12-17T12:21:56.144260",
+  "download_filename": "fast_gov_uk-0.9.1.tar.gz",
+  "download_time": "2025-12-17T13:11:39.451483",
   "package_url": "https://pypi.org/project/fast-gov-uk/"
 }

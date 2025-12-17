@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-tours",
+  "version": "25.1.0",
+  "summary": "Galaxy tours backend framework",
+  "author": "Galaxy Project and Community",
+  "license": "AFL",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_tours-25.1.0.tar.gz",
+  "download_time": "2025-12-17T13:11:03.920349",
+  "package_url": "https://pypi.org/project/galaxy-tours/"
+}
