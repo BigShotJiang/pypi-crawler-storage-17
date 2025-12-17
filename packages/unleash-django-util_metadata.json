@@ -1,0 +1,11 @@
+{
+  "name": "unleash-django-util",
+  "version": "1.0.0",
+  "summary": "Unleash Django utility package",
+  "author": "Amir Alaghmandan",
+  "license": null,
+  "home_page": "https://github.com/miare-ir/unleash-django",
+  "download_filename": "unleash_django_util-1.0.0.tar.gz",
+  "download_time": "2025-12-17T14:15:07.003000",
+  "package_url": "https://pypi.org/project/unleash-django-util/"
+}

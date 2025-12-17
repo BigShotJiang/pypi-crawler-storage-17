@@ -1,0 +1,11 @@
+{
+  "name": "pr-splitter-mcp",
+  "version": "1.0.0",
+  "summary": "A MCP server that intelligently splits large PRs into multiple smaller PRs for better code review",
+  "author": "Polly2014",
+  "license": "MIT",
+  "home_page": "https://github.com/Polly2014/PR-Splitter-MCP",
+  "download_filename": "pr_splitter_mcp-1.0.0.tar.gz",
+  "download_time": "2025-12-17T14:15:18.398473",
+  "package_url": "https://pypi.org/project/pr-splitter-mcp/"
+}

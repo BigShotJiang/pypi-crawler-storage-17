@@ -1,11 +1,11 @@
 {
   "name": "tabmat",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "summary": "Efficient matrix representations for working with tabular data.",
   "author": "QuantCo, Inc.",
   "license": null,
   "home_page": "https://github.com/Quantco/tabmat",
-  "download_filename": "tabmat-4.1.4-cp310-cp310-macosx_12_0_arm64.whl",
-  "download_time": "2025-12-17T08:51:30.325612",
+  "download_filename": "tabmat-4.1.5.tar.gz",
+  "download_time": "2025-12-17T14:15:27.693611",
   "package_url": "https://pypi.org/project/tabmat/"
 }

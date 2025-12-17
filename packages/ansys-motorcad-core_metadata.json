@@ -1,0 +1,11 @@
+{
+  "name": "ansys-motorcad-core",
+  "version": "0.8.4",
+  "summary": "Pythonic interface to Ansys Motor-CAD.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_motorcad_core-0.8.4.tar.gz",
+  "download_time": "2025-12-17T14:15:13.708770",
+  "package_url": "https://pypi.org/project/ansys-motorcad-core/"
+}

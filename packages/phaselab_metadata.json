@@ -1,0 +1,11 @@
+{
+  "name": "phaselab",
+  "version": "1.0.0",
+  "summary": "Reliability layer for perturbation science - spatial coherence analysis across CRISPR, protein, and chemical domains",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phaselab-1.0.0.tar.gz",
+  "download_time": "2025-12-17T14:15:23.041797",
+  "package_url": "https://pypi.org/project/phaselab/"
+}

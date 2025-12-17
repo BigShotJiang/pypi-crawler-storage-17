@@ -1,0 +1,11 @@
+{
+  "name": "femtican",
+  "version": "0.3.6",
+  "summary": "Python implementation of Femtican client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "femtican-0.3.6.tar.gz",
+  "download_time": "2025-12-17T14:15:20.460043",
+  "package_url": "https://pypi.org/project/femtican/"
+}

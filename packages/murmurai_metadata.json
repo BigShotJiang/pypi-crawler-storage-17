@@ -1,11 +1,11 @@
 {
   "name": "murmurai",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "GPU-powered transcription API with speaker diarization",
   "author": "Felipe Rosa, Namastex Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "murmurai-1.0.3.tar.gz",
-  "download_time": "2025-12-16T05:38:44.933965",
+  "download_filename": "murmurai-1.0.4.tar.gz",
+  "download_time": "2025-12-17T14:14:59.756154",
   "package_url": "https://pypi.org/project/murmurai/"
 }

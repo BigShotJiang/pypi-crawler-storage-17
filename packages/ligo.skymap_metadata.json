@@ -1,11 +1,11 @@
 {
   "name": "ligo.skymap",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Tools for reading, writing, manipulating, and making LIGO/Virgo/KAGRA sky maps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ligo_skymap-2.5.0.tar.gz",
-  "download_time": "2025-12-15T05:20:46.575260",
+  "download_filename": "ligo_skymap-2.5.1.tar.gz",
+  "download_time": "2025-12-17T14:15:02.383348",
   "package_url": "https://pypi.org/project/ligo.skymap/"
 }

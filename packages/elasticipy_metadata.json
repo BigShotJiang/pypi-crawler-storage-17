@@ -1,0 +1,11 @@
+{
+  "name": "elasticipy",
+  "version": "6.0.0",
+  "summary": "A Python library for elasticity tensor computations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "elasticipy-6.0.0.tar.gz",
+  "download_time": "2025-12-17T14:15:15.267406",
+  "package_url": "https://pypi.org/project/elasticipy/"
+}

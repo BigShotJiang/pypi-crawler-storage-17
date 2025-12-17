@@ -1,0 +1,11 @@
+{
+  "name": "suite2p-haisslab",
+  "version": "0.15.3",
+  "summary": "Pipeline for calcium imaging",
+  "author": "Marius Pachitariu, Carsen Stringer",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "suite2p_haisslab-0.15.3.tar.gz",
+  "download_time": "2025-12-17T14:15:24.069138",
+  "package_url": "https://pypi.org/project/suite2p-haisslab/"
+}
