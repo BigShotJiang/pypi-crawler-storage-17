@@ -1,0 +1,11 @@
+{
+  "name": "ideal-ai",
+  "version": "0.2.2",
+  "summary": "The Universal Python LLM Connector. Unified API for ChatGPT, Ollama, DeepSeek, Gemini & Qwen. Native Multimodal support (Text, Vision, Audio, Video) for building AI Agents. 100% Open Source.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ideal_ai-0.2.2.tar.gz",
+  "download_time": "2025-12-17T10:55:38.905618",
+  "package_url": "https://pypi.org/project/ideal-ai/"
+}

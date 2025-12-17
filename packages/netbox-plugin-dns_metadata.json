@@ -1,0 +1,11 @@
+{
+  "name": "netbox-plugin-dns",
+  "version": "1.4.4",
+  "summary": "NetBox DNS is a NetBox plugin for managing DNS data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_plugin_dns-1.4.4.tar.gz",
+  "download_time": "2025-12-17T10:55:50.112312",
+  "package_url": "https://pypi.org/project/netbox-plugin-dns/"
+}

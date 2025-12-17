@@ -1,0 +1,11 @@
+{
+  "name": "frappe-local-backup",
+  "version": "1.0.2",
+  "summary": "Backup service for Frappe Cloud sites - Download and manage backups locally",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frappe_local_backup-1.0.2.tar.gz",
+  "download_time": "2025-12-17T10:56:02.243656",
+  "package_url": "https://pypi.org/project/frappe-local-backup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "getdist",
+  "version": "1.7.5",
+  "summary": "GetDist Monte Carlo sample analysis, plotting and GUI",
+  "author": "Antony Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "getdist-1.7.5.tar.gz",
+  "download_time": "2025-12-17T10:55:58.972683",
+  "package_url": "https://pypi.org/project/getdist/"
+}

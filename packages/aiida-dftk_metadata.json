@@ -1,0 +1,11 @@
+{
+  "name": "aiida-dftk",
+  "version": "0.1.0",
+  "summary": "AiiDA plugin for DFTK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiida_dftk-0.1.0.tar.gz",
+  "download_time": "2025-12-17T10:55:48.509072",
+  "package_url": "https://pypi.org/project/aiida-dftk/"
+}

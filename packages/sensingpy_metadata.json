@@ -1,11 +1,11 @@
 {
   "name": "sensingpy",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "summary": "A Python package for geospatial image processing and analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sensingpy-3.0.2.tar.gz",
-  "download_time": "2025-12-17T10:42:51.840342",
+  "download_filename": "sensingpy-3.0.4.tar.gz",
+  "download_time": "2025-12-17T10:56:02.764227",
   "package_url": "https://pypi.org/project/sensingpy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pytest-argus-reporter",
-  "version": "0.15.8",
+  "version": "0.15.9",
   "summary": "A simple plugin to report results of test into argus",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_argus_reporter-0.15.8.tar.gz",
-  "download_time": "2025-12-16T09:56:46.984013",
+  "download_filename": "pytest_argus_reporter-0.15.9.tar.gz",
+  "download_time": "2025-12-17T10:55:54.977856",
   "package_url": "https://pypi.org/project/pytest-argus-reporter/"
 }

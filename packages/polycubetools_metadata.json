@@ -1,0 +1,11 @@
+{
+  "name": "polycubetools",
+  "version": "1.1.0",
+  "summary": "Basic framework for working with polycubes in a 3-dimensional grid.",
+  "author": "Team Polycube",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polycubetools-1.1.0.tar.gz",
+  "download_time": "2025-12-17T10:56:01.098564",
+  "package_url": "https://pypi.org/project/polycubetools/"
+}

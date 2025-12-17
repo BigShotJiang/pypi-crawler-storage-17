@@ -1,0 +1,11 @@
+{
+  "name": "pydictionaria",
+  "version": "2.3.1",
+  "summary": "Package for curating dictionaries for the Dictionaria project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydictionaria-2.3.1.tar.gz",
+  "download_time": "2025-12-17T10:56:00.575634",
+  "package_url": "https://pypi.org/project/pydictionaria/"
+}
