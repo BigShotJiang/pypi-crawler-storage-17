@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-repair-scheduled-date-calendar-view",
+  "version": "18.0.1.0.0.4",
+  "summary": "Repair order calendar view based on scheduled data",
+  "author": "Cetmix, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/repair",
+  "download_filename": "odoo_addon_repair_scheduled_date_calendar_view-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-17T04:21:05.387090",
+  "package_url": "https://pypi.org/project/odoo-addon-repair-scheduled-date-calendar-view/"
+}

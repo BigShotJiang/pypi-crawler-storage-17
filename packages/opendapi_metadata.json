@@ -1,11 +1,11 @@
 {
   "name": "opendapi",
-  "version": "1.0.90",
+  "version": "1.0.92",
   "summary": "Python client for Open DAPI interfaces",
   "author": "Woven",
   "license": "Apache-2.0",
   "home_page": "https://woven.dev",
-  "download_filename": "opendapi-1.0.90.tar.gz",
-  "download_time": "2025-12-17T02:31:44.606272",
+  "download_filename": "opendapi-1.0.92.tar.gz",
+  "download_time": "2025-12-17T04:21:08.720466",
   "package_url": "https://pypi.org/project/opendapi/"
 }

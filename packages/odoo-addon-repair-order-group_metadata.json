@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-repair-order-group",
-  "version": "18.0.1.0.0.2",
+  "version": "18.0.1.0.0.3",
   "summary": "Group several repair orders and keep them in sync",
   "author": "=?utf-8?q?Cetmix_O=C3=9C=2C_Odoo_Community_Association_=28OCA=29?=",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/repair",
-  "download_filename": "odoo_addon_repair_order_group-18.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2025-12-15T17:45:58.049231",
+  "download_filename": "odoo_addon_repair_order_group-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-17T04:21:05.961474",
   "package_url": "https://pypi.org/project/odoo-addon-repair-order-group/"
 }

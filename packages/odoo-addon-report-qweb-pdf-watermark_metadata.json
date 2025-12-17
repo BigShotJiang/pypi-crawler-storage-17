@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-report-qweb-pdf-watermark",
+  "version": "18.0.1.0.1.2",
+  "summary": "Add watermarks to your QWEB PDF reports",
+  "author": "Therp BV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/reporting-engine",
+  "download_filename": "odoo_addon_report_qweb_pdf_watermark-18.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-17T04:20:59.653744",
+  "package_url": "https://pypi.org/project/odoo-addon-report-qweb-pdf-watermark/"
+}

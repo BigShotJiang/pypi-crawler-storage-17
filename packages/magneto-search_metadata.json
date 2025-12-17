@@ -1,0 +1,11 @@
+{
+  "name": "magneto-search",
+  "version": "2.0.0",
+  "summary": "Ultra-fast binary pattern search engine (Bitap) written in C for Python.",
+  "author": "Votre Nom",
+  "license": "MIT",
+  "home_page": "https://github.com/pirata-winox/magneto",
+  "download_filename": "magneto_search-2.0.0.tar.gz",
+  "download_time": "2025-12-17T04:20:41.392442",
+  "package_url": "https://pypi.org/project/magneto-search/"
+}

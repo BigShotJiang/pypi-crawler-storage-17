@@ -1,0 +1,11 @@
+{
+  "name": "gregpilottui",
+  "version": "0.1.4",
+  "summary": "A terminal UI for the GregPilot control server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gregpilottui-0.1.4.tar.gz",
+  "download_time": "2025-12-17T04:20:52.814020",
+  "package_url": "https://pypi.org/project/gregpilottui/"
+}

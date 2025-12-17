@@ -1,0 +1,11 @@
+{
+  "name": "alchemiscale",
+  "version": "0.7.2",
+  "summary": "a high-throughput alchemical free energy execution system for use with HPC, cloud, bare metal, and Folding@Home",
+  "author": "OpenFE and OpenFF developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alchemiscale-0.7.2.tar.gz",
+  "download_time": "2025-12-17T04:21:06.540544",
+  "package_url": "https://pypi.org/project/alchemiscale/"
+}

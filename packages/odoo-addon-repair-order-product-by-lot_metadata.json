@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-repair-order-product-by-lot",
+  "version": "18.0.1.0.0.4",
+  "summary": "Select product in repair order by the lot number",
+  "author": "=?utf-8?q?Cetmix_O=C3=9C=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/repair",
+  "download_filename": "odoo_addon_repair_order_product_by_lot-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-17T04:21:04.819163",
+  "package_url": "https://pypi.org/project/odoo-addon-repair-order-product-by-lot/"
+}

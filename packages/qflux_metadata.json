@@ -1,0 +1,11 @@
+{
+  "name": "qflux",
+  "version": "0.0.5",
+  "summary": "qflux is a package for running quantum dynamics calculations on quantum devices.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qflux-0.0.5.tar.gz",
+  "download_time": "2025-12-17T04:20:27.739385",
+  "package_url": "https://pypi.org/project/qflux/"
+}

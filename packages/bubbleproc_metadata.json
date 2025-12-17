@@ -1,11 +1,11 @@
 {
   "name": "bubbleproc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Bubblewrap sandboxing for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bubbleproc-1.0.2.tar.gz",
-  "download_time": "2025-12-17T03:45:52.764077",
+  "download_filename": "bubbleproc-1.0.3.tar.gz",
+  "download_time": "2025-12-17T04:20:31.068441",
   "package_url": "https://pypi.org/project/bubbleproc/"
 }
