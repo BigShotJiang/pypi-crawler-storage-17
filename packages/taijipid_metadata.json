@@ -1,0 +1,11 @@
+{
+  "name": "taijipid",
+  "version": "2.1.0",
+  "summary": "Tai-Ji PID tuning algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "taijipid-2.1.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-17T05:14:31.782428",
+  "package_url": "https://pypi.org/project/taijipid/"
+}
