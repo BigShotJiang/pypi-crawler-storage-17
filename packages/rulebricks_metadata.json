@@ -1,0 +1,11 @@
+{
+  "name": "rulebricks",
+  "version": "1.5.3",
+  "summary": "A JSON-based, server-side rule engine with a customizable decision table UI for non-technical end users",
+  "author": "Sid Garimella",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rulebricks-1.5.3.tar.gz",
+  "download_time": "2025-12-18T07:35:33.003137",
+  "package_url": "https://pypi.org/project/rulebricks/"
+}

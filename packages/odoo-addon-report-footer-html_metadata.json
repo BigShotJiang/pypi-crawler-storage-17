@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-report-footer-html",
+  "version": "18.0.1.0.0.3",
+  "summary": "Show HTML content in desired Footer Reports",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/reporting-engine",
+  "download_filename": "odoo_addon_report_footer_html-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-18T07:35:25.512163",
+  "package_url": "https://pypi.org/project/odoo-addon-report-footer-html/"
+}

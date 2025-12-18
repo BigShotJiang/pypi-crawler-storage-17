@@ -1,0 +1,11 @@
+{
+  "name": "ovos-wikipedia-solver",
+  "version": "0.1.3",
+  "summary": "ovos wikipedia plugin",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-solver-wikipedia-plugin",
+  "download_filename": "ovos_wikipedia_solver-0.1.3.tar.gz",
+  "download_time": "2025-12-18T07:35:55.269252",
+  "package_url": "https://pypi.org/project/ovos-wikipedia-solver/"
+}

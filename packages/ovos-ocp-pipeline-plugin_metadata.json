@@ -1,0 +1,11 @@
+{
+  "name": "ovos-ocp-pipeline-plugin",
+  "version": "1.1.18",
+  "summary": "media intent parser for OVOS",
+  "author": "JarbasAI",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-ocp-pipeline-plugin",
+  "download_filename": "ovos_ocp_pipeline_plugin-1.1.18.tar.gz",
+  "download_time": "2025-12-18T07:35:23.947675",
+  "package_url": "https://pypi.org/project/ovos-ocp-pipeline-plugin/"
+}

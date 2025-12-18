@@ -1,11 +1,11 @@
 {
   "name": "lambert-rs",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Rust + PyO3 implementation of the Izzo Lambert solver",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lambert_rs-0.0.3-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-12-17T13:46:24.903340",
+  "download_filename": "lambert_rs-0.0.5-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-18T07:35:34.583047",
   "package_url": "https://pypi.org/project/lambert-rs/"
 }

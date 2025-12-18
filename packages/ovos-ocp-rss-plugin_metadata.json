@@ -1,0 +1,11 @@
+{
+  "name": "ovos-ocp-rss-plugin",
+  "version": "0.1.2",
+  "summary": "OCP rss feed stream extractor plugin",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-ocp-rss-plugin",
+  "download_filename": "ovos_ocp_rss_plugin-0.1.2.tar.gz",
+  "download_time": "2025-12-18T07:35:43.022918",
+  "package_url": "https://pypi.org/project/ovos-ocp-rss-plugin/"
+}

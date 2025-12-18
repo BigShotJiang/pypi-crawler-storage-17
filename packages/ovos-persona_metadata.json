@@ -1,0 +1,11 @@
+{
+  "name": "ovos-persona",
+  "version": "0.6.24",
+  "summary": "persona pipeline for ovos",
+  "author": "jarbasai",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-persona",
+  "download_filename": "ovos_persona-0.6.24.tar.gz",
+  "download_time": "2025-12-18T07:35:39.818013",
+  "package_url": "https://pypi.org/project/ovos-persona/"
+}

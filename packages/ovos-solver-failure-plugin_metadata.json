@@ -1,0 +1,11 @@
+{
+  "name": "ovos-solver-failure-plugin",
+  "version": "0.0.3",
+  "summary": "A question solver plugin for ovos/neon/mycroft",
+  "author": "jarbasai",
+  "license": "MIT",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-solver-failure-plugin",
+  "download_filename": "ovos_solver_failure_plugin-0.0.3.tar.gz",
+  "download_time": "2025-12-18T07:35:54.751087",
+  "package_url": "https://pypi.org/project/ovos-solver-failure-plugin/"
+}
