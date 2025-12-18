@@ -1,0 +1,11 @@
+{
+  "name": "tcwindprofile",
+  "version": "2.1.1",
+  "summary": "Create a fast and robust radial profile of the tropical cyclone rotating wind and pressure field from inputs Vmax, R34kt, latitude, translation speed, and environmental pressure",
+  "author": "Dan Chavas",
+  "license": "MIT",
+  "home_page": "https://github.com/drchavas/tcwindprofile",
+  "download_filename": "tcwindprofile-2.1.1.tar.gz",
+  "download_time": "2025-12-18T05:39:06.959578",
+  "package_url": "https://pypi.org/project/tcwindprofile/"
+}

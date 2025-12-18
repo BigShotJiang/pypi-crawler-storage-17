@@ -1,11 +1,11 @@
 {
   "name": "aviary.lfrqa",
-  "version": "0.29.0",
+  "version": "0.30.0",
   "summary": "LFRQA environment implemented with aviary",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aviary_lfrqa-0.29.0.tar.gz",
-  "download_time": "2025-12-17T02:32:05.041560",
+  "download_filename": "aviary_lfrqa-0.30.0.tar.gz",
+  "download_time": "2025-12-18T05:39:26.973312",
   "package_url": "https://pypi.org/project/aviary.lfrqa/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dark-madr",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Architecture Decision Records management tool",
   "author": "m1yag1",
   "license": null,
   "home_page": null,
-  "download_filename": "dark_madr-0.1.0.tar.gz",
-  "download_time": "2025-12-18T04:52:13.522464",
+  "download_filename": "dark_madr-0.1.2.tar.gz",
+  "download_time": "2025-12-18T05:39:50.442554",
   "package_url": "https://pypi.org/project/dark-madr/"
 }

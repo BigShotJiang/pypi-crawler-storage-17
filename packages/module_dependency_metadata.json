@@ -1,11 +1,11 @@
 {
   "name": "module_dependency",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "summary": "A dependency management tool for Python projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "module_dependency-0.4.7.tar.gz",
-  "download_time": "2025-12-18T04:52:22.843241",
+  "download_filename": "module_dependency-0.4.8.tar.gz",
+  "download_time": "2025-12-18T05:39:49.923333",
   "package_url": "https://pypi.org/project/module_dependency/"
 }

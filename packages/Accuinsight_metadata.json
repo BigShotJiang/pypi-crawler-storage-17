@@ -1,11 +1,11 @@
 {
   "name": "Accuinsight",
-  "version": "3.6.20251217",
+  "version": "3.6.20251218",
   "summary": "Model life cycle and monitoring library in Accuinsight+",
   "author": "Twolinecloud",
   "license": null,
   "home_page": null,
-  "download_filename": "accuinsight-3.6.20251217.tar.gz",
-  "download_time": "2025-12-17T06:18:59.006616",
+  "download_filename": "accuinsight-3.6.20251218.tar.gz",
+  "download_time": "2025-12-18T05:39:41.071807",
   "package_url": "https://pypi.org/project/Accuinsight/"
 }

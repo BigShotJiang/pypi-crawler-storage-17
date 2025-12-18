@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-iconify",
+  "version": "0.3.0",
+  "summary": "A sphinx role allowing you to embed icons from over 200,000 open-source vector icons.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_iconify-0.3.0.tar.gz",
+  "download_time": "2025-12-18T05:39:41.590215",
+  "package_url": "https://pypi.org/project/sphinx-iconify/"
+}

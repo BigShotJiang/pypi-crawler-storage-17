@@ -1,0 +1,11 @@
+{
+  "name": "ai-foundation-kit",
+  "version": "0.0.3",
+  "summary": "Common utilities for AI projects including logging and exceptions",
+  "author": "nishkoder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_foundation_kit-0.0.3.tar.gz",
+  "download_time": "2025-12-18T05:39:08.521381",
+  "package_url": "https://pypi.org/project/ai-foundation-kit/"
+}
