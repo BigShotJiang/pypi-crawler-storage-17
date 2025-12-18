@@ -1,11 +1,11 @@
 {
   "name": "any-llm-sdk",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "any_llm_sdk-1.4.2.tar.gz",
-  "download_time": "2025-12-16T10:43:48.417864",
+  "download_filename": "any_llm_sdk-1.4.3.tar.gz",
+  "download_time": "2025-12-18T13:10:36.580077",
   "package_url": "https://pypi.org/project/any-llm-sdk/"
 }

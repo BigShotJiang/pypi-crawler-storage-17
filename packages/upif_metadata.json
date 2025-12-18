@@ -1,11 +1,11 @@
 {
   "name": "upif",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Universal Prompt Injection Firewall - A local-first AI security layer.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upif-0.1.3.tar.gz",
-  "download_time": "2025-12-18T12:22:30.767048",
+  "download_filename": "upif-0.1.4.tar.gz",
+  "download_time": "2025-12-18T13:10:54.091335",
   "package_url": "https://pypi.org/project/upif/"
 }

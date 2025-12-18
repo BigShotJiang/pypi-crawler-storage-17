@@ -1,0 +1,11 @@
+{
+  "name": "tadamz",
+  "version": "0.13.0a20",
+  "summary": "package for targeted LC-MS(/MS) data analysis",
+  "author": "Patrick",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "tadamz-0.13.0a20.tar.gz",
+  "download_time": "2025-12-18T13:11:13.676088",
+  "package_url": "https://pypi.org/project/tadamz/"
+}

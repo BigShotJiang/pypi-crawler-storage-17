@@ -1,11 +1,11 @@
 {
   "name": "propp-fr",
-  "version": "0.0.57",
+  "version": "0.0.59",
   "summary": "Pattern Recognition and Ontologies for Prose Processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "propp_fr-0.0.57.tar.gz",
-  "download_time": "2025-12-17T00:47:37.643990",
+  "download_filename": "propp_fr-0.0.59.tar.gz",
+  "download_time": "2025-12-18T13:10:49.462579",
   "package_url": "https://pypi.org/project/propp-fr/"
 }

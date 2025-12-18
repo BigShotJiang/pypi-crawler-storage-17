@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-disconnect-notice",
+  "version": "0.4.2",
+  "summary": "bot断连时的通知插件",
+  "author": "cypas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_disconnect_notice-0.4.2.tar.gz",
+  "download_time": "2025-12-18T13:10:55.789301",
+  "package_url": "https://pypi.org/project/nonebot-plugin-disconnect-notice/"
+}

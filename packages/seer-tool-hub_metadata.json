@@ -1,0 +1,11 @@
+{
+  "name": "seer-tool-hub",
+  "version": "0.0.3",
+  "summary": "A Hub & Spoke tool selection engine for AI agents with Pinecone vector store",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seer_tool_hub-0.0.3.tar.gz",
+  "download_time": "2025-12-18T13:10:37.998086",
+  "package_url": "https://pypi.org/project/seer-tool-hub/"
+}

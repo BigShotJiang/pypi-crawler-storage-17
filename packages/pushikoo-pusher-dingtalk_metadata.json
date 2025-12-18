@@ -1,11 +1,11 @@
 {
   "name": "pushikoo-pusher-dingtalk",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "DingTalk custom bot pusher for Pushikoo.",
   "author": "Pushikoo",
   "license": null,
   "home_page": null,
-  "download_filename": "pushikoo_pusher_dingtalk-0.1.1.tar.gz",
-  "download_time": "2025-12-18T08:51:48.672574",
+  "download_filename": "pushikoo_pusher_dingtalk-0.2.0.tar.gz",
+  "download_time": "2025-12-18T13:10:50.054347",
   "package_url": "https://pypi.org/project/pushikoo-pusher-dingtalk/"
 }

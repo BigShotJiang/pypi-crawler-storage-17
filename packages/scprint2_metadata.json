@@ -1,11 +1,11 @@
 {
   "name": "scprint2",
-  "version": "0.9.2",
+  "version": "0.9.6",
   "summary": "scPRINT-2 is a Large Cell Model for Gene Network Inference, Denoising and more from scRNAseq data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scprint2-0.9.2.tar.gz",
-  "download_time": "2025-12-17T20:38:20.763600",
+  "download_filename": "scprint2-0.9.6.tar.gz",
+  "download_time": "2025-12-18T13:10:55.205262",
   "package_url": "https://pypi.org/project/scprint2/"
 }

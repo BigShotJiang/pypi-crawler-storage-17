@@ -1,0 +1,11 @@
+{
+  "name": "aabpl",
+  "version": "0.2.12",
+  "summary": ".",
+  "author": "Gabriel M Ahlfeldt",
+  "license": "MIT",
+  "home_page": "https://github.com/Ahlfeldt/AABPL-toolkit-python",
+  "download_filename": "aabpl-0.2.12-py3-none-any.whl",
+  "download_time": "2025-12-18T13:10:54.618677",
+  "package_url": "https://pypi.org/project/aabpl/"
+}

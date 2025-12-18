@@ -1,0 +1,11 @@
+{
+  "name": "typed-kraken",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Kraken API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_kraken-0.1.0.tar.gz",
+  "download_time": "2025-12-18T13:11:17.118986",
+  "package_url": "https://pypi.org/project/typed-kraken/"
+}
