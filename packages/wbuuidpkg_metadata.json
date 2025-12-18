@@ -1,0 +1,11 @@
+{
+  "name": "wbuuidpkg",
+  "version": "0.1.0",
+  "summary": "Generate encrypted uuid using Node.js script",
+  "author": "yige",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wbuuidpkg-0.1.0.tar.gz",
+  "download_time": "2025-12-18T11:49:35.651065",
+  "package_url": "https://pypi.org/project/wbuuidpkg/"
+}

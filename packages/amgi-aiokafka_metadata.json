@@ -1,11 +1,11 @@
 {
   "name": "amgi-aiokafka",
-  "version": "0.26.0",
+  "version": "0.26.1",
   "summary": "AMGI Kafka Server",
   "author": "jack.burridge",
   "license": null,
   "home_page": null,
-  "download_filename": "amgi_aiokafka-0.26.0.tar.gz",
-  "download_time": "2025-12-18T11:30:40.188992",
+  "download_filename": "amgi_aiokafka-0.26.1.tar.gz",
+  "download_time": "2025-12-18T11:49:38.839470",
   "package_url": "https://pypi.org/project/amgi-aiokafka/"
 }

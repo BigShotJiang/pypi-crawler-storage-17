@@ -1,11 +1,11 @@
 {
   "name": "smart-data-manager",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "ETL logic for Smart Data Manager.",
   "author": "Sinomtha Mzamo",
   "license": null,
   "home_page": null,
-  "download_filename": "smart_data_manager-1.0.9.tar.gz",
-  "download_time": "2025-12-18T11:12:25.914513",
+  "download_filename": "smart_data_manager-1.0.11.tar.gz",
+  "download_time": "2025-12-18T11:49:29.857594",
   "package_url": "https://pypi.org/project/smart-data-manager/"
 }

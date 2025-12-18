@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-18T11:42:27.928304
-- **Total Packages**: 94
-- **Total Size**: 3.56 MB
+- **Download Time**: 2025-12-18T11:50:12.785431
+- **Total Packages**: 84
+- **Total Size**: 9.85 MB
 
 ## Packages List
+- skilleter-modules
+- rxlm
+- aas-http-client
+- httomo-backends
+- smart-data-manager
+- pierskarsenbarg-pulumi-kubeconfig
+- inwx-dns-recordmaster
+- langflow-cli
+- numin
+- shareddata
+- countess
+- pyESDL
+- pygeoinf
+- dodopayments
+- wbuuidpkg
+- asyncfast-cli
+- amgi-sqs-event-source-mapping
+- amgi-common
+- amgi-redis
+- asyncfast
+- amgi-aiokafka
+- amgi-types
+- amgi-paho-mqtt
+- amgi-aiobotocore
+- su_master_mind
+- sekai-deck-recommend-cpp
 - ortex
 - david8-postgresql
 - pyolive-ng
@@ -37,15 +63,6 @@
 - holoviz-mcp
 - ds-caselaw-marklogic-api-client
 - Geode-Simplex
-- amgi-paho-mqtt
-- amgi-aiobotocore
-- asyncfast-cli
-- amgi-redis
-- amgi-types
-- amgi-aiokafka
-- amgi-sqs-event-source-mapping
-- asyncfast
-- amgi-common
 - curvaceous
 - nami-surf
 - regression-inference
@@ -73,30 +90,3 @@
 - videosdk-plugins-turn-detector
 - stellars-jupyterlab-favourites
 - videosdk-plugins-speechify
-- videosdk-plugins-smallestai
-- videosdk-plugins-simli
-- PraisonAI
-- videosdk-plugins-silero
-- videosdk-plugins-sarvamai
-- connector-for-bb
-- videosdk-plugins-rnnoise
-- iatoolkit
-- videosdk-plugins-rime
-- videosdk-plugins-resemble
-- videosdk-plugins-papla
-- videosdk-plugins-openai
-- ltoolx
-- videosdk-plugins-neuphonic
-- videosdk-plugins-navana
-- nose-ng
-- videosdk-plugins-lmnt
-- videosdk-plugins-inworldai
-- videosdk-plugins-humeai
-- agenthink
-- videosdk-plugins-groq
-- videosdk-plugins-google
-- videosdk-plugins-elevenlabs
-- praisonaiagents
-- videosdk-plugins-deepgram
-- videosdk-plugins-cometapi
-- br-rapp-sdk
