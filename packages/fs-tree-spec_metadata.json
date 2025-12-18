@@ -1,0 +1,11 @@
+{
+  "name": "fs-tree-spec",
+  "version": "0.2.0",
+  "summary": "Translate between ASCII 'tree' text, JSON/YAML tree specs, and real directory structures.",
+  "author": "Stephen Wood",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fs_tree_spec-0.2.0.tar.gz",
+  "download_time": "2025-12-18T23:32:01.873522",
+  "package_url": "https://pypi.org/project/fs-tree-spec/"
+}

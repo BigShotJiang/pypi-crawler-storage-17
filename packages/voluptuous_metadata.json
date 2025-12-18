@@ -1,0 +1,11 @@
+{
+  "name": "voluptuous",
+  "version": "0.16.0",
+  "summary": "Python data validation library",
+  "author": "Alec Thomas",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/alecthomas/voluptuous",
+  "download_filename": "voluptuous-0.16.0.tar.gz",
+  "download_time": "2025-12-18T23:32:10.423402",
+  "package_url": "https://pypi.org/project/voluptuous/"
+}

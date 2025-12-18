@@ -1,0 +1,11 @@
+{
+  "name": "f2p",
+  "version": "0.1.1",
+  "summary": "FITS 2D/3D physical size analyzer",
+  "author": "Utsav Siwakoti",
+  "license": null,
+  "home_page": "https://github.com/siwakotiutsav/fits2physical",
+  "download_filename": "f2p-0.1.1.tar.gz",
+  "download_time": "2025-12-18T23:32:00.287753",
+  "package_url": "https://pypi.org/project/f2p/"
+}

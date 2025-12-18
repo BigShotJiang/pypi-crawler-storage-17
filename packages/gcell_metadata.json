@@ -1,0 +1,11 @@
+{
+  "name": "gcell",
+  "version": "0.1.1",
+  "summary": "A Python library that represents different entities in a cell",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcell-0.1.1.tar.gz",
+  "download_time": "2025-12-18T23:32:18.323504",
+  "package_url": "https://pypi.org/project/gcell/"
+}
