@@ -1,0 +1,11 @@
+{
+  "name": "django-cf",
+  "version": "0.2.6",
+  "summary": "django-cf is a package that integrates Django with Cloudflare products",
+  "author": "Gabriel Massadas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cf-0.2.6.tar.gz",
+  "download_time": "2025-12-18T11:11:50.319924",
+  "package_url": "https://pypi.org/project/django-cf/"
+}

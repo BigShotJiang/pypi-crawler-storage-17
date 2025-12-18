@@ -1,11 +1,11 @@
 {
   "name": "spooled",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Official Python SDK for Spooled Cloud job queue service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spooled-1.0.8.tar.gz",
-  "download_time": "2025-12-17T23:32:21.585731",
+  "download_filename": "spooled-1.0.9.tar.gz",
+  "download_time": "2025-12-18T11:12:08.604105",
   "package_url": "https://pypi.org/project/spooled/"
 }

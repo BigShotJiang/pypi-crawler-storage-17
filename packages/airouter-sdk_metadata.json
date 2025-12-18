@@ -1,0 +1,11 @@
+{
+  "name": "airouter-sdk",
+  "version": "0.2.6",
+  "summary": "Official Python SDK for airouter.io - Automatically route requests to the best Large Language Model (LLM).",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/heureka-labs/ai-router-sdk",
+  "download_filename": "airouter_sdk-0.2.6.tar.gz",
+  "download_time": "2025-12-18T11:12:21.247199",
+  "package_url": "https://pypi.org/project/airouter-sdk/"
+}

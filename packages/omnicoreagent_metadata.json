@@ -1,0 +1,11 @@
+{
+  "name": "omnicoreagent",
+  "version": "0.2.11",
+  "summary": "OmniCoreAgent AI Framework - Universal MCP Client with multi-transport support and LLM-powered tool routing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnicoreagent-0.2.11.tar.gz",
+  "download_time": "2025-12-18T11:12:02.872754",
+  "package_url": "https://pypi.org/project/omnicoreagent/"
+}

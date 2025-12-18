@@ -1,11 +1,11 @@
 {
   "name": "ai-cloudscraper",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "summary": "Enhanced Python library to bypass Cloudflare's anti-bot protection with cutting-edge anti-detection technologies, including TLS fingerprinting, ML optimization, behavioral simulation, and 10 industrial-strength bypass strategies.",
-  "author": "VeNoMouS",
+  "author": "VeNoMouS, Zied Boughdir",
   "license": "MIT",
   "home_page": "https://github.com/zinzied/cloudscraper",
-  "download_filename": "ai_cloudscraper-3.5.0.tar.gz",
-  "download_time": "2025-12-16T09:56:57.289120",
+  "download_filename": "ai_cloudscraper-3.6.0.tar.gz",
+  "download_time": "2025-12-18T11:12:14.435537",
   "package_url": "https://pypi.org/project/ai-cloudscraper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "typed-bit2c",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Bit2c API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_bit2c-0.1.0.tar.gz",
+  "download_time": "2025-12-18T11:12:34.741448",
+  "package_url": "https://pypi.org/project/typed-bit2c/"
+}

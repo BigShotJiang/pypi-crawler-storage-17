@@ -1,0 +1,11 @@
+{
+  "name": "typed-bitmart",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Bitmart API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_bitmart-0.1.0.tar.gz",
+  "download_time": "2025-12-18T11:12:28.510210",
+  "package_url": "https://pypi.org/project/typed-bitmart/"
+}

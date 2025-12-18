@@ -1,0 +1,11 @@
+{
+  "name": "typed-bingx",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Bingx API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_bingx-0.1.0.tar.gz",
+  "download_time": "2025-12-18T11:12:35.259440",
+  "package_url": "https://pypi.org/project/typed-bingx/"
+}

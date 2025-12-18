@@ -1,0 +1,11 @@
+{
+  "name": "SOLIDserverRest",
+  "version": "2.12.2",
+  "summary": "The SOLIDserverRest is a library to drive EfficientIP API",
+  "author": "Gregory CUGAT / Alex Chauvin",
+  "license": "BSD 2",
+  "home_page": "https://gitlab.com/efficientip/solidserverrest",
+  "download_filename": "solidserverrest-2.12.2.tar.gz",
+  "download_time": "2025-12-18T11:12:00.278680",
+  "package_url": "https://pypi.org/project/SOLIDserverRest/"
+}

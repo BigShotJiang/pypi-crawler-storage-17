@@ -1,11 +1,11 @@
 {
   "name": "chakra-qtquick",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "summary": "A modern QML component library inspired by Chakra UI",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "chakra_qtquick-1.0.0.tar.gz",
-  "download_time": "2025-12-18T10:16:07.481188",
+  "download_filename": "chakra_qtquick-0.5.0.tar.gz",
+  "download_time": "2025-12-18T11:12:06.008006",
   "package_url": "https://pypi.org/project/chakra-qtquick/"
 }
