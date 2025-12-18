@@ -1,0 +1,11 @@
+{
+  "name": "open-mastr",
+  "version": "0.16.1",
+  "summary": "A package that provides an interface for downloading and processing the data of the Marktstammdatenregister (MaStR)",
+  "author": "Hülk Ludwig, Pleßmann Guido, Muschner Christoph, Kotthoff Florian, Tepe Deniz, Amme Jonathan, Open Energy Family",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "open_mastr-0.16.1.tar.gz",
+  "download_time": "2025-12-18T16:49:08.467360",
+  "package_url": "https://pypi.org/project/open-mastr/"
+}

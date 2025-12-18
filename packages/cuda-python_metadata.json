@@ -1,0 +1,11 @@
+{
+  "name": "cuda-python",
+  "version": "13.1.1",
+  "summary": "CUDA Python: Performance meets Productivity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cuda_python-13.1.1-py3-none-any.whl",
+  "download_time": "2025-12-18T16:48:55.393035",
+  "package_url": "https://pypi.org/project/cuda-python/"
+}

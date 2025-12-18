@@ -1,0 +1,11 @@
+{
+  "name": "python-rate-limiter",
+  "version": "1.0.0",
+  "summary": "A Python rate limiter library for FastAPI and Flask applications",
+  "author": "Sudhanshu Shekhar",
+  "license": null,
+  "home_page": "https://github.com/shekhar349/python-rate-limiter",
+  "download_filename": "python_rate_limiter-1.0.0.tar.gz",
+  "download_time": "2025-12-18T16:49:22.687751",
+  "package_url": "https://pypi.org/project/python-rate-limiter/"
+}

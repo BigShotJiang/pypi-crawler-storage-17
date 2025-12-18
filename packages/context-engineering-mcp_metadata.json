@@ -1,0 +1,11 @@
+{
+  "name": "context-engineering-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Context Engineering templates and protocols",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "context_engineering_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-18T16:48:54.344961",
+  "package_url": "https://pypi.org/project/context-engineering-mcp/"
+}

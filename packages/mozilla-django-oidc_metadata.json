@@ -1,0 +1,11 @@
+{
+  "name": "mozilla-django-oidc",
+  "version": "5.0.1",
+  "summary": "A lightweight authentication and access management library for integration with OpenID Connect enabled authentication services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mozilla_django_oidc-5.0.1.tar.gz",
+  "download_time": "2025-12-18T16:48:51.651626",
+  "package_url": "https://pypi.org/project/mozilla-django-oidc/"
+}

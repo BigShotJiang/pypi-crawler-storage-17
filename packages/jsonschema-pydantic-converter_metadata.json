@@ -1,0 +1,11 @@
+{
+  "name": "jsonschema-pydantic-converter",
+  "version": "0.1.6",
+  "summary": "Convert JSON Schema definitions to Pydantic models dynamically at runtime",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jsonschema_pydantic_converter-0.1.6.tar.gz",
+  "download_time": "2025-12-18T16:49:33.182005",
+  "package_url": "https://pypi.org/project/jsonschema-pydantic-converter/"
+}
