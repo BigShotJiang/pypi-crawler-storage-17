@@ -1,0 +1,11 @@
+{
+  "name": "VoiceTrigger",
+  "version": "1.0.4",
+  "summary": "Realtime-распознаватель речи на базе Vosk: управление микрофоном, детекция уровня голоса (whisper / normal / shout), опциональное шумоподавление, декораторный API для обработки текста, ключевых слов и быстрых команд.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voicetrigger-1.0.4.tar.gz",
+  "download_time": "2025-12-18T10:43:22.138222",
+  "package_url": "https://pypi.org/project/VoiceTrigger/"
+}

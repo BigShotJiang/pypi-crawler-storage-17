@@ -1,0 +1,11 @@
+{
+  "name": "panoramax_cli",
+  "version": "1.2.3",
+  "summary": "Panoramax client cli tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "panoramax_cli-1.2.3.tar.gz",
+  "download_time": "2025-12-18T10:43:16.290965",
+  "package_url": "https://pypi.org/project/panoramax_cli/"
+}

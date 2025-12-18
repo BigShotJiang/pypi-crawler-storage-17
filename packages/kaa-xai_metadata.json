@@ -1,11 +1,11 @@
 {
   "name": "kaa-xai",
-  "version": "25.12",
+  "version": "25.12.0",
   "summary": "KAA is a framework allowing to apply several explainability methods and metricsfrom several dedicated libraries on AI model to verify them.",
   "author": "Philippe Dejean",
   "license": null,
   "home_page": "https://github.com/IRT-Saint-Exupery/KAA",
-  "download_filename": "kaa_xai-25.12.tar.gz",
-  "download_time": "2025-12-18T08:51:27.392092",
+  "download_filename": "kaa_xai-25.12.0.tar.gz",
+  "download_time": "2025-12-18T10:43:24.521918",
   "package_url": "https://pypi.org/project/kaa-xai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-reserial",
+  "version": "0.6.0",
+  "summary": "Pytest fixture for recording and replaying serial port traffic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_reserial-0.6.0.tar.gz",
+  "download_time": "2025-12-18T10:43:20.965820",
+  "package_url": "https://pypi.org/project/pytest-reserial/"
+}
