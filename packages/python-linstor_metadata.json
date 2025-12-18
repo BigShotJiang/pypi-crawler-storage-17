@@ -1,0 +1,11 @@
+{
+  "name": "python-linstor",
+  "version": "1.27.1",
+  "summary": "Linstor python api",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.linbit.com",
+  "download_filename": "python_linstor-1.27.1.tar.gz",
+  "download_time": "2025-12-18T08:17:48.563894",
+  "package_url": "https://pypi.org/project/python-linstor/"
+}

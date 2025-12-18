@@ -1,11 +1,11 @@
 {
   "name": "django-admin-ai-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI-powered natural language search for Django Admin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_admin_ai_search-0.1.0.tar.gz",
-  "download_time": "2025-12-18T06:18:47.642480",
+  "download_filename": "django_admin_ai_search-0.1.1.tar.gz",
+  "download_time": "2025-12-18T08:17:38.738399",
   "package_url": "https://pypi.org/project/django-admin-ai-search/"
 }

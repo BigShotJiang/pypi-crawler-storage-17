@@ -1,0 +1,11 @@
+{
+  "name": "mkmavrykchain",
+  "version": "6.30.5",
+  "summary": "A utility to generate k8s configs for a Mavryk blockchain",
+  "author": "MavrykDynamics",
+  "license": null,
+  "home_page": "https://github.com/mavryk-network/mavryk-k8s",
+  "download_filename": "mkmavrykchain-6.30.5-py3-none-any.whl",
+  "download_time": "2025-12-18T08:17:42.451194",
+  "package_url": "https://pypi.org/project/mkmavrykchain/"
+}
