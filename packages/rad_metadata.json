@@ -1,0 +1,11 @@
+{
+  "name": "rad",
+  "version": "0.29.0",
+  "summary": "Roman Attribute Dictionary",
+  "author": "STScI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rad-0.29.0.tar.gz",
+  "download_time": "2025-12-18T21:32:48.098423",
+  "package_url": "https://pypi.org/project/rad/"
+}

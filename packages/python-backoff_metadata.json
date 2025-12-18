@@ -1,0 +1,11 @@
+{
+  "name": "python-backoff",
+  "version": "2.3.1",
+  "summary": "Function decoration for backoff and retry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_backoff-2.3.1.tar.gz",
+  "download_time": "2025-12-18T21:32:30.964498",
+  "package_url": "https://pypi.org/project/python-backoff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anrg-saga",
+  "version": "2.0.0",
+  "summary": "Scheduling Algorithms Gathered - collection of task graph scheduling algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anrg_saga-2.0.0.tar.gz",
+  "download_time": "2025-12-18T21:32:33.027475",
+  "package_url": "https://pypi.org/project/anrg-saga/"
+}

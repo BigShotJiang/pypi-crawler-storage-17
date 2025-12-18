@@ -1,0 +1,11 @@
+{
+  "name": "plowman",
+  "version": "0.2.1",
+  "summary": "Dotfile farm manager",
+  "author": "Stephanos Kuma",
+  "license": "BSD-3-Clause",
+  "home_page": "https://plowman.readthedocs.io/en/stable/",
+  "download_filename": "plowman-0.2.1.tar.gz",
+  "download_time": "2025-12-18T21:32:45.974025",
+  "package_url": "https://pypi.org/project/plowman/"
+}

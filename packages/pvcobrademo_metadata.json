@@ -1,0 +1,11 @@
+{
+  "name": "pvcobrademo",
+  "version": "3.0.1",
+  "summary": "Cobra voice activity detection (VAD) engine demos.",
+  "author": "Picovoice",
+  "license": null,
+  "home_page": "https://github.com/Picovoice/cobra",
+  "download_filename": "pvcobrademo-3.0.1.tar.gz",
+  "download_time": "2025-12-18T21:32:52.228806",
+  "package_url": "https://pypi.org/project/pvcobrademo/"
+}

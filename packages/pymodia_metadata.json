@@ -1,0 +1,11 @@
+{
+  "name": "pymodia",
+  "version": "0.5.1",
+  "summary": "A Python package for constructing clear, educational molecular orbital diagrams from qualitative models or minimal-basis electronic structure calculations.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pymodia-0.5.1.tar.gz",
+  "download_time": "2025-12-18T21:32:58.567943",
+  "package_url": "https://pypi.org/project/pymodia/"
+}
