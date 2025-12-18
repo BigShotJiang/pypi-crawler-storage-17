@@ -1,11 +1,11 @@
 {
   "name": "sqlalchemy-serializer",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "Mixin for SQLAlchemy models serialization without pain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlalchemy_serializer-1.5.3.tar.gz",
-  "download_time": "2025-12-17T20:38:43.839107",
+  "download_filename": "sqlalchemy_serializer-1.5.4.tar.gz",
+  "download_time": "2025-12-18T21:42:18.943375",
   "package_url": "https://pypi.org/project/sqlalchemy-serializer/"
 }
