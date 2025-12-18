@@ -1,11 +1,11 @@
 {
   "name": "waclient",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Simplified Python SDK for WhatsApp Business Cloud API",
   "author": "Surenthar",
   "license": null,
   "home_page": null,
-  "download_filename": "waclient-0.1.7.tar.gz",
-  "download_time": "2025-12-17T06:18:47.465888",
+  "download_filename": "waclient-0.1.9.tar.gz",
+  "download_time": "2025-12-18T06:18:52.826498",
   "package_url": "https://pypi.org/project/waclient/"
 }

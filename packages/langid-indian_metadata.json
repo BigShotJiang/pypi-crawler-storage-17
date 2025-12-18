@@ -1,0 +1,11 @@
+{
+  "name": "langid-indian",
+  "version": "0.1.4",
+  "summary": "A language identifier for Indian languages using a pretrained Random Forest model.",
+  "author": "Yash Ingle",
+  "license": "MIT",
+  "home_page": "https://github.com/yashingle-ai/TextLangDetect",
+  "download_filename": "langid_indian-0.1.4.tar.gz",
+  "download_time": "2025-12-18T06:18:35.083198",
+  "package_url": "https://pypi.org/project/langid-indian/"
+}

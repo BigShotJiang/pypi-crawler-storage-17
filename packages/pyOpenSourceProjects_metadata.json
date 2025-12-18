@@ -1,0 +1,11 @@
+{
+  "name": "pyOpenSourceProjects",
+  "version": "0.5.0",
+  "summary": "Check python OpenSource Projects to follow standards for README, github workflow and pyprojec.toml - creates badges",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyopensourceprojects-0.5.0.tar.gz",
+  "download_time": "2025-12-18T06:18:46.605487",
+  "package_url": "https://pypi.org/project/pyOpenSourceProjects/"
+}
