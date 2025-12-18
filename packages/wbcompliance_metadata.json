@@ -1,11 +1,11 @@
 {
   "name": "wbcompliance",
-  "version": "1.59.9",
+  "version": "1.59.11",
   "summary": "A workbench module for managing compliance.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbcompliance-1.59.9.tar.gz",
-  "download_time": "2025-12-16T09:56:39.503229",
+  "download_filename": "wbcompliance-1.59.11.tar.gz",
+  "download_time": "2025-12-18T15:38:48.863824",
   "package_url": "https://pypi.org/project/wbcompliance/"
 }

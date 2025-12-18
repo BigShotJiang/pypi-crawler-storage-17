@@ -1,11 +1,11 @@
 {
   "name": "wbaccounting",
-  "version": "1.59.9",
+  "version": "1.59.11",
   "summary": "A workbench module for managing invoicing and simple accounting.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbaccounting-1.59.9-py2.py3-none-any.whl",
-  "download_time": "2025-12-16T09:56:34.303433",
+  "download_filename": "wbaccounting-1.59.11.tar.gz",
+  "download_time": "2025-12-18T15:38:53.954286",
   "package_url": "https://pypi.org/project/wbaccounting/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tsp-optimisation",
+  "version": "0.1.0",
+  "summary": "Résolution du problème du voyageur de commerce (TSP) avec contraintes et affichage du parcours optimal.",
+  "author": "Amaidi Chaima",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsp_optimisation-0.1.0.tar.gz",
+  "download_time": "2025-12-18T15:39:23.887060",
+  "package_url": "https://pypi.org/project/tsp-optimisation/"
+}

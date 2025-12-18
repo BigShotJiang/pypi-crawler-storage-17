@@ -1,0 +1,11 @@
+{
+  "name": "moderation_api",
+  "version": "1.1.0",
+  "summary": "The official Python library for the moderation-api API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "moderation_api-1.1.0.tar.gz",
+  "download_time": "2025-12-18T15:38:56.300437",
+  "package_url": "https://pypi.org/project/moderation_api/"
+}

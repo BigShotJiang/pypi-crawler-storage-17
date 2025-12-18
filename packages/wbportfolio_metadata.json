@@ -1,11 +1,11 @@
 {
   "name": "wbportfolio",
-  "version": "1.59.9",
+  "version": "1.59.11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbportfolio-1.59.9.tar.gz",
-  "download_time": "2025-12-16T09:56:37.779229",
+  "download_filename": "wbportfolio-1.59.11.tar.gz",
+  "download_time": "2025-12-18T15:38:51.779651",
   "package_url": "https://pypi.org/project/wbportfolio/"
 }

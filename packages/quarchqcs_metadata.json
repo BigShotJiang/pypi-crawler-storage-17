@@ -1,0 +1,11 @@
+{
+  "name": "quarchqcs",
+  "version": "1.1.5",
+  "summary": "This packpage contains the Quarch Compliance suite server",
+  "author": "Quarch Technology ltd",
+  "license": "Quarch Technology ltd",
+  "home_page": null,
+  "download_filename": "quarchqcs-1.1.5-py2.py3-none-any.whl",
+  "download_time": "2025-12-18T15:39:18.730204",
+  "package_url": "https://pypi.org/project/quarchqcs/"
+}

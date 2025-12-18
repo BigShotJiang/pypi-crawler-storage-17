@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-coa-simple",
+  "version": "14.0.3.2.0",
+  "summary": "Plano de Contas ITG 1000 para Microempresas e Empresa de Pequeno Porte",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_coa_simple-14.0.3.2.0-py3-none-any.whl",
+  "download_time": "2025-12-18T15:39:07.600882",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-coa-simple/"
+}
