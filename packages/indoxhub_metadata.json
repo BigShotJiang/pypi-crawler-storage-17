@@ -1,0 +1,11 @@
+{
+  "name": "indoxhub",
+  "version": "0.1.43",
+  "summary": "A unified client for various AI providers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indoxhub-0.1.43.tar.gz",
+  "download_time": "2025-12-18T14:15:23.222284",
+  "package_url": "https://pypi.org/project/indoxhub/"
+}

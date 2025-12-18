@@ -1,11 +1,11 @@
 {
   "name": "viewtools",
-  "version": "0.1",
+  "version": "0.1.2",
   "summary": "Tools for working with genomic intervals and sequences",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "viewtools-0.1.tar.gz",
-  "download_time": "2025-12-17T16:04:22.241430",
+  "download_filename": "viewtools-0.1.2.tar.gz",
+  "download_time": "2025-12-18T14:15:44.157373",
   "package_url": "https://pypi.org/project/viewtools/"
 }

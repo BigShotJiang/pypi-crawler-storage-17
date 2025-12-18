@@ -1,0 +1,11 @@
+{
+  "name": "guards",
+  "version": "1.0.3",
+  "summary": "An alternative to try/catch/else statements",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guards-1.0.3.tar.gz",
+  "download_time": "2025-12-18T14:15:41.093494",
+  "package_url": "https://pypi.org/project/guards/"
+}

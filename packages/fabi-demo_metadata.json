@@ -1,11 +1,11 @@
 {
   "name": "fabi-demo",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabi_demo-1.0.3.tar.gz",
-  "download_time": "2025-12-18T13:49:19.554588",
+  "download_filename": "fabi_demo-1.0.5.tar.gz",
+  "download_time": "2025-12-18T14:15:09.630563",
   "package_url": "https://pypi.org/project/fabi-demo/"
 }

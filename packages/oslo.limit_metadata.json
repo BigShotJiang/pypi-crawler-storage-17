@@ -1,0 +1,11 @@
+{
+  "name": "oslo.limit",
+  "version": "2.9.2",
+  "summary": "Limit enforcement library to assist with quota calculation.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oslo_limit-2.9.2.tar.gz",
+  "download_time": "2025-12-18T14:15:27.433456",
+  "package_url": "https://pypi.org/project/oslo.limit/"
+}

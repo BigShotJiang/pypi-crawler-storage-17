@@ -1,0 +1,11 @@
+{
+  "name": "hexlab",
+  "version": "0.0.5",
+  "summary": "A feature-rich hex color exploration and manipulation tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexlab-0.0.5.tar.gz",
+  "download_time": "2025-12-18T14:15:10.163916",
+  "package_url": "https://pypi.org/project/hexlab/"
+}

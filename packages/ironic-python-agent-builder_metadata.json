@@ -1,0 +1,11 @@
+{
+  "name": "ironic-python-agent-builder",
+  "version": "7.0.0",
+  "summary": "Tools and scripts to build Ironic Python Agent",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/ironic-python-agent-builder/latest/",
+  "download_filename": "ironic_python_agent_builder-7.0.0.tar.gz",
+  "download_time": "2025-12-18T14:15:13.333348",
+  "package_url": "https://pypi.org/project/ironic-python-agent-builder/"
+}

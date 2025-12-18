@@ -1,0 +1,11 @@
+{
+  "name": "django-zooy",
+  "version": "0.2.11",
+  "summary": "Django integration for Zooy UI framework with Carbon Design System widgets",
+  "author": "Jan Badenhorst",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_zooy-0.2.11.tar.gz",
+  "download_time": "2025-12-18T14:15:43.135247",
+  "package_url": "https://pypi.org/project/django-zooy/"
+}

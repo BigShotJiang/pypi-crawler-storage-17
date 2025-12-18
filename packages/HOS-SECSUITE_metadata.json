@@ -1,0 +1,11 @@
+{
+  "name": "HOS-SECSUITE",
+  "version": "0.1.4",
+  "summary": "HOS SecSuite: 模块化网络安全工具包（防御优先）",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hos_secsuite-0.1.4.tar.gz",
+  "download_time": "2025-12-18T14:15:36.963371",
+  "package_url": "https://pypi.org/project/HOS-SECSUITE/"
+}

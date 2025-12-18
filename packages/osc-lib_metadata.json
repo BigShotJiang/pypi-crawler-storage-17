@@ -1,0 +1,11 @@
+{
+  "name": "osc-lib",
+  "version": "4.3.0",
+  "summary": "OpenStackClient Library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "osc_lib-4.3.0.tar.gz",
+  "download_time": "2025-12-18T14:15:18.025250",
+  "package_url": "https://pypi.org/project/osc-lib/"
+}

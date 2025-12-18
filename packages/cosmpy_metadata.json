@@ -1,0 +1,11 @@
+{
+  "name": "cosmpy",
+  "version": "0.11.2",
+  "summary": "A library for interacting with the cosmos networks",
+  "author": "Fetch.AI Limited",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/fetchai/cosmpy",
+  "download_filename": "cosmpy-0.11.2.tar.gz",
+  "download_time": "2025-12-18T14:15:24.296145",
+  "package_url": "https://pypi.org/project/cosmpy/"
+}

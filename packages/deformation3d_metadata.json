@@ -1,11 +1,11 @@
 {
   "name": "deformation3d",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "Automated Batch Deformation Method for Crop 3D Point Clouds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deformation3d-1.8.0-py3-none-any.whl",
-  "download_time": "2025-12-18T13:49:20.080703",
+  "download_filename": "deformation3d-1.8.1-py3-none-any.whl",
+  "download_time": "2025-12-18T14:15:31.563083",
   "package_url": "https://pypi.org/project/deformation3d/"
 }
