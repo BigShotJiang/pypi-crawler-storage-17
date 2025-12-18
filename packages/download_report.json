@@ -1,8 +1,22 @@
 {
-  "download_time": "2025-12-18T21:42:56.190668",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 26.52,
+  "download_time": "2025-12-18T21:48:57.415874",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 20.76,
   "packages": [
+    "pvn-fmc-mcp",
+    "dattos-data-engine-common",
+    "diffpy.morph",
+    "test-project-client",
+    "ai-agent-rules",
+    "mellea",
+    "pinexq-procon",
+    "pygam",
+    "scenic",
+    "mlx-lm",
+    "easydiffraction",
+    "nsj-integracao-api-client",
+    "ob-project-utils",
+    "ginga",
     "umodl",
     "gold-dl",
     "operon-ai",
@@ -77,14 +91,6 @@
     "rad",
     "praisonaiagents",
     "pvw-cli",
-    "kbkit",
-    "botocore-stubs",
-    "etlplus",
-    "rtdpy",
-    "fusionauth-client",
-    "pvcobrademo",
-    "markata",
-    "evo-sdk-common",
-    "mercury-python"
+    "kbkit"
   ]
 }

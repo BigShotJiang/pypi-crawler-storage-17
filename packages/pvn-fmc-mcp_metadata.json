@@ -1,11 +1,11 @@
 {
   "name": "pvn-fmc-mcp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "An MCP server exposing FMC text output via stdio",
   "author": "PVN",
   "license": null,
   "home_page": null,
-  "download_filename": "pvn_fmc_mcp-0.3.0.tar.gz",
-  "download_time": "2025-12-17T23:49:37.277899",
+  "download_filename": "pvn_fmc_mcp-0.3.1.tar.gz",
+  "download_time": "2025-12-18T21:48:09.981524",
   "package_url": "https://pypi.org/project/pvn-fmc-mcp/"
 }

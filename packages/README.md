@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-18T21:42:56.190668
-- **Total Packages**: 83
-- **Total Size**: 26.52 MB
+- **Download Time**: 2025-12-18T21:48:57.415874
+- **Total Packages**: 89
+- **Total Size**: 20.76 MB
 
 ## Packages List
+- pvn-fmc-mcp
+- dattos-data-engine-common
+- diffpy.morph
+- test-project-client
+- ai-agent-rules
+- mellea
+- pinexq-procon
+- pygam
+- scenic
+- mlx-lm
+- easydiffraction
+- nsj-integracao-api-client
+- ob-project-utils
+- ginga
 - umodl
 - gold-dl
 - operon-ai
@@ -81,11 +95,3 @@
 - praisonaiagents
 - pvw-cli
 - kbkit
-- botocore-stubs
-- etlplus
-- rtdpy
-- fusionauth-client
-- pvcobrademo
-- markata
-- evo-sdk-common
-- mercury-python

@@ -1,0 +1,11 @@
+{
+  "name": "scenic",
+  "version": "3.1.0",
+  "summary": "The Scenic scenario description language.",
+  "author": "Daniel Fremont, Eric Vin, Shun Kashiwa, Edward Kim, Tommaso Dreossi, Shromona Ghosh, Xiangyu Yue, Alberto L. Sangiovanni-Vincentelli, Sanjit A. Seshia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scenic-3.1.0.tar.gz",
+  "download_time": "2025-12-18T21:48:14.211680",
+  "package_url": "https://pypi.org/project/scenic/"
+}
