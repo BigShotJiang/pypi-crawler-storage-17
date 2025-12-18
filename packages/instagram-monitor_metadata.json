@@ -1,11 +1,11 @@
 {
   "name": "instagram-monitor",
-  "version": "1.9",
+  "version": "1.9.1",
   "summary": "Tool implementing real-time tracking of Instagram users activities and profile changes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "instagram_monitor-1.9.tar.gz",
-  "download_time": "2025-12-18T19:15:44.215456",
+  "download_filename": "instagram_monitor-1.9.1.tar.gz",
+  "download_time": "2025-12-18T19:35:30.441293",
   "package_url": "https://pypi.org/project/instagram-monitor/"
 }
