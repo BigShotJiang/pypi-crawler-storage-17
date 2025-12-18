@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-activity-done",
+  "version": "18.0.1.0.0.4",
+  "summary": "Mail Activity Done",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_activity_done-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-18T03:47:48.777511",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-activity-done/"
+}

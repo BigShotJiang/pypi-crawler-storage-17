@@ -1,0 +1,11 @@
+{
+  "name": "ovos-utterance-corrections-plugin",
+  "version": "0.1.2",
+  "summary": null,
+  "author": "jarbasai",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-utterance-corrections-plugin",
+  "download_filename": "ovos_utterance_corrections_plugin-0.1.2.tar.gz",
+  "download_time": "2025-12-18T03:47:30.184173",
+  "package_url": "https://pypi.org/project/ovos-utterance-corrections-plugin/"
+}

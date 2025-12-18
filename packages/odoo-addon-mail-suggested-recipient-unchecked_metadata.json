@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-suggested-recipient-unchecked",
+  "version": "18.0.1.0.0.4",
+  "summary": "Mail suggested recipient unchecked",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_suggested_recipient_unchecked-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-18T03:47:47.679628",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-suggested-recipient-unchecked/"
+}

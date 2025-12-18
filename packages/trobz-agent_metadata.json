@@ -1,0 +1,11 @@
+{
+  "name": "trobz-agent",
+  "version": "0.2.2",
+  "summary": "Run an AI agent",
+  "author": "Hai Lang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trobz_agent-0.2.2.tar.gz",
+  "download_time": "2025-12-18T03:47:40.005140",
+  "package_url": "https://pypi.org/project/trobz-agent/"
+}

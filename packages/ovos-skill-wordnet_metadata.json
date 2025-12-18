@@ -1,0 +1,11 @@
+{
+  "name": "ovos-skill-wordnet",
+  "version": "0.2.6",
+  "summary": "ovos Wordnet skill plugin",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-skill-wordnet",
+  "download_filename": "ovos_skill_wordnet-0.2.6.tar.gz",
+  "download_time": "2025-12-18T03:47:27.450640",
+  "package_url": "https://pypi.org/project/ovos-skill-wordnet/"
+}

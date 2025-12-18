@@ -1,0 +1,11 @@
+{
+  "name": "ovos-date-parser",
+  "version": "0.6.5",
+  "summary": "OpenVoiceOS's multilingual text parsing and formatting library",
+  "author": "Mycroft AI / OVOS",
+  "license": "Apache2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-date-parser",
+  "download_filename": "ovos-date-parser-0.6.5.tar.gz",
+  "download_time": "2025-12-18T03:47:26.174754",
+  "package_url": "https://pypi.org/project/ovos-date-parser/"
+}

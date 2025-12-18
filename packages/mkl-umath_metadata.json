@@ -1,0 +1,11 @@
+{
+  "name": "mkl-umath",
+  "version": "0.3.1",
+  "summary": "Intel (R) MKL-based universal functions for NumPy arrays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkl_umath-0.3.1-0-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-18T03:47:55.324481",
+  "package_url": "https://pypi.org/project/mkl-umath/"
+}

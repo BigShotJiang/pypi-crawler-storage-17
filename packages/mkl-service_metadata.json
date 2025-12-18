@@ -1,0 +1,11 @@
+{
+  "name": "mkl-service",
+  "version": "2.6.1",
+  "summary": "Python hooks for Intel® oneAPI Math Kernel Library (oneMKL) runtime control settings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkl_service-2.6.1-0-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-18T03:48:00.534496",
+  "package_url": "https://pypi.org/project/mkl-service/"
+}
