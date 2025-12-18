@@ -1,0 +1,11 @@
+{
+  "name": "neuro-int-mamba",
+  "version": "0.1.0",
+  "summary": "A Bio-inspired Mamba Architecture for Dexterous Manipulation with Intrinsic Neural Timescales",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuro_int_mamba-0.1.0.tar.gz",
+  "download_time": "2025-12-18T02:45:21.481591",
+  "package_url": "https://pypi.org/project/neuro-int-mamba/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlmilvus",
+  "version": "1.0.0",
+  "summary": "milvus数据库操作工具类",
+  "author": "mengling",
+  "license": null,
+  "home_page": "https://www.python.org",
+  "download_filename": "mlmilvus-1.0.0.tar.gz",
+  "download_time": "2025-12-18T02:45:16.870459",
+  "package_url": "https://pypi.org/project/mlmilvus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mypy-gh-action-report",
+  "version": "0.2.4",
+  "summary": "Notify Mypy output via GitHub Workflow Commands",
+  "author": "Błażej Cyrzon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mypy_gh_action_report-0.2.4.tar.gz",
+  "download_time": "2025-12-18T02:45:02.318393",
+  "package_url": "https://pypi.org/project/mypy-gh-action-report/"
+}

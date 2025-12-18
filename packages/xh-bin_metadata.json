@@ -1,0 +1,11 @@
+{
+  "name": "xh-bin",
+  "version": "0.25.3",
+  "summary": "Friendly and fast tool for sending HTTP requests",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/ducaale/xh",
+  "download_filename": "xh_bin-0.25.3.tar.gz",
+  "download_time": "2025-12-18T02:45:48.462471",
+  "package_url": "https://pypi.org/project/xh-bin/"
+}

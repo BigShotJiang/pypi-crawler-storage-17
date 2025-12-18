@@ -1,0 +1,11 @@
+{
+  "name": "kryten-bingo",
+  "version": "0.1.1",
+  "summary": "Kryten bingo game service - manages bingo games and card tracking",
+  "author": "Kryten Robot Team",
+  "license": "MIT",
+  "home_page": "https://github.com/grobertson/kryten-bingo",
+  "download_filename": "kryten_bingo-0.1.1.tar.gz",
+  "download_time": "2025-12-18T02:45:16.357891",
+  "package_url": "https://pypi.org/project/kryten-bingo/"
+}
