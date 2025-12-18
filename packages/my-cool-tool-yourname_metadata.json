@@ -1,0 +1,11 @@
+{
+  "name": "my-cool-tool-yourname",
+  "version": "0.0.1",
+  "summary": "A simple calculator example",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_cool_tool_yourname-0.0.1.tar.gz",
+  "download_time": "2025-12-18T08:51:41.950478",
+  "package_url": "https://pypi.org/project/my-cool-tool-yourname/"
+}

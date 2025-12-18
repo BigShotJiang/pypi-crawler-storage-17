@@ -1,11 +1,11 @@
 {
   "name": "rivet-ai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Add your description here",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rivet_ai-0.2.0.tar.gz",
-  "download_time": "2025-12-17T13:46:33.956765",
+  "download_filename": "rivet_ai-0.2.1.tar.gz",
+  "download_time": "2025-12-18T08:51:45.068490",
   "package_url": "https://pypi.org/project/rivet-ai/"
 }

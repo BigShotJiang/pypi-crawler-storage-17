@@ -1,0 +1,11 @@
+{
+  "name": "farmerchat-prompts",
+  "version": "0.1.1",
+  "summary": "A prompt management library for AI models in agricultural applications",
+  "author": "Aakash Singh",
+  "license": null,
+  "home_page": "https://github.com/digitalgreenorg/farmerchat-prompts",
+  "download_filename": "farmerchat_prompts-0.1.1.tar.gz",
+  "download_time": "2025-12-18T08:51:43.535162",
+  "package_url": "https://pypi.org/project/farmerchat-prompts/"
+}

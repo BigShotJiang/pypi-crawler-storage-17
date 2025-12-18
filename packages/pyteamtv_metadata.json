@@ -1,0 +1,11 @@
+{
+  "name": "pyteamtv",
+  "version": "0.39.0",
+  "summary": "API for TeamTV Platform",
+  "author": "Koen Vossen",
+  "license": "GPL-3",
+  "home_page": "https://github.com/teamtv/pyteamtv",
+  "download_filename": "pyteamtv-0.39.0.tar.gz",
+  "download_time": "2025-12-18T08:51:51.740914",
+  "package_url": "https://pypi.org/project/pyteamtv/"
+}

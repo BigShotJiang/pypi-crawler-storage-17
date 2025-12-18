@@ -1,11 +1,11 @@
 {
   "name": "pyv-file-running",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A module for '.pyv' file",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyv_file_running-1.0.1.tar.gz",
-  "download_time": "2025-12-17T15:17:45.635148",
+  "download_filename": "pyv_file_running-1.0.2.tar.gz",
+  "download_time": "2025-12-18T08:51:50.207440",
   "package_url": "https://pypi.org/project/pyv-file-running/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fabric-generic-cluster",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Comprehensive Python framework for managing FABRIC testbed generic clusters and slices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fabric_generic_cluster-1.0.1.tar.gz",
-  "download_time": "2025-12-18T07:50:09.312998",
+  "download_filename": "fabric_generic_cluster-1.0.2.tar.gz",
+  "download_time": "2025-12-18T08:52:05.513651",
   "package_url": "https://pypi.org/project/fabric-generic-cluster/"
 }

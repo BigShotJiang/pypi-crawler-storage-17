@@ -1,0 +1,11 @@
+{
+  "name": "fortitudo-tech",
+  "version": "1.2",
+  "summary": "Entropy Pooling views and stress-testing combined with Conditional Value-at-Risk (CVaR) portfolio optimization in Python.",
+  "author": "Fortitudo Technologies",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://fortitudo.tech",
+  "download_filename": "fortitudo_tech-1.2.tar.gz",
+  "download_time": "2025-12-18T08:52:06.654430",
+  "package_url": "https://pypi.org/project/fortitudo-tech/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudnet-api-client",
+  "version": "0.12.7",
+  "summary": "Cloudnet API client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudnet_api_client-0.12.7.tar.gz",
+  "download_time": "2025-12-18T08:52:08.201190",
+  "package_url": "https://pypi.org/project/cloudnet-api-client/"
+}

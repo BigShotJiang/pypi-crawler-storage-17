@@ -1,0 +1,11 @@
+{
+  "name": "ekacare",
+  "version": "0.1.3",
+  "summary": "Python SDK for Eka Care APIs",
+  "author": "Eka Care SDK Developer",
+  "license": null,
+  "home_page": "https://developer.eka.care",
+  "download_filename": "ekacare-0.1.3.tar.gz",
+  "download_time": "2025-12-18T08:51:31.672289",
+  "package_url": "https://pypi.org/project/ekacare/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "csspin-ce",
+  "version": "4.2.0",
+  "summary": "Plugin-package for providing CONTACT Elements-specific plugins for the csspin task runner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csspin_ce-4.2.0-py3-none-any.whl",
+  "download_time": "2025-12-18T08:52:04.491301",
+  "package_url": "https://pypi.org/project/csspin-ce/"
+}

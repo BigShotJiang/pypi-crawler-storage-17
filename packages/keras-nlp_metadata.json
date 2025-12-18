@@ -1,0 +1,11 @@
+{
+  "name": "keras-nlp",
+  "version": "0.24.0",
+  "summary": "Pretrained models for Keras.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keras_nlp-0.24.0.tar.gz",
+  "download_time": "2025-12-18T08:51:36.106236",
+  "package_url": "https://pypi.org/project/keras-nlp/"
+}

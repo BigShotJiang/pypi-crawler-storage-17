@@ -1,0 +1,11 @@
+{
+  "name": "wcps",
+  "version": "0.5.4",
+  "summary": "Python client library for WCPS (OGC Web Coverage Processing Service) backends.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wcps-0.5.4.tar.gz",
+  "download_time": "2025-12-18T08:51:39.904732",
+  "package_url": "https://pypi.org/project/wcps/"
+}
