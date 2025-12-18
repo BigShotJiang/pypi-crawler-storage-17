@@ -1,11 +1,11 @@
 {
   "name": "stats-compass-mcp",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "MCP server exposing stats-compass-core tools to LLMs like ChatGPT, Claude, and Gemini",
   "author": "Olatunji Ogunbiyi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stats_compass_mcp-0.1.8.tar.gz",
-  "download_time": "2025-12-17T23:31:37.980221",
+  "download_filename": "stats_compass_mcp-0.1.9.tar.gz",
+  "download_time": "2025-12-18T19:15:10.187950",
   "package_url": "https://pypi.org/project/stats-compass-mcp/"
 }

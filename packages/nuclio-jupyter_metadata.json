@@ -1,0 +1,11 @@
+{
+  "name": "nuclio-jupyter",
+  "version": "0.11.3",
+  "summary": "Convert Jupyter notebook to nuclio",
+  "author": "Miki Tebeka",
+  "license": "MIT",
+  "home_page": "https://github.com/nuclio/nuclio-jupyter",
+  "download_filename": "nuclio_jupyter-0.11.3.tar.gz",
+  "download_time": "2025-12-18T19:15:48.419458",
+  "package_url": "https://pypi.org/project/nuclio-jupyter/"
+}

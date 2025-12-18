@@ -1,11 +1,11 @@
 {
   "name": "adaptive_router",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Intelligent LLM Infrastructure with Smart Model Selection",
   "author": "Botir Khaltaev",
   "license": null,
   "home_page": null,
-  "download_filename": "adaptive_router-0.1.6.tar.gz",
-  "download_time": "2025-12-17T19:31:14.025110",
+  "download_filename": "adaptive_router-0.1.7.tar.gz",
+  "download_time": "2025-12-18T19:15:24.011821",
   "package_url": "https://pypi.org/project/adaptive_router/"
 }

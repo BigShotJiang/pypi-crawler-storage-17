@@ -1,0 +1,11 @@
+{
+  "name": "teletools",
+  "version": "0.0.2",
+  "summary": "Python Utility Functions Library for Call Details Records ( CDRs ) from Brazilian Telecommunications Carriers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teletools-0.0.2.tar.gz",
+  "download_time": "2025-12-18T19:15:45.246567",
+  "package_url": "https://pypi.org/project/teletools/"
+}

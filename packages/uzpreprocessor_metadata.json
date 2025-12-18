@@ -1,11 +1,11 @@
 {
   "name": "uzpreprocessor",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "summary": "Uzbek text preprocessing library for converting numbers, dates, times, and currency to words",
   "author": "Javhar Abdulatipov",
   "license": "MIT",
   "home_page": "https://github.com/jakharbek/py-uzpreprocessor",
-  "download_filename": "uzpreprocessor-1.0.1.tar.gz",
-  "download_time": "2025-12-18T18:19:16.271375",
+  "download_filename": "uzpreprocessor-1.0.5.tar.gz",
+  "download_time": "2025-12-18T19:15:08.503704",
   "package_url": "https://pypi.org/project/uzpreprocessor/"
 }

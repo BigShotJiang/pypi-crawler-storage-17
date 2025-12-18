@@ -1,0 +1,11 @@
+{
+  "name": "eldar-wordle",
+  "version": "1.0.0",
+  "summary": "CLI Wordle game (5-letter guessing game)",
+  "author": "Eldar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eldar_wordle-1.0.0.tar.gz",
+  "download_time": "2025-12-18T19:15:42.663072",
+  "package_url": "https://pypi.org/project/eldar-wordle/"
+}

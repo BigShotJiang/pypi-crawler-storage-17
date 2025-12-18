@@ -1,0 +1,11 @@
+{
+  "name": "livesrt",
+  "version": "0.1.1",
+  "summary": "Live subtitles for your life",
+  "author": "Rémy Sanchez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "livesrt-0.1.1.tar.gz",
+  "download_time": "2025-12-18T19:15:51.063137",
+  "package_url": "https://pypi.org/project/livesrt/"
+}

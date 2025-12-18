@@ -1,0 +1,11 @@
+{
+  "name": "bigip",
+  "version": "99.0.0",
+  "summary": "F5 Security Research Placeholder",
+  "author": "Adam Logue",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bigip-99.0.0.tar.gz",
+  "download_time": "2025-12-18T19:15:52.597866",
+  "package_url": "https://pypi.org/project/bigip/"
+}
