@@ -1,0 +1,11 @@
+{
+  "name": "laddu-mpi",
+  "version": "0.12.1",
+  "summary": "Python bindings for laddu (with MPI support)",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/denehoffman/laddu",
+  "download_filename": "laddu_mpi-0.12.1.tar.gz",
+  "download_time": "2025-12-18T06:54:58.622556",
+  "package_url": "https://pypi.org/project/laddu-mpi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uaal-policy-dsl",
+  "version": "0.1.0",
+  "summary": "Declarative policy language for AI authorization and compliance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uaal_policy_dsl-0.1.0.tar.gz",
+  "download_time": "2025-12-18T06:55:02.734749",
+  "package_url": "https://pypi.org/project/uaal-policy-dsl/"
+}

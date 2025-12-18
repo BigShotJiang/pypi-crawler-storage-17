@@ -1,0 +1,11 @@
+{
+  "name": "spire-office",
+  "version": "10.12.0",
+  "summary": "A 100% standalone Office Python API for Processing Office Files",
+  "author": "E-iceblue",
+  "license": null,
+  "home_page": "https://www.e-iceblue.com",
+  "download_filename": "spire_office-10.12.0-py3-none-macosx_10_7_universal.whl",
+  "download_time": "2025-12-18T06:54:32.094099",
+  "package_url": "https://pypi.org/project/spire-office/"
+}

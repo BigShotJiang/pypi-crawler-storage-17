@@ -1,11 +1,11 @@
 {
   "name": "ullm",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "summary": "A unified interface for local Large Language Model(LLM) models and online LLM providers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ullm-0.14.1.tar.gz",
-  "download_time": "2025-12-17T16:04:29.423927",
+  "download_filename": "ullm-0.14.2.tar.gz",
+  "download_time": "2025-12-18T06:55:09.989814",
   "package_url": "https://pypi.org/project/ullm/"
 }

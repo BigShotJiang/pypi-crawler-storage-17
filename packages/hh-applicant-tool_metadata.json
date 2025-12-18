@@ -1,11 +1,11 @@
 {
   "name": "hh-applicant-tool",
-  "version": "0.6.13",
+  "version": "0.6.14",
   "summary": null,
   "author": "Senior YAML Developer",
   "license": null,
   "home_page": null,
-  "download_filename": "hh_applicant_tool-0.6.13.tar.gz",
-  "download_time": "2025-12-17T17:40:16.596028",
+  "download_filename": "hh_applicant_tool-0.6.14.tar.gz",
+  "download_time": "2025-12-18T06:55:07.885041",
   "package_url": "https://pypi.org/project/hh-applicant-tool/"
 }

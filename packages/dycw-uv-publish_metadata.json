@@ -1,11 +1,11 @@
 {
   "name": "dycw-uv-publish",
-  "version": "0.3.7",
+  "version": "0.4.1",
   "summary": "Tag the latest commit with the version read from `bump-my-version`",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_uv_publish-0.3.7-py3-none-any.whl",
-  "download_time": "2025-12-17T12:21:58.658835",
+  "download_filename": "dycw_uv_publish-0.4.1-py3-none-any.whl",
+  "download_time": "2025-12-18T06:54:44.641127",
   "package_url": "https://pypi.org/project/dycw-uv-publish/"
 }

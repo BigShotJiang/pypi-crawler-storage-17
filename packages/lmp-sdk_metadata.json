@@ -1,0 +1,11 @@
+{
+  "name": "lmp-sdk",
+  "version": "2.0.11",
+  "summary": "推理服务 Python SDK",
+  "author": "LMP SDK Team",
+  "license": null,
+  "home_page": "https://github.com/lixiang/lmp-sdk-python",
+  "download_filename": "lmp_sdk-2.0.11.tar.gz",
+  "download_time": "2025-12-18T06:55:14.079102",
+  "package_url": "https://pypi.org/project/lmp-sdk/"
+}
