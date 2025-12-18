@@ -1,0 +1,11 @@
+{
+  "name": "yamlfix",
+  "version": "1.19.1",
+  "summary": "A simple opionated yaml formatter that keeps your comments!",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "yamlfix-1.19.1.tar.gz",
+  "download_time": "2025-12-18T09:57:36.429286",
+  "package_url": "https://pypi.org/project/yamlfix/"
+}

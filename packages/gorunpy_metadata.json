@@ -1,11 +1,11 @@
 {
   "name": "gorunpy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python SDK for Go-callable executables",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gorunpy-0.2.0.tar.gz",
-  "download_time": "2025-12-18T09:47:59.573807",
+  "download_filename": "gorunpy-0.3.0.tar.gz",
+  "download_time": "2025-12-18T09:57:46.746010",
   "package_url": "https://pypi.org/project/gorunpy/"
 }

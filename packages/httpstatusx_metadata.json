@@ -1,11 +1,11 @@
 {
   "name": "httpstatusx",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Semantic, bidirectional HTTP status abstraction with CLI and framework support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "httpstatusx-1.0.0.tar.gz",
-  "download_time": "2025-12-18T08:52:07.172451",
+  "download_filename": "httpstatusx-1.0.2.tar.gz",
+  "download_time": "2025-12-18T09:57:46.234914",
   "package_url": "https://pypi.org/project/httpstatusx/"
 }
