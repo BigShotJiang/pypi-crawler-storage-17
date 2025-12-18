@@ -1,41 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-18T08:52:13.294559
-- **Total Packages**: 89
-- **Total Size**: 39.68 MB
+- **Download Time**: 2025-12-18T09:19:08.349334
+- **Total Packages**: 91
+- **Total Size**: 3.62 MB
 
 ## Packages List
-- udata
-- specifyplus
-- neo-data-svc
-- taoshi-ts-exchange-ibkr
-- gllm-inference-binary
-- InsarViz
-- kaa-xai
-- medusa-security
-- lusid-sdk
-- coinsignal
-- halib
-- frago-cli
-- hdf5vault
-- ekacare
-- kitsunefetch
-- david-seekdb-mcp-server
-- maxibot
-- half-orm-dev
-- darkcode-server
-- threedi-api-client
-- tenuo
-- keras-nlp
-- keras-hub
-- dnv-onecompute
-- zen-garden
-- bmlibrarian-lite
-- agentbill-py-crewai
-- wcps
-- agentbill-py-langchain
-- agentbill-py-sdk
 - compose-farm
 - my-cool-tool-yourname
 - django-grpc-framework-plus
@@ -49,6 +19,7 @@
 - su_master_mind
 - codevid
 - corsikaio
+- frago-cli
 - ohmly
 - pushikoo-pusher-dingtalk
 - bloqade-circuit
@@ -63,9 +34,11 @@
 - mayim
 - lsst-daf-butler
 - redis-timers
+- halib
 - bofire
 - naeural-core
 - embody-codec
+- darkcode-server
 - cognite-neat
 - sqlit-tui
 - gremux
@@ -87,6 +60,7 @@
 - httpstatusx
 - ccvibe
 - cloudnet-api-client
+- david-seekdb-mcp-server
 - nanasqlite
 - wu-forensics
 - lsst-felis
@@ -95,3 +69,31 @@
 - dump-things-service
 - lsst-ctrl-bps-htcondor
 - appwrite
+- numcodecs-bitmap-index
+- ant-ray-cpp-nightly
+- numcodecs-tokenize
+- pulumi-eks
+- alita-sdk
+- numcodecs-zero
+- innaguma-mcp
+- InsarViz
+- openjiuwen
+- dt-utils
+- numcodecs-huffman
+- ssnolib
+- bizyengine
+- rocktick
+- opik
+- nibe
+- npc-mvr
+- pystk2-gymnasium
+- numcodecs-combinators
+- onnxscript
+- pynetping
+- de-console-client
+- gate-api
+- usdk
+- featuresmith
+- pyglove
+- syncsdk
+- tobj

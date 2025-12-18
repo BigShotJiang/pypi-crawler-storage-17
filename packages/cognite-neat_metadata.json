@@ -1,11 +1,11 @@
 {
   "name": "cognite-neat",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Knowledge graph transformation",
   "author": "Nikola Vasiljevic, Anders Albert",
   "license": null,
   "home_page": null,
-  "download_filename": "cognite_neat-1.0.13.tar.gz",
-  "download_time": "2025-12-18T08:51:57.504889",
+  "download_filename": "cognite_neat-1.0.14.tar.gz",
+  "download_time": "2025-12-18T09:18:33.286441",
   "package_url": "https://pypi.org/project/cognite-neat/"
 }
