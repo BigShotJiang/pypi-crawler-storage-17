@@ -1,11 +1,11 @@
 {
   "name": "iotopen-bridge",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Secure IoT Open Lynx ↔ Home Assistant MQTT Discovery bridge",
   "author": "IoT Open Bridge Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "iotopen_bridge-0.1.1.tar.gz",
-  "download_time": "2025-12-18T19:28:37.781753",
+  "download_filename": "iotopen_bridge-0.1.3.tar.gz",
+  "download_time": "2025-12-18T22:52:14.416870",
   "package_url": "https://pypi.org/project/iotopen-bridge/"
 }

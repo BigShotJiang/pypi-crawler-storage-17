@@ -1,0 +1,11 @@
+{
+  "name": "geosuite",
+  "version": "0.1.2",
+  "summary": "A Python library for geoscience workflows: geomechanics, petrophysics, machine learning, and data I/O",
+  "author": "K. Jones",
+  "license": "MIT",
+  "home_page": "https://github.com/kylejones200/geosuite",
+  "download_filename": "geosuite-0.1.2.tar.gz",
+  "download_time": "2025-12-18T22:52:06.591453",
+  "package_url": "https://pypi.org/project/geosuite/"
+}

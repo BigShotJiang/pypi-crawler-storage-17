@@ -1,0 +1,11 @@
+{
+  "name": "PyTimbre",
+  "version": "1.0.1.7",
+  "summary": "Python conversion of Timbre Toolbox",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytimbre-1.0.1.7.tar.gz",
+  "download_time": "2025-12-18T22:52:10.519554",
+  "package_url": "https://pypi.org/project/PyTimbre/"
+}

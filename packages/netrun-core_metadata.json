@@ -1,0 +1,11 @@
+{
+  "name": "netrun-core",
+  "version": "1.0.0",
+  "summary": "Netrun Systems namespace package foundation - provides the unified 'netrun' namespace for all Netrun packages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netrun_core-1.0.0.tar.gz",
+  "download_time": "2025-12-18T22:52:28.720723",
+  "package_url": "https://pypi.org/project/netrun-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netrun-dogfood",
+  "version": "2.0.0",
+  "summary": "MCP server providing unified API access to all Netrun Systems products - Dogfood Server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netrun_dogfood-2.0.0.tar.gz",
+  "download_time": "2025-12-18T22:52:15.066203",
+  "package_url": "https://pypi.org/project/netrun-dogfood/"
+}

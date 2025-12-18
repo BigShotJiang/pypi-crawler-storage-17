@@ -1,0 +1,11 @@
+{
+  "name": "timer-for-python",
+  "version": "0.9.6",
+  "summary": "Lightweight package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code",
+  "author": "Jakob Bagterp",
+  "license": "MIT License",
+  "home_page": "https://jakob-bagterp.github.io/timer-for-python/",
+  "download_filename": "timer_for_python-0.9.6.tar.gz",
+  "download_time": "2025-12-18T22:52:33.301921",
+  "package_url": "https://pypi.org/project/timer-for-python/"
+}

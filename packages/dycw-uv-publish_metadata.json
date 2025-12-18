@@ -1,11 +1,11 @@
 {
   "name": "dycw-uv-publish",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "Build and publish Python packages",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_uv_publish-0.5.5-py3-none-any.whl",
-  "download_time": "2025-12-18T15:14:11.382136",
+  "download_filename": "dycw_uv_publish-0.5.6-py3-none-any.whl",
+  "download_time": "2025-12-18T22:52:11.827271",
   "package_url": "https://pypi.org/project/dycw-uv-publish/"
 }

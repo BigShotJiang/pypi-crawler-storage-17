@@ -1,0 +1,11 @@
+{
+  "name": "netrun-config",
+  "version": "2.0.0",
+  "summary": "Unified configuration management for Netrun Systems portfolio with TTL caching and multi-vault support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netrun_config-2.0.0.tar.gz",
+  "download_time": "2025-12-18T22:52:26.127284",
+  "package_url": "https://pypi.org/project/netrun-config/"
+}
