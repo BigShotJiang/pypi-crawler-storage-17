@@ -1,0 +1,11 @@
+{
+  "name": "bluer-ai",
+  "version": "12.354.1",
+  "summary": "🌀 A language to speak AI.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/bluer-ai",
+  "download_filename": "bluer_ai-12.354.1.tar.gz",
+  "download_time": "2025-12-18T07:50:53.375206",
+  "package_url": "https://pypi.org/project/bluer-ai/"
+}

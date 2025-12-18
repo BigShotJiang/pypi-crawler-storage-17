@@ -1,11 +1,11 @@
 {
   "name": "compose-farm",
-  "version": "0.17.0",
+  "version": "0.20.0",
   "summary": "Compose Farm - run docker compose commands across multiple hosts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "compose_farm-0.17.0.tar.gz",
-  "download_time": "2025-12-17T07:50:45.425427",
+  "download_filename": "compose_farm-0.20.0.tar.gz",
+  "download_time": "2025-12-18T07:50:15.615170",
   "package_url": "https://pypi.org/project/compose-farm/"
 }

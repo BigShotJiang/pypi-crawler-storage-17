@@ -1,11 +1,11 @@
 {
   "name": "caicai-codeindex",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "CodeIndex Python SDK - Direct SQLite database access",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "caicai_codeindex-0.3.3.tar.gz",
-  "download_time": "2025-12-17T16:52:09.537585",
+  "download_filename": "caicai_codeindex-0.3.4.tar.gz",
+  "download_time": "2025-12-18T07:50:26.956699",
   "package_url": "https://pypi.org/project/caicai-codeindex/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "decentriq-dcr-compiler",
-  "version": "0.19.9",
+  "version": "0.19.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "decentriq_dcr_compiler-0.19.9-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2025-12-17T10:14:22.174001",
+  "download_filename": "decentriq_dcr_compiler-0.19.10-cp310-cp310-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-12-18T07:50:46.487666",
   "package_url": "https://pypi.org/project/decentriq-dcr-compiler/"
 }

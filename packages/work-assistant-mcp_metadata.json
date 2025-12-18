@@ -1,11 +1,11 @@
 {
   "name": "work-assistant-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Work Assistant MCP Server - 프로세스 조회, 회사 정보 질의 도구",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "work_assistant_mcp-0.1.0.tar.gz",
-  "download_time": "2025-12-18T04:52:20.792346",
+  "download_filename": "work_assistant_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-18T07:50:35.341171",
   "package_url": "https://pypi.org/project/work-assistant-mcp/"
 }

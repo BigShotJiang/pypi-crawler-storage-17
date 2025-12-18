@@ -1,0 +1,11 @@
+{
+  "name": "phonenumberslite",
+  "version": "9.0.21",
+  "summary": "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonenumberslite-9.0.21.tar.gz",
+  "download_time": "2025-12-18T07:50:29.038280",
+  "package_url": "https://pypi.org/project/phonenumberslite/"
+}
