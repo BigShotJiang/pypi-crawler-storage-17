@@ -1,0 +1,11 @@
+{
+  "name": "ocnn",
+  "version": "2.2.8",
+  "summary": "Octree-based Sparse Convolutional Neural Networks",
+  "author": "Peng-Shuai Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/octree-nn/ocnn-pytorch",
+  "download_filename": "ocnn-2.2.8.tar.gz",
+  "download_time": "2025-12-18T09:48:00.601967",
+  "package_url": "https://pypi.org/project/ocnn/"
+}

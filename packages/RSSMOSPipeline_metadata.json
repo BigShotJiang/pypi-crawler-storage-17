@@ -1,0 +1,11 @@
+{
+  "name": "RSSMOSPipeline",
+  "version": "0.8.0",
+  "summary": "Pipeline for reducing both longslit and multi-object spectroscopic data from the Robert Stobie Spectrograph on the Southern African Large Telescope",
+  "author": "Matt Hilton + RSSMOSPipeline Contributors",
+  "license": "GPL v3",
+  "home_page": "https://github.com/mattyowl/RSSMOSPipeline",
+  "download_filename": "rssmospipeline-0.8.0.tar.gz",
+  "download_time": "2025-12-18T09:47:45.971671",
+  "package_url": "https://pypi.org/project/RSSMOSPipeline/"
+}

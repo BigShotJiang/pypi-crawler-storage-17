@@ -1,0 +1,11 @@
+{
+  "name": "rio-xpw",
+  "version": "0.1",
+  "summary": "Rio access control based on xpw",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/bondbox/rio-xpw/",
+  "download_filename": "rio_xpw-0.1.tar.gz",
+  "download_time": "2025-12-18T09:47:53.239232",
+  "package_url": "https://pypi.org/project/rio-xpw/"
+}

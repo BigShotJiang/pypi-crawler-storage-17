@@ -1,0 +1,11 @@
+{
+  "name": "tempmailchecker",
+  "version": "1.0.0",
+  "summary": "Python SDK for TempMailChecker API - Detect disposable email addresses in real-time",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tempmailchecker-1.0.0.tar.gz",
+  "download_time": "2025-12-18T09:47:41.750544",
+  "package_url": "https://pypi.org/project/tempmailchecker/"
+}

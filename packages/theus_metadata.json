@@ -1,11 +1,11 @@
 {
   "name": "theus",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Theus Agentic Framework (formerly POP SDK) - Industrial Grade Process-Oriented Programming",
   "author": "Do Huy Hoang",
   "license": null,
   "home_page": "https://github.com/dohuyhoang93/theus",
-  "download_filename": "theus-0.1.4.tar.gz",
-  "download_time": "2025-12-17T06:18:56.875001",
+  "download_filename": "theus-0.2.0.tar.gz",
+  "download_time": "2025-12-18T09:47:20.551258",
   "package_url": "https://pypi.org/project/theus/"
 }

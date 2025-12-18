@@ -1,0 +1,11 @@
+{
+  "name": "pyvium",
+  "version": "0.1.21",
+  "summary": "A tiny Python wrapper around the <Software development driver DLL> for IviumSoft.",
+  "author": "Alejandro Gutiérrez",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SF-Tec/pyvium",
+  "download_filename": "pyvium-0.1.21.tar.gz",
+  "download_time": "2025-12-18T09:47:21.655176",
+  "package_url": "https://pypi.org/project/pyvium/"
+}
