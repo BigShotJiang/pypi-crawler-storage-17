@@ -1,11 +1,11 @@
 {
   "name": "python-prompt-library",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "summary": "A Python prompt library to consolidate libraries and utility scripts",
   "author": "Ryan Gutkowski",
   "license": null,
   "home_page": "https://github.com/ryan-gutkowski_LPLA/Python_Prompt_Library",
-  "download_filename": "python_prompt_library-1.0.4.tar.gz",
-  "download_time": "2025-12-18T20:13:35.989608",
+  "download_filename": "python_prompt_library-1.0.8.tar.gz",
+  "download_time": "2025-12-18T20:51:53.651502",
   "package_url": "https://pypi.org/project/python-prompt-library/"
 }

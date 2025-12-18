@@ -1,0 +1,11 @@
+{
+  "name": "teletrust",
+  "version": "1.0.0",
+  "summary": "AI-powered telehealth compliance gateway with deterministic safety",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "teletrust-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-18T20:51:58.828808",
+  "package_url": "https://pypi.org/project/teletrust/"
+}
