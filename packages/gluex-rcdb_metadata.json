@@ -1,11 +1,11 @@
 {
   "name": "gluex-rcdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python bindings for the GlueX Run Condition Database",
   "author": null,
   "license": "Apache-2.0 OR MIT",
   "home_page": "https://github.com/denehoffman/gluex-rs",
-  "download_filename": "gluex_rcdb-0.1.1.tar.gz",
-  "download_time": "2025-12-18T17:56:15.036031",
+  "download_filename": "gluex_rcdb-0.1.2.tar.gz",
+  "download_time": "2025-12-18T19:49:00.378090",
   "package_url": "https://pypi.org/project/gluex-rcdb/"
 }

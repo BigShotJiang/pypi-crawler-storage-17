@@ -1,11 +1,11 @@
 {
   "name": "git-adr",
-  "version": "0.1.7",
+  "version": "0.2.3",
   "summary": "Architecture Decision Records management for git repositories using git notes",
   "author": "zircote",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "git_adr-0.1.7.tar.gz",
-  "download_time": "2025-12-16T16:48:22.442489",
+  "download_filename": "git_adr-0.2.3.tar.gz",
+  "download_time": "2025-12-18T19:48:46.350799",
   "package_url": "https://pypi.org/project/git-adr/"
 }

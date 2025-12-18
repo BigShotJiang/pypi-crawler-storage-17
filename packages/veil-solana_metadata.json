@@ -1,11 +1,11 @@
 {
   "name": "veil-solana",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Privacy SDK for Solana with zkSNARK-powered transactions - Python interface with Rust cryptographic backbone",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "veil_solana-0.1.0.tar.gz",
-  "download_time": "2025-12-17T14:42:07.769702",
+  "download_filename": "veil_solana-0.1.1-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-12-18T19:48:34.970696",
   "package_url": "https://pypi.org/project/veil-solana/"
 }
