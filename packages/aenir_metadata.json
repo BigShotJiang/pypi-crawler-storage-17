@@ -1,0 +1,11 @@
+{
+  "name": "aenir",
+  "version": "0.42.post1.dev652",
+  "summary": "Stat calculator for Fire Emblem",
+  "author": "gchang12",
+  "license": "MIT",
+  "home_page": "https://github.com/gchang12/aenir/",
+  "download_filename": "aenir-0.42.post1.dev652.tar.gz",
+  "download_time": "2025-12-18T22:12:19.080294",
+  "package_url": "https://pypi.org/project/aenir/"
+}

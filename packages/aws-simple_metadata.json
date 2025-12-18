@@ -1,11 +1,11 @@
 {
   "name": "aws-simple",
-  "version": "0.1.1b1",
+  "version": "0.1.1b2",
   "summary": "A clean, simple wrapper around AWS services (S3, Textract, Bedrock)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aws_simple-0.1.1b1.tar.gz",
-  "download_time": "2025-12-17T12:22:04.351693",
+  "download_filename": "aws_simple-0.1.1b2.tar.gz",
+  "download_time": "2025-12-18T22:12:39.752330",
   "package_url": "https://pypi.org/project/aws-simple/"
 }

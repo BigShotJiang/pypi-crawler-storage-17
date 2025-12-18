@@ -1,0 +1,11 @@
+{
+  "name": "annofab-3dpc-editor-cli",
+  "version": "0.4.1",
+  "summary": "Annofabの3次元プロジェクトを操作するためのCLIです。",
+  "author": "Kurusugawa Computer Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/kurusugawa-computer/annofab-3dpc-editor-cli",
+  "download_filename": "annofab_3dpc_editor_cli-0.4.1.tar.gz",
+  "download_time": "2025-12-18T22:12:51.465588",
+  "package_url": "https://pypi.org/project/annofab-3dpc-editor-cli/"
+}

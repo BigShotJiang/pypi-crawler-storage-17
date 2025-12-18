@@ -1,0 +1,11 @@
+{
+  "name": "daxiamcp",
+  "version": "1.0.0",
+  "summary": "Daxia OpenAPI Client based MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daxiamcp-1.0.0.tar.gz",
+  "download_time": "2025-12-18T22:12:32.858875",
+  "package_url": "https://pypi.org/project/daxiamcp/"
+}

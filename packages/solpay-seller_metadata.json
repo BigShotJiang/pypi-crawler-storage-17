@@ -1,0 +1,11 @@
+{
+  "name": "solpay-seller",
+  "version": "0.1.2",
+  "summary": "Python SDK for SolPay/FunPay Seller API",
+  "author": "SolPay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "solpay_seller-0.1.2.tar.gz",
+  "download_time": "2025-12-18T22:12:38.700539",
+  "package_url": "https://pypi.org/project/solpay-seller/"
+}

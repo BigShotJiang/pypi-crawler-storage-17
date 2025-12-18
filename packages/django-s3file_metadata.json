@@ -1,0 +1,11 @@
+{
+  "name": "django-s3file",
+  "version": "6.0.1",
+  "summary": "A lightweight file uploader input for Django and Amazon S3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_s3file-6.0.1.tar.gz",
+  "download_time": "2025-12-18T22:12:43.423452",
+  "package_url": "https://pypi.org/project/django-s3file/"
+}

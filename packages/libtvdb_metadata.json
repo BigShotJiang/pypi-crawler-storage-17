@@ -1,0 +1,11 @@
+{
+  "name": "libtvdb",
+  "version": "0.11.1",
+  "summary": "A wrapper around the TVDB API.",
+  "author": "Dale Myers",
+  "license": "MIT",
+  "home_page": "https://github.com/dalemyers/libtvdb",
+  "download_filename": "libtvdb-0.11.1.tar.gz",
+  "download_time": "2025-12-18T22:12:24.870201",
+  "package_url": "https://pypi.org/project/libtvdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "data2rdf",
+  "version": "2.5.0",
+  "summary": "A generic pipeline that can be used to map raw data to RDF.",
+  "author": "Paul Zierep, Yoav Nahshon, Pablo de Andres, Deepu Krishnareddy, Matthias Büschelberger",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/MI-FraunhoferIWM/data2rdf",
+  "download_filename": "data2rdf-2.5.0.tar.gz",
+  "download_time": "2025-12-18T22:12:39.222568",
+  "package_url": "https://pypi.org/project/data2rdf/"
+}

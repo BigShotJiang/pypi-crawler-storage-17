@@ -1,0 +1,11 @@
+{
+  "name": "malcarve-cbl",
+  "version": "10.0.2",
+  "summary": "Detects and extracts obfuscated, embedded content from files.",
+  "author": "Azul",
+  "license": null,
+  "home_page": "https://www.asd.gov.au/",
+  "download_filename": "malcarve_cbl-10.0.2.tar.gz",
+  "download_time": "2025-12-18T22:12:45.612859",
+  "package_url": "https://pypi.org/project/malcarve-cbl/"
+}

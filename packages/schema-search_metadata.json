@@ -1,0 +1,11 @@
+{
+  "name": "schema-search",
+  "version": "1.0.11",
+  "summary": "Natural language database schema search with graph-aware semantic retrieval",
+  "author": "Adib Hasan",
+  "license": null,
+  "home_page": "https://adibhasan.com/blog/schema-search/",
+  "download_filename": "schema_search-1.0.11.tar.gz",
+  "download_time": "2025-12-18T22:12:43.945768",
+  "package_url": "https://pypi.org/project/schema-search/"
+}
