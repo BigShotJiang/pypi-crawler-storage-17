@@ -1,0 +1,11 @@
+{
+  "name": "bitrot-decay",
+  "version": "0.0.7",
+  "summary": "A lightweight library for simulating digital image decay.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitrot_decay-0.0.7.tar.gz",
+  "download_time": "2025-12-18T19:28:55.579244",
+  "package_url": "https://pypi.org/project/bitrot-decay/"
+}

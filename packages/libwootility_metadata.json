@@ -1,0 +1,11 @@
+{
+  "name": "libwootility",
+  "version": "1.0.0",
+  "summary": "Wooting wootility protocol",
+  "author": "Dick Marinus",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "libwootility-1.0.0.tar.gz",
+  "download_time": "2025-12-18T19:28:48.200717",
+  "package_url": "https://pypi.org/project/libwootility/"
+}

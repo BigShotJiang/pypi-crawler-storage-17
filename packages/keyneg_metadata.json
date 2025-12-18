@@ -1,0 +1,11 @@
+{
+  "name": "keyneg",
+  "version": "1.1.0",
+  "summary": "A KeyBERT-style negative sentiment and keyword extractor for workforce intelligence and marketing analysis",
+  "author": "Kaossara Osseni",
+  "license": null,
+  "home_page": "https://grandnasser.com",
+  "download_filename": "keyneg-1.1.0.tar.gz",
+  "download_time": "2025-12-18T19:28:54.557382",
+  "package_url": "https://pypi.org/project/keyneg/"
+}
