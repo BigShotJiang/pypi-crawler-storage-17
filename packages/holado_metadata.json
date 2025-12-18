@@ -1,11 +1,11 @@
 {
   "name": "holado",
-  "version": "0.13.15",
+  "version": "0.13.16",
   "summary": "HolAdo framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "holado-0.13.15.tar.gz",
-  "download_time": "2025-12-17T11:32:42.836379",
+  "download_filename": "holado-0.13.16.tar.gz",
+  "download_time": "2025-12-18T15:14:24.390019",
   "package_url": "https://pypi.org/project/holado/"
 }

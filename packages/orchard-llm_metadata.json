@@ -1,0 +1,11 @@
+{
+  "name": "orchard-llm",
+  "version": "0.1.1",
+  "summary": "High-performance LLM runtime for Apple Silicon",
+  "author": "Orchard Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orchard_llm-0.1.1.tar.gz",
+  "download_time": "2025-12-18T15:14:08.791257",
+  "package_url": "https://pypi.org/project/orchard-llm/"
+}

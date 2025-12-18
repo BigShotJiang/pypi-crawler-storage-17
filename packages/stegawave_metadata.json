@@ -1,0 +1,11 @@
+{
+  "name": "stegawave",
+  "version": "0.2.14",
+  "summary": "Python client for the Stegawave media pipeline API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stegawave-0.2.14.tar.gz",
+  "download_time": "2025-12-18T15:13:57.344164",
+  "package_url": "https://pypi.org/project/stegawave/"
+}

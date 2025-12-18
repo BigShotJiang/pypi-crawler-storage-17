@@ -1,11 +1,11 @@
 {
   "name": "test-project-client",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "Auto-generated connector service - Client Library",
   "author": "Holland Generator",
   "license": null,
   "home_page": null,
-  "download_filename": "test_project_client-0.2.0.tar.gz",
-  "download_time": "2025-12-18T14:56:41.202275",
+  "download_filename": "test_project_client-0.3.2.tar.gz",
+  "download_time": "2025-12-18T15:13:53.662306",
   "package_url": "https://pypi.org/project/test-project-client/"
 }

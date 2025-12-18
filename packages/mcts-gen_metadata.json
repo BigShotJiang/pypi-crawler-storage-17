@@ -1,0 +1,11 @@
+{
+  "name": "mcts-gen",
+  "version": "0.0.3",
+  "summary": "A generic MCTS framework driven by an external AI agent.",
+  "author": "Gemini, Perplexity, ChatGPT",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcts_gen-0.0.3.tar.gz",
+  "download_time": "2025-12-18T15:14:10.348066",
+  "package_url": "https://pypi.org/project/mcts-gen/"
+}

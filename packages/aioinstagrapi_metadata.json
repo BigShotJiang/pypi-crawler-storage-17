@@ -1,11 +1,11 @@
 {
   "name": "aioinstagrapi",
-  "version": "1.1.20",
+  "version": "1.1.21",
   "summary": "Fast and effective asynchronous Instagram Private API wrapper",
   "author": "Joshua Solo",
   "license": "MIT",
   "home_page": "https://github.com/ragedotdev/aioinstagrapi",
-  "download_filename": "aioinstagrapi-1.1.20.tar.gz",
-  "download_time": "2025-12-17T17:39:46.104100",
+  "download_filename": "aioinstagrapi-1.1.21.tar.gz",
+  "download_time": "2025-12-18T15:13:51.521158",
   "package_url": "https://pypi.org/project/aioinstagrapi/"
 }

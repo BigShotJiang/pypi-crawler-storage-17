@@ -1,0 +1,11 @@
+{
+  "name": "climkit",
+  "version": "0.0.3",
+  "summary": "Some tool function package for Climate",
+  "author": "Tingyang Song",
+  "license": null,
+  "home_page": "https://github.com/hhhopsong/climkit",
+  "download_filename": "climkit-0.0.3.tar.gz",
+  "download_time": "2025-12-18T15:14:30.075994",
+  "package_url": "https://pypi.org/project/climkit/"
+}

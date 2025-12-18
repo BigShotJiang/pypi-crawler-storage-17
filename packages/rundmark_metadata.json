@@ -1,11 +1,11 @@
 {
   "name": "rundmark",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Run document of Markdown",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rundmark-0.1.4.tar.gz",
-  "download_time": "2025-12-17T11:49:52.288246",
+  "download_filename": "rundmark-0.1.5.tar.gz",
+  "download_time": "2025-12-18T15:14:25.932916",
   "package_url": "https://pypi.org/project/rundmark/"
 }

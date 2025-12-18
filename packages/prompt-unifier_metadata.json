@@ -1,11 +1,11 @@
 {
   "name": "prompt-unifier",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "summary": "CLI tool for managing AI prompt templates with YAML frontmatter",
   "author": "Waewoo",
   "license": "MIT",
   "home_page": "https://waewoo.gitlab.io/prompt-unifier",
-  "download_filename": "prompt_unifier-2.3.1.tar.gz",
-  "download_time": "2025-12-18T07:50:48.572211",
+  "download_filename": "prompt_unifier-2.3.2.tar.gz",
+  "download_time": "2025-12-18T15:14:09.317597",
   "package_url": "https://pypi.org/project/prompt-unifier/"
 }

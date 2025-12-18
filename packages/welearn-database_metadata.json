@@ -1,0 +1,11 @@
+{
+  "name": "welearn-database",
+  "version": "1.1.0",
+  "summary": "All stuff related to relationnal database from the WeLearn project",
+  "author": "Théo",
+  "license": "cc-by-sa-nc",
+  "home_page": null,
+  "download_filename": "welearn_database-1.1.0.tar.gz",
+  "download_time": "2025-12-18T15:13:53.149751",
+  "package_url": "https://pypi.org/project/welearn-database/"
+}

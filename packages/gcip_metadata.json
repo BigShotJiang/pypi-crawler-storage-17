@@ -1,0 +1,11 @@
+{
+  "name": "gcip",
+  "version": "9.2.2",
+  "summary": "The Gitlab CI Python Library",
+  "author": "Thomas Steinbach",
+  "license": null,
+  "home_page": "https://gitlab.com/dbsystel/gitlab-ci-python-library",
+  "download_filename": "gcip-9.2.2-py3-none-any.whl",
+  "download_time": "2025-12-18T15:14:21.752687",
+  "package_url": "https://pypi.org/project/gcip/"
+}
