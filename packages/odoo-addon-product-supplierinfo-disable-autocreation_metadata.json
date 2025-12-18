@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-supplierinfo-disable-autocreation",
+  "version": "17.0.1.0.1",
+  "summary": "Add option to disable automatic creation of pricelists for suppliers",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_product_supplierinfo_disable_autocreation-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-18T23:44:34.716073",
+  "package_url": "https://pypi.org/project/odoo-addon-product-supplierinfo-disable-autocreation/"
+}

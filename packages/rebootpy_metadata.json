@@ -1,0 +1,11 @@
+{
+  "name": "rebootpy",
+  "version": "0.9.6",
+  "summary": "Library for interacting with fortnite services",
+  "author": "xMistt",
+  "license": "MIT",
+  "home_page": "https://github.com/xMistt/rebootpy",
+  "download_filename": "rebootpy-0.9.6.tar.gz",
+  "download_time": "2025-12-18T23:44:27.143682",
+  "package_url": "https://pypi.org/project/rebootpy/"
+}
