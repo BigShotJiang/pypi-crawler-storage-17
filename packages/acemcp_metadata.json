@@ -1,0 +1,11 @@
+{
+  "name": "acemcp",
+  "version": "0.2.2",
+  "summary": "MCP server for codebase indexing and semantic search with multi-encoding support and .gitignore integration",
+  "author": "wmymz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acemcp-0.2.2.tar.gz",
+  "download_time": "2025-12-18T04:52:29.574447",
+  "package_url": "https://pypi.org/project/acemcp/"
+}

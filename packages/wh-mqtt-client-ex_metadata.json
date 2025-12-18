@@ -1,0 +1,11 @@
+{
+  "name": "wh-mqtt-client-ex",
+  "version": "0.1.1",
+  "summary": "A MQTT library Wrapper",
+  "author": "kanbang",
+  "license": null,
+  "home_page": "https://github.com/kanbang/mqtt_client_ex",
+  "download_filename": "wh_mqtt_client_ex-0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-18T04:52:19.768855",
+  "package_url": "https://pypi.org/project/wh-mqtt-client-ex/"
+}

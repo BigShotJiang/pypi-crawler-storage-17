@@ -1,0 +1,11 @@
+{
+  "name": "synaptik-core-beta",
+  "version": "0.1.4",
+  "summary": "Synaptik Core Python bindings (hackathon build)",
+  "author": "Janay Harris",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "synaptik_core_beta-0.1.4-cp311-abi3-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-18T04:52:54.991801",
+  "package_url": "https://pypi.org/project/synaptik-core-beta/"
+}
