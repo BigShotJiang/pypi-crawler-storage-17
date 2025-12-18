@@ -1,0 +1,11 @@
+{
+  "name": "vizro",
+  "version": "0.1.50",
+  "summary": "Vizro is a low-code framework for building high-quality data visualization apps.",
+  "author": "Vizro Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vizro-0.1.50-py3-none-any.whl",
+  "download_time": "2025-12-18T15:54:09.395629",
+  "package_url": "https://pypi.org/project/vizro/"
+}

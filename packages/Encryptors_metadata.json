@@ -1,11 +1,11 @@
 {
   "name": "Encryptors",
-  "version": "2.13",
+  "version": "2.14",
   "summary": "End-to-end algorithm library",
   "author": "OSDental LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "encryptors-2.13.tar.gz",
-  "download_time": "2025-12-18T02:45:47.947243",
+  "download_filename": "encryptors-2.14.tar.gz",
+  "download_time": "2025-12-18T15:54:30.018193",
   "package_url": "https://pypi.org/project/Encryptors/"
 }

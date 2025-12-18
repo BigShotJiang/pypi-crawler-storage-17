@@ -1,11 +1,11 @@
 {
   "name": "kaag-pdf-exports",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Centralized PDF export styling for KAAG projects",
   "author": "KAAG Development Team",
   "license": null,
   "home_page": null,
-  "download_filename": "kaag_pdf_exports-0.2.3.tar.gz",
-  "download_time": "2025-12-18T15:39:02.237987",
+  "download_filename": "kaag_pdf_exports-0.2.4.tar.gz",
+  "download_time": "2025-12-18T15:54:06.827079",
   "package_url": "https://pypi.org/project/kaag-pdf-exports/"
 }

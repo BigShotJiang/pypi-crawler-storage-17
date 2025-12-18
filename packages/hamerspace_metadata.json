@@ -1,0 +1,11 @@
+{
+  "name": "hamerspace",
+  "version": "0.1.0",
+  "summary": "Model compression and optimization engine for non-LLM machine learning models",
+  "author": "Hamerspace Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yourusername/hamerspace",
+  "download_filename": "hamerspace-0.1.0.tar.gz",
+  "download_time": "2025-12-18T15:54:21.788829",
+  "package_url": "https://pypi.org/project/hamerspace/"
+}

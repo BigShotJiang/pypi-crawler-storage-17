@@ -1,0 +1,11 @@
+{
+  "name": "pygnssutils",
+  "version": "1.1.21",
+  "summary": "GNSS Command Line Utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygnssutils-1.1.21.tar.gz",
+  "download_time": "2025-12-18T15:53:54.394482",
+  "package_url": "https://pypi.org/project/pygnssutils/"
+}

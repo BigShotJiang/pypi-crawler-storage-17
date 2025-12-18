@@ -1,11 +1,11 @@
 {
   "name": "cudag",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "CUDAG - ComputerUseDataAugmentedGeneration framework for building VLM training data generators",
   "author": "ClaimHawk Michael",
   "license": null,
   "home_page": null,
-  "download_filename": "cudag-0.3.10.tar.gz",
-  "download_time": "2025-12-16T19:13:10.793971",
+  "download_filename": "cudag-0.3.11.tar.gz",
+  "download_time": "2025-12-18T15:53:57.548233",
   "package_url": "https://pypi.org/project/cudag/"
 }

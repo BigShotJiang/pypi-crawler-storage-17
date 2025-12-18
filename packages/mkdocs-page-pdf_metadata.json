@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-page-pdf",
+  "version": "0.4.0",
+  "summary": "Generate a PDF file for each MkDocs page",
+  "author": "brospars",
+  "license": "MIT",
+  "home_page": "https://github.com/brospars/mkdocs-page-pdf",
+  "download_filename": "mkdocs_page_pdf-0.4.0.tar.gz",
+  "download_time": "2025-12-18T15:54:29.503335",
+  "package_url": "https://pypi.org/project/mkdocs-page-pdf/"
+}
