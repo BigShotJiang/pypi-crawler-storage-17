@@ -1,15 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-18T11:31:23.950399
-- **Total Packages**: 95
-- **Total Size**: 32.37 MB
+- **Download Time**: 2025-12-18T11:42:27.928304
+- **Total Packages**: 94
+- **Total Size**: 3.56 MB
 
 ## Packages List
-- detdevlib
+- ortex
+- david8-postgresql
+- pyolive-ng
+- xautomata-hive
 - carlib
-- holoviz-mcp
+- various-api-tools
+- shmlock
+- noamath
+- bible-io
+- logicblocks.event.store
+- mcp-server-vefaas-function
+- iplotLogging
+- gc-google-services-api
+- alubia
+- maa-mcp
+- kaag-pdf-exports
+- darkcode-server
+- tp-shared
+- aiohttp-s3-client
+- batrachian-toad
+- rubxy
+- turbo-lambda
+- featuresmith
 - first-logs
+- feedback-mcp
+- torchx-nightly
+- opik
+- detdevlib
+- holoviz-mcp
 - ds-caselaw-marklogic-api-client
 - Geode-Simplex
 - amgi-paho-mqtt
@@ -21,7 +46,6 @@
 - amgi-sqs-event-source-mapping
 - asyncfast
 - amgi-common
-- darkcode-server
 - curvaceous
 - nami-surf
 - regression-inference
@@ -76,28 +100,3 @@
 - videosdk-plugins-deepgram
 - videosdk-plugins-cometapi
 - br-rapp-sdk
-- videosdk-plugins-cerebras
-- videosdk-plugins-cartesia
-- videosdk-plugins-azure
-- kong-sdk
-- multiqc-sav
-- videosdk-plugins-aws
-- videosdk-plugins-assemblyai
-- pyPreservica
-- videosdk-plugins-anthropic
-- videosdk-agents
-- github-mcp-server
-- dacquaviva-youtube-collector
-- httomolibgpu
-- xpander-sdk
-- reprospect
-- tonio
-- hvplot
-- airweave-sdk
-- tf-keras-nightly
-- planqk-quantum
-- ai-foundation-kit
-- geminiai-cli
-- uplm80
-- mx-bluesky
-- tocs

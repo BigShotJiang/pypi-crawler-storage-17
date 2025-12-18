@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-s3-client",
+  "version": "1.0.14",
+  "summary": "The simple module for putting and getting object from Amazon S3 compatible endpoints",
+  "author": "Dmitry Orlov",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/aiokitchen/aiohttp-s3-client",
+  "download_filename": "aiohttp_s3_client-1.0.14.tar.gz",
+  "download_time": "2025-12-18T11:41:47.892608",
+  "package_url": "https://pypi.org/project/aiohttp-s3-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "featuresmith",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Intelligent feature engineering and selection for machine learning",
   "author": "AbhishekDP2244",
   "license": "MIT",
   "home_page": "https://github.com/AbhishekDP2244/feature-forge",
-  "download_filename": "featuresmith-0.1.0.tar.gz",
-  "download_time": "2025-12-18T08:17:19.048332",
+  "download_filename": "featuresmith-0.1.1.tar.gz",
+  "download_time": "2025-12-18T11:41:50.033054",
   "package_url": "https://pypi.org/project/featuresmith/"
 }
