@@ -1,0 +1,11 @@
+{
+  "name": "Discord-Gameserver-Notifier",
+  "version": "0.3.1",
+  "summary": "A Python-based tool for automatic detection of game servers in the local network with Discord notifications via webhooks. Uses opengsq-python for game server communication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discord_gameserver_notifier-0.3.1.tar.gz",
+  "download_time": "2025-12-18T13:49:47.588082",
+  "package_url": "https://pypi.org/project/Discord-Gameserver-Notifier/"
+}

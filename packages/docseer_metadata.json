@@ -1,0 +1,11 @@
+{
+  "name": "docseer",
+  "version": "0.3.0",
+  "summary": "DocSeer: Summarize and understand your documents at a glance.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docseer-0.3.0.tar.gz",
+  "download_time": "2025-12-18T13:49:53.847501",
+  "package_url": "https://pypi.org/project/docseer/"
+}

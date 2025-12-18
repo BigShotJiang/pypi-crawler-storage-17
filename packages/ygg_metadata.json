@@ -1,11 +1,11 @@
 {
   "name": "ygg",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Type-friendly utilities for moving data between Python objects, Arrow, Polars, Pandas, Spark, and Databricks",
   "author": "Yggdrasil contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "ygg-0.1.14.tar.gz",
-  "download_time": "2025-12-15T13:51:48.313958",
+  "download_filename": "ygg-0.1.15.tar.gz",
+  "download_time": "2025-12-18T13:49:32.382186",
   "package_url": "https://pypi.org/project/ygg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tadamz-gui",
+  "version": "1.0.0a7",
+  "summary": "A frontend for the targeted analysis of LC-MS(/MS) data using the tadamz package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tadamz_gui-1.0.0a7.tar.gz",
+  "download_time": "2025-12-18T13:49:29.194910",
+  "package_url": "https://pypi.org/project/tadamz-gui/"
+}

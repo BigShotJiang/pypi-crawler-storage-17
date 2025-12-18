@@ -1,0 +1,11 @@
+{
+  "name": "libcrocoddyl",
+  "version": "3.2.0",
+  "summary": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/crocoddyl",
+  "download_filename": "libcrocoddyl-3.2.0.tar.gz",
+  "download_time": "2025-12-18T13:49:42.293337",
+  "package_url": "https://pypi.org/project/libcrocoddyl/"
+}

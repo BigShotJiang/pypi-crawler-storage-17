@@ -1,0 +1,11 @@
+{
+  "name": "android-tv-remote-desktop-app",
+  "version": "1.0.2",
+  "summary": "A premium Android TV Remote application for Linux with touch support and screen mirroring.",
+  "author": "Rex Ackermann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "android_tv_remote_desktop_app-1.0.2.tar.gz",
+  "download_time": "2025-12-18T13:49:24.471985",
+  "package_url": "https://pypi.org/project/android-tv-remote-desktop-app/"
+}

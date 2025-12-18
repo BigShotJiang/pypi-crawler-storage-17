@@ -1,0 +1,11 @@
+{
+  "name": "clever-bench",
+  "version": "1.4.0",
+  "summary": "Python library for running the CLEVER Benchmark",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clever_bench-1.4.0.tar.gz",
+  "download_time": "2025-12-18T13:49:41.769306",
+  "package_url": "https://pypi.org/project/clever-bench/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyolive-ng",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Python API for Athena Worker (Next Generation with Athena Broker).",
   "author": "Kiro Lee",
   "license": "Proprietary",
   "home_page": "http://www.ingris.com",
-  "download_filename": "pyolive_ng-1.0.6-py3-none-any.whl",
-  "download_time": "2025-12-18T12:22:55.554379",
+  "download_filename": "pyolive_ng-1.0.8-py3-none-any.whl",
+  "download_time": "2025-12-18T13:49:35.501671",
   "package_url": "https://pypi.org/project/pyolive-ng/"
 }

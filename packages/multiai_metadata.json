@@ -1,0 +1,11 @@
+{
+  "name": "multiai",
+  "version": "1.4.1",
+  "summary": "A Python library for text-based AI interactions with multi-provider support",
+  "author": "Katsutoshi Seki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multiai-1.4.1.tar.gz",
+  "download_time": "2025-12-18T13:49:36.542273",
+  "package_url": "https://pypi.org/project/multiai/"
+}

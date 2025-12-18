@@ -1,11 +1,11 @@
 {
   "name": "pychemelt",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pychemelt-0.1.10.tar.gz",
-  "download_time": "2025-12-18T13:10:43.347725",
+  "download_filename": "pychemelt-0.1.11.tar.gz",
+  "download_time": "2025-12-18T13:49:39.660432",
   "package_url": "https://pypi.org/project/pychemelt/"
 }

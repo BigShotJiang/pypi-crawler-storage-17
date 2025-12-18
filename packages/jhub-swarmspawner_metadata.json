@@ -1,11 +1,11 @@
 {
   "name": "jhub-swarmspawner",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "SwarmSpawner enables JupyterHub to spawn jupyter",
   "author": "Rasmus Munk",
   "license": "BSD",
   "home_page": "https://github.com/rasmunk/SwarmSpawner",
-  "download_filename": "jhub_swarmspawner-0.6.2.tar.gz",
-  "download_time": "2025-12-18T09:47:34.351722",
+  "download_filename": "jhub_swarmspawner-0.6.3.tar.gz",
+  "download_time": "2025-12-18T13:49:59.709755",
   "package_url": "https://pypi.org/project/jhub-swarmspawner/"
 }
