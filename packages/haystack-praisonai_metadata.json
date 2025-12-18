@@ -1,0 +1,11 @@
+{
+  "name": "haystack-praisonai",
+  "version": "0.1.0",
+  "summary": "Haystack integration for PraisonAI multi-agent framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "haystack_praisonai-0.1.0.tar.gz",
+  "download_time": "2025-12-18T20:33:40.333483",
+  "package_url": "https://pypi.org/project/haystack-praisonai/"
+}

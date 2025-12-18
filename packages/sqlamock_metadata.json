@@ -1,0 +1,11 @@
+{
+  "name": "sqlamock",
+  "version": "0.3.0",
+  "summary": "Provides mocks for SQLAlchemy using in-memory / on-file sqlite databases with growing support for PostgreSQL",
+  "author": "Chris Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlamock-0.3.0.tar.gz",
+  "download_time": "2025-12-18T20:33:25.865755",
+  "package_url": "https://pypi.org/project/sqlamock/"
+}

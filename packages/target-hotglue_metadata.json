@@ -1,0 +1,11 @@
+{
+  "name": "target-hotglue",
+  "version": "0.1.8",
+  "summary": "`target-hotglue` is an SDK for building Singer Targets for hotglue.",
+  "author": "hotglue",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "target_hotglue-0.1.8.tar.gz",
+  "download_time": "2025-12-18T20:33:10.211251",
+  "package_url": "https://pypi.org/project/target-hotglue/"
+}

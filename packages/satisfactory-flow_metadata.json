@@ -1,11 +1,11 @@
 {
   "name": "satisfactory-flow",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "Automate your automations. Production flow calculations for Satisfactory.",
   "author": "Apathetic Tools",
   "license": null,
   "home_page": null,
-  "download_filename": "satisfactory_flow-0.0.1.tar.gz",
-  "download_time": "2025-12-18T19:15:36.989050",
+  "download_filename": "satisfactory_flow-0.1.0.tar.gz",
+  "download_time": "2025-12-18T20:33:39.303485",
   "package_url": "https://pypi.org/project/satisfactory-flow/"
 }

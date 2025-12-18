@@ -1,0 +1,11 @@
+{
+  "name": "xarray-spatial",
+  "version": "0.5.2",
+  "summary": "xarray-based spatial analysis tools",
+  "author": "makepath",
+  "license": "MIT",
+  "home_page": "https://github.com/makepath/xarray-spatial",
+  "download_filename": "xarray_spatial-0.5.2-py3-none-any.whl",
+  "download_time": "2025-12-18T20:33:50.275710",
+  "package_url": "https://pypi.org/project/xarray-spatial/"
+}

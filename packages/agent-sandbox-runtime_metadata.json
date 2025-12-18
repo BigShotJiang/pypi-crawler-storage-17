@@ -1,0 +1,11 @@
+{
+  "name": "agent-sandbox-runtime",
+  "version": "1.0.0",
+  "summary": "Production-grade self-correcting AI agent platform with sandboxed execution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_sandbox_runtime-1.0.0.tar.gz",
+  "download_time": "2025-12-18T20:33:46.625691",
+  "package_url": "https://pypi.org/project/agent-sandbox-runtime/"
+}

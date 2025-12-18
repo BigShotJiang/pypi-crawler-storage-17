@@ -1,0 +1,11 @@
+{
+  "name": "eldar-mafia",
+  "version": "1.0.0",
+  "summary": "CLI Mafia Game (Group Moderator Game)",
+  "author": "Eldar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eldar_mafia-1.0.0.tar.gz",
+  "download_time": "2025-12-18T20:33:22.142390",
+  "package_url": "https://pypi.org/project/eldar-mafia/"
+}

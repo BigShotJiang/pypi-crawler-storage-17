@@ -1,11 +1,11 @@
 {
   "name": "django-mitre",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MITRE ATT&CK and MBC ingesters, models, and views",
   "author": "The Shadowserver Foundation",
   "license": null,
   "home_page": null,
-  "download_filename": "django_mitre-0.2.0.tar.gz",
-  "download_time": "2025-12-16T06:18:24.007418",
+  "download_filename": "django_mitre-0.2.1.tar.gz",
+  "download_time": "2025-12-18T20:33:51.308066",
   "package_url": "https://pypi.org/project/django-mitre/"
 }

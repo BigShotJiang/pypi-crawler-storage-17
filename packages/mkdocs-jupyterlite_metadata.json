@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-jupyterlite",
+  "version": "0.4.1",
+  "summary": "Embed interactive notebooks in your MkDocs site using JupyterLite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_jupyterlite-0.4.1.tar.gz",
+  "download_time": "2025-12-18T20:33:09.107064",
+  "package_url": "https://pypi.org/project/mkdocs-jupyterlite/"
+}

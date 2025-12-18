@@ -1,0 +1,11 @@
+{
+  "name": "python-maestro",
+  "version": "0.1.0",
+  "summary": "A lightweight orchestrator for managing Python tasks",
+  "author": "Ioannis Mougios",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_maestro-0.1.0.tar.gz",
+  "download_time": "2025-12-18T20:33:49.749051",
+  "package_url": "https://pypi.org/project/python-maestro/"
+}

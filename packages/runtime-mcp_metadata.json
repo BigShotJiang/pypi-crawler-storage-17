@@ -1,11 +1,11 @@
 {
   "name": "runtime-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP Runtime client for accessing cloud-based MCP capabilities",
   "author": "Runtime MCP",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "runtime_mcp-0.1.1.tar.gz",
-  "download_time": "2025-12-18T19:48:40.661218",
+  "download_filename": "runtime_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-18T20:33:33.055768",
   "package_url": "https://pypi.org/project/runtime-mcp/"
 }

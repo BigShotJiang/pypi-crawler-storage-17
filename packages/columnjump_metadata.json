@@ -1,0 +1,11 @@
+{
+  "name": "columnjump",
+  "version": "1.1.1",
+  "summary": "Fix column jumps for JWST NIRISS detector",
+  "author": "Chris Willott",
+  "license": null,
+  "home_page": "https://github.com/chriswillott/jwst/columnjump",
+  "download_filename": "columnjump-1.1.1.tar.gz",
+  "download_time": "2025-12-18T20:33:16.847315",
+  "package_url": "https://pypi.org/project/columnjump/"
+}

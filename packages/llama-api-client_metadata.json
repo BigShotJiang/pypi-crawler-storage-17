@@ -1,0 +1,11 @@
+{
+  "name": "llama-api-client",
+  "version": "0.6.0",
+  "summary": "The official Python library for the llama-api-client API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llama_api_client-0.6.0.tar.gz",
+  "download_time": "2025-12-18T20:33:13.978331",
+  "package_url": "https://pypi.org/project/llama-api-client/"
+}
