@@ -1,14 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-18T17:46:30.469124
-- **Total Packages**: 87
-- **Total Size**: 55.52 MB
+- **Download Time**: 2025-12-18T17:56:42.244311
+- **Total Packages**: 90
+- **Total Size**: 45.52 MB
 
 ## Packages List
+- webtoolkit
+- mtcli-market
+- msgmodel
+- xtrack
+- image-interlacement
+- mlgidGUI
+- demix
+- goedels-poetry
+- testmcpy
+- ctao-bdms-rucio-policy
+- pycarta
+- vaas
+- schools-sdk
+- investify-utils
+- poetry-test-project
+- printables-stats
+- fsspeckit
+- abstract-block-dumper
+- vtlengine
+- Mshp
+- scientific-writer
+- ezsuma
+- changelogtxt-parser
+- truss
+- cyberwave
+- profiles-rudderstack
+- luna-quantum
+- ndplot
+- griml
+- composabl-core-dev
+- REHO
+- composabl-train-dev
+- composabl-cli-dev
+- composabl-dev
+- composabl-api-dev
 - snorkelai-sdk
+- parts2kicad
+- kubiya-control-plane-api
+- wallaroo
+- gluex-rcdb
+- cvat-sdk
+- cvat-cli
+- ucndata
+- gluex-ccdb
 - oyemi-mcp
 - NEMO-CE
+- libmim-solvers
 - rappel
 - synod-cli
 - methodtenable
@@ -26,7 +70,6 @@
 - alibabacloud-vpc20160428
 - PraisonAI
 - sigima
-- mlgidGUI
 - autopolicy
 - orchard
 - neuracore
@@ -44,7 +87,6 @@
 - comfyui-workflow-templates-core
 - praisonaiagents
 - setupEM
-- testmcpy
 - alibabacloud-polardbx20200202
 - portal_tool
 - mistral-vibe
@@ -54,42 +96,3 @@
 - crocoddyl
 - impresso-text-preparation
 - sftppathlib
-- gito.bot
-- github-code-review
-- ai-cr
-- ai-code-review
-- investify-utils
-- auto-trainer-api
-- jps-ado-repo-utils
-- opticedge-types
-- unsloth
-- cleek
-- azureml-inference-server-http
-- pygments-bsl
-- crc-pulp-service-client
-- lmnr
-- DSSATTools
-- crc-pulp-file-client
-- umodl
-- crc-pulp-maven-client
-- gds2palace
-- crc-pulp-rpm-client
-- crc-pulp-gem-client
-- crc-pulp-npm-client
-- comtradeapicall
-- crc-pulp-python-client
-- tkinterweb
-- crc-pulpcore-client
-- openforis-whisp
-- articlib
-- quangpdf
-- unsloth-zoo
-- webtoolkitex
-- pyopenapi-gen
-- rs-mrt-dau-utilities
-- truenas-unlock
-- pypkg-recdep
-- tesswcs
-- rpscissors
-- gf-account-de-skr04-patch
-- owid-catalog

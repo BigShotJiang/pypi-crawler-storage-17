@@ -1,11 +1,11 @@
 {
   "name": "mtcli-market",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Plugin mtcli para exibição do market profile",
   "author": "Valmir França",
   "license": "GPL-3.0",
   "home_page": "https://github.com/vfranca/mtcli-market",
-  "download_filename": "mtcli_market-1.2.0.tar.gz",
-  "download_time": "2025-12-17T02:31:56.059279",
+  "download_filename": "mtcli_market-1.2.1.tar.gz",
+  "download_time": "2025-12-18T17:55:54.113988",
   "package_url": "https://pypi.org/project/mtcli-market/"
 }

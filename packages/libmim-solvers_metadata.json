@@ -1,0 +1,11 @@
+{
+  "name": "libmim-solvers",
+  "version": "0.2.0",
+  "summary": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/libmim_solvers",
+  "download_filename": "libmim_solvers-0.2.0.tar.gz",
+  "download_time": "2025-12-18T17:56:18.696240",
+  "package_url": "https://pypi.org/project/libmim-solvers/"
+}
