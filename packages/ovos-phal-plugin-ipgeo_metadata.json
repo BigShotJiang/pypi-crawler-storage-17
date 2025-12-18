@@ -1,0 +1,11 @@
+{
+  "name": "ovos-phal-plugin-ipgeo",
+  "version": "0.1.7",
+  "summary": "A PHAL plugin for mycroft",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-PHAL-plugin-ipgeo",
+  "download_filename": "ovos_phal_plugin_ipgeo-0.1.7.tar.gz",
+  "download_time": "2025-12-18T04:26:10.739079",
+  "package_url": "https://pypi.org/project/ovos-phal-plugin-ipgeo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tappy",
+  "version": "1.2.1",
+  "summary": "Command line script and Python library perform tidally-based analysis of water level data.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "tappy-1.2.1.tar.gz",
+  "download_time": "2025-12-18T04:25:37.972346",
+  "package_url": "https://pypi.org/project/tappy/"
+}

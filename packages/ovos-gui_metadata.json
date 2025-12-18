@@ -1,0 +1,11 @@
+{
+  "name": "ovos-gui",
+  "version": "1.3.4",
+  "summary": "ovos-core gui service daemon",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-gui",
+  "download_filename": "ovos_gui-1.3.4.tar.gz",
+  "download_time": "2025-12-18T04:26:06.598569",
+  "package_url": "https://pypi.org/project/ovos-gui/"
+}

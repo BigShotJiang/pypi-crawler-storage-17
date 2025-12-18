@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-cvm",
+  "version": "3.1.14",
+  "summary": "Tencent Cloud Cvm SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_cvm-3.1.14.tar.gz",
+  "download_time": "2025-12-18T04:25:43.227692",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cvm/"
+}

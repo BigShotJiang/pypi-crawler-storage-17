@@ -1,0 +1,11 @@
+{
+  "name": "ovos-stt-plugin-server",
+  "version": "0.1.3",
+  "summary": "ovos stt server plugin for mycroft",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-stt-server-plugin",
+  "download_filename": "ovos_stt_plugin_server-0.1.3.tar.gz",
+  "download_time": "2025-12-18T04:26:08.137632",
+  "package_url": "https://pypi.org/project/ovos-stt-plugin-server/"
+}

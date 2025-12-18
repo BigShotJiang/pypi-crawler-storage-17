@@ -1,0 +1,11 @@
+{
+  "name": "tl-parser",
+  "version": "0.7.12b1",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/astral-sh/astral-tl",
+  "download_filename": "tl_parser-0.7.12b1-cp312-cp312-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-18T04:26:10.215021",
+  "package_url": "https://pypi.org/project/tl-parser/"
+}
