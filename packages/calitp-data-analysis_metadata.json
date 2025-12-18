@@ -1,0 +1,11 @@
+{
+  "name": "calitp-data-analysis",
+  "version": "2025.12.17",
+  "summary": "Shared code for querying Cal-ITP data in notebooks, primarily.",
+  "author": "Andrew Vaccaro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "calitp_data_analysis-2025.12.17.tar.gz",
+  "download_time": "2025-12-18T21:12:12.166670",
+  "package_url": "https://pypi.org/project/calitp-data-analysis/"
+}

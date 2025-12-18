@@ -1,0 +1,11 @@
+{
+  "name": "opticol",
+  "version": "0.1.0a1",
+  "summary": "Implementations for the various Python Collection ABCs that optimize along various axes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opticol-0.1.0a1.tar.gz",
+  "download_time": "2025-12-18T21:12:15.823045",
+  "package_url": "https://pypi.org/project/opticol/"
+}

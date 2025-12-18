@@ -1,11 +1,11 @@
 {
   "name": "extergram",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A simple and convenient library for creating Telegram bots.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "extergram-0.5.1.tar.gz",
-  "download_time": "2025-12-17T20:38:35.817203",
+  "download_filename": "extergram-0.5.2.tar.gz",
+  "download_time": "2025-12-18T21:12:07.372197",
   "package_url": "https://pypi.org/project/extergram/"
 }

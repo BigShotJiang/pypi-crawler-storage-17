@@ -1,11 +1,11 @@
 {
   "name": "cloudcheck",
-  "version": "8.4.4",
+  "version": "8.5.1",
   "summary": "Detailed database of cloud providers. Instantly look up a domain or IP address",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloudcheck-8.4.4.tar.gz",
-  "download_time": "2025-12-18T19:48:42.461134",
+  "download_filename": "cloudcheck-8.5.1.tar.gz",
+  "download_time": "2025-12-18T21:12:24.245725",
   "package_url": "https://pypi.org/project/cloudcheck/"
 }
