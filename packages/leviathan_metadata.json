@@ -1,0 +1,11 @@
+{
+  "name": "leviathan",
+  "version": "2025.12.17",
+  "summary": "Genome-resolved taxonomic and pathway profiling",
+  "author": "Josh L. Espinoza",
+  "license": "Academic Only",
+  "home_page": "https://github.com/jolespin/leviathan",
+  "download_filename": "leviathan-2025.12.17.tar.gz",
+  "download_time": "2025-12-18T00:48:01.043411",
+  "package_url": "https://pypi.org/project/leviathan/"
+}

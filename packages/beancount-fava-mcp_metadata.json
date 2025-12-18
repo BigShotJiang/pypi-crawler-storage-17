@@ -1,0 +1,11 @@
+{
+  "name": "beancount-fava-mcp",
+  "version": "0.0.4",
+  "summary": "MCP server for Beancount Fava",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beancount_fava_mcp-0.0.4.tar.gz",
+  "download_time": "2025-12-18T00:48:13.112837",
+  "package_url": "https://pypi.org/project/beancount-fava-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mkmsg",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Send WhatsApp messages and Emails easily using Python",
   "author": "Mohamed",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mkmsg-0.0.5.tar.gz",
-  "download_time": "2025-12-15T23:48:51.696516",
+  "download_filename": "mkmsg-0.0.6.tar.gz",
+  "download_time": "2025-12-18T00:48:08.531452",
   "package_url": "https://pypi.org/project/mkmsg/"
 }

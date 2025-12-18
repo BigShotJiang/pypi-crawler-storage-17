@@ -1,0 +1,11 @@
+{
+  "name": "playlist-summarizer-core",
+  "version": "0.1.0",
+  "summary": "Core logic for YouTube playlist transcript fetching and AI-powered summarization",
+  "author": "Anthony Kovach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "playlist_summarizer_core-0.1.0.tar.gz",
+  "download_time": "2025-12-18T00:48:28.626365",
+  "package_url": "https://pypi.org/project/playlist-summarizer-core/"
+}

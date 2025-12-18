@@ -1,0 +1,11 @@
+{
+  "name": "nanosense",
+  "version": "1.3.0",
+  "summary": "A comprehensive package for solid state nanopore data analysis and visualization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nanosense-1.3.0.tar.gz",
+  "download_time": "2025-12-18T00:48:36.076803",
+  "package_url": "https://pypi.org/project/nanosense/"
+}
