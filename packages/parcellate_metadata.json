@@ -1,0 +1,11 @@
+{
+  "name": "parcellate",
+  "version": "0.1.0",
+  "summary": "A simple tool for extracting regional statistics from scalar neuroimaging maps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parcellate-0.1.0.tar.gz",
+  "download_time": "2025-12-18T14:41:53.606646",
+  "package_url": "https://pypi.org/project/parcellate/"
+}

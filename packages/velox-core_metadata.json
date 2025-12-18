@@ -1,0 +1,11 @@
+{
+  "name": "velox-core",
+  "version": "0.1.0",
+  "summary": "High-Performance Middleware Engine for LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "velox_core-0.1.0.tar.gz",
+  "download_time": "2025-12-18T14:41:56.175111",
+  "package_url": "https://pypi.org/project/velox-core/"
+}

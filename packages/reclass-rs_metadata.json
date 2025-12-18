@@ -1,11 +1,11 @@
 {
   "name": "reclass-rs",
-  "version": "0.10.0",
-  "summary": null,
-  "author": null,
-  "license": null,
+  "version": "0.10.1",
+  "summary": "Reclass defines a syntax and directory structure for recursively merging YAML data sources.",
+  "author": "VSHN AG <info@vshn.ch>",
+  "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "reclass_rs-0.10.0.tar.gz",
-  "download_time": "2025-12-18T13:10:21.005360",
+  "download_filename": "reclass_rs-0.10.1.tar.gz",
+  "download_time": "2025-12-18T14:41:59.666986",
   "package_url": "https://pypi.org/project/reclass-rs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nanopub-sign",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Python bindings for the Nanopub rust toolkit",
   "author": "Vincent Emonet <vincent.emonet@gmail.com>",
   "license": null,
   "home_page": "https://vemonet.github.io/nanopub-rs",
-  "download_filename": "nanopub_sign-0.1.8-cp310-cp310-macosx_10_7_x86_64.whl",
-  "download_time": "2025-12-18T13:11:09.634203",
+  "download_filename": "nanopub_sign-0.1.10-cp310-cp310-macosx_10_7_x86_64.whl",
+  "download_time": "2025-12-18T14:41:51.686305",
   "package_url": "https://pypi.org/project/nanopub-sign/"
 }
