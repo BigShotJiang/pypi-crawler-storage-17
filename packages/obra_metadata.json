@@ -1,11 +1,11 @@
 {
   "name": "obra",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Obra - Cloud-native AI orchestration platform for autonomous software development",
   "author": "Unpossible Creations, Inc.",
   "license": "Proprietary - All Rights Reserved",
   "home_page": null,
-  "download_filename": "obra-2.5.0-py3-none-any.whl",
-  "download_time": "2025-12-17T23:32:03.506703",
+  "download_filename": "obra-2.5.1-py3-none-any.whl",
+  "download_time": "2025-12-18T05:54:46.418923",
   "package_url": "https://pypi.org/project/obra/"
 }

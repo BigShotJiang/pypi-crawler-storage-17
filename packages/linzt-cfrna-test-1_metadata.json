@@ -1,0 +1,11 @@
+{
+  "name": "linzt-cfrna-test-1",
+  "version": "0.1.0",
+  "summary": "MCP server providing tools for scRNA analysis",
+  "author": "linzt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linzt_cfrna_test_1-0.1.0.tar.gz",
+  "download_time": "2025-12-18T05:54:42.741534",
+  "package_url": "https://pypi.org/project/linzt-cfrna-test-1/"
+}

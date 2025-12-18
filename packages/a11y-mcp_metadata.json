@@ -1,0 +1,11 @@
+{
+  "name": "a11y-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for accessibility testing with Cloudflare bypass using Camoufox and axe-core",
+  "author": "Antonio Ramirez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a11y_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-18T05:54:43.288182",
+  "package_url": "https://pypi.org/project/a11y-mcp/"
+}
