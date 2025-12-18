@@ -1,0 +1,11 @@
+{
+  "name": "VoLTGoLD-YT",
+  "version": "1.5.0",
+  "summary": "High performance CLI YouTube downloader (video / audio / shorts / playlists) with smart caching and auto quality handling",
+  "author": "VOLT5775",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voltgold_yt-1.5.0.tar.gz",
+  "download_time": "2025-12-18T17:17:15.619472",
+  "package_url": "https://pypi.org/project/VoLTGoLD-YT/"
+}

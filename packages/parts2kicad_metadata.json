@@ -1,0 +1,11 @@
+{
+  "name": "parts2kicad",
+  "version": "0.1.1",
+  "summary": "Integrate (add) symbols, footprints and 3D models from a SamacSys Partlib zip archive (as downloaded for instance from Mouser or Farnell) into local KiCad libraries quickly and without additional steps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parts2kicad-0.1.1.tar.gz",
+  "download_time": "2025-12-18T17:17:24.828352",
+  "package_url": "https://pypi.org/project/parts2kicad/"
+}

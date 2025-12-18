@@ -1,11 +1,11 @@
 {
   "name": "py-adtools",
-  "version": "0.1.17",
+  "version": "0.2.1",
   "summary": "Useful tools for parsing and evaluating Python programs for LLM-based algorithm design.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_adtools-0.1.17.tar.gz",
-  "download_time": "2025-12-18T15:54:05.287113",
+  "download_filename": "py_adtools-0.2.1.tar.gz",
+  "download_time": "2025-12-18T17:17:34.617545",
   "package_url": "https://pypi.org/project/py-adtools/"
 }

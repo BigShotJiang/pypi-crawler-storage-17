@@ -1,0 +1,11 @@
+{
+  "name": "happytransformer",
+  "version": "3.0.1",
+  "summary": "Happy Transformer makes it easy to fine-tune and perform inference with NLP Transformer models.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "happytransformer-3.0.1.tar.gz",
+  "download_time": "2025-12-18T17:17:25.888292",
+  "package_url": "https://pypi.org/project/happytransformer/"
+}

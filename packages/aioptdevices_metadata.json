@@ -1,11 +1,11 @@
 {
   "name": "aioptdevices",
-  "version": "2025.12.3",
+  "version": "2025.12.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aioptdevices-2025.12.3.tar.gz",
-  "download_time": "2025-12-17T19:31:02.646436",
+  "download_filename": "aioptdevices-2025.12.4.tar.gz",
+  "download_time": "2025-12-18T17:17:30.722904",
   "package_url": "https://pypi.org/project/aioptdevices/"
 }

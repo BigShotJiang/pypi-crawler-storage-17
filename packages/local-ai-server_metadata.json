@@ -1,0 +1,11 @@
+{
+  "name": "local-ai-server",
+  "version": "0.2.0a0",
+  "summary": "Offline AI coding assistant for Apple Silicon. Run LLMs locally with OpenAI-compatible API.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "local_ai_server-0.2.0a0.tar.gz",
+  "download_time": "2025-12-18T17:17:31.265518",
+  "package_url": "https://pypi.org/project/local-ai-server/"
+}

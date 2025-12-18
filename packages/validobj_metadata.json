@@ -1,11 +1,11 @@
 {
   "name": "validobj",
-  "version": "1.4",
+  "version": "1.5",
   "summary": "Validobj gives you valid objects",
   "author": "Zahari Kassabov",
   "license": null,
   "home_page": "https://github.com/Zaharid/validobj",
-  "download_filename": "validobj-1.4.tar.gz",
-  "download_time": "2025-12-17T22:12:32.564606",
+  "download_filename": "validobj-1.5.tar.gz",
+  "download_time": "2025-12-18T17:17:23.204761",
   "package_url": "https://pypi.org/project/validobj/"
 }

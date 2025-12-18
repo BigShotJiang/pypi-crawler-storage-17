@@ -1,11 +1,11 @@
 {
   "name": "insightsolver",
-  "version": "0.1.81",
+  "version": "0.1.83",
   "summary": "InsightSolver offers rule-based insights generation for actionable data-driven decisions.",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "insightsolver-0.1.81.tar.gz",
-  "download_time": "2025-12-15T20:12:57.180520",
+  "download_filename": "insightsolver-0.1.83.tar.gz",
+  "download_time": "2025-12-18T17:17:32.415214",
   "package_url": "https://pypi.org/project/insightsolver/"
 }
