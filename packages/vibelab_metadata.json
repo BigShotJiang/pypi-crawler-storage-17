@@ -1,11 +1,11 @@
 {
   "name": "vibelab",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Rigorous evaluation tool for comparing LLM coding agents",
   "author": "VibeLab Contributors",
   "license": "PolyForm Noncommercial 1.0.0",
   "home_page": null,
-  "download_filename": "vibelab-0.0.4-py3-none-any.whl",
-  "download_time": "2025-12-18T04:52:11.976446",
+  "download_filename": "vibelab-0.0.6-py3-none-any.whl",
+  "download_time": "2025-12-18T05:15:50.413957",
   "package_url": "https://pypi.org/project/vibelab/"
 }

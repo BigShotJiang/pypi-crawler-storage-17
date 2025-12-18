@@ -1,38 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-18T04:52:59.041216
-- **Total Packages**: 93
-- **Total Size**: 51.87 MB
+- **Download Time**: 2025-12-18T05:15:51.487257
+- **Total Packages**: 81
+- **Total Size**: 1.45 MB
 
 ## Packages List
-- vastai-sdk
-- sayou-chunking
-- pdfalyzer
-- BoschRpaMagicBox
-- vibelab
-- mgraph-db
-- sonarcal
-- dark-madr
-- papermc-plugin-manager
-- sfzen
-- pulumi-aws-native
-- karaoke-gen
-- medicafe
-- dependence
-- python-bytecode-ir
-- cogames
-- abstractcore
-- oasys2
-- turboloader
-- wh-mqtt-client-ex
-- jerm2000-stat-386-project
-- work-assistant-mcp
-- textual-logging
-- sayou-core
-- pxutil
-- module_dependency
-- casegenmc
 - p1-taskqueue
 - python-0g
 - python-ceair-helper
@@ -44,6 +17,7 @@
 - django-orbit
 - mlx-cpu
 - distant-frames
+- oasys2
 - acemcp
 - lunalib
 - odoo-addons-oca-storage
@@ -54,6 +28,7 @@
 - gundog
 - harbor-spec
 - mediapipe
+- jerm2000-stat-386-project
 - celine-utils
 - tencentcloud-sdk-python-vm
 - dataleon
@@ -99,3 +74,16 @@
 - spiritlong
 - otlmow-model
 - odoo-addons-oca-server-auth
+- openevals
+- aisbom-cli
+- robotpajamas.pants.ty
+- ovos-ww-plugin-vosk
+- ovos-plugin-manager
+- ovos-audio-plugin-simple
+- ovos-skill-ddg
+- ovos-vad-plugin-silero
+- ovos-workshop
+- ovos-utils
+- flux-mcp
+- vibelab
+- ovos-gui
