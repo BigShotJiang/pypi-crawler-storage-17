@@ -1,0 +1,11 @@
+{
+  "name": "embody-serial",
+  "version": "1.0.37",
+  "summary": "Communicate with the embody device over a serial port",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "embody_serial-1.0.37.tar.gz",
+  "download_time": "2025-12-18T14:56:58.164400",
+  "package_url": "https://pypi.org/project/embody-serial/"
+}

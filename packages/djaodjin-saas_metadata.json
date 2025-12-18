@@ -1,0 +1,11 @@
+{
+  "name": "djaodjin-saas",
+  "version": "1.1.6",
+  "summary": "Django application for software-as-service and subscription businesses",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "djaodjin_saas-1.1.6.tar.gz",
+  "download_time": "2025-12-18T14:56:10.674340",
+  "package_url": "https://pypi.org/project/djaodjin-saas/"
+}

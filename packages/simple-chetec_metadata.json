@@ -1,11 +1,11 @@
 {
   "name": "simple-chetec",
-  "version": "0.0.0",
+  "version": "0.4.3",
   "summary": "Stellar Interpretation for Meteoritic data and PLotting (for Everyone)",
   "author": null,
-  "license": "LGPL-3.0-or-later",
+  "license": null,
   "home_page": null,
-  "download_filename": "simple_chetec-0.0.0.tar.gz",
-  "download_time": "2025-12-16T17:56:27.751174",
+  "download_filename": "simple_chetec-0.4.3.tar.gz",
+  "download_time": "2025-12-18T14:56:24.339707",
   "package_url": "https://pypi.org/project/simple-chetec/"
 }

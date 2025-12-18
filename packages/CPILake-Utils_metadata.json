@@ -1,11 +1,11 @@
 {
   "name": "CPILake-Utils",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "summary": "Reusable common utility functions including email and hash functions",
   "author": "Abhilash Ibrahimpatnam",
   "license": null,
   "home_page": null,
-  "download_filename": "cpilake_utils-2.0.0.tar.gz",
-  "download_time": "2025-12-17T22:52:25.219793",
+  "download_filename": "cpilake_utils-3.0.0.tar.gz",
+  "download_time": "2025-12-18T14:56:45.805215",
   "package_url": "https://pypi.org/project/CPILake-Utils/"
 }

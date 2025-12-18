@@ -1,0 +1,11 @@
+{
+  "name": "epmp-igen-document-search-mcp-server",
+  "version": "0.2.1",
+  "summary": "InfoNgen search MCP server",
+  "author": "Mikita Demidtchik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "epmp_igen_document_search_mcp_server-0.2.1.tar.gz",
+  "download_time": "2025-12-18T14:56:48.148618",
+  "package_url": "https://pypi.org/project/epmp-igen-document-search-mcp-server/"
+}

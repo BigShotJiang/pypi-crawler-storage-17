@@ -1,11 +1,11 @@
 {
   "name": "web2json-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "智能网页解析代码生成器 - 基于 AI 自动生成网页解析代码",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "web2json_agent-1.0.1.tar.gz",
-  "download_time": "2025-12-18T14:15:19.564245",
+  "download_filename": "web2json_agent-1.0.2.tar.gz",
+  "download_time": "2025-12-18T14:56:37.792194",
   "package_url": "https://pypi.org/project/web2json-agent/"
 }

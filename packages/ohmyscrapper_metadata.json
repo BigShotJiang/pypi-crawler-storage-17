@@ -1,11 +1,11 @@
 {
   "name": "ohmyscrapper",
-  "version": "0.3.0",
-  "summary": "This project aims to create a text-based scraper containing links to create a final PDF with general information about job openings.",
+  "version": "0.3.1",
+  "summary": "OhMyScrapper scrapes texts and urls looking for links and jobs-data to create a final report with general information about job positions.",
   "author": "Cesar Cardoso",
   "license": null,
   "home_page": null,
-  "download_filename": "ohmyscrapper-0.3.0.tar.gz",
-  "download_time": "2025-12-17T17:40:17.623755",
+  "download_filename": "ohmyscrapper-0.3.1.tar.gz",
+  "download_time": "2025-12-18T14:56:56.463776",
   "package_url": "https://pypi.org/project/ohmyscrapper/"
 }

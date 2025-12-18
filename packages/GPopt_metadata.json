@@ -1,0 +1,11 @@
+{
+  "name": "GPopt",
+  "version": "0.10.0",
+  "summary": "Bayesian Optimization using Gaussian Process Regression",
+  "author": "Thierry Moudiki",
+  "license": "BSD",
+  "home_page": "https://github.com/thierrymoudiki/GPopt",
+  "download_filename": "gpopt-0.10.0.tar.gz",
+  "download_time": "2025-12-18T14:56:25.435129",
+  "package_url": "https://pypi.org/project/GPopt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deisa",
+  "version": "0.3.0",
+  "summary": "Dask enabled in-situ analysis",
+  "author": "Benoît Martin",
+  "license": "MIT",
+  "home_page": "https://github.com/deisa-project/deisa",
+  "download_filename": "deisa-0.3.0.tar.gz",
+  "download_time": "2025-12-18T14:56:13.017665",
+  "package_url": "https://pypi.org/project/deisa/"
+}

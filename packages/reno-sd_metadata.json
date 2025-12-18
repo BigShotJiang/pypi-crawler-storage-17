@@ -1,0 +1,11 @@
+{
+  "name": "reno-sd",
+  "version": "0.8.0",
+  "summary": "System dynamics modeling with bayesian inference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reno_sd-0.8.0.tar.gz",
+  "download_time": "2025-12-18T14:56:30.573141",
+  "package_url": "https://pypi.org/project/reno-sd/"
+}

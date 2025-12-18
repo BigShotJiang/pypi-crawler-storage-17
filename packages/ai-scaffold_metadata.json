@@ -1,0 +1,11 @@
+{
+  "name": "ai-scaffold",
+  "version": "1.0.0",
+  "summary": "Turn AI-generated Markdown or JSON into real project files",
+  "author": "Falah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_scaffold-1.0.0.tar.gz",
+  "download_time": "2025-12-18T14:56:53.592849",
+  "package_url": "https://pypi.org/project/ai-scaffold/"
+}

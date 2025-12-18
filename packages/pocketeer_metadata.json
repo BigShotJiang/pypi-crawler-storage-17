@@ -1,0 +1,11 @@
+{
+  "name": "pocketeer",
+  "version": "0.2.0",
+  "summary": "A minimal, fpocket-style pocket finder in pure Python/Numpy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pocketeer-0.2.0.tar.gz",
+  "download_time": "2025-12-18T14:56:35.435154",
+  "package_url": "https://pypi.org/project/pocketeer/"
+}

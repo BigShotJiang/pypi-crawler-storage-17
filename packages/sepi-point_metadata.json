@@ -1,11 +1,11 @@
 {
   "name": "sepi-point",
-  "version": "0.6.2",
+  "version": "0.6.4",
   "summary": "Detection of point mutation-mediated antimicrobial resistance in Staphylococcus epidermidis ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sepi_point-0.6.2.tar.gz",
-  "download_time": "2025-12-18T14:15:05.346042",
+  "download_filename": "sepi_point-0.6.4.tar.gz",
+  "download_time": "2025-12-18T14:56:51.239245",
   "package_url": "https://pypi.org/project/sepi-point/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "GDAL",
+  "version": "3.12.1",
+  "summary": "GDAL: Geospatial Data Abstraction Library",
+  "author": "Frank Warmerdam, Howard Butler, Even Rouault",
+  "license": null,
+  "home_page": "http://www.gdal.org",
+  "download_filename": "gdal-3.12.1.tar.gz",
+  "download_time": "2025-12-18T14:56:38.322741",
+  "package_url": "https://pypi.org/project/GDAL/"
+}

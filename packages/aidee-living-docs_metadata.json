@@ -1,0 +1,11 @@
+{
+  "name": "aidee-living-docs",
+  "version": "1.0.7",
+  "summary": "Helpers for generating living documentation with Sphinx and Behave",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aidee_living_docs-1.0.7.tar.gz",
+  "download_time": "2025-12-18T14:56:31.158519",
+  "package_url": "https://pypi.org/project/aidee-living-docs/"
+}
