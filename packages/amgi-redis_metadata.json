@@ -1,0 +1,11 @@
+{
+  "name": "amgi-redis",
+  "version": "0.26.0",
+  "summary": "AMGI Redis Server",
+  "author": "jack.burridge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amgi_redis-0.26.0.tar.gz",
+  "download_time": "2025-12-18T11:30:39.165451",
+  "package_url": "https://pypi.org/project/amgi-redis/"
+}

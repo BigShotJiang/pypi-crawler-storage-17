@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-aws",
-  "version": "0.0.51",
+  "version": "0.0.52",
   "summary": "VideoSDK Agent Framework plugin for AWS",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_aws-0.0.51.tar.gz",
-  "download_time": "2025-12-15T07:42:12.776415",
+  "download_filename": "videosdk_plugins_aws-0.0.52.tar.gz",
+  "download_time": "2025-12-18T11:31:13.620004",
   "package_url": "https://pypi.org/project/videosdk-plugins-aws/"
 }

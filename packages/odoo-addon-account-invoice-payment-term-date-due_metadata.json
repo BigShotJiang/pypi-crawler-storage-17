@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-payment-term-date-due",
+  "version": "18.0.1.0.0.2",
+  "summary": "Display invoices date due when using payment terms",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_payment_term_date_due-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-18T11:30:51.548556",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-payment-term-date-due/"
+}

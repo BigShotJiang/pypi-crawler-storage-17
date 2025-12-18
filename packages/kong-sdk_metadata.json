@@ -1,0 +1,11 @@
+{
+  "name": "kong-sdk",
+  "version": "0.0.42",
+  "summary": "Kong Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kong_sdk-0.0.42.tar.gz",
+  "download_time": "2025-12-18T11:31:12.596646",
+  "package_url": "https://pypi.org/project/kong-sdk/"
+}

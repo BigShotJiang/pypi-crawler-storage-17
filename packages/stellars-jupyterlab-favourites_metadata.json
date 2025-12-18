@@ -1,0 +1,11 @@
+{
+  "name": "stellars-jupyterlab-favourites",
+  "version": "1.0.3",
+  "summary": "Metapackage aggregating Stellars JupyterLab extensions, fixes, themes, and favourite third-party packages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stellars_jupyterlab_favourites-1.0.3.tar.gz",
+  "download_time": "2025-12-18T11:30:56.163229",
+  "package_url": "https://pypi.org/project/stellars-jupyterlab-favourites/"
+}

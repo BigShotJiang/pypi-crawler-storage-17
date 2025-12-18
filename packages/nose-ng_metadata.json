@@ -1,0 +1,11 @@
+{
+  "name": "nose-ng",
+  "version": "1.4.3",
+  "summary": "nose extends unittest to make testing easier",
+  "author": null,
+  "license": "GNU LGPL",
+  "home_page": null,
+  "download_filename": "nose_ng-1.4.3.tar.gz",
+  "download_time": "2025-12-18T11:31:04.904722",
+  "package_url": "https://pypi.org/project/nose-ng/"
+}

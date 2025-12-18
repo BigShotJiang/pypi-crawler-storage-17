@@ -1,0 +1,11 @@
+{
+  "name": "amgi-sqs-event-source-mapping",
+  "version": "0.26.0",
+  "summary": "AMGI SQS event source mapping handler",
+  "author": "jack.burridge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amgi_sqs_event_source_mapping-0.26.0.tar.gz",
+  "download_time": "2025-12-18T11:30:40.700315",
+  "package_url": "https://pypi.org/project/amgi-sqs-event-source-mapping/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scryr",
+  "version": "0.1.0",
+  "summary": "A minimal tool that maps project structure and intent",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scryr-0.1.0.tar.gz",
+  "download_time": "2025-12-18T11:30:50.523222",
+  "package_url": "https://pypi.org/project/scryr/"
+}

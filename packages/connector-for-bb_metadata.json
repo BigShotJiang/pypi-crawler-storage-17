@@ -1,11 +1,11 @@
 {
   "name": "connector-for-bb",
-  "version": "0.0.94",
+  "version": "0.0.95",
   "summary": "connector",
   "author": "Ivan",
   "license": "MIT",
   "home_page": "https://github.com/your_username/your_repository",
-  "download_filename": "connector_for_bb-0.0.94.tar.gz",
-  "download_time": "2025-12-18T11:12:20.207223",
+  "download_filename": "connector_for_bb-0.0.95.tar.gz",
+  "download_time": "2025-12-18T11:30:59.765594",
   "package_url": "https://pypi.org/project/connector-for-bb/"
 }
