@@ -1,0 +1,11 @@
+{
+  "name": "f5-logger",
+  "version": "99.0.0",
+  "summary": "F5 Security Research Placeholder",
+  "author": "Adam Logue",
+  "license": null,
+  "home_page": null,
+  "download_filename": "f5_logger-99.0.0.tar.gz",
+  "download_time": "2025-12-18T20:13:38.437408",
+  "package_url": "https://pypi.org/project/f5-logger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pingdetect",
-  "version": "1.0.0b2",
+  "version": "1.0.0b4",
   "summary": "Utility to perform object detection on sonar imagery.",
   "author": "Cameron Bodine",
   "license": null,
   "home_page": null,
-  "download_filename": "pingdetect-1.0.0b2.tar.gz",
-  "download_time": "2025-12-18T17:45:57.476331",
+  "download_filename": "pingdetect-1.0.0b4.tar.gz",
+  "download_time": "2025-12-18T20:13:44.626934",
   "package_url": "https://pypi.org/project/pingdetect/"
 }

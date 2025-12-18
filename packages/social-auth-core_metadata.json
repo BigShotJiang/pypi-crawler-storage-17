@@ -1,11 +1,11 @@
 {
   "name": "social-auth-core",
-  "version": "4.8.2",
+  "version": "4.8.3",
   "summary": "Python social authentication made simple.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "social_auth_core-4.8.2.tar.gz",
-  "download_time": "2025-12-18T10:43:20.387001",
+  "download_filename": "social_auth_core-4.8.3.tar.gz",
+  "download_time": "2025-12-18T20:13:44.101155",
   "package_url": "https://pypi.org/project/social-auth-core/"
 }

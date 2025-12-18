@@ -1,11 +1,11 @@
 {
   "name": "seokit",
-  "version": "1.0.7",
+  "version": "1.0.13",
   "summary": "Claude Code toolkit for creating high-quality SEO articles",
   "author": "nguyennguyenit",
-  "license": "Copyright (c) 2025 nguyennguyenit. All Rights Reserved.\n        \n        PROPRIETARY SOFTWARE LICENSE\n        \n        This software and associated documentation files (the \"Software\") are the\n        proprietary property of nguyennguyenit and are protected by copyright law.\n        \n        RESTRICTIONS:\n        1. You may NOT copy, modify, merge, publish, distribute, sublicense, or sell\n           copies of the Software without explicit written permission.\n        2. You may NOT reverse engineer, decompile, or disassemble the Software.\n        3. You may NOT use the Software for commercial purposes without a license.\n        \n        PERMITTED USE:\n        - Personal, non-commercial evaluation only.\n        - Usage requires compliance with all applicable laws.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,\n        DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.\n        \n        For licensing inquiries, contact: nguyennguyenit\n        ",
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "seokit-1.0.7.tar.gz",
-  "download_time": "2025-12-16T18:53:31.384576",
+  "download_filename": "seokit-1.0.13.tar.gz",
+  "download_time": "2025-12-18T20:14:13.945331",
   "package_url": "https://pypi.org/project/seokit/"
 }
