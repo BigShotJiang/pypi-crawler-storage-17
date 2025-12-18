@@ -1,11 +1,11 @@
 {
   "name": "u2-mcp",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "MCP server for Rocket Universe/UniData MultiValue databases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "u2_mcp-0.3.1.tar.gz",
-  "download_time": "2025-12-18T15:54:32.070336",
+  "download_filename": "u2_mcp-0.3.2.tar.gz",
+  "download_time": "2025-12-18T18:19:20.892284",
   "package_url": "https://pypi.org/project/u2-mcp/"
 }

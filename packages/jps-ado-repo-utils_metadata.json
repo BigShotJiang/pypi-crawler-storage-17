@@ -1,11 +1,11 @@
 {
   "name": "jps-ado-repo-utils",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Utils for managing Azure DevOps code repositories",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jps_ado_repo_utils-0.3.0.tar.gz",
-  "download_time": "2025-12-18T17:46:12.137940",
+  "download_filename": "jps_ado_repo_utils-0.4.0.tar.gz",
+  "download_time": "2025-12-18T18:19:15.759885",
   "package_url": "https://pypi.org/project/jps-ado-repo-utils/"
 }

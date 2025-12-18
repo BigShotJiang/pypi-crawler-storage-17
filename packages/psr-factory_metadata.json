@@ -1,11 +1,11 @@
 {
   "name": "psr-factory",
-  "version": "5.0.0b63",
+  "version": "5.0.0b64",
   "summary": "PSR database management module.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psr_factory-5.0.0b63-py3-none-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-12-18T14:56:15.299730",
+  "download_filename": "psr_factory-5.0.0b64-py3-none-win_amd64.whl",
+  "download_time": "2025-12-18T18:19:14.692894",
   "package_url": "https://pypi.org/project/psr-factory/"
 }

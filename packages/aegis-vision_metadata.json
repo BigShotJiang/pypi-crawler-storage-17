@@ -1,0 +1,11 @@
+{
+  "name": "aegis-vision",
+  "version": "0.2.31",
+  "summary": "Cloud-native computer vision model training toolkit for Aegis AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aegis_vision-0.2.31.tar.gz",
+  "download_time": "2025-12-18T18:19:41.357643",
+  "package_url": "https://pypi.org/project/aegis-vision/"
+}

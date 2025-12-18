@@ -1,11 +1,11 @@
 {
   "name": "libb-util",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "libb utility modules for python",
   "author": null,
   "license": "0BSD",
   "home_page": null,
-  "download_filename": "libb_util-0.0.14.tar.gz",
-  "download_time": "2025-12-18T17:45:46.858952",
+  "download_filename": "libb_util-0.0.16-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-18T18:19:12.506835",
   "package_url": "https://pypi.org/project/libb-util/"
 }
