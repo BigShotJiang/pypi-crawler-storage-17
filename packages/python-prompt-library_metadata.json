@@ -1,0 +1,11 @@
+{
+  "name": "python-prompt-library",
+  "version": "1.0.2",
+  "summary": "A Python prompy library to consolidate libraries and utility scripts",
+  "author": "Ryan Gutkowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_prompt_library-1.0.2.tar.gz",
+  "download_time": "2025-12-18T17:45:49.472112",
+  "package_url": "https://pypi.org/project/python-prompt-library/"
+}

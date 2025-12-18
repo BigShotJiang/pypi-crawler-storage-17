@@ -1,0 +1,11 @@
+{
+  "name": "gf-account-de-skr04-patch",
+  "version": "7.8.0",
+  "summary": "Extends the account_de_skr04 module (maintained by Martin Data Service GmbH Berlin) with taxes and tax codes for easy tax reporting.",
+  "author": "Grünfischer Consulting",
+  "license": "GPL-3",
+  "home_page": "https://www.gruenfischer.de",
+  "download_filename": "gf_account_de_skr04_patch-7.8.0.tar.gz",
+  "download_time": "2025-12-18T17:46:29.448505",
+  "package_url": "https://pypi.org/project/gf-account-de-skr04-patch/"
+}

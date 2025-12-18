@@ -1,0 +1,11 @@
+{
+  "name": "azureml-inference-server-http",
+  "version": "1.5.1",
+  "summary": "Azure Machine Learning inferencing server.",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": null,
+  "download_filename": "azureml_inference_server_http-1.5.1-py3-none-any.whl",
+  "download_time": "2025-12-18T17:46:14.248140",
+  "package_url": "https://pypi.org/project/azureml-inference-server-http/"
+}

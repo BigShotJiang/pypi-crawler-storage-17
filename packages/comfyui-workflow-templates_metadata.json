@@ -1,11 +1,11 @@
 {
   "name": "comfyui-workflow-templates",
-  "version": "0.7.59",
+  "version": "0.7.60",
   "summary": "ComfyUI workflow templates package",
   "author": "Comfy-Org",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfyui_workflow_templates-0.7.59.tar.gz",
-  "download_time": "2025-12-15T15:56:05.280610",
+  "download_filename": "comfyui_workflow_templates-0.7.60.tar.gz",
+  "download_time": "2025-12-18T17:45:57.998514",
   "package_url": "https://pypi.org/project/comfyui-workflow-templates/"
 }

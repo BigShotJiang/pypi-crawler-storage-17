@@ -1,0 +1,11 @@
+{
+  "name": "pypkg-recdep",
+  "version": "0.3",
+  "summary": "Recursively find dependencies for PyPI packages",
+  "author": "Tom Björkholm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypkg_recdep-0.3.tar.gz",
+  "download_time": "2025-12-18T17:46:27.881611",
+  "package_url": "https://pypi.org/project/pypkg-recdep/"
+}
