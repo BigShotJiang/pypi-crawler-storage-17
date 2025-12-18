@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-dns-infrastructure",
+  "version": "18.0.1.0.0.5",
+  "summary": "Base module for DNS infrastructure",
+  "author": "Elico Corp, LasLabs, Mind And Go, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/infrastructure",
+  "download_filename": "odoo_addon_base_dns_infrastructure-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-12-18T22:35:40.765420",
+  "package_url": "https://pypi.org/project/odoo-addon-base-dns-infrastructure/"
+}

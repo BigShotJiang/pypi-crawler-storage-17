@@ -1,0 +1,11 @@
+{
+  "name": "simdyn",
+  "version": "0.1.0",
+  "summary": "A modular dynamics library for control systems research",
+  "author": "SimDyn Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simdyn-0.1.0.tar.gz",
+  "download_time": "2025-12-18T22:35:51.600425",
+  "package_url": "https://pypi.org/project/simdyn/"
+}

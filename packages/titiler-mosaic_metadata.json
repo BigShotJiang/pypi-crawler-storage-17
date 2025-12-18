@@ -1,11 +1,11 @@
 {
   "name": "titiler-mosaic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "cogeo-mosaic (MosaicJSON) plugin for TiTiler.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "titiler_mosaic-1.0.0.tar.gz",
-  "download_time": "2025-12-17T08:17:55.463370",
+  "download_filename": "titiler_mosaic-1.0.1.tar.gz",
+  "download_time": "2025-12-18T22:35:30.375485",
   "package_url": "https://pypi.org/project/titiler-mosaic/"
 }

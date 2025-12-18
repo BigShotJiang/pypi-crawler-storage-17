@@ -1,0 +1,11 @@
+{
+  "name": "fupi",
+  "version": "1.40.1",
+  "summary": "A brute-force shortcut to fix python import hell. Acronym, standing for, um, Fix Up Python Imports. Sure, let's go with that.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fupi-1.40.1.tar.gz",
+  "download_time": "2025-12-18T22:35:36.691380",
+  "package_url": "https://pypi.org/project/fupi/"
+}
