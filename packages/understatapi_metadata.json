@@ -1,0 +1,11 @@
+{
+  "name": "understatapi",
+  "version": "0.7.0",
+  "summary": "An API for scraping data from understat.com,",
+  "author": "collinb9",
+  "license": null,
+  "home_page": "https://github.com/collinb9/understatAPI",
+  "download_filename": "understatapi-0.7.0.tar.gz",
+  "download_time": "2025-12-18T10:15:55.029537",
+  "package_url": "https://pypi.org/project/understatapi/"
+}

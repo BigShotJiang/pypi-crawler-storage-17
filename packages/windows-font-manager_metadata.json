@@ -1,11 +1,11 @@
 {
   "name": "windows-font-manager",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "summary": null,
   "author": "op200",
   "license": null,
   "home_page": null,
-  "download_filename": "windows_font_manager-0.1.4.tar.gz",
-  "download_time": "2025-12-17T13:46:30.084939",
+  "download_filename": "windows_font_manager-0.2.1.tar.gz",
+  "download_time": "2025-12-18T10:15:35.174027",
   "package_url": "https://pypi.org/project/windows-font-manager/"
 }

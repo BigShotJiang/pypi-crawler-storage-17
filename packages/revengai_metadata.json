@@ -1,11 +1,11 @@
 {
   "name": "revengai",
-  "version": "2.69.0",
+  "version": "2.70.0",
   "summary": "RevEng.AI API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "revengai-2.69.0.tar.gz",
-  "download_time": "2025-12-17T09:19:13.344952",
+  "download_filename": "revengai-2.70.0.tar.gz",
+  "download_time": "2025-12-18T10:15:57.618789",
   "package_url": "https://pypi.org/project/revengai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fastapi-cachex",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A caching library for FastAPI with support for Cache-Control, ETag, and multiple backends.",
   "author": "Allen",
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_cachex-0.2.1.tar.gz",
-  "download_time": "2025-12-18T06:55:13.568038",
+  "download_filename": "fastapi_cachex-0.2.2.tar.gz",
+  "download_time": "2025-12-18T10:15:50.334658",
   "package_url": "https://pypi.org/project/fastapi-cachex/"
 }
