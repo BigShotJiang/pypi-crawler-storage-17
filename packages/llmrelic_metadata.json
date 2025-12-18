@@ -1,11 +1,11 @@
 {
   "name": "llmrelic",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A lightweight Python library that provides easy access to popular LLM model names and allows you to define which models your application supports.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmrelic-0.1.5.tar.gz",
-  "download_time": "2025-12-18T06:19:10.673737",
+  "download_filename": "llmrelic-0.1.6.tar.gz",
+  "download_time": "2025-12-18T07:16:37.541459",
   "package_url": "https://pypi.org/project/llmrelic/"
 }

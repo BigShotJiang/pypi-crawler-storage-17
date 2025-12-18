@@ -1,0 +1,11 @@
+{
+  "name": "apswutils",
+  "version": "0.1.2",
+  "summary": "A fork of sqlite-minutils for apsw",
+  "author": "Daniel and Audrey Roy Greenfeld, and Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/apswutils",
+  "download_filename": "apswutils-0.1.2.tar.gz",
+  "download_time": "2025-12-18T07:16:33.716407",
+  "package_url": "https://pypi.org/project/apswutils/"
+}
