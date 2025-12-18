@@ -1,11 +1,11 @@
 {
   "name": "alibaba-cloud-application-management-mcp-server",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "The application management MCP server for Alibaba Cloud",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alibaba_cloud_application_management_mcp_server-1.0.2.tar.gz",
-  "download_time": "2025-12-17T11:11:43.934110",
+  "download_filename": "alibaba_cloud_application_management_mcp_server-1.0.4.tar.gz",
+  "download_time": "2025-12-18T12:22:58.769925",
   "package_url": "https://pypi.org/project/alibaba-cloud-application-management-mcp-server/"
 }

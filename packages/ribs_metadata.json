@@ -1,0 +1,11 @@
+{
+  "name": "ribs",
+  "version": "0.9.0",
+  "summary": "A bare-bones Python library for quality diversity optimization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ribs-0.9.0.tar.gz",
+  "download_time": "2025-12-18T12:22:52.931139",
+  "package_url": "https://pypi.org/project/ribs/"
+}

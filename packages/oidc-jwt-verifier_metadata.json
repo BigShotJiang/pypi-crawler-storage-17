@@ -1,0 +1,11 @@
+{
+  "name": "oidc-jwt-verifier",
+  "version": "0.1.2",
+  "summary": "Shared, hardened JWT verification core for OIDC/JWKS issuers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oidc_jwt_verifier-0.1.2.tar.gz",
+  "download_time": "2025-12-18T12:23:02.107134",
+  "package_url": "https://pypi.org/project/oidc-jwt-verifier/"
+}

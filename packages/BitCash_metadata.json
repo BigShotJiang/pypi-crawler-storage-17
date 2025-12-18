@@ -1,0 +1,11 @@
+{
+  "name": "BitCash",
+  "version": "1.1.2",
+  "summary": "Bitcoin Cash made easier.",
+  "author": "Teran McKinney",
+  "license": "MIT",
+  "home_page": "https://github.com/pybitcash/bitcash",
+  "download_filename": "bitcash-1.1.2-py3-none-any.whl",
+  "download_time": "2025-12-18T12:22:40.648468",
+  "package_url": "https://pypi.org/project/BitCash/"
+}

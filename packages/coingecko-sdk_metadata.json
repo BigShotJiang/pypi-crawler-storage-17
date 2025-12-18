@@ -1,0 +1,11 @@
+{
+  "name": "coingecko-sdk",
+  "version": "1.11.3",
+  "summary": "The official Python library for the coingecko API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "coingecko_sdk-1.11.3.tar.gz",
+  "download_time": "2025-12-18T12:22:24.943977",
+  "package_url": "https://pypi.org/project/coingecko-sdk/"
+}

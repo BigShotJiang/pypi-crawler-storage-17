@@ -1,0 +1,11 @@
+{
+  "name": "siare",
+  "version": "1.0.0",
+  "summary": "Self-Improving Agentic RAG Engine - Evolve multi-agent RAG pipelines using Quality-Diversity optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "siare-1.0.0.tar.gz",
+  "download_time": "2025-12-18T12:22:38.603728",
+  "package_url": "https://pypi.org/project/siare/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CTK-Color",
+  "version": "0.0.2",
+  "summary": "A customizable color tool for CTkinter Textboxes",
+  "author": "Vishal Sharma",
+  "license": "MIT",
+  "home_page": "https://github.com/vishal24102002/CTK_Color",
+  "download_filename": "ctk_color-0.0.2.tar.gz",
+  "download_time": "2025-12-18T12:22:27.644159",
+  "package_url": "https://pypi.org/project/CTK-Color/"
+}

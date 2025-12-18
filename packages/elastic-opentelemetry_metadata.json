@@ -1,0 +1,11 @@
+{
+  "name": "elastic-opentelemetry",
+  "version": "1.11.0",
+  "summary": "Elastic Distribution of OpenTelemetry Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elastic_opentelemetry-1.11.0.tar.gz",
+  "download_time": "2025-12-18T12:23:09.692855",
+  "package_url": "https://pypi.org/project/elastic-opentelemetry/"
+}
