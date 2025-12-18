@@ -1,11 +1,11 @@
 {
   "name": "gemini-video-assemble",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "Prompt-to-video assembly service powered by Gemini, packaged as an installable server.",
   "author": "Prompt Video Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "gemini_video_assemble-0.1.1.tar.gz",
-  "download_time": "2025-12-18T18:19:07.704260",
+  "download_filename": "gemini_video_assemble-1.0.0.tar.gz",
+  "download_time": "2025-12-18T18:53:44.604338",
   "package_url": "https://pypi.org/project/gemini-video-assemble/"
 }

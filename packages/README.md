@@ -1,48 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-18T18:19:51.424950
-- **Total Packages**: 78
-- **Total Size**: 64.37 MB
+- **Download Time**: 2025-12-18T18:54:18.058465
+- **Total Packages**: 88
+- **Total Size**: 5.8 MB
 
 ## Packages List
-- pygar-client
-- gemini-video-assemble
-- compudoc
-- ghostvision
-- kef
-- image-interlacement
-- langflow
-- scc-firewall-manager-sdk
-- coiled
-- libb-util
-- testmcpy
-- gold-dl
-- psr-factory
-- crowdstrike-aidr-google-genai
-- jps-ado-repo-utils
-- uzpreprocessor
-- web3-input-decoder
-- maia-toolkit
-- artificer-workflows
-- assumphelper
-- rp-itqa-autolib
-- dataclass-args
-- u2-mcp
-- codeset
-- crowdstrike-aidr-mcpscanner
-- mlbnb
-- ucndata
-- geodesic-api
-- GeneralManager
-- contextfs
-- xsuite
-- mbari-aidata
-- crowdstrike-aidr-openai
 - recce-nightly
+- image-interlacement
 - pulumi-aws-native
+- testmcpy
+- codeset
 - recce-cloud-nightly
 - flac-detective
+- assumphelper
 - langflow-cli
 - cyberdrop-dl-patched
 - a11y-mcp
@@ -53,12 +24,14 @@
 - crc-pulp-python-client
 - crc-pulpcore-client
 - mgraph-db
+- rp-itqa-autolib
 - umodl
 - mouc
 - rebecca-api
 - sekai-deck-recommend-cpp
 - VKPyKit
 - ai-infra
+- gemini-video-assemble
 - compose-farm
 - cmake-file-api
 - sae-lens
@@ -84,3 +57,40 @@
 - hyrax
 - etlplus
 - trellis-datamodel
+- webtoolkit
+- mtcli-market
+- msgmodel
+- xtrack
+- mlgidGUI
+- demix
+- goedels-poetry
+- ctao-bdms-rucio-policy
+- pycarta
+- vaas
+- schools-sdk
+- investify-utils
+- poetry-test-project
+- printables-stats
+- fsspeckit
+- abstract-block-dumper
+- vtlengine
+- Mshp
+- scientific-writer
+- ezsuma
+- changelogtxt-parser
+- truss
+- cyberwave
+- profiles-rudderstack
+- luna-quantum
+- griml
+- composabl-core-dev
+- REHO
+- composabl-train-dev
+- composabl-cli-dev
+- composabl-dev
+- composabl-api-dev
+- snorkelai-sdk
+- parts2kicad
+- kubiya-control-plane-api
+- wallaroo
+- gluex-rcdb

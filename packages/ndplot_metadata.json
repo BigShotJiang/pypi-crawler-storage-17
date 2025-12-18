@@ -1,11 +1,11 @@
 {
   "name": "ndplot",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A tool to perform n-dimensional plots from a collection of figures.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ndplot-1.0.1-py3-none-any.whl",
-  "download_time": "2025-12-18T18:19:31.911094",
+  "download_filename": "ndplot-1.0.3.tar.gz",
+  "download_time": "2025-12-18T18:53:37.575186",
   "package_url": "https://pypi.org/project/ndplot/"
 }
