@@ -1,11 +1,11 @@
 {
   "name": "telegram-bot-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Core utilities for Telegram bots (aiogram v3): menu manager, backend sync, clients.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telegram_bot_core-0.1.0.tar.gz",
-  "download_time": "2025-12-18T15:53:50.725517",
+  "download_filename": "telegram_bot_core-0.1.1.tar.gz",
+  "download_time": "2025-12-18T16:17:10.189742",
   "package_url": "https://pypi.org/project/telegram-bot-core/"
 }

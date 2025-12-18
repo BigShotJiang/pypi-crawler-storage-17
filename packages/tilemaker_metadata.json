@@ -1,11 +1,11 @@
 {
   "name": "tilemaker",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tilemaker-2.3.2.tar.gz",
-  "download_time": "2025-12-18T15:13:59.911406",
+  "download_filename": "tilemaker-2.3.3.tar.gz",
+  "download_time": "2025-12-18T16:17:08.653944",
   "package_url": "https://pypi.org/project/tilemaker/"
 }

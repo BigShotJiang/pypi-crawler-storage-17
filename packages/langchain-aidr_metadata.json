@@ -1,0 +1,11 @@
+{
+  "name": "langchain-aidr",
+  "version": "0.1.0",
+  "summary": "LangChain integrations for CrowdStrike AIDR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_aidr-0.1.0.tar.gz",
+  "download_time": "2025-12-18T16:16:33.394446",
+  "package_url": "https://pypi.org/project/langchain-aidr/"
+}

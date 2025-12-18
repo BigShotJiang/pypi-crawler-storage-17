@@ -1,0 +1,11 @@
+{
+  "name": "pycodac",
+  "version": "1.14.1a1",
+  "summary": "PyCODAC as a standalone application.",
+  "author": "Garbade, Marc",
+  "license": null,
+  "home_page": "https://gitlab.com/dlr-sy/pycodac",
+  "download_filename": "pycodac-1.14.1a1.tar.gz",
+  "download_time": "2025-12-18T16:17:02.424970",
+  "package_url": "https://pypi.org/project/pycodac/"
+}

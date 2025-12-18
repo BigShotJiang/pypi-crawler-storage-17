@@ -1,0 +1,11 @@
+{
+  "name": "physethta",
+  "version": "1.0.1",
+  "summary": "Assignment tool for physics TAs",
+  "author": "Sebastian Huber",
+  "license": null,
+  "home_page": "https://gitlab.phys.ethz.ch/sebastian.huber/physethta",
+  "download_filename": "physethta-1.0.1.tar.gz",
+  "download_time": "2025-12-18T16:17:06.012814",
+  "package_url": "https://pypi.org/project/physethta/"
+}

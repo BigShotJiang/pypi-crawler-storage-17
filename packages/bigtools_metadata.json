@@ -1,0 +1,11 @@
+{
+  "name": "bigtools",
+  "version": "1.4.1",
+  "summary": "Tools for python",
+  "author": "hongbo liu",
+  "license": "Apache",
+  "home_page": "https://gitee.com/maxbanana",
+  "download_filename": "bigtools-1.4.1.tar.gz",
+  "download_time": "2025-12-18T16:16:49.487565",
+  "package_url": "https://pypi.org/project/bigtools/"
+}

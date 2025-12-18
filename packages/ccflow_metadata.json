@@ -1,0 +1,11 @@
+{
+  "name": "ccflow",
+  "version": "0.8.0",
+  "summary": "ccflow is a collection of tools for workflow configuration, orchestration, and dependency injection",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ccflow-0.8.0.tar.gz",
+  "download_time": "2025-12-18T16:16:54.686567",
+  "package_url": "https://pypi.org/project/ccflow/"
+}

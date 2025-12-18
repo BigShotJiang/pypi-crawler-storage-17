@@ -1,11 +1,11 @@
 {
   "name": "ccvibe",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Open source CLI coding agent powered by Claude",
   "author": "Claude Vibe Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ccvibe-1.1.3.tar.gz",
-  "download_time": "2025-12-18T08:52:07.687293",
+  "download_filename": "ccvibe-1.1.4.tar.gz",
+  "download_time": "2025-12-18T16:17:05.501787",
   "package_url": "https://pypi.org/project/ccvibe/"
 }
