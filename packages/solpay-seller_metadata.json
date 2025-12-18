@@ -1,11 +1,11 @@
 {
   "name": "solpay-seller",
-  "version": "1",
+  "version": "1.0.1",
   "summary": "Python SDK for SolPay Seller API",
   "author": "SolPay",
   "license": null,
   "home_page": null,
-  "download_filename": "solpay_seller-1.tar.gz",
-  "download_time": "2025-12-18T22:52:39.017280",
+  "download_filename": "solpay_seller-1.0.1.tar.gz",
+  "download_time": "2025-12-18T23:13:18.211981",
   "package_url": "https://pypi.org/project/solpay-seller/"
 }

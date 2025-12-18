@@ -1,11 +1,11 @@
 {
   "name": "kalshi-python-async",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "summary": "Manually defined OpenAPI spec for endpoints being migrated to spec-first approach",
   "author": null,
   "license": "LicenseRef-Proprietary",
   "home_page": null,
-  "download_filename": "kalshi_python_async-3.2.0.tar.gz",
-  "download_time": "2025-12-16T22:12:25.622130",
+  "download_filename": "kalshi_python_async-3.2.1.tar.gz",
+  "download_time": "2025-12-18T23:12:57.019554",
   "package_url": "https://pypi.org/project/kalshi-python-async/"
 }

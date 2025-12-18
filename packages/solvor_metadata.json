@@ -1,11 +1,11 @@
 {
   "name": "solvor",
-  "version": "0.3.1",
-  "summary": "Pure Python optimization solvers. No dependencies, no nonsense.",
+  "version": "0.3.3",
+  "summary": "Solvor your optimization needs.",
   "author": "Steven Bytheway",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "solvor-0.3.1.tar.gz",
-  "download_time": "2025-12-18T14:56:46.984436",
+  "download_filename": "solvor-0.3.3.tar.gz",
+  "download_time": "2025-12-18T23:12:54.965374",
   "package_url": "https://pypi.org/project/solvor/"
 }

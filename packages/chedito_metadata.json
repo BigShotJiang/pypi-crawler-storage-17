@@ -1,0 +1,11 @@
+{
+  "name": "chedito",
+  "version": "25.0.0",
+  "summary": "A modern, feature-rich rich text editor for Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chedito-25.0.0.tar.gz",
+  "download_time": "2025-12-18T23:13:01.160681",
+  "package_url": "https://pypi.org/project/chedito/"
+}

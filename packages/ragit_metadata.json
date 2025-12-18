@@ -1,11 +1,11 @@
 {
   "name": "ragit",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Automatic RAG Pattern Optimization Engine",
   "author": "RODMENA LIMITED",
   "license": null,
   "home_page": null,
-  "download_filename": "ragit-0.7.3.tar.gz",
-  "download_time": "2025-12-17T13:46:01.091309",
+  "download_filename": "ragit-0.7.4.tar.gz",
+  "download_time": "2025-12-18T23:12:59.615862",
   "package_url": "https://pypi.org/project/ragit/"
 }

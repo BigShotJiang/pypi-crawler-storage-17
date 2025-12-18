@@ -1,0 +1,11 @@
+{
+  "name": "hippylib",
+  "version": "3.2.0",
+  "summary": "an Extensible Software Framework for Large-scale Deterministic and Bayesian Inverse Problems",
+  "author": "Umberto Villa, Noemi Petra, Omar Ghattas",
+  "license": null,
+  "home_page": "https://hippylib.github.io/",
+  "download_filename": "hippylib-3.2.0.tar.gz",
+  "download_time": "2025-12-18T23:13:15.123145",
+  "package_url": "https://pypi.org/project/hippylib/"
+}
