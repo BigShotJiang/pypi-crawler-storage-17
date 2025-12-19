@@ -1,0 +1,11 @@
+{
+  "name": "geniml",
+  "version": "0.8.3",
+  "summary": "Genomic interval toolkit",
+  "author": "Nathan Sheffield",
+  "license": "BSD2",
+  "home_page": "https://docs.bedbase.org/geniml/",
+  "download_filename": "geniml-0.8.3.tar.gz",
+  "download_time": "2025-12-19T16:59:29.038092",
+  "package_url": "https://pypi.org/project/geniml/"
+}

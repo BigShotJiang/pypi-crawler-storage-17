@@ -1,0 +1,11 @@
+{
+  "name": "py-cid",
+  "version": "0.4.0",
+  "summary": "Self-describing content-addressed identifiers for distributed systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_cid-0.4.0.tar.gz",
+  "download_time": "2025-12-19T16:59:36.221873",
+  "package_url": "https://pypi.org/project/py-cid/"
+}

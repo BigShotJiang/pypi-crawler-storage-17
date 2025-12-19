@@ -1,11 +1,11 @@
 {
   "name": "lattica-polymorph",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Polymarket data aggregator and pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lattica_polymorph-0.2.2.tar.gz",
-  "download_time": "2025-12-18T07:50:45.381349",
+  "download_filename": "lattica_polymorph-0.2.5.tar.gz",
+  "download_time": "2025-12-19T16:59:41.669755",
   "package_url": "https://pypi.org/project/lattica-polymorph/"
 }

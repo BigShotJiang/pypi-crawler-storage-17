@@ -1,14 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T16:46:16.500257
-- **Total Packages**: 86
-- **Total Size**: 51.94 MB
+- **Download Time**: 2025-12-19T17:00:17.715258
+- **Total Packages**: 89
+- **Total Size**: 22.84 MB
 
 ## Packages List
+- unique_sdk
+- geniml
+- ledger-analytics
+- pulumi-aws-native
+- django-db-translate
+- fast-simplification
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- camera-ui-sdk
+- pyrig
+- workbench
+- deno
+- celeste-speech-generation
+- py-cid
+- celeste-ai
+- iter-mint
+- lambert-rs
+- rdst-staging
+- remdb
+- munchboka-edutools
+- dsr-data-tools
+- lattica-polymorph
+- nextpipe
+- kognitos-bdk-linter
+- odoo-apps-Odoo-Apps-Sale-Workflow
+- sysdash-cli
+- InsarViz
+- census-lookup
+- binject
+- ccf
+- mappymatch
+- exoscraper
+- cratedb-django
+- TEvarSim
+- sphinxcontrib-confluencebuilder
+- plone.formwidget.hcaptcha
+- orto
+- ygg
+- djblue.portal
+- ytmusicapi
+- griptape-nodes
+- fluidimage
+- brixo
+- metabOmics
+- tunacode-cli
+- komitto
+- sphinx-theme-builder
+- typer
+- typer-cli
+- typer-slim
+- PraisonAI
+- torch-sim-atomistic
+- poelis-sdk
+- datadog-checks-base
+- spacecan
+- wasm-cli
+- paper-find-mcp
+- standardbots
+- polar-sdk
+- graphreveal
+- maleo-identity
 - upd-cli
 - ods-models-py
-- sysdash-cli
 - codemie-sdk-python
 - aimodelshare
 - dbt-adapters
@@ -18,10 +78,7 @@
 - scrapeMM
 - satelles
 - aifoundary
-- ygg
 - orun-py
-- binject
-- maleo-identity
 - nsflow
 - django-bolt
 - VIStk
@@ -38,57 +95,3 @@
 - sse-plugin-interface
 - dsr-utils
 - fragpipe-speclib
-- graphdatascience
-- daytona_sdk
-- daytona
-- code-scalpel
-- daytona_toolbox_api_client_async
-- ppgnss
-- daytona_api_client_async
-- scalexi-llm
-- daytona_api_client
-- osprey-framework
-- daytona_toolbox_api_client
-- prefect-aws
-- docu-devs-api-client
-- standardbots
-- pabulib-checker
-- imery
-- ndtkit-api
-- synalinks
-- iris-vector-graph
-- pi-zero-pytorch
-- omnibase_core
-- xautomata-hive
-- ooresults
-- dsr-data-tools
-- relai
-- environ-odoo-config
-- mcp-server-for-oscal
-- noamath
-- eoapi-cdk
-- gamslib
-- nemotron-graphic-elements-v1
-- gPCE-model
-- thomas-linden
-- tonic-textual
-- pathfinding-py
-- fediverse-features
-- textualeffects
-- intersystems-irispython
-- fusesell
-- digital-twinning
-- vellum-workflow-server
-- wry-py
-- openenv-core
-- aiida-hubbard
-- lumyn
-- bigtree
-- iplotlib
-- remdb
-- comfyui-nuvu
-- cumulus-fhir-support
-- iplotWidgets
-- astromodels
-- mapreader
-- csrlite

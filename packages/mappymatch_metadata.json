@@ -1,0 +1,11 @@
+{
+  "name": "mappymatch",
+  "version": "0.7.1",
+  "summary": "Pure python package for map-matching.",
+  "author": "National Renewable Energy Laboratory",
+  "license": "BSD 3-Clause License Copyright (c) 2022, Alliance for Sustainable Energy, LLC",
+  "home_page": null,
+  "download_filename": "mappymatch-0.7.1.tar.gz",
+  "download_time": "2025-12-19T16:59:46.584525",
+  "package_url": "https://pypi.org/project/mappymatch/"
+}

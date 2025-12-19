@@ -1,0 +1,11 @@
+{
+  "name": "exoscraper",
+  "version": "0.2.1",
+  "summary": "Package to scrape data on exoplanet targets to help you build your mission.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exoscraper-0.2.1.tar.gz",
+  "download_time": "2025-12-19T16:59:47.161961",
+  "package_url": "https://pypi.org/project/exoscraper/"
+}
