@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-ticket-contract-contract",
+  "version": "16.0.1.0.3",
+  "summary": "Allows to link helpdesk tickets with contracts.",
+  "author": "Som It Cooperatiu SCCL, Som Connexió SCCL, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_helpdesk_ticket_contract_contract-16.0.1.0.3.tar.gz",
+  "download_time": "2025-12-19T10:55:50.440888",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-ticket-contract-contract/"
+}

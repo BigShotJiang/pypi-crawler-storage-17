@@ -1,11 +1,11 @@
 {
   "name": "fustor-agent-sdk",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "SDK for Fustor Agent service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_agent_sdk-0.1.7.tar.gz",
-  "download_time": "2025-12-16T14:15:18.435670",
+  "download_filename": "fustor_agent_sdk-0.1.9.tar.gz",
+  "download_time": "2025-12-19T10:55:55.120532",
   "package_url": "https://pypi.org/project/fustor-agent-sdk/"
 }

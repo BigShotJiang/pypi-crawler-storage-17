@@ -1,11 +1,11 @@
 {
   "name": "fustor-core",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Core components for Fustor services and plugins",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_core-0.1.8.tar.gz",
-  "download_time": "2025-12-16T14:44:23.688106",
+  "download_filename": "fustor_core-0.1.9.tar.gz",
+  "download_time": "2025-12-19T10:56:02.862430",
   "package_url": "https://pypi.org/project/fustor-core/"
 }

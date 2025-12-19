@@ -1,11 +1,11 @@
 {
   "name": "fustor-fusion",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Fusion service for Fustor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_fusion-0.1.7.tar.gz",
-  "download_time": "2025-12-16T14:15:16.728268",
+  "download_filename": "fustor_fusion-0.1.9.tar.gz",
+  "download_time": "2025-12-19T10:55:53.053995",
   "package_url": "https://pypi.org/project/fustor-fusion/"
 }

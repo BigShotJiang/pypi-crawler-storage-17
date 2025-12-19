@@ -1,0 +1,11 @@
+{
+  "name": "pco",
+  "version": "2.5.0",
+  "summary": "This class provides methods for using pco cameras.",
+  "author": "Excelitas PCO GmbH",
+  "license": "MIT",
+  "home_page": "https://www.excelitas.com/de/product/pco-software-development-kits/",
+  "download_filename": "pco-2.5.0-py3-none-win_amd64.whl",
+  "download_time": "2025-12-19T10:56:07.044823",
+  "package_url": "https://pypi.org/project/pco/"
+}

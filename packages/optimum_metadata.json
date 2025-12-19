@@ -1,0 +1,11 @@
+{
+  "name": "optimum",
+  "version": "2.1.0",
+  "summary": "Optimum Library is an extension of the Hugging Face Transformers library, providing a framework to integrate third-party libraries from Hardware Partners and interface with their specific functionality.",
+  "author": "HuggingFace Inc. Special Ops Team",
+  "license": "Apache",
+  "home_page": "https://github.com/huggingface/optimum",
+  "download_filename": "optimum-2.1.0.tar.gz",
+  "download_time": "2025-12-19T10:55:44.208460",
+  "package_url": "https://pypi.org/project/optimum/"
+}

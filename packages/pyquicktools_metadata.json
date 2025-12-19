@@ -1,0 +1,11 @@
+{
+  "name": "pyquicktools",
+  "version": "0.1.0",
+  "summary": "Smart Python utilities for HTTP retries, logging control, async retries, and diagnostics CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyquicktools-0.1.0.tar.gz",
+  "download_time": "2025-12-19T10:55:39.042066",
+  "package_url": "https://pypi.org/project/pyquicktools/"
+}

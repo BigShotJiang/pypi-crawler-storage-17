@@ -1,11 +1,11 @@
 {
   "name": "fustor-source-mysql",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A MySQL source for Fustor Agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_source_mysql-0.1.7.tar.gz",
-  "download_time": "2025-12-16T14:15:21.289107",
+  "download_filename": "fustor_source_mysql-0.1.9.tar.gz",
+  "download_time": "2025-12-19T10:55:57.203570",
   "package_url": "https://pypi.org/project/fustor-source-mysql/"
 }
