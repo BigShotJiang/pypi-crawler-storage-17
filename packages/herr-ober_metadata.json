@@ -1,11 +1,11 @@
 {
   "name": "herr-ober",
-  "version": "0.1.17",
+  "version": "0.2.0",
   "summary": "High-performance S3 ingress controller for Ceph RGW clusters using HAProxy and ExaBGP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "herr_ober-0.1.17.tar.gz",
-  "download_time": "2025-12-19T19:50:05.531990",
+  "download_filename": "herr_ober-0.2.0.tar.gz",
+  "download_time": "2025-12-19T20:14:11.380734",
   "package_url": "https://pypi.org/project/herr-ober/"
 }

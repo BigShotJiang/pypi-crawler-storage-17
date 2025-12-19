@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-object-storage-mcp-server",
+  "version": "1.1.0",
+  "summary": "OCI Object Storage Service MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_object_storage_mcp_server-1.1.0.tar.gz",
+  "download_time": "2025-12-19T20:14:31.729917",
+  "package_url": "https://pypi.org/project/oracle.oci-object-storage-mcp-server/"
+}

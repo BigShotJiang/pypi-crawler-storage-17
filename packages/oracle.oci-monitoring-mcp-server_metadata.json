@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-monitoring-mcp-server",
+  "version": "1.1.0",
+  "summary": "OCI Monitoring Service MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_monitoring_mcp_server-1.1.0.tar.gz",
+  "download_time": "2025-12-19T20:14:33.892127",
+  "package_url": "https://pypi.org/project/oracle.oci-monitoring-mcp-server/"
+}

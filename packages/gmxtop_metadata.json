@@ -1,0 +1,11 @@
+{
+  "name": "gmxtop",
+  "version": "0.0.2",
+  "summary": "Read and write GROMACS topology files and alter associated force fields parameters.",
+  "author": "graeter-group",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmxtop-0.0.2.tar.gz",
+  "download_time": "2025-12-19T20:14:08.657386",
+  "package_url": "https://pypi.org/project/gmxtop/"
+}

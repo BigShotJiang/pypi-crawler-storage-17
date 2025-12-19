@@ -1,0 +1,11 @@
+{
+  "name": "vgazer",
+  "version": "81",
+  "summary": "Library for checking versions and installing various software",
+  "author": "Vasiliy Edomin",
+  "license": "CC0",
+  "home_page": "https://github.com/Survival-SDK/vgazer",
+  "download_filename": "vgazer-81.tar.gz",
+  "download_time": "2025-12-19T20:14:42.556005",
+  "package_url": "https://pypi.org/project/vgazer/"
+}
