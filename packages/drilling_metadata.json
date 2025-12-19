@@ -1,11 +1,11 @@
 {
   "name": "drilling",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Minha primeira lib no PyPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drilling-0.0.5.tar.gz",
-  "download_time": "2025-12-19T04:52:49.916069",
+  "download_filename": "drilling-0.0.6.tar.gz",
+  "download_time": "2025-12-19T06:19:23.823240",
   "package_url": "https://pypi.org/project/drilling/"
 }

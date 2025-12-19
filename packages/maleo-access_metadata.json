@@ -1,11 +1,11 @@
 {
   "name": "maleo-access",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "summary": "MaleoAccess service package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_access-0.0.21.tar.gz",
-  "download_time": "2025-12-18T10:15:58.778629",
+  "download_filename": "maleo_access-0.0.22.tar.gz",
+  "download_time": "2025-12-19T06:19:31.366910",
   "package_url": "https://pypi.org/project/maleo-access/"
 }

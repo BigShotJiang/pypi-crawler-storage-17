@@ -1,11 +1,11 @@
 {
   "name": "cloudformation-dataclasses",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "summary": "Python dataclasses for AWS CloudFormation template synthesis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloudformation_dataclasses-0.3.4.tar.gz",
-  "download_time": "2025-12-18T05:15:20.737122",
+  "download_filename": "cloudformation_dataclasses-0.4.0.tar.gz",
+  "download_time": "2025-12-19T06:19:57.077897",
   "package_url": "https://pypi.org/project/cloudformation-dataclasses/"
 }
