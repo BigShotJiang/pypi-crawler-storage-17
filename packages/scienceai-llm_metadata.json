@@ -1,0 +1,11 @@
+{
+  "name": "scienceai-llm",
+  "version": "0.4.2",
+  "summary": "An AI powered scientific literature search engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scienceai_llm-0.4.2.tar.gz",
+  "download_time": "2025-12-19T07:15:36.421698",
+  "package_url": "https://pypi.org/project/scienceai-llm/"
+}

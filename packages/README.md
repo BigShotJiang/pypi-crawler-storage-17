@@ -1,11 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T06:54:03.329900
-- **Total Packages**: 99
-- **Total Size**: 38.74 MB
+- **Download Time**: 2025-12-19T07:16:29.942610
+- **Total Packages**: 97
+- **Total Size**: 0.95 MB
 
 ## Packages List
+- kumparanian
+- pulumi-vault
+- openjiuwen
+- langgraph-checkpointer-couchbase
+- scienceai-llm
+- vexor
+- edupsyadmin
+- astur
 - df-test-framework
 - pulumi-vsphere
 - pulumi-wavefront
@@ -95,13 +103,3 @@
 - livekit-plugins-simli
 - network-mcp
 - livekit-plugins-silero
-- livekit-plugins-sarvam
-- pulumi-mongodbatlas
-- livekit-plugins-rtzr
-- livekit-plugins-rime
-- livekit-plugins-resemble
-- livekit-plugins-openai
-- livekit-plugins-nvidia
-- livekit-plugins-nltk
-- livekit-plugins-neuphonic
-- livekit-plugins-mistralai

@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-checkpointer-couchbase",
+  "version": "1.0.8",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_checkpointer_couchbase-1.0.8.tar.gz",
+  "download_time": "2025-12-19T07:15:35.809852",
+  "package_url": "https://pypi.org/project/langgraph-checkpointer-couchbase/"
+}

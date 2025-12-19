@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-12-19T06:54:03.329900",
-  "total_packages_downloaded": 99,
-  "total_size_mb": 38.74,
+  "download_time": "2025-12-19T07:16:29.942610",
+  "total_packages_downloaded": 97,
+  "total_size_mb": 0.95,
   "packages": [
+    "kumparanian",
+    "pulumi-vault",
+    "openjiuwen",
+    "langgraph-checkpointer-couchbase",
+    "scienceai-llm",
+    "vexor",
+    "edupsyadmin",
+    "astur",
     "df-test-framework",
     "pulumi-vsphere",
     "pulumi-wavefront",
@@ -91,16 +99,6 @@
     "livekit-plugins-smallestai",
     "livekit-plugins-simli",
     "network-mcp",
-    "livekit-plugins-silero",
-    "livekit-plugins-sarvam",
-    "pulumi-mongodbatlas",
-    "livekit-plugins-rtzr",
-    "livekit-plugins-rime",
-    "livekit-plugins-resemble",
-    "livekit-plugins-openai",
-    "livekit-plugins-nvidia",
-    "livekit-plugins-nltk",
-    "livekit-plugins-neuphonic",
-    "livekit-plugins-mistralai"
+    "livekit-plugins-silero"
   ]
 }

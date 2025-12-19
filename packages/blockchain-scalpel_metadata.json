@@ -1,11 +1,11 @@
 {
   "name": "blockchain-scalpel",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Blockchain parser (source-available). Free for non-commercial use with attribution. Commercial & SaaS licenses available.",
   "author": "Denis Leonov",
   "license": null,
   "home_page": null,
-  "download_filename": "blockchain_scalpel-2.0.2.tar.gz",
-  "download_time": "2025-12-19T06:53:23.158470",
+  "download_filename": "blockchain_scalpel-2.0.3.tar.gz",
+  "download_time": "2025-12-19T07:15:51.698298",
   "package_url": "https://pypi.org/project/blockchain-scalpel/"
 }
