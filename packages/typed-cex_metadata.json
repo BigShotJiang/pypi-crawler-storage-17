@@ -1,0 +1,11 @@
+{
+  "name": "typed-cex",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Cex API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_cex-0.1.0.tar.gz",
+  "download_time": "2025-12-19T10:39:16.584457",
+  "package_url": "https://pypi.org/project/typed-cex/"
+}

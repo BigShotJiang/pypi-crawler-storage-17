@@ -1,0 +1,11 @@
+{
+  "name": "open-klant-client",
+  "version": "0.4.0",
+  "summary": "API Client library to communicate with the Open Klant service.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_klant_client-0.4.0.tar.gz",
+  "download_time": "2025-12-19T10:39:59.005013",
+  "package_url": "https://pypi.org/project/open-klant-client/"
+}

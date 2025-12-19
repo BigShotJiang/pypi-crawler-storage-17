@@ -1,0 +1,11 @@
+{
+  "name": "80un",
+  "version": "0.2.2",
+  "summary": "Unpacker for CP/M compression and packing formats",
+  "author": "avwohl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "80un-0.2.2.tar.gz",
+  "download_time": "2025-12-19T10:39:42.896035",
+  "package_url": "https://pypi.org/project/80un/"
+}

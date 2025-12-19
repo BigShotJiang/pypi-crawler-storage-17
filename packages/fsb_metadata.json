@@ -1,0 +1,11 @@
+{
+  "name": "fsb",
+  "version": "0.1.0",
+  "summary": "Figure-Statistics Bundle: A specification for reproducible scientific figures",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "fsb-0.1.0.tar.gz",
+  "download_time": "2025-12-19T10:39:26.676155",
+  "package_url": "https://pypi.org/project/fsb/"
+}

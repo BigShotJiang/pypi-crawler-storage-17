@@ -1,11 +1,11 @@
 {
   "name": "jdcat",
-  "version": "1.2.2",
-  "summary": "实时检测支持回显配置",
+  "version": "1.2.3",
+  "summary": "更新版本返回值",
   "author": "Sensitive Check Team",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "jdcat-1.2.2.tar.gz",
-  "download_time": "2025-12-17T10:43:29.346145",
+  "download_filename": "jdcat-1.2.3.tar.gz",
+  "download_time": "2025-12-19T10:39:34.621991",
   "package_url": "https://pypi.org/project/jdcat/"
 }

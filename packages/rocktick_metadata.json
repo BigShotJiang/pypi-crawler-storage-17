@@ -1,11 +1,11 @@
 {
   "name": "rocktick",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "The official Python library for the rocktick API",
   "author": "Rocktick",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rocktick-0.6.1.tar.gz",
-  "download_time": "2025-12-18T09:18:59.703018",
+  "download_filename": "rocktick-0.7.0.tar.gz",
+  "download_time": "2025-12-19T10:39:41.871306",
   "package_url": "https://pypi.org/project/rocktick/"
 }
