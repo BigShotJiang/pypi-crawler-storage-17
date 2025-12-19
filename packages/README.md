@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T14:55:36.581843
-- **Total Packages**: 89
-- **Total Size**: 43.46 MB
+- **Download Time**: 2025-12-19T15:14:17.910533
+- **Total Packages**: 87
+- **Total Size**: 9.77 MB
 
 ## Packages List
+- blueapi
+- gitrun
+- pypicosdk
+- reprospect
+- StructReader
+- cflw
+- honest-chain
+- grasp_agents
+- de-console-client
+- mkarchi
+- kosmo-mcp
+- wheel-filename
+- sincei
+- everycure-datasets
+- amsterdam-schema-tools
+- edsnlp
+- sumt
+- maleo-identity
+- cai-framework
+- satvu
 - stouputils
 - infrapilot
 - neuracore
@@ -16,7 +36,6 @@
 - KekikStream
 - etlplus
 - axonflow
-- kosmo-mcp
 - opentslm
 - opik
 - ribbitxdb
@@ -40,7 +59,6 @@
 - uipath-langchain
 - documente_shared
 - base-aux
-- maleo-identity
 - system-health-check-test-unique
 - Jolt-Python-API
 - sneakydog_object_storage_service
@@ -75,23 +93,3 @@
 - emhass
 - pycivil
 - based-utils
-- wisent
-- seeragents
-- amazon-bedrock-haystack
-- pypeline-cli
-- nats-core
-- mepylome
-- honest-chain
-- broccoli-ml
-- odoo-addon-repair-security
-- agentops-core
-- agenta
-- rich-objects
-- Ooga-Booga-Python
-- unigram
-- pyckster
-- kqcircuits
-- pushikoo
-- timesat-cli
-- aimodelshare
-- langfuse

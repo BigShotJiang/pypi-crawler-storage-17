@@ -1,0 +1,11 @@
+{
+  "name": "cflw",
+  "version": "0.12.1",
+  "summary": "Control flow framework for running of state graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cflw-0.12.1-py3-none-any.whl",
+  "download_time": "2025-12-19T15:13:30.635496",
+  "package_url": "https://pypi.org/project/cflw/"
+}
