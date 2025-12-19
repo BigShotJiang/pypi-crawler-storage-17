@@ -1,0 +1,11 @@
+{
+  "name": "fal-mcp-server",
+  "version": "1.3.0",
+  "summary": "MCP server for Fal.ai - Generate images, videos, music and audio with AI models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fal_mcp_server-1.3.0.tar.gz",
+  "download_time": "2025-12-19T06:53:19.015070",
+  "package_url": "https://pypi.org/project/fal-mcp-server/"
+}

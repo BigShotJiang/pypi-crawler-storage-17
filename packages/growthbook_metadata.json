@@ -1,0 +1,11 @@
+{
+  "name": "growthbook",
+  "version": "1.4.10",
+  "summary": "Powerful Feature flagging and A/B testing for Python apps",
+  "author": "GrowthBook",
+  "license": "MIT",
+  "home_page": "https://github.com/growthbook/growthbook-python",
+  "download_filename": "growthbook-1.4.10.tar.gz",
+  "download_time": "2025-12-19T06:53:35.169799",
+  "package_url": "https://pypi.org/project/growthbook/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "goedels-poetry",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A recursive, reflective POETRY algorithm variant using Goedel-Prover-V2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "goedels_poetry-1.1.1.tar.gz",
-  "download_time": "2025-12-18T17:55:57.520336",
+  "download_filename": "goedels_poetry-1.1.2.tar.gz",
+  "download_time": "2025-12-19T06:53:43.515813",
   "package_url": "https://pypi.org/project/goedels-poetry/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-equipment-request",
+  "version": "14.0.4.2.0",
+  "summary": "Equipment Request",
+  "author": "PT. Simetri Sinergi Indonesia, OpenSynergy Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_equipment_request-14.0.4.2.0-py3-none-any.whl",
+  "download_time": "2025-12-19T06:53:23.676776",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-equipment-request/"
+}

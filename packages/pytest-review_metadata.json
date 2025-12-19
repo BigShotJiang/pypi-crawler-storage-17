@@ -1,0 +1,11 @@
+{
+  "name": "pytest-review",
+  "version": "0.1.0",
+  "summary": "A pytest plugin that reviews the quality of your tests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_review-0.1.0.tar.gz",
+  "download_time": "2025-12-19T06:53:13.800997",
+  "package_url": "https://pypi.org/project/pytest-review/"
+}
