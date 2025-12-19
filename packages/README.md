@@ -1,13 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T05:39:12.246331
-- **Total Packages**: 80
-- **Total Size**: 13.48 MB
+- **Download Time**: 2025-12-19T05:54:04.578593
+- **Total Packages**: 81
+- **Total Size**: 19.11 MB
 
 ## Packages List
-- highlighter-sdk
+- pct-eval
+- first-logs
+- pulumi-f5bigip
+- web3
 - passfx
+- echosms
+- codestory-cli
+- pulumi-external
+- pulumi-databricks
+- robo-infra
+- onecite
+- pulumi-dnsimple
+- superagentx
+- pulumi-archive
+- openbase
+- highflame-palisade
+- pulumi-alicloud
+- earth2studio
+- medusa-security
+- pulumi-consul
+- invarianthub
+- pulumi-confluentcloud
+- firecrawl
+- firecrawl-py
+- highlighter-sdk
 - resgen-python
 - pulumi-cloudngfwaws
 - trellis-3d-python
@@ -15,7 +38,6 @@
 - pulumi-azuread
 - pulumi-cloudinit
 - pulumi-cloudamqp
-- first-logs
 - lacrei-models
 - pulumi-azuredevops
 - junshan-kit
@@ -29,7 +51,6 @@
 - ctyun-cli
 - tensorax
 - fluss-api
-- invarianthub
 - pulumi-artifactory
 - liub-itmo-sem1-python-hw
 - acmax24
@@ -56,7 +77,6 @@
 - centrex-tlf-julia-extension
 - teda
 - tunacode-cli
-- openbase
 - python-qlv-helper
 - vllama
 - mcp-mail
@@ -67,22 +87,3 @@
 - lica
 - pkg-19544
 - trebellar-api
-- snail-core
-- sapiopycommons
-- ob-project-utils
-- slowql
-- bittensor-sentinel
-- infinite-tensor
-- xcmap
-- iamdata
-- modbuslink
-- gllm-core-binary
-- siglab-py
-- centrex-tlf
-- giskard-core
-- stVGP
-- trainviz
-- sunscreen-fhe
-- schema-mapper
-- robola
-- livekit-durable

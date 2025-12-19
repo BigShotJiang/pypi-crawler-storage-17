@@ -1,11 +1,11 @@
 {
   "name": "codestory-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Every project should have a good story behind it. With a good story (git history), you can reason about changes in a way that would be impossible just looking at a codebase. But let us do the work in creating that story",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codestory_cli-0.1.0.tar.gz",
-  "download_time": "2025-12-19T04:27:39.129735",
+  "download_filename": "codestory_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-19T05:53:23.904814",
   "package_url": "https://pypi.org/project/codestory-cli/"
 }
