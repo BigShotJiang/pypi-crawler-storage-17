@@ -1,0 +1,11 @@
+{
+  "name": "gamslib",
+  "version": "0.7.12",
+  "summary": "Modules and subpackages used in various GAMS5 related projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gamslib-0.7.12.tar.gz",
+  "download_time": "2025-12-19T16:46:02.374744",
+  "package_url": "https://pypi.org/project/gamslib/"
+}

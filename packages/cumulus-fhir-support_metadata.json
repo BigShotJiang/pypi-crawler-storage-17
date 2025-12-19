@@ -1,11 +1,11 @@
 {
   "name": "cumulus-fhir-support",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "summary": "FHIR support code for the Cumulus project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cumulus_fhir_support-1.9.1.tar.gz",
-  "download_time": "2025-12-19T16:15:06.454713",
+  "download_filename": "cumulus_fhir_support-1.9.2.tar.gz",
+  "download_time": "2025-12-19T16:46:13.866270",
   "package_url": "https://pypi.org/project/cumulus-fhir-support/"
 }

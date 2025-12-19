@@ -1,0 +1,11 @@
+{
+  "name": "openenv-core",
+  "version": "0.2.0",
+  "summary": "A unified framework for reinforcement learning environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openenv_core-0.2.0.tar.gz",
+  "download_time": "2025-12-19T16:46:10.118847",
+  "package_url": "https://pypi.org/project/openenv-core/"
+}

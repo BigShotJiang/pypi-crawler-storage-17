@@ -1,11 +1,11 @@
 {
   "name": "medusa-ssg",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Minimal Python static site generator. Markdown + Jinja2, Tailwind CSS built-in, zero configuration, no frontmatter.",
   "author": "wusher",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "medusa_ssg-0.1.5.tar.gz",
-  "download_time": "2025-12-19T05:38:45.669754",
+  "download_filename": "medusa_ssg-0.1.6.tar.gz",
+  "download_time": "2025-12-19T16:45:40.086246",
   "package_url": "https://pypi.org/project/medusa-ssg/"
 }

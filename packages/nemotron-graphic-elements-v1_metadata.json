@@ -1,0 +1,11 @@
+{
+  "name": "nemotron-graphic-elements-v1",
+  "version": "1.0.0",
+  "summary": "NVIDIA Nemotron Graphic Elements v1 - A specialized object detection system for identifying and extracting key elements from charts and graphs",
+  "author": null,
+  "license": "NVIDIA Open Model License",
+  "home_page": null,
+  "download_filename": "nemotron_graphic_elements_v1-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-19T16:46:02.885845",
+  "package_url": "https://pypi.org/project/nemotron-graphic-elements-v1/"
+}

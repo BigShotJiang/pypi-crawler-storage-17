@@ -1,0 +1,11 @@
+{
+  "name": "eoapi-cdk",
+  "version": "10.4.2",
+  "summary": "A set of constructs deploying pgSTAC with CDK",
+  "author": "Anthony Lukach<anthony@developmentseed.org>",
+  "license": "ISC",
+  "home_page": "https://github.com/developmentseed/eoapi-cdk.git",
+  "download_filename": "eoapi_cdk-10.4.2.tar.gz",
+  "download_time": "2025-12-19T16:46:01.348141",
+  "package_url": "https://pypi.org/project/eoapi-cdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nemotron-table-structure-v1",
+  "version": "1.0.0",
+  "summary": "Nemotron Table Structure v1 - A specialized object detection model for table structure extraction",
+  "author": null,
+  "license": "NVIDIA Open Model License",
+  "home_page": null,
+  "download_filename": "nemotron_table_structure_v1-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-19T16:45:42.153205",
+  "package_url": "https://pypi.org/project/nemotron-table-structure-v1/"
+}

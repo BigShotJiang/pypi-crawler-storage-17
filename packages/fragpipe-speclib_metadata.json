@@ -1,0 +1,11 @@
+{
+  "name": "fragpipe-speclib",
+  "version": "0.1.58",
+  "summary": "FragPipe-SpecLib: Simple library generation for FragPipe",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Nesvilab/FragPipe-SpecLib",
+  "download_filename": "fragpipe_speclib-0.1.58.tar.gz",
+  "download_time": "2025-12-19T16:45:44.748032",
+  "package_url": "https://pypi.org/project/fragpipe-speclib/"
+}

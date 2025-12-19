@@ -1,11 +1,11 @@
 {
   "name": "daytona",
-  "version": "0.125.0",
+  "version": "0.127.0",
   "summary": "Python SDK for Daytona",
   "author": "Daytona Platforms Inc.",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "daytona-0.125.0.tar.gz",
-  "download_time": "2025-12-15T10:46:42.557420",
+  "download_filename": "daytona-0.127.0.tar.gz",
+  "download_time": "2025-12-19T16:45:46.880033",
   "package_url": "https://pypi.org/project/daytona/"
 }

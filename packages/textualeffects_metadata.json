@@ -1,0 +1,11 @@
+{
+  "name": "textualeffects",
+  "version": "0.2.0",
+  "summary": "Visual effects for Textual, a TermincalTextEffects wrapper.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textualeffects-0.2.0.tar.gz",
+  "download_time": "2025-12-19T16:46:06.106343",
+  "package_url": "https://pypi.org/project/textualeffects/"
+}

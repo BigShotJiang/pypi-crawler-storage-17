@@ -1,0 +1,11 @@
+{
+  "name": "csrlite",
+  "version": "0.2.1",
+  "summary": "A hierarchical YAML-based framework for generating Tables, Listings, and Figures in clinical trials",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csrlite-0.2.1.tar.gz",
+  "download_time": "2025-12-19T16:46:15.999330",
+  "package_url": "https://pypi.org/project/csrlite/"
+}

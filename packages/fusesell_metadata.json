@@ -1,11 +1,11 @@
 {
   "name": "fusesell",
-  "version": "1.3.36",
+  "version": "1.3.37",
   "summary": "Complete AI-powered sales automation pipeline that runs entirely on your local machine.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fusesell-1.3.36.tar.gz",
-  "download_time": "2025-12-19T09:53:48.619367",
+  "download_filename": "fusesell-1.3.37.tar.gz",
+  "download_time": "2025-12-19T16:46:07.995493",
   "package_url": "https://pypi.org/project/fusesell/"
 }
