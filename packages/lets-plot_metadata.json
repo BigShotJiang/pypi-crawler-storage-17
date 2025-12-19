@@ -1,11 +1,11 @@
 {
   "name": "lets-plot",
-  "version": "4.8.1",
+  "version": "4.8.2",
   "summary": "An open source library for statistical plotting",
   "author": "JetBrains",
   "license": "MIT",
   "home_page": "https://lets-plot.org",
-  "download_filename": "lets_plot-4.8.1-cp310-cp310-macosx_10_15_x86_64.whl",
-  "download_time": "2025-12-18T16:16:41.224301",
+  "download_filename": "lets_plot-4.8.2-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-19T13:45:31.761308",
   "package_url": "https://pypi.org/project/lets-plot/"
 }

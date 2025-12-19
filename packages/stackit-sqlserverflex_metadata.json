@@ -1,0 +1,11 @@
+{
+  "name": "stackit-sqlserverflex",
+  "version": "1.1.1",
+  "summary": "STACKIT MSSQL Service API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_sqlserverflex-1.1.1.tar.gz",
+  "download_time": "2025-12-19T13:46:00.739444",
+  "package_url": "https://pypi.org/project/stackit-sqlserverflex/"
+}

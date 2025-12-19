@@ -1,0 +1,11 @@
+{
+  "name": "memgraph-toolbox",
+  "version": "0.1.8",
+  "summary": "Memgraph toolbox library for Memgraph AI tools and utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memgraph_toolbox-0.1.8.tar.gz",
+  "download_time": "2025-12-19T13:46:07.150675",
+  "package_url": "https://pypi.org/project/memgraph-toolbox/"
+}

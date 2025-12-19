@@ -1,0 +1,11 @@
+{
+  "name": "damapper",
+  "version": "1.7.11a1",
+  "summary": "DaMapper as a standalone application.",
+  "author": "Garbade, Marc",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "damapper-1.7.11a1.tar.gz",
+  "download_time": "2025-12-19T13:46:13.104376",
+  "package_url": "https://pypi.org/project/damapper/"
+}

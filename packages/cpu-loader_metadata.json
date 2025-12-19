@@ -1,0 +1,11 @@
+{
+  "name": "cpu-loader",
+  "version": "0.6.1",
+  "summary": "A tool to generate CPU load on a system with runtime configuration through a WebUI and REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpu_loader-0.6.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-19T13:46:08.754210",
+  "package_url": "https://pypi.org/project/cpu-loader/"
+}

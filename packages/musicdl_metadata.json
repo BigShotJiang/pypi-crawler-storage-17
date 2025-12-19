@@ -1,11 +1,11 @@
 {
   "name": "musicdl",
-  "version": "2.7.3",
+  "version": "2.7.4",
   "summary": "Musicdl: A lightweight music downloader written in pure python",
   "author": "Zhenchao Jin",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/CharlesPikachu/musicdl",
-  "download_filename": "musicdl-2.7.3.tar.gz",
-  "download_time": "2025-12-16T19:47:38.186887",
+  "download_filename": "musicdl-2.7.4.tar.gz",
+  "download_time": "2025-12-19T13:45:58.550460",
   "package_url": "https://pypi.org/project/musicdl/"
 }

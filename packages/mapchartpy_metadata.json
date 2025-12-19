@@ -1,0 +1,11 @@
+{
+  "name": "mapchartpy",
+  "version": "0.0.2",
+  "summary": "Some utilities for modifying or creating save files from mapchart.net",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mapchartpy-0.0.2.tar.gz",
+  "download_time": "2025-12-19T13:45:48.007015",
+  "package_url": "https://pypi.org/project/mapchartpy/"
+}

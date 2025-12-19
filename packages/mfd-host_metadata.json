@@ -1,0 +1,11 @@
+{
+  "name": "mfd-host",
+  "version": "2.1.0",
+  "summary": "MFD Host provides a unified Python interface for managing and interacting with Systems Under Tests (SUTs) AKA Hosts and their capabilities across multiple operating systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mfd_host-2.1.0-py3-none-any.whl",
+  "download_time": "2025-12-19T13:46:00.192787",
+  "package_url": "https://pypi.org/project/mfd-host/"
+}

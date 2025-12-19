@@ -1,11 +1,11 @@
 {
   "name": "claude-code-orchestrator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Orchestrator for running parallel Claude Code agents on multiple tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_orchestrator-0.1.0.tar.gz",
-  "download_time": "2025-12-19T11:31:00.361570",
+  "download_filename": "claude_code_orchestrator-0.2.0.tar.gz",
+  "download_time": "2025-12-19T13:45:40.880413",
   "package_url": "https://pypi.org/project/claude-code-orchestrator/"
 }
