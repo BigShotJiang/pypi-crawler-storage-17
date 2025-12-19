@@ -1,0 +1,11 @@
+{
+  "name": "seven2one-questra-authentication",
+  "version": "0.3.0",
+  "summary": "Authentication Client for Questra to use in all other Questra Client Libraries",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "seven2one_questra_authentication-0.3.0.tar.gz",
+  "download_time": "2025-12-19T07:51:13.626945",
+  "package_url": "https://pypi.org/project/seven2one-questra-authentication/"
+}

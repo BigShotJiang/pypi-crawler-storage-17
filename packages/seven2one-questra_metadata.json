@@ -1,0 +1,11 @@
+{
+  "name": "seven2one-questra",
+  "version": "0.7.0",
+  "summary": "Unified Python Client für Questra Platform - Umbrella Package für Authentication und Data API",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "seven2one_questra-0.7.0.tar.gz",
+  "download_time": "2025-12-19T07:51:10.881353",
+  "package_url": "https://pypi.org/project/seven2one-questra/"
+}

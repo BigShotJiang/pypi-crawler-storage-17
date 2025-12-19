@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-users",
+  "version": "15.0.2",
+  "summary": "Ready-to-use and customizable users management for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_users-15.0.2.tar.gz",
+  "download_time": "2025-12-19T07:51:22.033702",
+  "package_url": "https://pypi.org/project/fastapi-users/"
+}
