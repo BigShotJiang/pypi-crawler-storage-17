@@ -1,0 +1,11 @@
+{
+  "name": "typed-independentreserve",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Independentreserve API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_independentreserve-0.1.0.tar.gz",
+  "download_time": "2025-12-19T21:33:24.875323",
+  "package_url": "https://pypi.org/project/typed-independentreserve/"
+}

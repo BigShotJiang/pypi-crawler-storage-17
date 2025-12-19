@@ -1,11 +1,11 @@
 {
   "name": "ontolutils",
-  "version": "0.25.0",
+  "version": "0.25.1",
   "summary": "Utility library for the work with ontologies.",
   "author": "Matthias Probst",
   "license": null,
   "home_page": "https://github.com/matthiasprobst/ontology-utils",
-  "download_filename": "ontolutils-0.25.0.tar.gz",
-  "download_time": "2025-12-17T22:36:07.006018",
+  "download_filename": "ontolutils-0.25.1.tar.gz",
+  "download_time": "2025-12-19T21:33:24.363047",
   "package_url": "https://pypi.org/project/ontolutils/"
 }
