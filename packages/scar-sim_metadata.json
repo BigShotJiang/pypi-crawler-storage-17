@@ -1,11 +1,11 @@
 {
   "name": "scar-sim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A pure python Supply Chain Adaptation and Resilience simulation tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scar_sim-0.0.2.tar.gz",
-  "download_time": "2025-12-18T16:49:23.199335",
+  "download_filename": "scar_sim-0.0.3.tar.gz",
+  "download_time": "2025-12-19T20:37:10.095757",
   "package_url": "https://pypi.org/project/scar-sim/"
 }

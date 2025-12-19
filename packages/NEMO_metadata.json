@@ -1,0 +1,11 @@
+{
+  "name": "NEMO",
+  "version": "7.3.0",
+  "summary": "NEMO is a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nemo-7.3.0.tar.gz",
+  "download_time": "2025-12-19T20:36:47.589255",
+  "package_url": "https://pypi.org/project/NEMO/"
+}

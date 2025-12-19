@@ -1,0 +1,11 @@
+{
+  "name": "envschema",
+  "version": "1.0.0",
+  "summary": "Type-safe environment variables with automatic validation and documentation generation",
+  "author": "AzaZLO",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/g7AzaZLO/envschema",
+  "download_filename": "envschema-1.0.0.tar.gz",
+  "download_time": "2025-12-19T20:36:57.535587",
+  "package_url": "https://pypi.org/project/envschema/"
+}

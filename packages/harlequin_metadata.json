@@ -1,11 +1,11 @@
 {
   "name": "harlequin",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "The SQL IDE for Your Terminal.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "harlequin-2.5.0.tar.gz",
-  "download_time": "2025-12-17T16:52:02.748519",
+  "download_filename": "harlequin-2.5.1.tar.gz",
+  "download_time": "2025-12-19T20:37:13.901007",
   "package_url": "https://pypi.org/project/harlequin/"
 }
