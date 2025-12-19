@@ -1,0 +1,11 @@
+{
+  "name": "icalendar",
+  "version": "6.3.2",
+  "summary": "iCalendar parser/generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icalendar-6.3.2.tar.gz",
+  "download_time": "2025-12-19T23:13:21.533351",
+  "package_url": "https://pypi.org/project/icalendar/"
+}

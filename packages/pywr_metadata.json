@@ -1,0 +1,11 @@
+{
+  "name": "pywr",
+  "version": "1.29.0",
+  "summary": "Python Water Resource model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pywr-1.29.0.tar.gz",
+  "download_time": "2025-12-19T23:13:18.924222",
+  "package_url": "https://pypi.org/project/pywr/"
+}

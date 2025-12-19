@@ -1,0 +1,11 @@
+{
+  "name": "canvelete",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for the Canvelete API",
+  "author": "Canvelete",
+  "license": null,
+  "home_page": "https://github.com/canvelete/canvelete-python",
+  "download_filename": "canvelete-2.0.0.tar.gz",
+  "download_time": "2025-12-19T23:13:13.069771",
+  "package_url": "https://pypi.org/project/canvelete/"
+}
