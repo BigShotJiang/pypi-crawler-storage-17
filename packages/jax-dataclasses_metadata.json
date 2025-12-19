@@ -1,0 +1,11 @@
+{
+  "name": "jax-dataclasses",
+  "version": "1.6.3",
+  "summary": "Dataclasses + JAX",
+  "author": "brentyi",
+  "license": "MIT",
+  "home_page": "http://github.com/brentyi/jax_dataclasses",
+  "download_filename": "jax_dataclasses-1.6.3.tar.gz",
+  "download_time": "2025-12-19T23:31:49.012459",
+  "package_url": "https://pypi.org/project/jax-dataclasses/"
+}

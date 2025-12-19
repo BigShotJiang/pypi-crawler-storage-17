@@ -1,0 +1,11 @@
+{
+  "name": "nigeria-states-lgas",
+  "version": "1.0.3",
+  "summary": "A Python package with all Nigerian States and LGAs dataset",
+  "author": "AETech Research Labs",
+  "license": null,
+  "home_page": "https://github.com/aetechlabs/nigeria-states-lgas-py",
+  "download_filename": "nigeria_states_lgas-1.0.3.tar.gz",
+  "download_time": "2025-12-19T23:31:37.808937",
+  "package_url": "https://pypi.org/project/nigeria-states-lgas/"
+}
