@@ -1,11 +1,11 @@
 {
   "name": "nvidb",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/FanBB2333/nvidb/",
-  "download_filename": "nvidb-1.3.0.tar.gz",
-  "download_time": "2025-12-19T15:55:25.696338",
+  "download_filename": "nvidb-1.3.1.tar.gz",
+  "download_time": "2025-12-19T16:14:58.500244",
   "package_url": "https://pypi.org/project/nvidb/"
 }

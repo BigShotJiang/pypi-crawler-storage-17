@@ -1,0 +1,11 @@
+{
+  "name": "nemotron-page-elements-v3",
+  "version": "3.0.0",
+  "summary": "NVIDIA Nemotron Page Elements v3: A specialized YOLOX-based object detection model for identifying tables, charts, infographics, titles, headers/footers, and text in document pages",
+  "author": null,
+  "license": "NVIDIA Open Model License",
+  "home_page": null,
+  "download_filename": "nemotron_page_elements_v3-3.0.0-py3-none-any.whl",
+  "download_time": "2025-12-19T16:14:50.230111",
+  "package_url": "https://pypi.org/project/nemotron-page-elements-v3/"
+}

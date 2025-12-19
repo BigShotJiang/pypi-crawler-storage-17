@@ -1,11 +1,11 @@
 {
   "name": "iceberg-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A convenience wrapper around PyIceberg for simplified data loading into Apache Iceberg tables",
   "author": "Ivan Matveev",
   "license": null,
   "home_page": null,
-  "download_filename": "iceberg_loader-0.1.1.tar.gz",
-  "download_time": "2025-12-19T15:55:48.912728",
+  "download_filename": "iceberg_loader-0.1.2.tar.gz",
+  "download_time": "2025-12-19T16:15:03.207559",
   "package_url": "https://pypi.org/project/iceberg-loader/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "prefect-docker",
+  "version": "0.7.0",
+  "summary": "Prefect integrations for interacting with Docker.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "prefect_docker-0.7.0.tar.gz",
+  "download_time": "2025-12-19T16:14:48.135154",
+  "package_url": "https://pypi.org/project/prefect-docker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gym-electric-motor",
+  "version": "3.0.3",
+  "summary": "A Farama Gymnasium environment for electric motor control.",
+  "author": "Arne Traue, Gerrit Book, Praneeth Balakrishna, Pascal Peters, Pramod Manjunatha, Darius Jakobeit, Felix Book, Max Schenke, Wilhelm Kirchgässner, Oliver Wallscheid, Barnabas Haucke-Korber, Stefan Arndt, Marius Köhler, Ranil Thomas, Manjeet Jha, Valliammai Annamalai, Mounica Vadivelu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gym_electric_motor-3.0.3.tar.gz",
+  "download_time": "2025-12-19T16:14:41.830022",
+  "package_url": "https://pypi.org/project/gym-electric-motor/"
+}
