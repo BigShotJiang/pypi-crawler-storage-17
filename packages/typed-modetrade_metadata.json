@@ -1,0 +1,11 @@
+{
+  "name": "typed-modetrade",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Modetrade API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_modetrade-0.1.0.tar.gz",
+  "download_time": "2025-12-19T14:14:39.201649",
+  "package_url": "https://pypi.org/project/typed-modetrade/"
+}

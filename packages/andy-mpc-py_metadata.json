@@ -1,0 +1,11 @@
+{
+  "name": "andy-mpc-py",
+  "version": "0.4.0",
+  "summary": "Minimal hub-and-spoke message pipe for arbitrary Python objects (pickle over Tokio)",
+  "author": "You",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "andy_mpc_py-0.4.0.tar.gz",
+  "download_time": "2025-12-19T14:15:00.827926",
+  "package_url": "https://pypi.org/project/andy-mpc-py/"
+}

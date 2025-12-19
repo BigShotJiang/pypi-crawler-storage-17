@@ -1,11 +1,11 @@
 {
   "name": "zstar",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Zstar: A code for calculations of Born effective charge and dielectric responses.",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "zstar-0.0.6-py3-none-any.whl",
-  "download_time": "2025-12-19T11:30:52.406398",
+  "download_filename": "zstar-0.0.7-py3-none-any.whl",
+  "download_time": "2025-12-19T14:15:11.220208",
   "package_url": "https://pypi.org/project/zstar/"
 }

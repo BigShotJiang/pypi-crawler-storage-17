@@ -1,0 +1,11 @@
+{
+  "name": "correction-helper",
+  "version": "2025.12.5",
+  "summary": "Some helpers to help writing correction bots, use by hackinscience.org.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "correction_helper-2025.12.5.tar.gz",
+  "download_time": "2025-12-19T14:15:04.469076",
+  "package_url": "https://pypi.org/project/correction-helper/"
+}
