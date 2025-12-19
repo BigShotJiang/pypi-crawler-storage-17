@@ -1,11 +1,11 @@
 {
   "name": "tabernacleorm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A lightweight and intuitive Python ORM for database operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tabernacleorm-0.1.0.tar.gz",
-  "download_time": "2025-12-19T11:30:41.452676",
+  "download_filename": "tabernacleorm-0.1.1.tar.gz",
+  "download_time": "2025-12-19T11:50:43.522162",
   "package_url": "https://pypi.org/project/tabernacleorm/"
 }

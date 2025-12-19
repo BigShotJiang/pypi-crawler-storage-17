@@ -1,13 +1,9 @@
 {
-  "download_time": "2025-12-19T11:41:43.804585",
+  "download_time": "2025-12-19T11:50:54.031091",
   "total_packages_downloaded": 90,
-  "total_size_mb": 17.51,
+  "total_size_mb": 1.4,
   "packages": [
-    "timesketch-cli-client",
-    "ondivi",
-    "replimap",
     "amsterdam-schema-tools",
-    "aiqtoolkit-test",
     "dovalens",
     "aiqtoolkit-weave",
     "timesketch-api-client",
@@ -46,7 +42,6 @@
     "magic-cta-pipe",
     "csle-agents",
     "gym-csle-intrusion-response-game",
-    "manurs87pkg",
     "gmt-python-sdk",
     "coagent-python",
     "gym-csle-stopping-game",
@@ -92,6 +87,11 @@
     "python-qlv-helper",
     "glchat-plugin",
     "iotopen-bridge",
-    "carlib"
+    "carlib",
+    "rocket-welder-sdk",
+    "eldar-math-duel",
+    "experiment-utils-pd",
+    "based-utils",
+    "templatest"
   ]
 }
