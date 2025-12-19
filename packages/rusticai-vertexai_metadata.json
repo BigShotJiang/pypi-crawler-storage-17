@@ -1,0 +1,11 @@
+{
+  "name": "rusticai-vertexai",
+  "version": "1.0.0",
+  "summary": "Rustic AI module with Vertex AI integrations",
+  "author": "Dragonscale Industries Inc.",
+  "license": null,
+  "home_page": "https://www.rustic.ai/",
+  "download_filename": "rusticai_vertexai-1.0.0.tar.gz",
+  "download_time": "2025-12-19T19:49:56.842577",
+  "package_url": "https://pypi.org/project/rusticai-vertexai/"
+}
