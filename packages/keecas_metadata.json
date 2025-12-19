@@ -1,0 +1,11 @@
+{
+  "name": "keecas",
+  "version": "1.1.0",
+  "summary": "Symbolic and units-aware calculations with LaTeX rendering for Jupyter notebooks, optimized for Quarto PDF documentation.",
+  "author": "kompre",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keecas-1.1.0.tar.gz",
+  "download_time": "2025-12-19T19:37:44.544710",
+  "package_url": "https://pypi.org/project/keecas/"
+}

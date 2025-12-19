@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T19:29:39.773672
-- **Total Packages**: 89
-- **Total Size**: 63.53 MB
+- **Download Time**: 2025-12-19T19:38:20.086446
+- **Total Packages**: 83
+- **Total Size**: 20.35 MB
 
 ## Packages List
+- machine-logic-sdk
+- instruktai-python-logger
+- wisent
+- ovos-vad-plugin-silero
+- aiohomematic-test-support
+- auto-trainer-training
+- aiohomematic
+- mf2dom
+- nativeUts
+- edgefirst-validator
+- mobility-datasets
+- tickcatcher
+- tb-go
+- scale-gp-beta
+- mlbenchkit
+- ob-project-utils
+- ide-updater
+- keecas
+- ehrapy
+- fal
+- media-muncher
+- gold-dl
+- feu
+- datachain
+- dsa-cat-all
+- alphafold-attention
+- spotoptim
+- excalidraw-mcp
+- skfolio
+- invarianthub
+- inoopa_utils
+- aip-agents-binary
+- tinysim
+- agentic-graph-mem
 - antsxmm
 - remdb
 - pinginstaller
@@ -13,7 +47,6 @@
 - guiguts
 - synaptik-core-beta
 - kuzu-memory
-- gold-dl
 - fastloop
 - herr-ober
 - sop4py
@@ -25,7 +58,6 @@
 - codeset
 - mokaccino
 - minidocker
-- tinysim
 - termella
 - policyengine-us-data
 - groktest
@@ -44,7 +76,6 @@
 - acb
 - daft-lts
 - rocketdoo
-- invarianthub
 - torscope
 - clicknick
 - dash-ag-grid
@@ -58,40 +89,3 @@
 - fsai-proto-specs
 - sixma
 - cdklabs.aws-lambda-rust
-- galaxysled
-- signalpilot-ai-internal
-- laboneq_applications
-- litellm-proxy-extras
-- pulumi-aws-native
-- instruktai-python-logger
-- opentelemetry-instrumentation-vertexai
-- dagster-cloud-examples
-- dagster-cloud
-- dagster-snowflake-pyspark
-- usefly
-- dagster-shared
-- dagster-embedded-elt
-- dagster-snowflake-pandas
-- dagster-airbyte
-- dagster-gcp
-- dagster-airflow
-- in-layers-core
-- dagster-gcp-pandas
-- dagster-mysql
-- dagster-looker
-- dagster-github
-- dagster-postgres
-- dagster-databricks
-- dagster-dask
-- dagster-sigma
-- dagster-duckdb-pyspark
-- dagster-sling
-- dagster-pyspark
-- dagster-snowflake
-- dagster-deltalake
-- ide-updater
-- dagster-slack
-- kinemotion
-- dagster-powerbi
-- dagster-mlflow
-- dagster-dlt

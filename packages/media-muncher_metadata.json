@@ -1,11 +1,11 @@
 {
   "name": "media-muncher",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "A module to work with media assets, in particular DASH and HLS streams",
   "author": "Fabre Lambeau",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "media_muncher-1.7.0.tar.gz",
-  "download_time": "2025-12-19T10:56:04.438072",
+  "download_filename": "media_muncher-1.7.1.tar.gz",
+  "download_time": "2025-12-19T19:37:46.122591",
   "package_url": "https://pypi.org/project/media-muncher/"
 }
