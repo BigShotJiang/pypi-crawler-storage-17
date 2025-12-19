@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T05:16:21.418376
-- **Total Packages**: 86
-- **Total Size**: 14.56 MB
+- **Download Time**: 2025-12-19T05:39:12.246331
+- **Total Packages**: 80
+- **Total Size**: 13.48 MB
 
 ## Packages List
+- highlighter-sdk
+- passfx
+- resgen-python
+- pulumi-cloudngfwaws
+- trellis-3d-python
+- jararaca
+- pulumi-azuread
+- pulumi-cloudinit
+- pulumi-cloudamqp
+- first-logs
+- lacrei-models
+- pulumi-azuredevops
+- junshan-kit
+- gtaz
+- frago-cli
+- ccrvam
+- sleap-io
+- agentmail
+- lunalib
+- fleet-python
+- ctyun-cli
+- tensorax
+- fluss-api
+- invarianthub
+- pulumi-artifactory
+- liub-itmo-sem1-python-hw
+- acmax24
+- agentsage
+- wagtail-herald
+- pulumi-akamai
+- medusa-ssg
+- protonox-studio
+- pulumi-aiven
+- gllm-inference-binary
+- komootgpx
+- karaoke-gen
+- robhan-cdk-lib.aws-aps
+- robhan-cdk-lib.aws-mwaa
+- robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.utils
 - batchtsocmd
 - experiment-configuration-agent
@@ -16,14 +55,12 @@
 - signal-fabric-client
 - centrex-tlf-julia-extension
 - teda
-- lunalib
 - tunacode-cli
 - openbase
 - python-qlv-helper
 - vllama
 - mcp-mail
 - keyhole-comm
-- lacrei-models
 - hedit
 - BasicTS
 - dataclass-wizard
@@ -45,50 +82,7 @@
 - giskard-core
 - stVGP
 - trainviz
-- wagtail-herald
 - sunscreen-fhe
 - schema-mapper
 - robola
-- protonox-studio
 - livekit-durable
-- invarianthub
-- lisette
-- aquilax
-- sygra
-- casegenmc
-- sagemaker
-- testmcpy
-- embed-client
-- speterlin-stocks
-- dspy-qdrant
-- ffseval
-- remote-terminal-mcp
-- ntnx-multidomain-py-client
-- ntnx-security-py-client
-- ntnx-lifecycle-py-client
-- glaip-sdk
-- cfun
-- ntnx-volumes-py-client
-- ntnx-monitoring-py-client
-- ntnx-licensing-py-client
-- ntnx-microseg-py-client
-- ntnx-dataprotection-py-client
-- ntnx-networking-py-client
-- sagemaker-mlops
-- ntnx-datapolicies-py-client
-- ntnx-opsmgmt-py-client
-- microeval
-- ntnx-clustermgmt-py-client
-- ntnx-prism-py-client
-- ntnx-vmm-py-client
-- darkcode-server
-- agentsage
-- Jolt-Python-API
-- aisbom-cli
-- drilling
-- mcp-stata
-- containerl
-- srcly
-- kson2toml
-- glassdome-waypoint-sdk
-- airflow-providers-glassdome-waypoint

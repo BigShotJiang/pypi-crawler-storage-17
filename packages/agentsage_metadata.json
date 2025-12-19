@@ -1,11 +1,11 @@
 {
   "name": "agentsage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SAGE: Synchronized Agents for Generalized Expertise - A multi-agent framework where AI agents research, debate, and synthesize answers together",
   "author": "SAGE Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentsage-0.1.0.tar.gz",
-  "download_time": "2025-12-19T04:52:48.357047",
+  "download_filename": "agentsage-0.1.1.tar.gz",
+  "download_time": "2025-12-19T05:38:44.129045",
   "package_url": "https://pypi.org/project/agentsage/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "acmax24",
+  "version": "0.2.7",
+  "summary": "Python library for AVPro Edge AC-MAX-24 Audio Matrix",
+  "author": "James Mulcahy",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "acmax24-0.2.7.tar.gz",
+  "download_time": "2025-12-19T05:38:43.617438",
+  "package_url": "https://pypi.org/project/acmax24/"
+}
