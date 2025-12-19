@@ -1,0 +1,11 @@
+{
+  "name": "nvalchemi-toolkit-ops",
+  "version": "0.2.0",
+  "summary": "High-performance NVIDIA Warp primitives for GPU-enabled computational chemistry and atomistic simulation workflows.",
+  "author": "nvalchemiops Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvalchemi_toolkit_ops-0.2.0-py3-none-any.whl",
+  "download_time": "2025-12-19T15:36:27.473866",
+  "package_url": "https://pypi.org/project/nvalchemi-toolkit-ops/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mash-client",
+  "version": "4.6.0",
+  "summary": "CLI client for interfacing with a MASH server.",
+  "author": "SUSE",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/SUSE-enceladus/mash-client",
+  "download_filename": "mash_client-4.6.0.tar.gz",
+  "download_time": "2025-12-19T15:36:21.764423",
+  "package_url": "https://pypi.org/project/mash-client/"
+}

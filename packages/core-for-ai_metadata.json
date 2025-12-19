@@ -1,0 +1,11 @@
+{
+  "name": "core-for-ai",
+  "version": "0.2.254",
+  "summary": "A unified interface for interacting with various LLM and embedding providers, with observability tools.",
+  "author": "Bruno V.",
+  "license": null,
+  "home_page": "https://github.com/BrunoV21/AiCore",
+  "download_filename": "core_for_ai-0.2.254.tar.gz",
+  "download_time": "2025-12-19T15:36:20.069709",
+  "package_url": "https://pypi.org/project/core-for-ai/"
+}

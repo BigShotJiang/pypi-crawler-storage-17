@@ -1,0 +1,11 @@
+{
+  "name": "elasticsearch-haystack",
+  "version": "4.2.0",
+  "summary": "Haystack 2.x Document Store for ElasticSearch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elasticsearch_haystack-4.2.0.tar.gz",
+  "download_time": "2025-12-19T15:36:59.646191",
+  "package_url": "https://pypi.org/project/elasticsearch-haystack/"
+}

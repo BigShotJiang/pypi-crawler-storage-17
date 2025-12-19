@@ -1,11 +1,11 @@
 {
   "name": "cofmupy",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "summary": "FMUs co-simulation in Python",
   "author": "IRT Saint Exupéry - HECATE project team",
   "license": "BSD-2-Clause",
-  "home_page": "https://github.com/IRT-Saint-Exupery/CoFMPy",
-  "download_filename": "cofmupy-0.9.0.tar.gz",
-  "download_time": "2025-12-15T10:46:40.916552",
+  "home_page": "https://github.com/IRT-Saint-Exupery/CoFmuPy",
+  "download_filename": "cofmupy-1.0.0.tar.gz",
+  "download_time": "2025-12-19T15:36:32.116088",
   "package_url": "https://pypi.org/project/cofmupy/"
 }

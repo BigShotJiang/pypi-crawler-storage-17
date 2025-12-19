@@ -1,11 +1,11 @@
 {
   "name": "nano-wait",
-  "version": "3.1.3",
-  "summary": "Adaptive waiting and smart automation library — includes Wi-Fi, system context, and Vision Mode for screen-based decisions.",
+  "version": "3.2.0",
+  "summary": "Adaptive waiting and computer vision execution engine — replaces time.sleep() with system-aware, vision-driven automation.",
   "author": "Luiz Filipe Seabra de Marco",
-  "license": "MIT License",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "nano_wait-3.1.3.tar.gz",
-  "download_time": "2025-12-17T13:46:00.437658",
+  "download_filename": "nano_wait-3.2.0.tar.gz",
+  "download_time": "2025-12-19T15:36:40.024087",
   "package_url": "https://pypi.org/project/nano-wait/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sysdash-cli",
+  "version": "1.0.3",
+  "summary": "Real-time terminal-based system monitoring dashboard with graphs",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/thulasiramk-2310/cli_metrics",
+  "download_filename": "sysdash_cli-1.0.3.tar.gz",
+  "download_time": "2025-12-19T15:36:31.540955",
+  "package_url": "https://pypi.org/project/sysdash-cli/"
+}

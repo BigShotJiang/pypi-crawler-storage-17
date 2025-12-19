@@ -1,0 +1,11 @@
+{
+  "name": "speclogician",
+  "version": "0.0.0.dev1",
+  "summary": "SpecLogicain AI framework for data-driven formal program specification synthesis, verification and analysis",
+  "author": "denis, hongyu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "speclogician-0.0.0.dev1.tar.gz",
+  "download_time": "2025-12-19T15:36:46.366685",
+  "package_url": "https://pypi.org/project/speclogician/"
+}
