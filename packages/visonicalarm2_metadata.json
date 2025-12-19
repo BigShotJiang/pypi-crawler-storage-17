@@ -1,11 +1,11 @@
 {
   "name": "visonicalarm2",
-  "version": "3.3.3",
+  "version": "3.3.6",
   "summary": "A simple API library for the Visonic/Bentel/Tyco Alarm system.",
   "author": "Andrea Liosi",
   "license": null,
   "home_page": "https://github.com/And3rsL/VisonicAlarm2",
-  "download_filename": "visonicalarm2-3.3.3.tar.gz",
-  "download_time": "2025-12-19T07:36:09.749876",
+  "download_filename": "visonicalarm2-3.3.6.tar.gz",
+  "download_time": "2025-12-19T08:18:07.169906",
   "package_url": "https://pypi.org/project/visonicalarm2/"
 }

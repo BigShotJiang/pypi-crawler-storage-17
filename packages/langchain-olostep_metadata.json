@@ -1,0 +1,11 @@
+{
+  "name": "langchain-olostep",
+  "version": "0.3.3",
+  "summary": "The most reliable and cost-effective web search, scraping and crawling API for AI. Build intelligent agents that can search, scrape, analyze, and structure data from any website.",
+  "author": "Olostep",
+  "license": "MIT",
+  "home_page": "https://github.com/olostep/langchain-olostep",
+  "download_filename": "langchain_olostep-0.3.3.tar.gz",
+  "download_time": "2025-12-19T08:17:49.780904",
+  "package_url": "https://pypi.org/project/langchain-olostep/"
+}

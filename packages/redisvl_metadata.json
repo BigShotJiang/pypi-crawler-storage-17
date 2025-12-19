@@ -1,0 +1,11 @@
+{
+  "name": "redisvl",
+  "version": "0.13.0",
+  "summary": "Python client library and CLI for using Redis as a vector database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redisvl-0.13.0.tar.gz",
+  "download_time": "2025-12-19T08:18:23.376783",
+  "package_url": "https://pypi.org/project/redisvl/"
+}

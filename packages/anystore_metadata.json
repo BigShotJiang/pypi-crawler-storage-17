@@ -1,11 +1,11 @@
 {
   "name": "anystore",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Store and cache things anywhere",
   "author": "Simon Wörpel",
   "license": "AGPLv3+",
   "home_page": "https://docs.investigraph.dev/lib/anystore",
-  "download_filename": "anystore-0.4.1.tar.gz",
-  "download_time": "2025-12-17T09:18:37.703672",
+  "download_filename": "anystore-0.4.2.tar.gz",
+  "download_time": "2025-12-19T08:17:47.547297",
   "package_url": "https://pypi.org/project/anystore/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "induslabs",
+  "version": "0.0.10",
+  "summary": "Python SDK for IndusLabs Voice API - Text-to-Speech and Speech-to-Text",
+  "author": "IndusLabs",
+  "license": "MIT",
+  "home_page": "https://github.com/INDUS-AI-DEV/induslabs-python",
+  "download_filename": "induslabs-0.0.10.tar.gz",
+  "download_time": "2025-12-19T08:18:14.583095",
+  "package_url": "https://pypi.org/project/induslabs/"
+}

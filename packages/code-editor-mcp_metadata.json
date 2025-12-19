@@ -1,11 +1,11 @@
 {
   "name": "code-editor-mcp",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Code editor MCP server with sandboxing, optimistic locking, and path whitelists.",
   "author": "TripQi",
   "license": null,
   "home_page": null,
-  "download_filename": "code_editor_mcp-0.1.8.tar.gz",
-  "download_time": "2025-12-19T06:53:24.195760",
+  "download_filename": "code_editor_mcp-0.1.9.tar.gz",
+  "download_time": "2025-12-19T08:18:15.094951",
   "package_url": "https://pypi.org/project/code-editor-mcp/"
 }

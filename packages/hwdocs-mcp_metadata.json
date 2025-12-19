@@ -1,11 +1,11 @@
 {
   "name": "hwdocs-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for hardware documentation search and management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hwdocs_mcp-0.1.1.tar.gz",
-  "download_time": "2025-12-17T14:58:18.240386",
+  "download_filename": "hwdocs_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-19T08:17:58.313321",
   "package_url": "https://pypi.org/project/hwdocs-mcp/"
 }
