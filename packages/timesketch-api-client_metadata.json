@@ -1,0 +1,11 @@
+{
+  "name": "timesketch-api-client",
+  "version": "20251219",
+  "summary": "Timesketch API client",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://www.timesketch.org/",
+  "download_filename": "timesketch_api_client-20251219.tar.gz",
+  "download_time": "2025-12-19T11:40:58.579479",
+  "package_url": "https://pypi.org/project/timesketch-api-client/"
+}

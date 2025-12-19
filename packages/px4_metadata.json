@@ -1,11 +1,11 @@
 {
   "name": "px4",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "An interface to send trajectories to the PX4 flight controller",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "px4-0.0.6.tar.gz",
-  "download_time": "2025-12-19T10:55:31.790777",
+  "download_filename": "px4-0.0.7.tar.gz",
+  "download_time": "2025-12-19T11:41:03.534534",
   "package_url": "https://pypi.org/project/px4/"
 }

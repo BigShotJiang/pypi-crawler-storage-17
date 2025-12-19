@@ -1,11 +1,11 @@
 {
   "name": "marvel-sequencer-gui",
-  "version": "2.1.7",
+  "version": "2.2.0",
   "summary": "Marvel Schedule Maker - Telescope observation scheduling application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marvel_sequencer_gui-2.1.7.tar.gz",
-  "download_time": "2025-12-19T11:12:08.944665",
+  "download_filename": "marvel_sequencer_gui-2.2.0.tar.gz",
+  "download_time": "2025-12-19T11:41:08.000528",
   "package_url": "https://pypi.org/project/marvel-sequencer-gui/"
 }

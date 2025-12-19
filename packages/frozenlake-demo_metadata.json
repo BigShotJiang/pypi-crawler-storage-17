@@ -1,0 +1,11 @@
+{
+  "name": "frozenlake-demo",
+  "version": "0.0.2",
+  "summary": "A minimal FrozenLake environment with custom BaseEnv",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frozenlake_demo-0.0.2.tar.gz",
+  "download_time": "2025-12-19T11:41:22.392799",
+  "package_url": "https://pypi.org/project/frozenlake-demo/"
+}

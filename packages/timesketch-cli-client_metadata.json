@@ -1,0 +1,11 @@
+{
+  "name": "timesketch-cli-client",
+  "version": "20251219",
+  "summary": "Timesketch CLI client",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://www.timesketch.org/",
+  "download_filename": "timesketch_cli_client-20251219.tar.gz",
+  "download_time": "2025-12-19T11:40:54.629223",
+  "package_url": "https://pypi.org/project/timesketch-cli-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "daccuracy",
+  "version": "2025.1",
+  "summary": "Detection and Segmentation Accuracy Measures",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/daccuracy/",
+  "download_filename": "daccuracy-2025.1.tar.gz",
+  "download_time": "2025-12-19T11:41:05.747397",
+  "package_url": "https://pypi.org/project/daccuracy/"
+}
