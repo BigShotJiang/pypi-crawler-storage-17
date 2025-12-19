@@ -1,11 +1,11 @@
 {
   "name": "siat",
-  "version": "3.33.29",
+  "version": "3.33.30",
   "summary": "Securities Investment Analysis Tools (siat)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "siat-3.33.29-py3-none-any.whl",
-  "download_time": "2025-12-17T16:52:40.378182",
+  "download_filename": "siat-3.33.30-py3-none-any.whl",
+  "download_time": "2025-12-19T03:54:45.791259",
   "package_url": "https://pypi.org/project/siat/"
 }

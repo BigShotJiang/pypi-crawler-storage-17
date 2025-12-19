@@ -1,11 +1,11 @@
 {
   "name": "ezKit",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "summary": "Easy Kit",
   "author": "septvean",
   "license": null,
   "home_page": null,
-  "download_filename": "ezkit-2.0.18.tar.gz",
-  "download_time": "2025-12-18T17:17:00.816263",
+  "download_filename": "ezkit-2.0.19.tar.gz",
+  "download_time": "2025-12-19T03:55:01.889812",
   "package_url": "https://pypi.org/project/ezKit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gold-dl",
-  "version": "3.0.5",
+  "version": "0.0.1",
   "summary": "High performance CLI YouTube downloader (video / audio / shorts / playlists) with smart caching and auto quality handling",
   "author": "VOLT5775",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gold_dl-3.0.5.tar.gz",
-  "download_time": "2025-12-18T22:35:32.650360",
+  "download_filename": "gold_dl-0.0.1.tar.gz",
+  "download_time": "2025-12-19T03:54:37.418437",
   "package_url": "https://pypi.org/project/gold-dl/"
 }

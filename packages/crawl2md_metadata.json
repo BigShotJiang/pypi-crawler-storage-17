@@ -1,0 +1,11 @@
+{
+  "name": "crawl2md",
+  "version": "0.1.0",
+  "summary": "Crawl documentation websites and convert to Markdown files",
+  "author": "crawl2md contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crawl2md-0.1.0.tar.gz",
+  "download_time": "2025-12-19T03:55:05.552532",
+  "package_url": "https://pypi.org/project/crawl2md/"
+}

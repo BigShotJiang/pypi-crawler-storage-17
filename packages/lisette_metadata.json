@@ -1,11 +1,11 @@
 {
   "name": "lisette",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "summary": "litellm helper",
   "author": "AnswerDotAI",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/AnswerDotAI/lisette",
-  "download_filename": "lisette-0.0.21.tar.gz",
-  "download_time": "2025-12-16T05:38:26.982357",
+  "download_filename": "lisette-0.0.22.tar.gz",
+  "download_time": "2025-12-19T03:54:26.068312",
   "package_url": "https://pypi.org/project/lisette/"
 }

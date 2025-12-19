@@ -1,0 +1,11 @@
+{
+  "name": "qufit",
+  "version": "1.1.70",
+  "summary": "本模块包括了超导量子计算实验中常用模型的拟合函数于数据处理方法。",
+  "author": "赵寿宽(sk zhao)",
+  "license": null,
+  "home_page": "https://pypi.org/",
+  "download_filename": "qufit-1.1.70.tar.gz",
+  "download_time": "2025-12-19T03:54:55.586574",
+  "package_url": "https://pypi.org/project/qufit/"
+}

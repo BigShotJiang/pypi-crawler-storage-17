@@ -1,11 +1,11 @@
 {
   "name": "termlit",
-  "version": "0.2.1",
-  "summary": "Termlit converts a plain Python script into an interactive SSH experience. Write terminal flows with welcome, input, and post helpers, then expose them over SSH via termlit run",
+  "version": "0.3.1",
+  "summary": "Termlit is a small Python tool that provides an SSH server interface. It makes it easy to expose interactive applications over SSH — for example, to host AI-powered conversational services that users can connect to with an SSH client.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "termlit-0.2.1.tar.gz",
-  "download_time": "2025-12-15T07:41:51.527500",
+  "download_filename": "termlit-0.3.1.tar.gz",
+  "download_time": "2025-12-19T03:54:47.860918",
   "package_url": "https://pypi.org/project/termlit/"
 }
