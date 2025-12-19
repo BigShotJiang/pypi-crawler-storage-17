@@ -1,11 +1,11 @@
 {
   "name": "cruise-llm",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "The fastest way to build, chain, and reuse LLM agents and flows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cruise_llm-0.1.2.tar.gz",
-  "download_time": "2025-12-17T21:49:45.265734",
+  "download_filename": "cruise_llm-0.1.3.tar.gz",
+  "download_time": "2025-12-19T23:51:31.136412",
   "package_url": "https://pypi.org/project/cruise-llm/"
 }

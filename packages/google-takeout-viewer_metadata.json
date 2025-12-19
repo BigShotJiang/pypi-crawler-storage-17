@@ -1,11 +1,11 @@
 {
   "name": "google-takeout-viewer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tool to visualize Google Takeout data",
   "author": "Kiduzk",
   "license": null,
   "home_page": null,
-  "download_filename": "google_takeout_viewer-0.1.1.tar.gz",
-  "download_time": "2025-12-19T23:43:46.054023",
+  "download_filename": "google_takeout_viewer-0.1.2.tar.gz",
+  "download_time": "2025-12-19T23:51:30.561643",
   "package_url": "https://pypi.org/project/google-takeout-viewer/"
 }

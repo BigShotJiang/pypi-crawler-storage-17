@@ -1,8 +1,15 @@
 {
-  "download_time": "2025-12-19T23:44:21.075565",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 29.77,
+  "download_time": "2025-12-19T23:52:13.941580",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 18.26,
   "packages": [
+    "mkarchi",
+    "qawolf-socket-pypi",
+    "pyrig",
+    "flake8-multiline-equals",
+    "google-takeout-viewer",
+    "cruise-llm",
+    "pushikoo",
     "checkout-intents",
     "deployguard",
     "ivpm",
@@ -23,9 +30,7 @@
     "nv-ingest-api",
     "oxutils",
     "yt-dlp",
-    "google-takeout-viewer",
     "comfyui-nuvu",
-    "pyrig",
     "pulumi-xyz",
     "nigeria-states-lgas",
     "jl-ecms-server",
@@ -44,7 +49,6 @@
     "sqlatypemodel",
     "cortex-memory",
     "cheapchocolate",
-    "qawolf-socket-pypi",
     "remdb",
     "tirreno-tracker",
     "muuttaa",
@@ -79,13 +83,6 @@
     "swifttools",
     "realhand-python-sdk",
     "contrastive-rl-pytorch",
-    "cforge",
-    "zipstrain",
-    "univi",
-    "pywr",
-    "pulumi-provider-boilerplate",
-    "ultrasav",
-    "ft-agui",
-    "typio"
+    "cforge"
   ]
 }
