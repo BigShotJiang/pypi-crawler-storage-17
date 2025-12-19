@@ -1,0 +1,11 @@
+{
+  "name": "opensquirrel",
+  "version": "0.9.0",
+  "summary": "A quantum circuit transformation and manipulation tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opensquirrel-0.9.0.tar.gz",
+  "download_time": "2025-12-19T17:33:20.687871",
+  "package_url": "https://pypi.org/project/opensquirrel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysimplesat",
+  "version": "0.1.10",
+  "summary": "A full-featured Python client for the SimpleSat API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysimplesat-0.1.10.tar.gz",
+  "download_time": "2025-12-19T17:33:23.787769",
+  "package_url": "https://pypi.org/project/pysimplesat/"
+}

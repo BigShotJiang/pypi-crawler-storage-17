@@ -1,11 +1,11 @@
 {
   "name": "uni-transform",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Unified 3D transform utilities supporting both NumPy and PyTorch backends",
   "author": "Junhao Tu",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "uni_transform-0.1.0.tar.gz",
-  "download_time": "2025-12-18T23:31:58.701507",
+  "download_filename": "uni_transform-0.2.0.tar.gz",
+  "download_time": "2025-12-19T17:32:53.855092",
   "package_url": "https://pypi.org/project/uni-transform/"
 }

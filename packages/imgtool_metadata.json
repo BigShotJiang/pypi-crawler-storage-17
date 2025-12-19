@@ -1,0 +1,11 @@
+{
+  "name": "imgtool",
+  "version": "2.3.0",
+  "summary": "MCUboot's image signing and key management",
+  "author": "The MCUboot committers",
+  "license": "Apache Software License",
+  "home_page": "http://github.com/mcu-tools/mcuboot",
+  "download_filename": "imgtool-2.3.0.tar.gz",
+  "download_time": "2025-12-19T17:33:06.247286",
+  "package_url": "https://pypi.org/project/imgtool/"
+}

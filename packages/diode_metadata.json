@@ -1,0 +1,11 @@
+{
+  "name": "diode",
+  "version": "1.1.3",
+  "summary": "alpha shape generator using CGAL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diode-1.1.3.tar.gz",
+  "download_time": "2025-12-19T17:33:24.298057",
+  "package_url": "https://pypi.org/project/diode/"
+}

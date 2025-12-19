@@ -1,0 +1,11 @@
+{
+  "name": "django-mcp-integration",
+  "version": "1.0.2",
+  "summary": "Intégration MCP pour Django via FastMCP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_mcp_integration-1.0.2.tar.gz",
+  "download_time": "2025-12-19T17:33:06.757665",
+  "package_url": "https://pypi.org/project/django-mcp-integration/"
+}

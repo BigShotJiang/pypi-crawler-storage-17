@@ -1,0 +1,11 @@
+{
+  "name": "runegraft",
+  "version": "0.1.1",
+  "summary": "Route-style decorator CLI with an interactive shell (REPL), completion, and history.",
+  "author": "codesft",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "runegraft-0.1.1.tar.gz",
+  "download_time": "2025-12-19T17:32:49.746348",
+  "package_url": "https://pypi.org/project/runegraft/"
+}

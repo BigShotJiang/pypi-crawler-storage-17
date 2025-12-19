@@ -1,0 +1,11 @@
+{
+  "name": "airqtl",
+  "version": "1.0.0",
+  "summary": "Array of Interleaved Repeats for Quantitative Trait Loci",
+  "author": "Matthew Funk, Yuhe Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airqtl-1.0.0.tar.gz",
+  "download_time": "2025-12-19T17:32:44.005904",
+  "package_url": "https://pypi.org/project/airqtl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-database-manager",
+  "version": "0.1.3",
+  "summary": "MCP server for database management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_database_manager-0.1.3.tar.gz",
+  "download_time": "2025-12-19T17:32:45.044315",
+  "package_url": "https://pypi.org/project/mcp-database-manager/"
+}

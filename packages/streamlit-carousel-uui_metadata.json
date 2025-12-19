@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-carousel-uui",
+  "version": "0.1.2",
+  "summary": "A Streamlit component for displaying an Untitled UI styled carousel",
+  "author": "Jan du Plessis",
+  "license": null,
+  "home_page": "https://github.com/janduplessis883/streamlit_carousel_uui",
+  "download_filename": "streamlit_carousel_uui-0.1.2.tar.gz",
+  "download_time": "2025-12-19T17:32:48.165072",
+  "package_url": "https://pypi.org/project/streamlit-carousel-uui/"
+}
