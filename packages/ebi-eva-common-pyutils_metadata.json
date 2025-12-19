@@ -1,0 +1,11 @@
+{
+  "name": "ebi-eva-common-pyutils",
+  "version": "0.8.0",
+  "summary": "EBI EVA - Common Python Utilities",
+  "author": null,
+  "license": "Apache",
+  "home_page": "https://github.com/EBIVariation/eva-common-pyutils",
+  "download_filename": "ebi_eva_common_pyutils-0.8.0.tar.gz",
+  "download_time": "2025-12-19T11:30:59.838783",
+  "package_url": "https://pypi.org/project/ebi-eva-common-pyutils/"
+}

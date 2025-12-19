@@ -1,11 +1,11 @@
 {
   "name": "torchft-nightly",
-  "version": "2025.12.18",
+  "version": "2025.12.19",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchft_nightly-2025.12.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2025-12-18T11:30:44.336268",
+  "download_filename": "torchft_nightly-2025.12.19-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-12-19T11:30:38.193060",
   "package_url": "https://pypi.org/project/torchft-nightly/"
 }
