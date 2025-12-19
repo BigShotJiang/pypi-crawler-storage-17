@@ -1,0 +1,11 @@
+{
+  "name": "diff-search",
+  "version": "0.0.0",
+  "summary": "A repo for Diff-Search",
+  "author": "wangxingjun778",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wangxingjun778/diff-search",
+  "download_filename": "diff_search-0.0.0.tar.gz",
+  "download_time": "2025-12-19T10:14:22.867361",
+  "package_url": "https://pypi.org/project/diff-search/"
+}

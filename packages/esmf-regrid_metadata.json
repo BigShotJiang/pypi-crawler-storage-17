@@ -1,0 +1,11 @@
+{
+  "name": "esmf-regrid",
+  "version": "0.13.1",
+  "summary": "Iris regridding scheme using ESMF",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esmf_regrid-0.13.1.tar.gz",
+  "download_time": "2025-12-19T10:14:05.335689",
+  "package_url": "https://pypi.org/project/esmf-regrid/"
+}

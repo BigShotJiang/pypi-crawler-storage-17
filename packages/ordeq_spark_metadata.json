@@ -1,0 +1,11 @@
+{
+  "name": "ordeq_spark",
+  "version": "2.2.0",
+  "summary": "Apache Spark integration for Ordeq",
+  "author": "Niels Neerhoff, Simon Brugman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_spark-2.2.0.tar.gz",
+  "download_time": "2025-12-19T10:14:11.477302",
+  "package_url": "https://pypi.org/project/ordeq_spark/"
+}

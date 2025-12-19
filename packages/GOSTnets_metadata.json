@@ -1,0 +1,11 @@
+{
+  "name": "GOSTnets",
+  "version": "1.2.0",
+  "summary": "Network wrapper to simplify network analysis using geospatial data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gostnets-1.2.0-py3-none-any.whl",
+  "download_time": "2025-12-19T10:14:28.422530",
+  "package_url": "https://pypi.org/project/GOSTnets/"
+}

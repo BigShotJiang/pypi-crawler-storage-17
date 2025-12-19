@@ -1,11 +1,11 @@
 {
   "name": "mangono-addon-redis_session_store",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mangono_addon_redis_session_store-2.0.0-py3-none-any.whl",
-  "download_time": "2025-12-17T14:15:28.259520",
+  "download_filename": "mangono_addon_redis_session_store-2.1.1-py3-none-any.whl",
+  "download_time": "2025-12-19T10:14:16.225880",
   "package_url": "https://pypi.org/project/mangono-addon-redis_session_store/"
 }
