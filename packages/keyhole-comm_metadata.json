@@ -1,11 +1,11 @@
 {
   "name": "keyhole-comm",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "summary": "Low-effort serial communication, e.g. for talking to devices that use the Arduino-IDE Keyhole library",
   "author": "Jeremy Hill",
   "license": "CC0",
   "home_page": "https://bitbucket.org/jezhill/Keyhole",
-  "download_filename": "keyhole_comm-1.11.0-py2.py3-none-any.whl",
-  "download_time": "2025-12-16T05:14:37.240606",
+  "download_filename": "keyhole_comm-1.12.0-py2.py3-none-any.whl",
+  "download_time": "2025-12-19T05:15:44.066317",
   "package_url": "https://pypi.org/project/keyhole-comm/"
 }

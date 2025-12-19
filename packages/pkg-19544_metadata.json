@@ -1,11 +1,11 @@
 {
   "name": "pkg-19544",
-  "version": "1.3.3",
+  "version": "1.3.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pkg_19544-1.3.3.tar.gz",
-  "download_time": "2025-12-17T05:38:27.313060",
+  "download_filename": "pkg_19544-1.3.7.tar.gz",
+  "download_time": "2025-12-19T05:15:47.675041",
   "package_url": "https://pypi.org/project/pkg-19544/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "schema-mapper",
+  "version": "1.0.0",
+  "summary": "Universal database schema mapper for BigQuery, Snowflake, Redshift, SQL Server, and PostgreSQL",
+  "author": "DataTeamSix",
+  "license": "MIT",
+  "home_page": "https://github.com/datateamsix/schema-mapper",
+  "download_filename": "schema_mapper-1.0.0.tar.gz",
+  "download_time": "2025-12-19T05:15:58.130556",
+  "package_url": "https://pypi.org/project/schema-mapper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openbase",
-  "version": "1.1.9",
+  "version": "1.1.14",
   "summary": "Openbase Django Meta-Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openbase-1.1.9.tar.gz",
-  "download_time": "2025-12-19T03:54:40.613945",
+  "download_filename": "openbase-1.1.14-py2.py3-none-any.whl",
+  "download_time": "2025-12-19T05:15:41.900663",
   "package_url": "https://pypi.org/project/openbase/"
 }
