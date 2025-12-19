@@ -1,11 +1,11 @@
 {
   "name": "metrima",
-  "version": "0.3.5.2",
+  "version": "0.3.5.3",
   "summary": "Just another (cool) no-deps math library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metrima-0.3.5.2.tar.gz",
-  "download_time": "2025-12-19T06:53:47.736169",
+  "download_filename": "metrima-0.3.5.3.tar.gz",
+  "download_time": "2025-12-19T07:35:43.187916",
   "package_url": "https://pypi.org/project/metrima/"
 }

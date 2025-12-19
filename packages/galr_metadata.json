@@ -1,0 +1,11 @@
+{
+  "name": "galr",
+  "version": "0.1.0",
+  "summary": "Gated Asymmetric Linear Regression - 特徴量に応じてコスト比を学習する回帰モデル",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "galr-0.1.0.tar.gz",
+  "download_time": "2025-12-19T07:36:18.718367",
+  "package_url": "https://pypi.org/project/galr/"
+}

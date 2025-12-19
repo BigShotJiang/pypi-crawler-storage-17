@@ -1,11 +1,11 @@
 {
   "name": "astur",
-  "version": "0.0.7",
+  "version": "0.1.1",
   "summary": "Compute ARSC (N/C/S) from protein fasta files",
   "author": "Satoshi Nishino",
   "license": "GPL-2.0",
   "home_page": "https://github.com/stsnsn/ASTUR",
-  "download_filename": "astur-0.0.7.tar.gz",
-  "download_time": "2025-12-19T07:15:38.289144",
+  "download_filename": "astur-0.1.1.tar.gz",
+  "download_time": "2025-12-19T07:35:51.144491",
   "package_url": "https://pypi.org/project/astur/"
 }

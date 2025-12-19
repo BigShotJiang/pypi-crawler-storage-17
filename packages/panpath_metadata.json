@@ -1,11 +1,11 @@
 {
   "name": "panpath",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Universal sync/async local/cloud path library with pathlib-compatible interface",
   "author": "panpath contributors",
   "license": "MIT",
   "home_page": "https://github.com/pwwang/panpath",
-  "download_filename": "panpath-0.1.0.tar.gz",
-  "download_time": "2025-12-18T23:13:23.935340",
+  "download_filename": "panpath-0.2.0.tar.gz",
+  "download_time": "2025-12-19T07:36:26.353665",
   "package_url": "https://pypi.org/project/panpath/"
 }
