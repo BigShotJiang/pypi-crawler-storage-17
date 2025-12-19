@@ -1,11 +1,11 @@
 {
   "name": "remote-auto-fetch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Fetch something from url if not exists.",
   "author": "GGN_2015",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "remote_auto_fetch-0.1.2.tar.gz",
-  "download_time": "2025-12-19T17:49:24.962121",
+  "download_filename": "remote_auto_fetch-0.1.3.tar.gz",
+  "download_time": "2025-12-19T18:17:52.103495",
   "package_url": "https://pypi.org/project/remote-auto-fetch/"
 }

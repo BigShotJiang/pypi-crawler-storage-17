@@ -1,0 +1,11 @@
+{
+  "name": "exa-py",
+  "version": "2.0.2",
+  "summary": "Python SDK for Exa API.",
+  "author": "Exa",
+  "license": null,
+  "home_page": "https://github.com/exa-labs/exa-py",
+  "download_filename": "exa_py-2.0.2.tar.gz",
+  "download_time": "2025-12-19T18:17:49.366071",
+  "package_url": "https://pypi.org/project/exa-py/"
+}

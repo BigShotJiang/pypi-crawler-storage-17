@@ -1,0 +1,11 @@
+{
+  "name": "canopy-osint",
+  "version": "0.1.0",
+  "summary": "An OSINT tool for intelligence gathering and username enumeration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "canopy_osint-0.1.0.tar.gz",
+  "download_time": "2025-12-19T18:18:13.662255",
+  "package_url": "https://pypi.org/project/canopy-osint/"
+}

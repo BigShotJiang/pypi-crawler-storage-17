@@ -1,0 +1,11 @@
+{
+  "name": "ECHO-modules",
+  "version": "0.2.1",
+  "summary": "Python package for analyzing US Environmental Protection Agency datasets including Enforcement and Compliance History Online (ECHO), Risk Screening Environmental Indicators (RSEI), and EJSCREEN",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "echo_modules-0.2.1.tar.gz",
+  "download_time": "2025-12-19T18:18:24.832158",
+  "package_url": "https://pypi.org/project/ECHO-modules/"
+}

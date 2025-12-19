@@ -1,0 +1,11 @@
+{
+  "name": "optimizely-sdk",
+  "version": "5.4.0",
+  "summary": "Python SDK for Optimizely Feature Experimentation, Optimizely Full Stack (legacy), and Optimizely Rollouts.",
+  "author": "Optimizely",
+  "license": null,
+  "home_page": "https://github.com/optimizely/python-sdk",
+  "download_filename": "optimizely_sdk-5.4.0-py3-none-any.whl",
+  "download_time": "2025-12-19T18:17:49.908894",
+  "package_url": "https://pypi.org/project/optimizely-sdk/"
+}

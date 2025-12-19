@@ -1,0 +1,11 @@
+{
+  "name": "simplepbi",
+  "version": "1.0.9",
+  "summary": "Simplify usage of Power Bi Rest API",
+  "author": "Ignacio Barrau <igna_barrau@hotmail.com>, Martin Zurita <martinzurita1@gmail.com>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simplepbi-1.0.9.tar.gz",
+  "download_time": "2025-12-19T18:18:14.206021",
+  "package_url": "https://pypi.org/project/simplepbi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goodbye-quota",
+  "version": "0.1.0",
+  "summary": "A wrapper for Gemini API to handle multiple API keys and rotate them on quota exhaustion.",
+  "author": "@cmpdchtr",
+  "license": null,
+  "home_page": "https://github.com/cmpdchtr/GoodbyeQuota",
+  "download_filename": "goodbye_quota-0.1.0.tar.gz",
+  "download_time": "2025-12-19T18:17:50.996941",
+  "package_url": "https://pypi.org/project/goodbye-quota/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pygeofilter",
+  "version": "0.3.2",
+  "summary": "pygeofilter is a pure Python parser implementation of OGC filtering standards",
+  "author": "Fabian Schindler",
+  "license": "MIT",
+  "home_page": "https://github.com/geopython/pygeofilter",
+  "download_filename": "pygeofilter-0.3.2.tar.gz",
+  "download_time": "2025-12-19T18:17:53.187188",
+  "package_url": "https://pypi.org/project/pygeofilter/"
+}
