@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T21:43:12.037788
-- **Total Packages**: 86
-- **Total Size**: 48.51 MB
+- **Download Time**: 2025-12-19T21:50:16.333178
+- **Total Packages**: 87
+- **Total Size**: 16.58 MB
 
 ## Packages List
+- python-hilo
+- alphafold-attention
+- rospkg
+- sclsd
+- fastblocks
+- sprintify-navigation
+- daystrom
+- redis-retrieval-optimizer
+- pydataframer
+- jsonlogic-py
+- life-restart-core
+- depio
+- fapi-cli
+- pyhdl-if
+- crewai-tools
+- crewai
+- tariochbctools
+- invoicing-pdf-7214
 - autogen
 - funsize-engineer
 - ag2
@@ -20,7 +38,6 @@
 - thds.atacama
 - thds.termtool
 - thds.humenc
-- sprintify-navigation
 - allisbns
 - magic_hour
 - jupyterlab-nb-venv-kernels-ui-extension
@@ -31,7 +48,6 @@
 - cybrid-api-id-python
 - scienceai-llm
 - cybrid-api-organization-python
-- pyhdl-if
 - npygenx
 - excalidraw-mcp
 - testtools
@@ -41,7 +57,6 @@
 - django-whatsapp-api-wrapper
 - jl-ecms-server
 - jl-ecms-client
-- life-restart-core
 - plotops
 - idtap
 - relationalai
@@ -78,17 +93,3 @@
 - msgmodel
 - django-health-check
 - nasstat
-- consolemod
-- sigmoda
-- google-wallet-webhook-auth
-- ymery
-- console-window
-- context-portal-mcp
-- decorative-secrets
-- jararaca
-- ocdsmerge-rs
-- linear-app
-- pixi-bot
-- spotoptim
-- KekikStream
-- leaf-framework
