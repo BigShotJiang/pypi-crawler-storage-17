@@ -1,0 +1,11 @@
+{
+  "name": "idf-converter",
+  "version": "0.1.458",
+  "summary": "The idf_converter package provides tools to convert Earth Observation data into IDF files.",
+  "author": "Lucile Gaultier, Gilles Guitton, Sylvain Herlédan",
+  "license": "COPYING.LESSER",
+  "home_page": "https://seascope.oceandatalab.com",
+  "download_filename": "idf_converter-0.1.458.tar.gz",
+  "download_time": "2025-12-19T12:22:40.048205",
+  "package_url": "https://pypi.org/project/idf-converter/"
+}

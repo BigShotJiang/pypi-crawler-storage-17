@@ -1,11 +1,11 @@
 {
   "name": "evoloop",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "A framework-agnostic library for evaluating and improving AI agents",
   "author": "EvoLoop Team",
   "license": null,
   "home_page": null,
-  "download_filename": "evoloop-0.1.1.tar.gz",
-  "download_time": "2025-12-18T03:47:40.662663",
+  "download_filename": "evoloop-0.2.1.tar.gz",
+  "download_time": "2025-12-19T12:22:29.892249",
   "package_url": "https://pypi.org/project/evoloop/"
 }

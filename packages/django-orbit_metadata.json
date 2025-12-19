@@ -1,11 +1,11 @@
 {
   "name": "django-orbit",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Satellite Observability for Django - A modern debugging and observability tool",
   "author": "Django Orbit Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_orbit-0.4.0.tar.gz",
-  "download_time": "2025-12-18T04:52:27.993985",
+  "download_filename": "django_orbit-0.5.0.tar.gz",
+  "download_time": "2025-12-19T12:23:04.463262",
   "package_url": "https://pypi.org/project/django-orbit/"
 }

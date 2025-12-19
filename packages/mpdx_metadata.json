@@ -1,0 +1,11 @@
+{
+  "name": "mpdx",
+  "version": "0.1.0a1",
+  "summary": "Semantic, graph-based document data model for text and tables",
+  "author": "MPDX Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mpdx-0.1.0a1.tar.gz",
+  "download_time": "2025-12-19T12:23:03.398247",
+  "package_url": "https://pypi.org/project/mpdx/"
+}

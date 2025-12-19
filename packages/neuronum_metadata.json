@@ -1,0 +1,11 @@
+{
+  "name": "neuronum",
+  "version": "12.1.0",
+  "summary": "Neuronum ceLL SDK",
+  "author": "Neuronum Cybernetics",
+  "license": null,
+  "home_page": "https://neuronum.net",
+  "download_filename": "neuronum-12.1.0.tar.gz",
+  "download_time": "2025-12-19T12:23:01.283009",
+  "package_url": "https://pypi.org/project/neuronum/"
+}

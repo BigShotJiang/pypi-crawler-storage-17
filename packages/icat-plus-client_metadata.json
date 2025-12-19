@@ -1,11 +1,11 @@
 {
   "name": "icat-plus-client",
-  "version": "4.53.0",
+  "version": "4.53.1",
   "summary": "ICAT+ API",
   "author": "Alejandro De Maria Antolinos",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "icat_plus_client-4.53.0.tar.gz",
-  "download_time": "2025-12-16T11:13:08.043106",
+  "download_filename": "icat_plus_client-4.53.1.tar.gz",
+  "download_time": "2025-12-19T12:22:36.903345",
   "package_url": "https://pypi.org/project/icat-plus-client/"
 }

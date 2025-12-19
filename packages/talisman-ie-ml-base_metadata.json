@@ -1,0 +1,11 @@
+{
+  "name": "talisman-ie-ml-base",
+  "version": "0.5.8",
+  "summary": "Talisman-IE ML base implementations",
+  "author": "ISPRAS Talisman NLP team",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "talisman_ie_ml_base-0.5.8-py3-none-any.whl",
+  "download_time": "2025-12-19T12:22:46.876302",
+  "package_url": "https://pypi.org/project/talisman-ie-ml-base/"
+}

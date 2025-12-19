@@ -1,11 +1,11 @@
 {
   "name": "coagent-python",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "An open-source framework for building monolithic or distributed agentic systems, ranging from simple LLM calls to compositional workflows and autonomous agents.",
   "author": "RussellLuo",
   "license": null,
   "home_page": "https://github.com/OpenCSGs/coagent",
-  "download_filename": "coagent_python-0.1.1.tar.gz",
-  "download_time": "2025-12-19T11:41:20.255237",
+  "download_filename": "coagent_python-0.1.2.tar.gz",
+  "download_time": "2025-12-19T12:23:09.052719",
   "package_url": "https://pypi.org/project/coagent-python/"
 }
