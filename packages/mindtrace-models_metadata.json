@@ -1,0 +1,11 @@
+{
+  "name": "mindtrace-models",
+  "version": "0.7.0",
+  "summary": "Models for Mindtrace",
+  "author": "Mindtrace Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mindtrace_models-0.7.0.tar.gz",
+  "download_time": "2025-12-19T20:54:06.206861",
+  "package_url": "https://pypi.org/project/mindtrace-models/"
+}

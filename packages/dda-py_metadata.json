@@ -1,0 +1,11 @@
+{
+  "name": "dda-py",
+  "version": "0.2.7",
+  "summary": "Python bindings for DDA (Delay Differential Analysis)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dda_py-0.2.7-py3-none-any.whl",
+  "download_time": "2025-12-19T20:53:37.305497",
+  "package_url": "https://pypi.org/project/dda-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kd-ar-stream",
+  "version": "1.0.4",
+  "summary": "KD-AR Stream: Real-Time Data Stream Clustering with Adaptive Radius",
+  "author": "Ali Şenol",
+  "license": "MIT",
+  "home_page": "https://github.com/senolali/kd-ar-stream",
+  "download_filename": "kd_ar_stream-1.0.4.tar.gz",
+  "download_time": "2025-12-19T20:53:45.151120",
+  "package_url": "https://pypi.org/project/kd-ar-stream/"
+}
