@@ -1,0 +1,11 @@
+{
+  "name": "fathomnet",
+  "version": "1.9.0",
+  "summary": "fathomnet-py is a client-side API to help scientists, researchers, and developers interact with FathomNet data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fathomnet-1.9.0.tar.gz",
+  "download_time": "2025-12-19T21:12:14.112541",
+  "package_url": "https://pypi.org/project/fathomnet/"
+}

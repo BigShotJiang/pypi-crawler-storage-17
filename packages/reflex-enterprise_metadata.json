@@ -1,11 +1,11 @@
 {
   "name": "reflex-enterprise",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Package containing the paid features for Reflex. [Pro/Team/Enterprise]",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reflex_enterprise-0.4.0.tar.gz",
-  "download_time": "2025-12-17T19:31:13.493171",
+  "download_filename": "reflex_enterprise-0.4.1.tar.gz",
+  "download_time": "2025-12-19T21:12:04.128870",
   "package_url": "https://pypi.org/project/reflex-enterprise/"
 }
