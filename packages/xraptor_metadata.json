@@ -1,0 +1,11 @@
+{
+  "name": "xraptor",
+  "version": "0.3.5",
+  "summary": "Fast as websocket easy as http",
+  "author": "Marco Sievers de Almeida",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xraptor-0.3.5.tar.gz",
+  "download_time": "2025-12-19T18:51:52.544515",
+  "package_url": "https://pypi.org/project/xraptor/"
+}

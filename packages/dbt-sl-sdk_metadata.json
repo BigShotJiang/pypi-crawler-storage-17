@@ -1,0 +1,11 @@
+{
+  "name": "dbt-sl-sdk",
+  "version": "0.13.1",
+  "summary": "A client for dbt's Semantic Layer",
+  "author": "dbt Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_sl_sdk-0.13.1.tar.gz",
+  "download_time": "2025-12-19T18:51:50.454201",
+  "package_url": "https://pypi.org/project/dbt-sl-sdk/"
+}

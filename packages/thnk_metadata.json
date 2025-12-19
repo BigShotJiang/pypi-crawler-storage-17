@@ -1,11 +1,11 @@
 {
   "name": "thnk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A machine-learnable version of the python object system.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thnk-0.0.2.tar.gz",
-  "download_time": "2025-12-19T18:17:46.708804",
+  "download_filename": "thnk-0.0.3.tar.gz",
+  "download_time": "2025-12-19T18:52:11.698883",
   "package_url": "https://pypi.org/project/thnk/"
 }

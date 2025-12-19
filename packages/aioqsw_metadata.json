@@ -1,0 +1,11 @@
+{
+  "name": "aioqsw",
+  "version": "0.4.2",
+  "summary": "Library to control QNAP QSW devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aioqsw-0.4.2.tar.gz",
+  "download_time": "2025-12-19T18:51:47.320933",
+  "package_url": "https://pypi.org/project/aioqsw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "text-multidecoder",
+  "version": "0.1.1",
+  "summary": "Recursively attempt to decode text",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "text_multidecoder-0.1.1.tar.gz",
+  "download_time": "2025-12-19T18:52:12.723107",
+  "package_url": "https://pypi.org/project/text-multidecoder/"
+}
