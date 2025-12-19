@@ -1,11 +1,11 @@
 {
   "name": "langfuse",
-  "version": "3.11.0",
+  "version": "3.11.1",
   "summary": "A client library for accessing langfuse",
   "author": "langfuse",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langfuse-3.11.0.tar.gz",
-  "download_time": "2025-12-17T10:43:06.601604",
+  "download_filename": "langfuse-3.11.1.tar.gz",
+  "download_time": "2025-12-19T14:38:14.265626",
   "package_url": "https://pypi.org/project/langfuse/"
 }

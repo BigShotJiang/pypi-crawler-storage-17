@@ -1,0 +1,11 @@
+{
+  "name": "nats-core",
+  "version": "0.1.0",
+  "summary": "NATS core implementation in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nats_core-0.1.0.tar.gz",
+  "download_time": "2025-12-19T14:38:04.856439",
+  "package_url": "https://pypi.org/project/nats-core/"
+}

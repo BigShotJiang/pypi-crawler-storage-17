@@ -1,0 +1,11 @@
+{
+  "name": "Ooga-Booga-Python",
+  "version": "0.0.9",
+  "summary": "A Python client for the Ooga Booga DEX aggregation and smart order routing REST API.",
+  "author": "Moritz",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "ooga_booga_python-0.0.9.tar.gz",
+  "download_time": "2025-12-19T14:38:10.571657",
+  "package_url": "https://pypi.org/project/Ooga-Booga-Python/"
+}

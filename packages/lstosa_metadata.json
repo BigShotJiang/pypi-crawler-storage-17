@@ -1,0 +1,11 @@
+{
+  "name": "lstosa",
+  "version": "0.11.6",
+  "summary": "Onsite analysis pipeline for the CTA LST-1",
+  "author": "María Láinez, José Enrique Ruiz, Lab Saha, Andrés Baquero, José Luis Contreras, Maximilian Linhoff",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lstosa-0.11.6.tar.gz",
+  "download_time": "2025-12-19T14:38:41.109519",
+  "package_url": "https://pypi.org/project/lstosa/"
+}

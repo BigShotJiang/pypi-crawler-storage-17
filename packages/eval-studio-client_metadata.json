@@ -1,11 +1,11 @@
 {
   "name": "eval-studio-client",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eval_studio_client-1.2.4-py3-none-any.whl",
-  "download_time": "2025-12-17T20:14:04.534756",
+  "download_filename": "eval_studio_client-1.2.5-py3-none-any.whl",
+  "download_time": "2025-12-19T14:38:20.155034",
   "package_url": "https://pypi.org/project/eval-studio-client/"
 }

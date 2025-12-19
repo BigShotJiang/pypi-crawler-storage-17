@@ -1,0 +1,11 @@
+{
+  "name": "httomo",
+  "version": "3.0",
+  "summary": "High Throughput Tomography framework.",
+  "author": "Garry ODonnell, Jacob Williamson",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "httomo-3.0.tar.gz",
+  "download_time": "2025-12-19T14:38:29.188279",
+  "package_url": "https://pypi.org/project/httomo/"
+}
