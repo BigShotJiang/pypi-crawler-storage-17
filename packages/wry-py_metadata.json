@@ -1,11 +1,11 @@
 {
   "name": "wry-py",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python bindings for Wry/Tao",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wry_py-0.1.4.tar.gz",
-  "download_time": "2025-12-19T13:46:01.831694",
+  "download_filename": "wry_py-0.1.5.tar.gz",
+  "download_time": "2025-12-19T15:55:42.712381",
   "package_url": "https://pypi.org/project/wry-py/"
 }

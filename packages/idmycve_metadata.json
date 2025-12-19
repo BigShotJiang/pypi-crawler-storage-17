@@ -1,11 +1,11 @@
 {
   "name": "idmycve",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A command-line tool for searching and reporting CVEs from the NVD, with EPSS scores and exploit availability.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idmycve-0.2.0.tar.gz",
-  "download_time": "2025-12-19T13:45:34.912634",
+  "download_filename": "idmycve-0.2.1.tar.gz",
+  "download_time": "2025-12-19T15:55:26.207110",
   "package_url": "https://pypi.org/project/idmycve/"
 }

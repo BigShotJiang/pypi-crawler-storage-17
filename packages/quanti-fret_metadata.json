@@ -1,11 +1,11 @@
 {
   "name": "quanti-fret",
-  "version": "0.19.0",
+  "version": "1.0.0",
   "summary": "Performs QuanTI-FRET calibration and analysis from 3-channel movies",
   "author": "Aurélie Dupont",
   "license": null,
   "home_page": "https://liphy-annuaire.univ-grenoble-alpes.fr/pages_personnelles/aurelie_dupont/quantifret/index_quantifret.html",
-  "download_filename": "quanti_fret-0.19.0.tar.gz",
-  "download_time": "2025-12-19T13:57:37.856071",
+  "download_filename": "quanti_fret-1.0.0.tar.gz",
+  "download_time": "2025-12-19T15:55:26.718328",
   "package_url": "https://pypi.org/project/quanti-fret/"
 }

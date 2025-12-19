@@ -1,11 +1,11 @@
 {
   "name": "vscodenb",
-  "version": "0.1.21",
+  "version": "0.1.23",
   "summary": "Utilities and styling for notebooks in vscode",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vscodenb-0.1.21.tar.gz",
-  "download_time": "2025-12-19T15:36:39.447030",
+  "download_filename": "vscodenb-0.1.23.tar.gz",
+  "download_time": "2025-12-19T15:55:46.337011",
   "package_url": "https://pypi.org/project/vscodenb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pandas-stubs",
+  "version": "2.3.3.251219",
+  "summary": "Type annotations for pandas",
+  "author": "The Pandas Development Team",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pandas_stubs-2.3.3.251219.tar.gz",
+  "download_time": "2025-12-19T15:55:18.502835",
+  "package_url": "https://pypi.org/project/pandas-stubs/"
+}
