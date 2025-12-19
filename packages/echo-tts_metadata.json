@@ -1,0 +1,11 @@
+{
+  "name": "echo-tts",
+  "version": "0.1.0",
+  "summary": "Echo TTS - Text-to-Speech synthesis with voice cloning",
+  "author": "FoxEngine AI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "echo_tts-0.1.0.tar.gz",
+  "download_time": "2025-12-19T19:29:17.636453",
+  "package_url": "https://pypi.org/project/echo-tts/"
+}

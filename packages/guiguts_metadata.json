@@ -1,11 +1,11 @@
 {
   "name": "guiguts",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "summary": "Guiguts version 2, Python/tkinter version",
   "author": "DP Guiguts Dev Team",
   "license": null,
   "home_page": null,
-  "download_filename": "guiguts-2.0.11.tar.gz",
-  "download_time": "2025-12-15T17:17:22.959435",
+  "download_filename": "guiguts-2.0.12.tar.gz",
+  "download_time": "2025-12-19T19:28:53.620133",
   "package_url": "https://pypi.org/project/guiguts/"
 }

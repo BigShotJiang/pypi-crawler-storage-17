@@ -1,11 +1,11 @@
 {
   "name": "minidocker",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "minidocker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minidocker-0.1.6.tar.gz",
-  "download_time": "2025-12-16T02:47:32.254514",
+  "download_filename": "minidocker-0.1.7.tar.gz",
+  "download_time": "2025-12-19T19:29:01.748849",
   "package_url": "https://pypi.org/project/minidocker/"
 }

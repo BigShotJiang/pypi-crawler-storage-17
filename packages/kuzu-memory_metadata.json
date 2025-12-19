@@ -1,11 +1,11 @@
 {
   "name": "kuzu-memory",
-  "version": "1.6.8",
+  "version": "1.6.9",
   "summary": "Lightweight, embedded graph-based memory system for AI applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kuzu_memory-1.6.8.tar.gz",
-  "download_time": "2025-12-19T19:11:30.018746",
+  "download_filename": "kuzu_memory-1.6.9.tar.gz",
+  "download_time": "2025-12-19T19:28:54.857723",
   "package_url": "https://pypi.org/project/kuzu-memory/"
 }

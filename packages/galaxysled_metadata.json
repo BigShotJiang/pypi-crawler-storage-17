@@ -1,0 +1,11 @@
+{
+  "name": "galaxysled",
+  "version": "0.1.9",
+  "summary": "A code to reproduce and fit a galaxy CO SLED",
+  "author": "Federico Esposito",
+  "license": null,
+  "home_page": "https://github.com/federicoesposito/galaxySLED",
+  "download_filename": "galaxysled-0.1.9.tar.gz",
+  "download_time": "2025-12-19T19:29:20.835400",
+  "package_url": "https://pypi.org/project/galaxysled/"
+}
