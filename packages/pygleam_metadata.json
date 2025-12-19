@@ -1,0 +1,11 @@
+{
+  "name": "pygleam",
+  "version": "1.1.2",
+  "summary": "A lightweight Python package for enhanced print statements with automatic JSON/DataFrame formatting and beautiful colors",
+  "author": "Navaneeth Penumarthi",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pygleam",
+  "download_filename": "pygleam-1.1.2.tar.gz",
+  "download_time": "2025-12-19T13:09:31.303901",
+  "package_url": "https://pypi.org/project/pygleam/"
+}

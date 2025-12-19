@@ -1,11 +1,11 @@
 {
   "name": "synalinks",
-  "version": "0.5.317",
+  "version": "0.5.319",
   "summary": "Graph-Based Programmable Neuro-Symbolic LM Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synalinks-0.5.317.tar.gz",
-  "download_time": "2025-12-17T16:04:52.778963",
+  "download_filename": "synalinks-0.5.319.tar.gz",
+  "download_time": "2025-12-19T13:09:04.851297",
   "package_url": "https://pypi.org/project/synalinks/"
 }

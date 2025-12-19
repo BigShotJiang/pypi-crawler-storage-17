@@ -1,11 +1,11 @@
 {
   "name": "remnapy",
-  "version": "2.3.0.post1",
+  "version": "2.3.2",
   "summary": "A Python SDK for interacting with the Remnawave API v2.3.0.",
   "author": "snoups",
   "license": null,
   "home_page": null,
-  "download_filename": "remnapy-2.3.0.post1.tar.gz",
-  "download_time": "2025-12-15T06:55:08.546325",
+  "download_filename": "remnapy-2.3.2.tar.gz",
+  "download_time": "2025-12-19T13:09:49.481981",
   "package_url": "https://pypi.org/project/remnapy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyhoward",
+  "version": "0.13.0",
+  "summary": "HOWARD - Highly Open Workflow for Annotation & Ranking toward genomic variant Discovery",
+  "author": "Antony Le Bechec, Jean-Baptiste Lamouche",
+  "license": null,
+  "home_page": "https://github.com/bioinfo-chru-strasbourg/howard",
+  "download_filename": "pyhoward-0.13.0.tar.gz",
+  "download_time": "2025-12-19T13:09:01.218586",
+  "package_url": "https://pypi.org/project/pyhoward/"
+}

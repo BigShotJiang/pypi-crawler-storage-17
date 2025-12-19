@@ -1,0 +1,11 @@
+{
+  "name": "riskoptima",
+  "version": "2.1.0",
+  "summary": "RiskOptima is a powerful Python toolkit for financial risk analysis, portfolio optimization, and advanced quantitative modeling. It integrates state-of-the-art methodologies, including Monte Carlo simulations, Value at Risk (VaR), Conditional VaR (CVaR), Black-Scholes, Heston, and Merton Jump Diffusion models, to aid investors in making data-driven investment decisions.",
+  "author": "Jordi Corbilla",
+  "license": "MIT",
+  "home_page": "https://github.com/JordiCorbilla/RiskOptima",
+  "download_filename": "riskoptima-2.1.0.tar.gz",
+  "download_time": "2025-12-19T13:09:29.524887",
+  "package_url": "https://pypi.org/project/riskoptima/"
+}
