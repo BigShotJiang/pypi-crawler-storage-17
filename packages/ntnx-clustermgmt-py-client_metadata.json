@@ -1,0 +1,11 @@
+{
+  "name": "ntnx-clustermgmt-py-client",
+  "version": "4.2.1",
+  "summary": "Nutanix Cluster Management APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ntnx_clustermgmt_py_client-4.2.1.tar.gz",
+  "download_time": "2025-12-19T04:52:46.304636",
+  "package_url": "https://pypi.org/project/ntnx-clustermgmt-py-client/"
+}

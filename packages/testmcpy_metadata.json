@@ -1,11 +1,11 @@
 {
   "name": "testmcpy",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "A comprehensive testing framework for validating LLM tool calling capabilities with MCP services",
   "author": "Amin Ghadersohi",
   "license": null,
   "home_page": null,
-  "download_filename": "testmcpy-0.2.16.tar.gz",
-  "download_time": "2025-12-19T04:27:12.743829",
+  "download_filename": "testmcpy-0.2.17.tar.gz",
+  "download_time": "2025-12-19T04:52:35.362448",
   "package_url": "https://pypi.org/project/testmcpy/"
 }

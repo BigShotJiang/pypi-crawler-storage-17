@@ -1,0 +1,11 @@
+{
+  "name": "ntnx-opsmgmt-py-client",
+  "version": "4.0.3",
+  "summary": "Nutanix Cloud Management Platform APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ntnx_opsmgmt_py_client-4.0.3.tar.gz",
+  "download_time": "2025-12-19T04:52:45.255250",
+  "package_url": "https://pypi.org/project/ntnx-opsmgmt-py-client/"
+}

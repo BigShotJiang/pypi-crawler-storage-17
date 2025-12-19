@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker",
+  "version": "3.2.0",
+  "summary": "Open source library for training and deploying models on Amazon SageMaker.",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sagemaker-3.2.0.tar.gz",
+  "download_time": "2025-12-19T04:52:34.846093",
+  "package_url": "https://pypi.org/project/sagemaker/"
+}

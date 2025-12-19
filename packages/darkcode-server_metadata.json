@@ -1,11 +1,11 @@
 {
   "name": "darkcode-server",
-  "version": "0.1.47",
+  "version": "0.1.48",
   "summary": "Server for DarkCode Agent - Remote Claude Code from your phone",
   "author": "0xdeadbeef",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "darkcode_server-0.1.47.tar.gz",
-  "download_time": "2025-12-19T03:54:24.528987",
+  "download_filename": "darkcode_server-0.1.48.tar.gz",
+  "download_time": "2025-12-19T04:52:47.844182",
   "package_url": "https://pypi.org/project/darkcode-server/"
 }
