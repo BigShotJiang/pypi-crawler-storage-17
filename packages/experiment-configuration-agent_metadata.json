@@ -1,11 +1,11 @@
 {
   "name": "experiment-configuration-agent",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "experiment_configuration_agent-0.1.2.tar.gz",
-  "download_time": "2025-12-19T10:55:46.317580",
+  "download_filename": "experiment_configuration_agent-0.1.3.tar.gz",
+  "download_time": "2025-12-19T11:12:07.386323",
   "package_url": "https://pypi.org/project/experiment-configuration-agent/"
 }

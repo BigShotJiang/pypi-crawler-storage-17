@@ -1,0 +1,11 @@
+{
+  "name": "xtracto",
+  "version": "0.0.8",
+  "summary": "Xtracto is a lightweight web development framework designed to simplify the process of creating dynamic web pages using Python and pypx.",
+  "author": "shashstormer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xtracto-0.0.8.tar.gz",
+  "download_time": "2025-12-19T11:12:17.794618",
+  "package_url": "https://pypi.org/project/xtracto/"
+}

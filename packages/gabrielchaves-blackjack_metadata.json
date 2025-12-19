@@ -1,11 +1,11 @@
 {
   "name": "gabrielchaves-blackjack",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "A text-based Blackjack game with ASCII art and smart betting system",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gabrielchaves_blackjack-1.0.2.tar.gz",
-  "download_time": "2025-12-18T20:13:47.090601",
+  "download_filename": "gabrielchaves_blackjack-1.0.5.tar.gz",
+  "download_time": "2025-12-19T11:12:09.463866",
   "package_url": "https://pypi.org/project/gabrielchaves-blackjack/"
 }
