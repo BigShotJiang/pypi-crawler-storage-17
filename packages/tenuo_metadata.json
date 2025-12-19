@@ -1,11 +1,11 @@
 {
   "name": "tenuo",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": "Capability tokens for AI agents - Python SDK",
   "author": "Tenuo Contributors",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "tenuo-0.1.0a2.tar.gz",
-  "download_time": "2025-12-18T08:51:35.463257",
+  "download_filename": "tenuo-0.1.0a3.tar.gz",
+  "download_time": "2025-12-19T17:49:46.478582",
   "package_url": "https://pypi.org/project/tenuo/"
 }
