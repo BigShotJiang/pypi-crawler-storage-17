@@ -1,11 +1,11 @@
 {
   "name": "tensor-truth",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Local RAG pipeline for fixing LLM hallucinations using high-precision documentation indexing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tensor_truth-0.1.9.tar.gz",
-  "download_time": "2025-12-18T21:32:32.001900",
+  "download_filename": "tensor_truth-0.1.10.tar.gz",
+  "download_time": "2025-12-19T00:53:38.313908",
   "package_url": "https://pypi.org/project/tensor-truth/"
 }

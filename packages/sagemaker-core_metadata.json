@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-core",
+  "version": "2.2.0",
+  "summary": "An python package for sagemaker core functionalities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sagemaker_core-2.2.0.tar.gz",
+  "download_time": "2025-12-19T00:53:00.247820",
+  "package_url": "https://pypi.org/project/sagemaker-core/"
+}

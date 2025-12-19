@@ -1,0 +1,11 @@
+{
+  "name": "imapdump",
+  "version": "0.7.3",
+  "summary": "A cli utility for dumping emails as EML files to a folder.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imapdump-0.7.3.tar.gz",
+  "download_time": "2025-12-19T00:53:20.161336",
+  "package_url": "https://pypi.org/project/imapdump/"
+}

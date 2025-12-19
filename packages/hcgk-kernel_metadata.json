@@ -1,11 +1,11 @@
 {
   "name": "hcgk-kernel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Hardware Control Gatekeeper Kernel - Authorization system for heavy AI models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hcgk_kernel-1.0.3.tar.gz",
-  "download_time": "2025-12-18T22:12:46.697993",
+  "download_filename": "hcgk_kernel-1.0.4.tar.gz",
+  "download_time": "2025-12-19T00:53:01.787318",
   "package_url": "https://pypi.org/project/hcgk-kernel/"
 }
