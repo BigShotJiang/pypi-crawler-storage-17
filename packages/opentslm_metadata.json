@@ -1,0 +1,11 @@
+{
+  "name": "opentslm",
+  "version": "0.1.0",
+  "summary": "OpenTSLM: Open Time Series Language Model - Curriculum Learning for Multimodal Time Series Understanding with Large Language Models",
+  "author": "Patrick Langer, Thomas Kaar, Max Rosenblattl, Maxwell A. Xu, Winnie Chow, Martin Maritsch, Robert Jakob, Aradhana Verma, Brian Han, Daniel Seung Kim, Henry Chubb, Scott Ceresnak, Aydin Zahedivash, Alexander Tarlochan Singh Sandhu, Fatima Rodriguez, Daniel McDuff, Elgar Fleisch, Oliver Aalami, Filipe Barata, Paul Schmiedmayer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentslm-0.1.0.tar.gz",
+  "download_time": "2025-12-19T14:54:54.069185",
+  "package_url": "https://pypi.org/project/opentslm/"
+}

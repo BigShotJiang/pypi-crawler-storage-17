@@ -1,0 +1,11 @@
+{
+  "name": "stackit-authorization",
+  "version": "0.6.0",
+  "summary": "STACKIT Membership API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_authorization-0.6.0.tar.gz",
+  "download_time": "2025-12-19T14:54:50.462751",
+  "package_url": "https://pypi.org/project/stackit-authorization/"
+}

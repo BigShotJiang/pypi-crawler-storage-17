@@ -1,11 +1,11 @@
 {
   "name": "ply-AI",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "Hardware-aware Triton accelerator library",
   "author": "Zeng Jianrong",
   "license": null,
   "home_page": null,
-  "download_filename": "ply_ai-1.0.2.tar.gz",
-  "download_time": "2025-12-19T14:15:09.691906",
+  "download_filename": "ply_ai-1.0.5.tar.gz",
+  "download_time": "2025-12-19T14:55:03.013534",
   "package_url": "https://pypi.org/project/ply-AI/"
 }

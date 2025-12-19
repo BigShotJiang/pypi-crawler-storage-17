@@ -1,0 +1,11 @@
+{
+  "name": "epoch-gpu",
+  "version": "1.0.0",
+  "summary": "GPU-accelerated Particle-In-Cell code for plasma physics simulations",
+  "author": "EPOCH-GPU Development Team",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "epoch_gpu-1.0.0.tar.gz",
+  "download_time": "2025-12-19T14:55:03.525403",
+  "package_url": "https://pypi.org/project/epoch-gpu/"
+}
