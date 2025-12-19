@@ -1,0 +1,11 @@
+{
+  "name": "ide-updater",
+  "version": "0.1.0",
+  "summary": "A CLI tool to automatically update Linux IDEs (VS Code, Cursor, Kiro)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ide_updater-0.1.0.tar.gz",
+  "download_time": "2025-12-19T19:11:26.107589",
+  "package_url": "https://pypi.org/project/ide-updater/"
+}

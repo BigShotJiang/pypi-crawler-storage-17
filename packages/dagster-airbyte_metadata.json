@@ -1,0 +1,11 @@
+{
+  "name": "dagster-airbyte",
+  "version": "0.28.7",
+  "summary": "Package for integrating Airbyte with Dagster.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-airbyte",
+  "download_filename": "dagster_airbyte-0.28.7.tar.gz",
+  "download_time": "2025-12-19T19:11:16.754733",
+  "package_url": "https://pypi.org/project/dagster-airbyte/"
+}

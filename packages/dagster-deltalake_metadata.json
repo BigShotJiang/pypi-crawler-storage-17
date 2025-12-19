@@ -1,0 +1,11 @@
+{
+  "name": "dagster-deltalake",
+  "version": "0.28.7",
+  "summary": "Package for Deltalake-specific Dagster framework op and resource components.",
+  "author": "Elementl",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-deltalake",
+  "download_filename": "dagster_deltalake-0.28.7.tar.gz",
+  "download_time": "2025-12-19T19:11:25.560724",
+  "package_url": "https://pypi.org/project/dagster-deltalake/"
+}
