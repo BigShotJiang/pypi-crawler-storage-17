@@ -1,0 +1,11 @@
+{
+  "name": "shadai",
+  "version": "0.1.32",
+  "summary": "SHADAI Client",
+  "author": "SHADAI GROUP",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shadai-0.1.32.tar.gz",
+  "download_time": "2025-12-19T22:52:31.732658",
+  "package_url": "https://pypi.org/project/shadai/"
+}

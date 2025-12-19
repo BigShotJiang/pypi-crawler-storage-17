@@ -1,11 +1,11 @@
 {
   "name": "contextfs",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Universal AI memory layer - cross-client, cross-repo context management with RAG",
   "author": "The YonedaAI Collaboration",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextfs-0.1.14.tar.gz",
-  "download_time": "2025-12-18T18:19:24.494867",
+  "download_filename": "contextfs-0.1.15.tar.gz",
+  "download_time": "2025-12-19T22:52:23.882586",
   "package_url": "https://pypi.org/project/contextfs/"
 }

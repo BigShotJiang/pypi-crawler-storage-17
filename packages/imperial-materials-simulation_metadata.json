@@ -1,11 +1,11 @@
 {
   "name": "imperial-materials-simulation",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Molecular simulation tool made for ICL materials students",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imperial_materials_simulation-1.2.0.tar.gz",
-  "download_time": "2025-12-19T18:52:01.829052",
+  "download_filename": "imperial_materials_simulation-1.2.1.tar.gz",
+  "download_time": "2025-12-19T22:52:22.686969",
   "package_url": "https://pypi.org/project/imperial-materials-simulation/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "garth",
-  "version": "0.5.19",
+  "version": "0.5.20",
   "summary": "Garmin SSO auth + Connect client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "garth-0.5.19.tar.gz",
-  "download_time": "2025-12-16T20:13:19.480371",
+  "download_filename": "garth-0.5.20.tar.gz",
+  "download_time": "2025-12-19T22:52:30.105767",
   "package_url": "https://pypi.org/project/garth/"
 }

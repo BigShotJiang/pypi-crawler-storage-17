@@ -1,0 +1,11 @@
+{
+  "name": "ws-cleanup-tool",
+  "version": "24.6.4",
+  "summary": "Mend SCA Cleanup Tool",
+  "author": "Mend Professional Services",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/whitesource-ps/mend-sca-cleanup-tool",
+  "download_filename": "ws_cleanup_tool-24.6.4-py3-none-any.whl",
+  "download_time": "2025-12-19T22:52:29.054620",
+  "package_url": "https://pypi.org/project/ws-cleanup-tool/"
+}

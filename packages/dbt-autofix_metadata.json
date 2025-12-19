@@ -1,11 +1,11 @@
 {
   "name": "dbt-autofix",
-  "version": "0.17.7",
+  "version": "0.18.0",
   "summary": "CLI to autofix deprecations in dbt projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_autofix-0.17.7.tar.gz",
-  "download_time": "2025-12-17T17:40:19.673133",
+  "download_filename": "dbt_autofix-0.18.0.tar.gz",
+  "download_time": "2025-12-19T22:52:34.912521",
   "package_url": "https://pypi.org/project/dbt-autofix/"
 }

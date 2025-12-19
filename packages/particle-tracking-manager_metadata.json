@@ -1,11 +1,11 @@
 {
   "name": "particle-tracking-manager",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Manager for particle tracking simulations.",
   "author": "axiom-data-science",
   "license": "MIT",
   "home_page": "https://github.com/axiom-data-science/particle-tracking-manager",
-  "download_filename": "particle_tracking_manager-2.1.1.tar.gz",
-  "download_time": "2025-12-17T22:36:09.139119",
+  "download_filename": "particle_tracking_manager-2.1.2.tar.gz",
+  "download_time": "2025-12-19T22:52:57.073741",
   "package_url": "https://pypi.org/project/particle-tracking-manager/"
 }
