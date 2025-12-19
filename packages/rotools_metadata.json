@@ -1,11 +1,11 @@
 {
   "name": "rotools",
-  "version": "0.1.123",
+  "version": "0.1.124",
   "summary": "Robert Olechowski python tools",
   "author": "Robert Olechowski",
   "license": null,
   "home_page": "https://github.com/RobertOlechowski/ROTools",
-  "download_filename": "rotools-0.1.123.tar.gz",
-  "download_time": "2025-12-15T13:52:01.929084",
+  "download_filename": "rotools-0.1.124.tar.gz",
+  "download_time": "2025-12-19T02:48:54.367794",
   "package_url": "https://pypi.org/project/rotools/"
 }

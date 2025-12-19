@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-skills",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "summary": "A lightweight agent skill implementation for Pydantic AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_skills-0.0.2.tar.gz",
-  "download_time": "2025-12-19T00:53:37.284643",
+  "download_filename": "pydantic_ai_skills-0.1.1.tar.gz",
+  "download_time": "2025-12-19T02:48:55.523998",
   "package_url": "https://pypi.org/project/pydantic-ai-skills/"
 }

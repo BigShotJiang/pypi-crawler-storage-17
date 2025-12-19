@@ -1,0 +1,11 @@
+{
+  "name": "atspm-report",
+  "version": "0.0.0",
+  "summary": "Generate ATSPM anomaly detection reports with CUSUM analysis and PDF output.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atspm_report-0.0.0.tar.gz",
+  "download_time": "2025-12-19T02:49:31.099439",
+  "package_url": "https://pypi.org/project/atspm-report/"
+}

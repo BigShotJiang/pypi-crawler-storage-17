@@ -1,11 +1,11 @@
 {
   "name": "wasm-cli",
-  "version": "0.10.2",
+  "version": "0.10.5",
   "summary": "Web App System Management - Deploy and manage web applications on Linux servers",
   "author": "WASM Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wasm_cli-0.10.2.tar.gz",
-  "download_time": "2025-12-19T00:52:58.677367",
+  "download_filename": "wasm_cli-0.10.5.tar.gz",
+  "download_time": "2025-12-19T02:49:35.835294",
   "package_url": "https://pypi.org/project/wasm-cli/"
 }

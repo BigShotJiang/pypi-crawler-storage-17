@@ -1,0 +1,11 @@
+{
+  "name": "textcraft-py",
+  "version": "0.1.1",
+  "summary": "A lightweight, beginner-friendly Python module for text transformation and analysis",
+  "author": "O-sama12",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textcraft_py-0.1.1.tar.gz",
+  "download_time": "2025-12-19T02:49:01.319145",
+  "package_url": "https://pypi.org/project/textcraft-py/"
+}

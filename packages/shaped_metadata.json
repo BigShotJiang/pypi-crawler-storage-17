@@ -1,0 +1,11 @@
+{
+  "name": "shaped",
+  "version": "2.0.2",
+  "summary": "CLI and SDK tools for interacting with the Shaped API.",
+  "author": "Shaped Team",
+  "license": null,
+  "home_page": "https://github.com/shaped-ai/shaped-cli",
+  "download_filename": "shaped-2.0.2.tar.gz",
+  "download_time": "2025-12-19T02:49:21.848714",
+  "package_url": "https://pypi.org/project/shaped/"
+}
