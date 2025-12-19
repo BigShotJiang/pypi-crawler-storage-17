@@ -1,0 +1,11 @@
+{
+  "name": "xontrib-sh",
+  "version": "0.3.2",
+  "summary": "Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell.",
+  "author": "anki",
+  "license": "BSD",
+  "home_page": "https://github.com/anki-code/xontrib-sh",
+  "download_filename": "xontrib_sh-0.3.2.tar.gz",
+  "download_time": "2025-12-19T08:54:19.406326",
+  "package_url": "https://pypi.org/project/xontrib-sh/"
+}

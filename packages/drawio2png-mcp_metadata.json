@@ -1,0 +1,11 @@
+{
+  "name": "drawio2png-mcp",
+  "version": "0.1.0",
+  "summary": "MCP Server for converting Draw.io diagrams to PNG",
+  "author": "pine",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drawio2png_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-19T08:54:10.467423",
+  "package_url": "https://pypi.org/project/drawio2png-mcp/"
+}

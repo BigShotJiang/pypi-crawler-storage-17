@@ -1,0 +1,11 @@
+{
+  "name": "databank",
+  "version": "1.1.0",
+  "summary": "Databank is an easy-to-use Python library for making raw SQL queries in a multi-threaded environment.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databank-1.1.0.tar.gz",
+  "download_time": "2025-12-19T08:54:16.324452",
+  "package_url": "https://pypi.org/project/databank/"
+}

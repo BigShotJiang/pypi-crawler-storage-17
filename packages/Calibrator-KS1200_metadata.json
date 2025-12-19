@@ -1,0 +1,11 @@
+{
+  "name": "Calibrator-KS1200",
+  "version": "0.4",
+  "summary": "Package for calibrator dry block KS-1200-1",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "calibrator_ks1200-0.4.tar.gz",
+  "download_time": "2025-12-19T08:53:58.580666",
+  "package_url": "https://pypi.org/project/Calibrator-KS1200/"
+}

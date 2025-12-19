@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-client-base",
+  "version": "0.11.2",
+  "summary": "Utilities for writing Frequenz API clients",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequenz_client_base-0.11.2.tar.gz",
+  "download_time": "2025-12-19T08:54:28.265234",
+  "package_url": "https://pypi.org/project/frequenz-client-base/"
+}

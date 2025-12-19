@@ -1,0 +1,11 @@
+{
+  "name": "ftmq",
+  "version": "4.3.4",
+  "summary": "followthemoney query dsl and io helpers",
+  "author": "Simon Wörpel",
+  "license": "AGPLv3+",
+  "home_page": "https://docs.investigraph.dev/lib/ftmq",
+  "download_filename": "ftmq-4.3.4.tar.gz",
+  "download_time": "2025-12-19T08:54:30.628770",
+  "package_url": "https://pypi.org/project/ftmq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ranex",
+  "version": "0.1.3",
+  "summary": "Python bindings for Ranex - exposes Atlas codebase indexing to Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ranex-0.1.3.tar.gz",
+  "download_time": "2025-12-19T08:54:42.556380",
+  "package_url": "https://pypi.org/project/ranex/"
+}

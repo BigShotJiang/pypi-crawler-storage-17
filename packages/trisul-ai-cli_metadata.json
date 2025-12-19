@@ -1,11 +1,11 @@
 {
   "name": "trisul-ai-cli",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Trisul AI CLI that starts a local MCP server and a client.",
   "author": "Parthasarathy B",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trisul_ai_cli-0.2.3-py3-none-any.whl",
-  "download_time": "2025-12-18T14:56:45.222784",
+  "download_filename": "trisul_ai_cli-0.2.4-py3-none-any.whl",
+  "download_time": "2025-12-19T08:54:20.462213",
   "package_url": "https://pypi.org/project/trisul-ai-cli/"
 }

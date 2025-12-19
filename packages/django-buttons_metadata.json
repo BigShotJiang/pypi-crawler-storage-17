@@ -1,0 +1,11 @@
+{
+  "name": "django-buttons",
+  "version": "1.0.4",
+  "summary": "An application providing some template-tags to add buttons on pages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_buttons-1.0.4.tar.gz",
+  "download_time": "2025-12-19T08:54:31.139055",
+  "package_url": "https://pypi.org/project/django-buttons/"
+}

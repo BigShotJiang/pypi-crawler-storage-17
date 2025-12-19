@@ -1,0 +1,11 @@
+{
+  "name": "ClickFlow-Sync",
+  "version": "1.0.0",
+  "summary": "Professional ClickUp task automation with state sync.",
+  "author": "Jenil Mistry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clickflow_sync-1.0.0.tar.gz",
+  "download_time": "2025-12-19T08:54:17.875100",
+  "package_url": "https://pypi.org/project/ClickFlow-Sync/"
+}

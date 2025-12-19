@@ -1,0 +1,11 @@
+{
+  "name": "setiastrosuitepro",
+  "version": "1.6.0",
+  "summary": "Seti Astro Suite Pro - Advanced astrophotography toolkit for image calibration, stacking, registration, photometry, and visualization",
+  "author": "Franklin Marek",
+  "license": "GPL-3.0",
+  "home_page": "https://www.setiastro.com",
+  "download_filename": "setiastrosuitepro-1.6.0-py3-none-any.whl",
+  "download_time": "2025-12-19T08:54:16.849977",
+  "package_url": "https://pypi.org/project/setiastrosuitepro/"
+}
