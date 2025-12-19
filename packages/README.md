@@ -1,12 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T08:54:46.109735
-- **Total Packages**: 92
-- **Total Size**: 39.31 MB
+- **Download Time**: 2025-12-19T09:17:21.241654
+- **Total Packages**: 94
+- **Total Size**: 8.05 MB
 
 ## Packages List
+- easy-start-images
+- mcp-proxy-adapter
+- qpyt
 - loxone-api
+- txz_aircon_bailian_mcp_server
+- easy-start-chanjet
+- odoo-addon-document-page
+- newonder-sentry-log
+- codemie-tools
+- gllm-inference-binary
+- frequenz-client-microgrid
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- discopy
+- healthsecure
+- spotify-cmd
 - dash-uploader-uppy5
 - tabfix-tool
 - maia-toolkit
@@ -16,7 +38,6 @@
 - gede
 - iclick-auto
 - otodus
-- odoo-addon-document-page
 - authly-sdk
 - shelcolors.ansi
 - easyrip
@@ -79,22 +100,3 @@
 - xgrammar
 - aiohomematic-test-support
 - aiohomematic
-- plotune-sdk
-- django-cfg
-- django-unfold-patrick
-- antchain-realperson
-- vim-eof-comment
-- canvas
-- pulumi
-- pyggm
-- pywats-api
-- treetop-client
-- algopython
-- aiinbx
-- ranex
-- anystore
-- txz_aircon_bailian_mcp_server
-- langchain-olostep
-- open-dataflow
-- pyglove
-- multi-ocr-sdk
