@@ -1,11 +1,11 @@
 {
   "name": "newonder-sentry-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A logging package that integrates with Sentry for Newonder projects",
   "author": "wangsw",
   "license": null,
   "home_page": null,
-  "download_filename": "newonder_sentry_log-1.0.1.tar.gz",
-  "download_time": "2025-12-19T09:16:31.482721",
+  "download_filename": "newonder_sentry_log-1.0.2-py3-none-any.whl",
+  "download_time": "2025-12-19T09:39:22.079021",
   "package_url": "https://pypi.org/project/newonder-sentry-log/"
 }

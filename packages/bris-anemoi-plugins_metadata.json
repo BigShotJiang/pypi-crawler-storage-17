@@ -1,0 +1,11 @@
+{
+  "name": "bris-anemoi-plugins",
+  "version": "0.1.2",
+  "summary": "Plugins needed for running the Bris model with Forecast-in-a-Box and anemoi-inference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bris_anemoi_plugins-0.1.2.tar.gz",
+  "download_time": "2025-12-19T09:39:15.368449",
+  "package_url": "https://pypi.org/project/bris-anemoi-plugins/"
+}

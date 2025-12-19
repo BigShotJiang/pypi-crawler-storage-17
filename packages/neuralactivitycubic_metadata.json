@@ -1,11 +1,11 @@
 {
   "name": "neuralactivitycubic",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Computation of local and signal-close-to-noise calcium activity",
   "author": "Dennis Doll",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/Indoc-Research/NeuralActivityCubic",
-  "download_filename": "neuralactivitycubic-0.1.4.tar.gz",
-  "download_time": "2025-12-16T16:15:37.586291",
+  "download_filename": "neuralactivitycubic-0.1.5.tar.gz",
+  "download_time": "2025-12-19T09:39:04.376776",
   "package_url": "https://pypi.org/project/neuralactivitycubic/"
 }

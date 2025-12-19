@@ -1,11 +1,11 @@
 {
   "name": "aquilax",
-  "version": "1.3.11",
+  "version": "1.3.14",
   "summary": "AquilaX CLI Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aquilax-1.3.11.tar.gz",
-  "download_time": "2025-12-19T08:54:29.353293",
+  "download_filename": "aquilax-1.3.14.tar.gz",
+  "download_time": "2025-12-19T09:39:18.954805",
   "package_url": "https://pypi.org/project/aquilax/"
 }

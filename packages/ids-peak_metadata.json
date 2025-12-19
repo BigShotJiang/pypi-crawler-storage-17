@@ -1,0 +1,11 @@
+{
+  "name": "ids-peak",
+  "version": "1.13.0.0.6",
+  "summary": "ids_peak - A library for device communication",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "ids_peak-1.13.0.0.6-cp310-abi3-manylinux_2_26_aarch64.whl",
+  "download_time": "2025-12-19T09:39:45.474859",
+  "package_url": "https://pypi.org/project/ids-peak/"
+}

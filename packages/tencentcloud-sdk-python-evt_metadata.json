@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-evt",
-  "version": "3.1.13",
+  "version": "3.1.15",
   "summary": "Tencent Cloud Evt SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_evt-3.1.13.tar.gz",
-  "download_time": "2025-12-17T09:47:48.141892",
+  "download_filename": "tencentcloud_sdk_python_evt-3.1.15.tar.gz",
+  "download_time": "2025-12-19T09:39:15.879961",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-evt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "upeepz80",
+  "version": "0.2.0",
+  "summary": "Universal peephole optimizer for Z80 compilers - pure Z80 assembly input/output",
+  "author": "upeepz80 project",
+  "license": "GPLv2",
+  "home_page": null,
+  "download_filename": "upeepz80-0.2.0.tar.gz",
+  "download_time": "2025-12-19T09:39:13.812445",
+  "package_url": "https://pypi.org/project/upeepz80/"
+}

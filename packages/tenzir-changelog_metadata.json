@@ -1,11 +1,11 @@
 {
   "name": "tenzir-changelog",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "summary": "Reusable changelog management toolkit for Tenzir repositories.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tenzir_changelog-0.15.0.tar.gz",
-  "download_time": "2025-12-18T19:35:33.234718",
+  "download_filename": "tenzir_changelog-0.16.0.tar.gz",
+  "download_time": "2025-12-19T09:39:17.927434",
   "package_url": "https://pypi.org/project/tenzir-changelog/"
 }

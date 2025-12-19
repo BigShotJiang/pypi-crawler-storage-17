@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-dataagent",
+  "version": "3.1.15",
+  "summary": "Tencent Cloud Dataagent SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_dataagent-3.1.15.tar.gz",
+  "download_time": "2025-12-19T09:39:17.415209",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-dataagent/"
+}

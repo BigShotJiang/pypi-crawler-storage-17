@@ -1,11 +1,11 @@
 {
   "name": "jeeves-yeti-pyproject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Opinionated Jeeves plugin for Python projects.",
   "author": "Anatoly Scherbakov",
   "license": null,
   "home_page": null,
-  "download_filename": "jeeves_yeti_pyproject-1.0.0.tar.gz",
-  "download_time": "2025-12-18T19:48:44.075935",
+  "download_filename": "jeeves_yeti_pyproject-1.0.1.tar.gz",
+  "download_time": "2025-12-19T09:39:36.649139",
   "package_url": "https://pypi.org/project/jeeves-yeti-pyproject/"
 }
