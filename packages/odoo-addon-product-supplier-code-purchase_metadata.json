@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-supplier-code-purchase",
+  "version": "18.0.1.0.0.3",
+  "summary": "This module adds to the purchase order line the supplier code defined in the product.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_product_supplier_code_purchase-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-19T04:27:45.870918",
+  "package_url": "https://pypi.org/project/odoo-addon-product-supplier-code-purchase/"
+}

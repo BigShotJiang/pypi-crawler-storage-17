@@ -1,0 +1,11 @@
+{
+  "name": "kson2toml",
+  "version": "1.0.2",
+  "summary": "KSON to TOML converter",
+  "author": "Matias Barrios",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kson2toml-1.0.2.tar.gz",
+  "download_time": "2025-12-19T04:27:09.917247",
+  "package_url": "https://pypi.org/project/kson2toml/"
+}

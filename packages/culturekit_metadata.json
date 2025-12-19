@@ -1,0 +1,11 @@
+{
+  "name": "culturekit",
+  "version": "0.0.2",
+  "summary": "A toolkit for evaluating the culture of MLX large language models (LLMs) on the CD Eval benchmark.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "culturekit-0.0.2.tar.gz",
+  "download_time": "2025-12-19T04:27:31.088386",
+  "package_url": "https://pypi.org/project/culturekit/"
+}

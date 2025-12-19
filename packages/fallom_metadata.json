@@ -1,0 +1,11 @@
+{
+  "name": "fallom",
+  "version": "0.2.1",
+  "summary": "Model A/B testing, prompt management, and tracing for LLM applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fallom-0.2.1.tar.gz",
+  "download_time": "2025-12-19T04:27:10.494631",
+  "package_url": "https://pypi.org/project/fallom/"
+}

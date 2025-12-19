@@ -1,0 +1,11 @@
+{
+  "name": "mira-omf",
+  "version": "3.3.2",
+  "summary": "API Library for Open Mining Format",
+  "author": "Mira Geoscience",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mira_omf-3.3.2.tar.gz",
+  "download_time": "2025-12-19T04:27:25.640287",
+  "package_url": "https://pypi.org/project/mira-omf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-photos-library-api",
+  "version": "1.0.1",
+  "summary": "A python client library for Google Photos Library API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_photos_library_api-1.0.1.tar.gz",
+  "download_time": "2025-12-19T04:27:14.695662",
+  "package_url": "https://pypi.org/project/google-photos-library-api/"
+}
