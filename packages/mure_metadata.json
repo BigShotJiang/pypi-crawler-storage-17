@@ -1,11 +1,11 @@
 {
   "name": "mure",
-  "version": "4.2.1",
+  "version": "5.0.0",
   "summary": "Perform multiple HTTP requests concurrently – without worrying about async/await.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mure-4.2.1.tar.gz",
-  "download_time": "2025-12-19T08:54:12.601714",
+  "download_filename": "mure-5.0.0.tar.gz",
+  "download_time": "2025-12-19T13:57:35.809365",
   "package_url": "https://pypi.org/project/mure/"
 }

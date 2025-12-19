@@ -1,11 +1,11 @@
 {
   "name": "pupil-labs-camera",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Utilities for handling cameras.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pupil_labs_camera-1.0.1.tar.gz",
-  "download_time": "2025-12-18T16:49:19.484549",
+  "download_filename": "pupil_labs_camera-1.1.0.tar.gz",
+  "download_time": "2025-12-19T13:57:40.946618",
   "package_url": "https://pypi.org/project/pupil-labs-camera/"
 }

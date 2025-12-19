@@ -1,11 +1,11 @@
 {
   "name": "pyrig",
-  "version": "2.2.13",
+  "version": "2.2.14",
   "summary": "A Python toolkit that standardizes and automates project setup, configuration and development.",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "pyrig-2.2.13.tar.gz",
-  "download_time": "2025-12-19T04:27:31.604634",
+  "download_filename": "pyrig-2.2.14.tar.gz",
+  "download_time": "2025-12-19T13:57:48.279829",
   "package_url": "https://pypi.org/project/pyrig/"
 }

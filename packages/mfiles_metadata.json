@@ -1,0 +1,11 @@
+{
+  "name": "mfiles",
+  "version": "0.5.4",
+  "summary": "M-Files API wrapper",
+  "author": "Emil Hjelm",
+  "license": "MIT",
+  "home_page": "https://github.com/afcmrp/python-mfiles",
+  "download_filename": "mfiles-0.5.4.tar.gz",
+  "download_time": "2025-12-19T13:57:25.364706",
+  "package_url": "https://pypi.org/project/mfiles/"
+}

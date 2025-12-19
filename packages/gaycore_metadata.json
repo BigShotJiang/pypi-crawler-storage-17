@@ -1,0 +1,11 @@
+{
+  "name": "gaycore",
+  "version": "4.0",
+  "summary": "A tiny and smart cli player of gcore audio, based on Python package curses and mpg123 for Linux or Mac",
+  "author": "yihong0618",
+  "license": "MIT",
+  "home_page": "https://github.com/yihong0618/gaycore",
+  "download_filename": "gaycore-4.0.tar.gz",
+  "download_time": "2025-12-19T13:57:25.874282",
+  "package_url": "https://pypi.org/project/gaycore/"
+}

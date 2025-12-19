@@ -1,11 +1,11 @@
 {
   "name": "agentica",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "summary": "AI Agent SDK",
   "author": "XuMing",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/shibing624/agentica",
-  "download_filename": "agentica-1.1.6.tar.gz",
-  "download_time": "2025-12-16T04:26:55.114858",
+  "download_filename": "agentica-1.2.0.tar.gz",
+  "download_time": "2025-12-19T13:57:37.345172",
   "package_url": "https://pypi.org/project/agentica/"
 }
