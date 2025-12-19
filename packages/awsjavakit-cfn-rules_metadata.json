@@ -1,11 +1,11 @@
 {
   "name": "awsjavakit-cfn-rules",
-  "version": "0.0.35",
+  "version": "0.0.38",
   "summary": "Extendable CFN rules",
   "author": "Orestis Gkorgkas",
   "license": null,
   "home_page": null,
-  "download_filename": "awsjavakit_cfn_rules-0.0.35.tar.gz",
-  "download_time": "2025-12-19T18:51:44.186442",
+  "download_filename": "awsjavakit_cfn_rules-0.0.38.tar.gz",
+  "download_time": "2025-12-19T21:42:57.873686",
   "package_url": "https://pypi.org/project/awsjavakit-cfn-rules/"
 }

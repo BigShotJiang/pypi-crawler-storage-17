@@ -1,11 +1,11 @@
 {
   "name": "testtools",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "summary": "Extensions to the Python standard library unit testing framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testtools-2.8.1-py3-none-any.whl",
-  "download_time": "2025-12-18T20:33:35.110880",
+  "download_filename": "testtools-2.8.2.tar.gz",
+  "download_time": "2025-12-19T21:42:40.424324",
   "package_url": "https://pypi.org/project/testtools/"
 }

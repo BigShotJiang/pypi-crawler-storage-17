@@ -1,11 +1,11 @@
 {
   "name": "sprintify-navigation",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "summary": "A navigation widget  based on PySide6",
   "author": "Sami Spjuth",
   "license": null,
-  "home_page": "https://github.com/sspjuth/navigation",
-  "download_filename": "sprintify_navigation-1.0.10.tar.gz",
-  "download_time": "2025-12-19T21:11:59.961893",
+  "home_page": "https://github.com/sspjuth/sprintify",
+  "download_filename": "sprintify_navigation-1.0.12.tar.gz",
+  "download_time": "2025-12-19T21:42:32.409713",
   "package_url": "https://pypi.org/project/sprintify-navigation/"
 }

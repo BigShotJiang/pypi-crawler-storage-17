@@ -1,11 +1,11 @@
 {
   "name": "kaqing",
-  "version": "2.0.177",
+  "version": "2.0.178",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kaqing-2.0.177.tar.gz",
-  "download_time": "2025-12-18T23:44:30.912278",
+  "download_filename": "kaqing-2.0.178.tar.gz",
+  "download_time": "2025-12-19T21:42:48.880042",
   "package_url": "https://pypi.org/project/kaqing/"
 }
