@@ -1,0 +1,11 @@
+{
+  "name": "istari-core",
+  "version": "0.1.2",
+  "summary": "Infer user intent states from behavioral event streams",
+  "author": "Tanay Agrawal",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "istari_core-0.1.2.tar.gz",
+  "download_time": "2025-12-19T09:53:33.520171",
+  "package_url": "https://pypi.org/project/istari-core/"
+}

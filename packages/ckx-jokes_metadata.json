@@ -1,11 +1,11 @@
 {
   "name": "ckx-jokes",
-  "version": "0.3",
-  "summary": null,
+  "version": "0.4",
+  "summary": "A Flask-based REST API for retrieving jokes with support for multiple categories and languages.",
   "author": "CryptoKingXavier",
-  "license": null,
-  "home_page": null,
-  "download_filename": "ckx_jokes-0.3.tar.gz",
-  "download_time": "2025-12-18T21:42:30.034786",
+  "license": "MIT",
+  "home_page": "https://pyjok-es.onrender.com/",
+  "download_filename": "ckx_jokes-0.4.tar.gz",
+  "download_time": "2025-12-19T09:53:46.540632",
   "package_url": "https://pypi.org/project/ckx-jokes/"
 }

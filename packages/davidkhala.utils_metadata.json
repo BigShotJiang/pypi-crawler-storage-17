@@ -1,11 +1,11 @@
 {
   "name": "davidkhala.utils",
-  "version": "0.6.8",
+  "version": "0.7.0",
   "summary": "@davidkhala/python-utils",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "davidkhala_utils-0.6.8.tar.gz",
-  "download_time": "2025-12-17T10:14:10.050740",
+  "download_filename": "davidkhala_utils-0.7.0.tar.gz",
+  "download_time": "2025-12-19T09:53:45.503720",
   "package_url": "https://pypi.org/project/davidkhala.utils/"
 }

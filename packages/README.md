@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-19T09:39:48.532897
-- **Total Packages**: 89
-- **Total Size**: 45.74 MB
+- **Download Time**: 2025-12-19T09:54:22.673269
+- **Total Packages**: 90
+- **Total Size**: 18.34 MB
 
 ## Packages List
+- istari-core
+- tinycolors
+- wisent
+- vvdutils
+- vellum-workflow-server
+- jaf-py
+- ucapi
+- dovalens
+- videofetch
+- gens-input-data-tools
+- iceberg-loader
+- pmx-biobb
+- quasarr
+- memvid-rs
+- buildgrid
+- nora-observability
+- django-urlconfchecks
+- nanocli
+- openquake.gem-taxonomy-data
+- pyESDL
+- cumulusci
+- tfp-nightly
+- davidkhala.utils
+- mc-netease-sdk-nyrev
+- ckx-jokes
+- broccoli-ml
+- crawlee
+- fusesell
+- openmetadata-managed-apis
+- tzafon
+- qpyt
+- solvor
+- fastapi-users
+- os-py-lib-cloud
+- ml-dash
+- sharktanklang
+- tencentcloud-sdk-python-weilingwith
+- glaip-sdk
+- acryl-datahub-actions
 - tencentcloud-sdk-python-wedata
 - tencentcloud-sdk-python-vpc
 - tencentcloud-sdk-python-thpc
@@ -57,41 +96,3 @@
 - aiohomematic
 - regula-facesdk-webclient
 - regula-documentreader-webclient
-- trade-safety
-- sits
-- rtlviz
-- donkit-chunker
-- donkit-embeddings
-- vasprocar
-- txz_aircon_bailian_mcp_server
-- rqdatac
-- pyscfad-cuda12-plugin
-- merlya
-- broccoli-ml
-- rqdatac-hk
-- ezKit
-- revengai
-- authly-sdk
-- jeeves-yeti-pyproject
-- pulumi
-- redisvl
-- weixinautox4
-- qpyt
-- kubiya-control-plane-api
-- dovalens
-- notion2pandas
-- ryn-data
-- hhg
-- sensor-sdk
-- alibabacloud-websitebuild20250429
-- ids-peak-afl
-- ids-peak-icv
-- jsdataset-down-test
-- ids-peak-common
-- ids-peak-ipl
-- ids-peak
-- msb-arch
-- Jarvis-Brain
-- spotify-cmd
-- jsdataset-down
-- pxstatspy
