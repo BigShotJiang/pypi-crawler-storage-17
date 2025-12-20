@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T03:38:26.511897
-- **Total Packages**: 84
-- **Total Size**: 33.9 MB
+- **Download Time**: 2025-12-20T04:05:49.473531
+- **Total Packages**: 83
+- **Total Size**: 25.23 MB
 
 ## Packages List
+- chromedriver-binary
+- fast-generic-api
+- topdogalerts
+- pulumi-databricks
+- invarianthub
+- pulumi-harness
+- jl-ecms-server
+- jl-ecms-client
+- ebk
+- feems
+- MachSysS
+- pulumi-snowflake
+- pulumi-ec
+- omnata-plugin-runtime
+- dnp3py
+- declaro
+- pulumi-dbtcloud
+- aule-attention
+- pulumi-azuredevops
+- odoo-addons-oca-repair
+- cve-report-aggregator
+- harbor
+- publicsuffixlist
+- icsneopy
+- odoo-addons-oca-purchase-workflow
+- Jolt-Python-API
+- ipyfernel
+- pulumi-artifactory
+- pulumi-confluentcloud
+- mdsasa-bolt
+- quannengbao
+- wu-forensics
+- pulumi-github
+- ausnumtools
+- pulumi-ise
+- pyrig
+- shinigami-eye
+- hikari-wave
+- crystalwindow
+- pulumi-signalfx
+- tvidentify
+- kondoo
+- philh_myftp_biz
+- autoflatten
+- unsloth
+- yadopt
+- cortex-memory
+- quick-pp
+- pymssql-mcp
+- wi1-bot
+- pydantic-encryption
+- keras-rs-nightly
 - PraisonAI
 - paperlib-mcp
 - atlisp
@@ -17,7 +69,6 @@
 - zz-tools
 - glidergun
 - pyThermoCalcDB
-- pyrig
 - dplex
 - cqc-quam-state
 - pydantic-super-model
@@ -28,7 +79,6 @@
 - msgmodel
 - wiztype
 - odoo-addons-oca-l10n-spain
-- cve-report-aggregator
 - fragua
 - trade-safety
 - pyAgrum-nightly
@@ -39,54 +89,3 @@
 - aiinbx
 - yccdb
 - gridvoting-jax
-- bakong-khqr
-- leop
-- dragon-ml-toolbox
-- ai-agent-rules
-- mgraph-db
-- relace-mcp
-- nifti2bids
-- gopylink
-- invarianthub
-- openreview-py
-- cirq-ionq
-- cirq-aqt
-- cirq-pasqal
-- cirq-google
-- cirq-core
-- dycw-utilities
-- cirq
-- cirq-web
-- odoo-addon-document-page
-- mdbq
-- mfi-mpower
-- nvflare
-- types-networkx
-- types-Authlib
-- types-PyMySQL
-- airbornehrs
-- ptlearn
-- imputer-apsus
-- markdown-query
-- comlrl
-- grub-wiz
-- pyfrontkit
-- voicerun_completions
-- primfunctions
-- magpy-gui
-- ibm-watsonxdata-mcp-server
-- sagemaker-serve
-- svg-ultralight
-- macbundler
-- uipath
-- pyphewas-package
-- CPILake-Utils
-- aipartnerupflow
-- embed-client
-- modal
-- bioregistry
-- nextmv
-- dycw-setup-cronjob
-- synth-ai
-- kensho
-- gguf-cua

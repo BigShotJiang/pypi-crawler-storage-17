@@ -1,11 +1,11 @@
 {
   "name": "feems",
-  "version": "0.11.10",
+  "version": "0.11.11",
   "summary": null,
   "author": "Kevin Koosup Yum",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "feems-0.11.10.tar.gz",
-  "download_time": "2025-12-20T02:29:48.240863",
+  "download_filename": "feems-0.11.11.tar.gz",
+  "download_time": "2025-12-20T04:05:10.205082",
   "package_url": "https://pypi.org/project/feems/"
 }

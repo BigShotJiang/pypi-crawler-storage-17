@@ -1,0 +1,11 @@
+{
+  "name": "shinigami-eye",
+  "version": "2.0.0",
+  "summary": "All-Seeing Cybersecurity Framework for Network Reconnaissance and Vulnerability Assessment",
+  "author": "Mauro",
+  "license": "MIT",
+  "home_page": "https://github.com/maaurors/SHINIGAMI-EYE",
+  "download_filename": "shinigami_eye-2.0.0.tar.gz",
+  "download_time": "2025-12-20T04:05:24.709192",
+  "package_url": "https://pypi.org/project/shinigami-eye/"
+}

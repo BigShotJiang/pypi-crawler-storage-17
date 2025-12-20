@@ -1,0 +1,11 @@
+{
+  "name": "dnp3py",
+  "version": "0.1.0",
+  "summary": "Pure Python DNP3 implementation (IEEE 1815-2012)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dnp3py-0.1.0.tar.gz",
+  "download_time": "2025-12-20T04:05:12.859186",
+  "package_url": "https://pypi.org/project/dnp3py/"
+}

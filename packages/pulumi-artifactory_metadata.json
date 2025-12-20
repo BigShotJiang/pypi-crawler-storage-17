@@ -1,11 +1,11 @@
 {
   "name": "pulumi-artifactory",
-  "version": "8.10.0",
+  "version": "8.10.1",
   "summary": "A Pulumi package for creating and managing artifactory cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_artifactory-8.10.0.tar.gz",
-  "download_time": "2025-12-17T05:38:33.129901",
+  "download_filename": "pulumi_artifactory-8.10.1.tar.gz",
+  "download_time": "2025-12-20T04:05:19.884460",
   "package_url": "https://pypi.org/project/pulumi-artifactory/"
 }

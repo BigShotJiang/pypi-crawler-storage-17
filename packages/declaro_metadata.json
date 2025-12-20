@@ -1,0 +1,11 @@
+{
+  "name": "declaro",
+  "version": "0.0.1",
+  "summary": "The Functional Python Stack - pure functions, typed data, no class magic",
+  "author": "Adam Zachary Wasserman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "declaro-0.0.1.tar.gz",
+  "download_time": "2025-12-20T04:05:13.388516",
+  "package_url": "https://pypi.org/project/declaro/"
+}
