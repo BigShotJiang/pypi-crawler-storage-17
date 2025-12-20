@@ -1,11 +1,11 @@
 {
   "name": "git-captains-log",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Automatically aggregate git commit messages daily into markdown logs",
   "author": "Captain's Log Team",
   "license": null,
   "home_page": null,
-  "download_filename": "git_captains_log-0.2.0.tar.gz",
-  "download_time": "2025-12-20T10:35:55.865414",
+  "download_filename": "git_captains_log-0.2.1.tar.gz",
+  "download_time": "2025-12-20T10:52:17.000146",
   "package_url": "https://pypi.org/project/git-captains-log/"
 }

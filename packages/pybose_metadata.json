@@ -1,0 +1,11 @@
+{
+  "name": "pybose",
+  "version": "2025.12.2",
+  "summary": "An unofficial Python API for controlling Bose soundbars and speakers.",
+  "author": "cavefire",
+  "license": null,
+  "home_page": "https://github.com/cavefire/pybose",
+  "download_filename": "pybose-2025.12.2.tar.gz",
+  "download_time": "2025-12-20T10:51:59.128196",
+  "package_url": "https://pypi.org/project/pybose/"
+}
