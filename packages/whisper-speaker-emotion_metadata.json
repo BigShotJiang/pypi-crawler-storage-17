@@ -1,0 +1,11 @@
+{
+  "name": "whisper-speaker-emotion",
+  "version": "0.1.0",
+  "summary": "Emotion-aware speaker tone analysis using pitch and RMS from Whisper diarized VTT with timestamps",
+  "author": "Ashwin B",
+  "license": null,
+  "home_page": null,
+  "download_filename": "whisper_speaker_emotion-0.1.0.tar.gz",
+  "download_time": "2025-12-20T08:17:09.796935",
+  "package_url": "https://pypi.org/project/whisper-speaker-emotion/"
+}

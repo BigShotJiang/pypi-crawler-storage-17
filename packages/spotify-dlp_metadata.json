@@ -1,0 +1,11 @@
+{
+  "name": "spotify-dlp",
+  "version": "2.6.0",
+  "summary": "Command line downloader for spotify tracks, playlists, albums and top artists songs.",
+  "author": "zWolfrost",
+  "license": null,
+  "home_page": "https://github.com/zWolfrost/spotify-dlp",
+  "download_filename": "spotify_dlp-2.6.0.tar.gz",
+  "download_time": "2025-12-20T08:17:06.168520",
+  "package_url": "https://pypi.org/project/spotify-dlp/"
+}

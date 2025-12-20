@@ -1,0 +1,11 @@
+{
+  "name": "typedprotocol",
+  "version": "0.1.0",
+  "summary": "Typed protocols with runtime validation and structural typing",
+  "author": "Okan Akbulut",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typedprotocol-0.1.0.tar.gz",
+  "download_time": "2025-12-20T08:17:05.141837",
+  "package_url": "https://pypi.org/project/typedprotocol/"
+}
