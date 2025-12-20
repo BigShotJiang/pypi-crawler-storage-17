@@ -1,12 +1,8 @@
 {
-  "download_time": "2025-12-20T09:33:16.185818",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 5.42,
+  "download_time": "2025-12-20T09:44:24.116915",
+  "total_packages_downloaded": 80,
+  "total_size_mb": 0.11,
   "packages": [
-    "pybioseq",
-    "fastapi-microservices-lever",
-    "oneiric",
-    "spotoptim",
     "tigzig-api-monitor",
     "mailgun-mcp",
     "trading-sdk",
@@ -85,6 +81,7 @@
     "fireworks-ai",
     "mexc-trading-sdk",
     "here-search-demo",
-    "fastshell"
+    "fastshell",
+    "ai-project-os-mcp"
   ]
 }

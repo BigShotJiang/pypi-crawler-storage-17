@@ -1,15 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T09:33:16.185818
-- **Total Packages**: 83
-- **Total Size**: 5.42 MB
+- **Download Time**: 2025-12-20T09:44:24.116915
+- **Total Packages**: 80
+- **Total Size**: 0.11 MB
 
 ## Packages List
-- pybioseq
-- fastapi-microservices-lever
-- oneiric
-- spotoptim
 - tigzig-api-monitor
 - mailgun-mcp
 - trading-sdk
@@ -89,3 +85,4 @@
 - mexc-trading-sdk
 - here-search-demo
 - fastshell
+- ai-project-os-mcp
