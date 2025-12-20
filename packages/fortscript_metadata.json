@@ -1,11 +1,11 @@
 {
   "name": "fortscript",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A process supervisor with execution control based on system resource state.",
   "author": "Wesley Queiroz",
   "license": null,
   "home_page": null,
-  "download_filename": "fortscript-0.2.1.tar.gz",
-  "download_time": "2025-12-20T02:30:00.074108",
+  "download_filename": "fortscript-0.2.3.tar.gz",
+  "download_time": "2025-12-20T11:28:03.443872",
   "package_url": "https://pypi.org/project/fortscript/"
 }

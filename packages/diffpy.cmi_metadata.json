@@ -1,11 +1,11 @@
 {
   "name": "diffpy.cmi",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "Complex modeling infrastructure: a modular framework for multi-modal modeling of scientific data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diffpy_cmi-3.1.1.tar.gz",
-  "download_time": "2025-12-19T20:37:11.149483",
+  "download_filename": "diffpy_cmi-3.1.2.tar.gz",
+  "download_time": "2025-12-20T11:28:06.320623",
   "package_url": "https://pypi.org/project/diffpy.cmi/"
 }
