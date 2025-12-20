@@ -1,0 +1,11 @@
+{
+  "name": "webnexa",
+  "version": "0.1.0",
+  "summary": "A Python library for loading websites and asking questions using Hugging Face AI. Developed by Fardin Ibrahimi, Bachelor of Science in Computer Science and CEO of Humanoid Company. Humanoid Company specializes in developing AI applications and models that closely emulate human actions and decision-making approaches, with the mission statement 'Not Human, Beyond Human'. This library enables more accessible and innovative web interaction capabilities.",
+  "author": "Fardin Ibrahimi",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/webnexa",
+  "download_filename": "webnexa-0.1.0.tar.gz",
+  "download_time": "2025-12-20T07:12:15.260313",
+  "package_url": "https://pypi.org/project/webnexa/"
+}

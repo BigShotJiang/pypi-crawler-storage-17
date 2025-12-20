@@ -1,0 +1,11 @@
+{
+  "name": "youtube-unofficial",
+  "version": "0.3.1",
+  "summary": "Access parts of your account unavailable through normal YouTube API access.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "youtube_unofficial-0.3.1.tar.gz",
+  "download_time": "2025-12-20T07:12:10.668884",
+  "package_url": "https://pypi.org/project/youtube-unofficial/"
+}

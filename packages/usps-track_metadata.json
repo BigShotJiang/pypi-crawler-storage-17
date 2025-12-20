@@ -1,0 +1,11 @@
+{
+  "name": "usps-track",
+  "version": "0.0.3",
+  "summary": "Quickly track via SMS several USPS (and some international) tracking numbers via the command line.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "usps_track-0.0.3.tar.gz",
+  "download_time": "2025-12-20T07:12:20.876820",
+  "package_url": "https://pypi.org/project/usps-track/"
+}
