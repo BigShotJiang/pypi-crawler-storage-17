@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-api-python",
+  "version": "17.4.1",
+  "summary": "The fork of module bilibili-api. 哔哩哔哩的各种 API 调用便捷整合（视频、动态、直播等），另外附加一些常用的功能。",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "bilibili_api_python-17.4.1.tar.gz",
+  "download_time": "2025-12-20T11:11:07.234840",
+  "package_url": "https://pypi.org/project/bilibili-api-python/"
+}
