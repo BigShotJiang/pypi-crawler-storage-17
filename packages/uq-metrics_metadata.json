@@ -1,0 +1,11 @@
+{
+  "name": "uq-metrics",
+  "version": "0.1.0",
+  "summary": "Uncertainty quantification metrics for model evaluation",
+  "author": "Debargha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uq_metrics-0.1.0.tar.gz",
+  "download_time": "2025-12-20T07:35:25.775499",
+  "package_url": "https://pypi.org/project/uq-metrics/"
+}

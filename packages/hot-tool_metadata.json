@@ -1,11 +1,11 @@
 {
   "name": "hot-tool",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Build and package Python tools into standalone executables for LLM integration.",
   "author": "Allen Chou",
   "license": "MIT",
   "home_page": "https://github.com/allen2c/hot-tool",
-  "download_filename": "hot_tool-0.0.4.tar.gz",
-  "download_time": "2025-12-20T06:51:10.224197",
+  "download_filename": "hot_tool-0.0.5.tar.gz",
+  "download_time": "2025-12-20T07:35:23.218893",
   "package_url": "https://pypi.org/project/hot-tool/"
 }
