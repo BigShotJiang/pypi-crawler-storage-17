@@ -1,0 +1,11 @@
+{
+  "name": "crewai-token-tracking",
+  "version": "1.7.2",
+  "summary": "CrewAI fork with per-agent and per-task token tracking. Track token usage for each agent and task to optimize costs and performance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crewai_token_tracking-1.7.2.tar.gz",
+  "download_time": "2025-12-20T13:39:34.016436",
+  "package_url": "https://pypi.org/project/crewai-token-tracking/"
+}

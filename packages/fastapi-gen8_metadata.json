@@ -1,11 +1,11 @@
 {
   "name": "fastapi-gen8",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "FastAPI Project Gen8 is a lightweight command-line tool designed to generate clean, structured, production-ready FastAPI project scaffolds at warp speed",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_gen8-0.0.4.tar.gz",
-  "download_time": "2025-12-20T13:05:05.228428",
+  "download_filename": "fastapi_gen8-0.0.5.tar.gz",
+  "download_time": "2025-12-20T13:39:07.287828",
   "package_url": "https://pypi.org/project/fastapi-gen8/"
 }

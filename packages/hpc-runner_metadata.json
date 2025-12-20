@@ -1,11 +1,11 @@
 {
   "name": "hpc-runner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Unified HPC job submission across multiple schedulers",
   "author": "Shareef Jalloq",
   "license": null,
   "home_page": null,
-  "download_filename": "hpc_runner-0.1.0.tar.gz",
-  "download_time": "2025-12-20T11:36:45.357210",
+  "download_filename": "hpc_runner-0.1.1.tar.gz",
+  "download_time": "2025-12-20T13:39:15.972334",
   "package_url": "https://pypi.org/project/hpc-runner/"
 }
