@@ -1,11 +1,11 @@
 {
   "name": "JCer",
-  "version": "0.2.6",
+  "version": "0.2.9",
   "summary": "A package for remote control with screen capture and input handling",
   "author": "YANGRENRUIYRR",
   "license": null,
   "home_page": "https://github.com/YANGRENRUIYRR/JCer",
-  "download_filename": "jcer-0.2.6.tar.gz",
-  "download_time": "2025-12-20T05:53:43.082490",
+  "download_filename": "jcer-0.2.9.tar.gz",
+  "download_time": "2025-12-20T06:18:33.807566",
   "package_url": "https://pypi.org/project/JCer/"
 }
