@@ -1,0 +1,11 @@
+{
+  "name": "mapscript",
+  "version": "8.6.0",
+  "summary": "MapServer Python MapScript bindings",
+  "author": "Steve Lime",
+  "license": "MIT",
+  "home_page": "http://www.mapserver.org",
+  "download_filename": "mapscript-8.6.0.tar.gz",
+  "download_time": "2025-12-20T09:12:47.258689",
+  "package_url": "https://pypi.org/project/mapscript/"
+}

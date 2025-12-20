@@ -1,11 +1,11 @@
 {
   "name": "unxt-api",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "Abstract dispatch API definitions for unxt",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "unxt_api-1.8.0.tar.gz",
-  "download_time": "2025-12-20T02:30:09.966599",
+  "download_filename": "unxt_api-1.8.1.tar.gz",
+  "download_time": "2025-12-20T09:13:12.750955",
   "package_url": "https://pypi.org/project/unxt-api/"
 }

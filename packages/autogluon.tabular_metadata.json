@@ -1,11 +1,11 @@
 {
   "name": "autogluon.tabular",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Fast and Accurate ML in 3 Lines of Code",
   "author": "AutoGluon Community",
   "license": "Apache-2.0",
   "home_page": "https://github.com/autogluon/autogluon",
-  "download_filename": "autogluon.tabular-1.4.0.tar.gz",
-  "download_time": "2025-12-15T09:51:32.379119",
+  "download_filename": "autogluon_tabular-1.5.0.tar.gz",
+  "download_time": "2025-12-20T09:12:58.035084",
   "package_url": "https://pypi.org/project/autogluon.tabular/"
 }

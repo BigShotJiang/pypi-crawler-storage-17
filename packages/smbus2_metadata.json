@@ -1,0 +1,11 @@
+{
+  "name": "smbus2",
+  "version": "0.6.0",
+  "summary": "smbus2 is a drop-in replacement for smbus-cffi/smbus-python in pure Python",
+  "author": "Karl-Petter Lindegaard",
+  "license": "MIT",
+  "home_page": "https://github.com/kplindegaard/smbus2",
+  "download_filename": "smbus2-0.6.0.tar.gz",
+  "download_time": "2025-12-20T09:13:02.811051",
+  "package_url": "https://pypi.org/project/smbus2/"
+}
