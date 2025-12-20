@@ -1,0 +1,11 @@
+{
+  "name": "irreversibility",
+  "version": "1.3.0",
+  "summary": "A library for evaluating the time irreversibility of time series",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "irreversibility-1.3.0.tar.gz",
+  "download_time": "2025-12-20T09:49:32.559013",
+  "package_url": "https://pypi.org/project/irreversibility/"
+}

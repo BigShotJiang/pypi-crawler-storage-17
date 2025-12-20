@@ -1,11 +1,11 @@
 {
   "name": "iterabledata",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Iterable data processing Python library",
   "author": "Ivan Begtin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iterabledata-1.0.7.tar.gz",
-  "download_time": "2025-12-15T10:46:34.142722",
+  "download_filename": "iterabledata-1.0.8.tar.gz",
+  "download_time": "2025-12-20T09:49:34.634367",
   "package_url": "https://pypi.org/project/iterabledata/"
 }
