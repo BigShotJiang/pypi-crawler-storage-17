@@ -1,11 +1,11 @@
 {
   "name": "mcard",
-  "version": "0.1.39",
+  "version": "0.1.40",
   "summary": "MCard: Local-first Content Addressable Storage with Content Type Detection",
   "author": "Ben Koo",
   "license": null,
   "home_page": "https://github.com/xlp0/MCard_TDD",
-  "download_filename": "mcard-0.1.39.tar.gz",
-  "download_time": "2025-12-20T08:55:39.196139",
+  "download_filename": "mcard-0.1.40.tar.gz",
+  "download_time": "2025-12-20T13:05:35.367589",
   "package_url": "https://pypi.org/project/mcard/"
 }

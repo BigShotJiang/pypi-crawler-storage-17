@@ -1,0 +1,11 @@
+{
+  "name": "llm-markdownify",
+  "version": "0.4.0",
+  "summary": "Convert PDFs, images to high-quality Markdown using Vision LLMs.",
+  "author": "Sethu Pavan Venkata Reddy Pastula",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_markdownify-0.4.0.tar.gz",
+  "download_time": "2025-12-20T13:05:17.957829",
+  "package_url": "https://pypi.org/project/llm-markdownify/"
+}

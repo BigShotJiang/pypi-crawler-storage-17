@@ -1,0 +1,11 @@
+{
+  "name": "desktop3",
+  "version": "0.5.4",
+  "summary": "Simple desktop integration for Python.",
+  "author": "Paul Boddie",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/eight04/pyDesktop3",
+  "download_filename": "desktop3-0.5.4.tar.gz",
+  "download_time": "2025-12-20T13:05:16.805142",
+  "package_url": "https://pypi.org/project/desktop3/"
+}

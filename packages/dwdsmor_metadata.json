@@ -1,0 +1,11 @@
+{
+  "name": "dwdsmor",
+  "version": "0.12.1",
+  "summary": "SFST/SMOR/DWDS-based German morphology",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dwdsmor-0.12.1.tar.gz",
+  "download_time": "2025-12-20T13:05:07.012906",
+  "package_url": "https://pypi.org/project/dwdsmor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-fastapi-async",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Django-like framework built on FastAPI - 100% async",
   "author": "FastDjango Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_fastapi_async-0.2.2.tar.gz",
-  "download_time": "2025-12-20T12:21:56.099065",
+  "download_filename": "django_fastapi_async-0.2.4.tar.gz",
+  "download_time": "2025-12-20T13:05:23.158622",
   "package_url": "https://pypi.org/project/django-fastapi-async/"
 }

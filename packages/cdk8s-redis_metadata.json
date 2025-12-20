@@ -1,11 +1,11 @@
 {
   "name": "cdk8s-redis",
-  "version": "0.1.865",
+  "version": "0.1.866",
   "summary": "Basic implementation of a Redis construct for cdk8s.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdk8s-team/cdk8s-redis.git",
-  "download_filename": "cdk8s_redis-0.1.865.tar.gz",
-  "download_time": "2025-12-16T14:44:29.966897",
+  "download_filename": "cdk8s_redis-0.1.866.tar.gz",
+  "download_time": "2025-12-20T13:05:20.272014",
   "package_url": "https://pypi.org/project/cdk8s-redis/"
 }
