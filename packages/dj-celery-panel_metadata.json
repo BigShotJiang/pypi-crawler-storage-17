@@ -1,0 +1,11 @@
+{
+  "name": "dj-celery-panel",
+  "version": "0.1.0",
+  "summary": "A Django Admin panel for browsing and inspecting Celery tasks and workers",
+  "author": "Yasser Toruno",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_celery_panel-0.1.0.tar.gz",
+  "download_time": "2025-12-20T04:40:43.109141",
+  "package_url": "https://pypi.org/project/dj-celery-panel/"
+}

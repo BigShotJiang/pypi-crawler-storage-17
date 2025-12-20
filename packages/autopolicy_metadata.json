@@ -1,11 +1,11 @@
 {
   "name": "autopolicy",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": null,
   "author": "uname-n",
   "license": null,
   "home_page": null,
-  "download_filename": "autopolicy-0.10.0.tar.gz",
-  "download_time": "2025-12-19T04:27:28.983778",
+  "download_filename": "autopolicy-0.11.0.tar.gz",
+  "download_time": "2025-12-20T04:40:47.901242",
   "package_url": "https://pypi.org/project/autopolicy/"
 }

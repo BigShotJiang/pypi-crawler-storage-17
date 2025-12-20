@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T04:05:49.473531
-- **Total Packages**: 83
-- **Total Size**: 25.23 MB
+- **Download Time**: 2025-12-20T04:41:15.167748
+- **Total Packages**: 78
+- **Total Size**: 22.87 MB
 
 ## Packages List
+- kcmt
+- devanshlibrarey
+- paper-qa-pypdf
+- paper-qa-pymupdf
+- paper-qa-nemotron
+- paper-qa-docling
+- paper-qa
+- Jolt-Python-API
+- pmdsky-debug-py
+- odoo-addon-attribute-set
+- fastcore
+- zz-tools
+- jder-fastapi
+- nextmv
+- llmscorecard
+- memex-md-mcp
+- omnata-plugin-runtime
+- dj-celery-panel
+- sciv
+- utdg-env
+- django-unicom
+- any2toon
+- sarzaminget
+- glaip-sdk
+- iuselinux
+- brewbar
+- autopolicy
+- keras-nightly
+- airbornehrs
+- crystalwindow
+- streamlitrunner
+- fastroai
+- atlisp
+- PyQUDA
+- vexor
+- cartography
+- pulumi-ec
+- pulumi-snowflake
+- cve-report-aggregator
+- sangkuriang-ideal-solver
+- gundog
+- gundog-client
+- trustable-ai
+- gundog-core
+- ocdsmerge-rs
 - chromedriver-binary
 - fast-generic-api
 - topdogalerts
@@ -17,21 +62,16 @@
 - ebk
 - feems
 - MachSysS
-- pulumi-snowflake
-- pulumi-ec
-- omnata-plugin-runtime
 - dnp3py
 - declaro
 - pulumi-dbtcloud
 - aule-attention
 - pulumi-azuredevops
 - odoo-addons-oca-repair
-- cve-report-aggregator
 - harbor
 - publicsuffixlist
 - icsneopy
 - odoo-addons-oca-purchase-workflow
-- Jolt-Python-API
 - ipyfernel
 - pulumi-artifactory
 - pulumi-confluentcloud
@@ -44,48 +84,3 @@
 - pyrig
 - shinigami-eye
 - hikari-wave
-- crystalwindow
-- pulumi-signalfx
-- tvidentify
-- kondoo
-- philh_myftp_biz
-- autoflatten
-- unsloth
-- yadopt
-- cortex-memory
-- quick-pp
-- pymssql-mcp
-- wi1-bot
-- pydantic-encryption
-- keras-rs-nightly
-- PraisonAI
-- paperlib-mcp
-- atlisp
-- astreum
-- sagemaker
-- GANDLF
-- loglite
-- wherobots-python-dbapi
-- zz-tools
-- glidergun
-- pyThermoCalcDB
-- dplex
-- cqc-quam-state
-- pydantic-super-model
-- length-tokenizer-rs
-- emosvg
-- sagemaker-mlops
-- praisonaiagents
-- msgmodel
-- wiztype
-- odoo-addons-oca-l10n-spain
-- fragua
-- trade-safety
-- pyAgrum-nightly
-- ai-code-review-cli
-- redbot
-- odoo-addons-oca-l10n-romania
-- aifoundary
-- aiinbx
-- yccdb
-- gridvoting-jax

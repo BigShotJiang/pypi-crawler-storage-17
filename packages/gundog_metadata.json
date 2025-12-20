@@ -1,11 +1,11 @@
 {
   "name": "gundog",
-  "version": "0.3.0",
-  "summary": "Semantic embedding validation tool for ADRs and code",
+  "version": "0.4.0",
+  "summary": "A fast semantic search and retrieval engine",
   "author": "ivdi",
   "license": null,
   "home_page": null,
-  "download_filename": "gundog-0.3.0.tar.gz",
-  "download_time": "2025-12-18T04:52:33.225775",
+  "download_filename": "gundog-0.4.0.tar.gz",
+  "download_time": "2025-12-20T04:40:55.362523",
   "package_url": "https://pypi.org/project/gundog/"
 }

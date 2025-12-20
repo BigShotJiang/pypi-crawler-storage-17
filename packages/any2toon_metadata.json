@@ -1,11 +1,11 @@
 {
   "name": "any2toon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A robust library to convert JSON, YAML, XML, CSV, Avro, Parquet, BSON, and NDJSON to TOON format.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "any2toon-0.1.1.tar.gz",
-  "download_time": "2025-12-17T04:51:30.727315",
+  "download_filename": "any2toon-0.1.2.tar.gz",
+  "download_time": "2025-12-20T04:40:45.205444",
   "package_url": "https://pypi.org/project/any2toon/"
 }

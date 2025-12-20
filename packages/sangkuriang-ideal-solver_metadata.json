@@ -1,0 +1,11 @@
+{
+  "name": "sangkuriang-ideal-solver",
+  "version": "0.0.5",
+  "summary": "Idealized Korteweg-de Vries soliton solver with pseudo-spectral methods",
+  "author": "Sandy H.S. Herho",
+  "license": "WTFPL",
+  "home_page": null,
+  "download_filename": "sangkuriang_ideal_solver-0.0.5.tar.gz",
+  "download_time": "2025-12-20T04:40:54.827168",
+  "package_url": "https://pypi.org/project/sangkuriang-ideal-solver/"
+}
