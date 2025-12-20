@@ -1,11 +1,11 @@
 {
   "name": "spoon-ai-sdk",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "SDK for SpoonAI tools and agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spoon_ai_sdk-0.3.5.tar.gz",
-  "download_time": "2025-12-19T06:53:29.392260",
+  "download_filename": "spoon_ai_sdk-0.3.6.tar.gz",
+  "download_time": "2025-12-20T05:36:35.408079",
   "package_url": "https://pypi.org/project/spoon-ai-sdk/"
 }

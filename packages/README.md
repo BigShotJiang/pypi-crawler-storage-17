@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T05:13:54.675367
-- **Total Packages**: 75
-- **Total Size**: 11.57 MB
+- **Download Time**: 2025-12-20T05:37:17.742551
+- **Total Packages**: 89
+- **Total Size**: 11.38 MB
 
 ## Packages List
+- pydantic-rpc-cli
+- pydantic-rpc
+- carbon-logger
+- memex-md-mcp
+- pulumi-cloudngfwaws
+- pulumi-azuread
+- prek
+- pulumi-cloudinit
+- pulumi-cloudamqp
+- pulumi-azuredevops
+- spoon-ai-sdk
+- genoray
+- pulso
+- ant-ray-cpp-nightly
+- paperlib-mcp
+- django-cfg
+- kosmo-mcp
+- sayou-brain
+- sayou-loader
+- sayou-wrapper
+- sayou-assembler
+- liangent
+- pyedb
+- sayou-core
+- sayou-chunking
+- pulumi-akamai
+- pulumi-auth0
+- sayou-refinery
+- sayou-document
+- kkape-nanolink
+- sayou-connector
+- python-ceair-helper
+- openagents
+- pulumi-artifactory
+- tusk-drift-schemas
+- lsst-sphgeom
+- robhan-cdk-lib.aws-aps
+- ilovetools
+- robhan-cdk-lib.aws-mwaa
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.utils
+- pulumi-archive
+- pulumi-aiven
+- abloom
 - invarianthub
 - n0s1
 - docstring-format-checker
@@ -15,7 +59,6 @@
 - lsst-daf-butler
 - centrex-tlf-julia-extension
 - rds-proxy-password-rotation
-- memex-md-mcp
 - centrex-tlf
 - msgmodel
 - qmrpy
@@ -27,7 +70,6 @@
 - pyhtml2pdf
 - winloop
 - jlgametheory
-- liangent
 - crystalwindow
 - py-msu-scripter-app
 - lsst-pipe-base
@@ -49,35 +91,7 @@
 - supermemory
 - aicage
 - iamdata
-- kosmo-mcp
 - aiodocker
 - first-logs
 - source-atlas
 - conversation-tk
-- rust-sasa-python
-- aider-ce
-- zz-tools
-- PyMouseKey
-- agentica
-- brewbar
-- epoxy-calc
-- odoo-addon-l10n-fr-mis-reports
-- blizzapi
-- kcmt
-- devanshlibrarey
-- paper-qa-pypdf
-- paper-qa-pymupdf
-- paper-qa-nemotron
-- paper-qa-docling
-- paper-qa
-- Jolt-Python-API
-- pmdsky-debug-py
-- odoo-addon-attribute-set
-- fastcore
-- jder-fastapi
-- nextmv
-- llmscorecard
-- omnata-plugin-runtime
-- dj-celery-panel
-- sciv
-- django-unicom

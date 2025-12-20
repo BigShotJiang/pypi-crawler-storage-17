@@ -1,0 +1,11 @@
+{
+  "name": "pulso",
+  "version": "0.1.2",
+  "summary": "Pulso delivers stateful web fetching with cache, hashes, and domain-aware rules",
+  "author": "Juan Denis",
+  "license": "MIT",
+  "home_page": "https://github.com/jhd3197/Pulso",
+  "download_filename": "pulso-0.1.2.tar.gz",
+  "download_time": "2025-12-20T05:36:36.945561",
+  "package_url": "https://pypi.org/project/pulso/"
+}
