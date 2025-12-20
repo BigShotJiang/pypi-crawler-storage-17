@@ -1,11 +1,11 @@
 {
   "name": "odoo-addons-oca-l10n-romania",
-  "version": "19.0.20251218.0",
+  "version": "19.0.20251219.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_addons_oca_l10n_romania-19.0.20251218.0-py3-none-any.whl",
-  "download_time": "2025-12-19T03:54:57.249923",
+  "download_filename": "odoo_addons_oca_l10n_romania-19.0.20251219.0-py3-none-any.whl",
+  "download_time": "2025-12-20T03:37:56.682888",
   "package_url": "https://pypi.org/project/odoo-addons-oca-l10n-romania/"
 }

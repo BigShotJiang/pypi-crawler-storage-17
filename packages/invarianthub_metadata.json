@@ -1,11 +1,11 @@
 {
   "name": "invarianthub",
-  "version": "1.7.2",
+  "version": "1.8.3",
   "summary": "Deterministic Knowledge Engine - Semantic Kernel for LLM Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "invarianthub-1.7.2.tar.gz",
-  "download_time": "2025-12-20T02:29:27.133581",
+  "download_filename": "invarianthub-1.8.3.tar.gz",
+  "download_time": "2025-12-20T03:38:03.538580",
   "package_url": "https://pypi.org/project/invarianthub/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sagemaker-serve",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "SageMaker Serve package for model serving and deployment",
   "author": "Amazon Web Services",
   "license": null,
   "home_page": null,
-  "download_filename": "sagemaker_serve-1.2.0.tar.gz",
-  "download_time": "2025-12-19T03:54:29.678086",
+  "download_filename": "sagemaker_serve-1.3.0.tar.gz",
+  "download_time": "2025-12-20T03:38:18.531334",
   "package_url": "https://pypi.org/project/sagemaker-serve/"
 }

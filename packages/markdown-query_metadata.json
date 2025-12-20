@@ -1,11 +1,11 @@
 {
   "name": "markdown-query",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "summary": "Python bindings for mq, a jq-like command-line tool for Markdown processing",
   "author": "Takahiro Sato <harehare1110@gmail.com>",
   "license": "MIT",
   "home_page": "https://mqlang.org/",
-  "download_filename": "markdown_query-0.5.7-cp313-cp313t-win_amd64.whl",
-  "download_time": "2025-12-18T14:41:55.504113",
+  "download_filename": "markdown_query-0.5.8-cp313-cp313t-win_amd64.whl",
+  "download_time": "2025-12-20T03:38:14.239376",
   "package_url": "https://pypi.org/project/markdown-query/"
 }

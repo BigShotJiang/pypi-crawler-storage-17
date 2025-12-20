@@ -1,11 +1,11 @@
 {
   "name": "aifoundary",
-  "version": "1.0.3",
-  "summary": "AI Operating Control Plane with MCP Firewall and agent authorization",
+  "version": "2.1.0",
+  "summary": "AI Operating Control Plane with RAG governance, MCP authorization, and audit-grade decision reports",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aifoundary-1.0.3.tar.gz",
-  "download_time": "2025-12-20T02:29:41.422248",
+  "download_filename": "aifoundary-2.1.0.tar.gz",
+  "download_time": "2025-12-20T03:37:57.215808",
   "package_url": "https://pypi.org/project/aifoundary/"
 }

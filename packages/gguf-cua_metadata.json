@@ -1,11 +1,11 @@
 {
   "name": "gguf-cua",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "gguf computer use agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gguf_cua-0.1.2.tar.gz",
-  "download_time": "2025-12-20T02:29:29.472862",
+  "download_filename": "gguf_cua-0.1.3.tar.gz",
+  "download_time": "2025-12-20T03:38:26.010989",
   "package_url": "https://pypi.org/project/gguf-cua/"
 }

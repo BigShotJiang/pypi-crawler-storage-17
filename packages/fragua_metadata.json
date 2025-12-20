@@ -1,11 +1,11 @@
 {
   "name": "fragua",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Package for creating ETL environments for data analysis",
   "author": "SagoDev",
   "license": null,
   "home_page": "https://github.com/SagoDev/Fragua",
-  "download_filename": "fragua-0.5.0.tar.gz",
-  "download_time": "2025-12-15T19:12:38.435662",
+  "download_filename": "fragua-0.6.0.tar.gz",
+  "download_time": "2025-12-20T03:37:53.968512",
   "package_url": "https://pypi.org/project/fragua/"
 }

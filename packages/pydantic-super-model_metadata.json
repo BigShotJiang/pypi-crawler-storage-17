@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-super-model",
+  "version": "1.1.4",
+  "summary": "Pydantic BaseModel supercharged with helper methods for generic and annotation support",
+  "author": "Julien Kmec",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_super_model-1.1.4.tar.gz",
+  "download_time": "2025-12-20T03:37:49.263695",
+  "package_url": "https://pypi.org/project/pydantic-super-model/"
+}
