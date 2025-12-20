@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fr-mis-reports",
+  "version": "18.0.1.0.0.3",
+  "summary": "MIS Report templates for the French P&L and Balance Sheets",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_l10n_fr_mis_reports-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-20T04:55:28.059833",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fr-mis-reports/"
+}
