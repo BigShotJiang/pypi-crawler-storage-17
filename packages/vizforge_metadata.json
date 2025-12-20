@@ -1,11 +1,11 @@
 {
   "name": "vizforge",
-  "version": "1.3.0",
-  "summary": "AI-Powered Data Visualization Platform: Natural Language Queries, Predictive Analytics, Auto Storytelling, Visual Designer, 13+ Data Connectors, Video Export - NO API costs!",
+  "version": "2.0.0",
+  "summary": "Visualization Intelligence Platform: Chart reasoning engine, visual bias detection, evidence-based insights with provenance, synthetic data generation - 100% offline, zero API costs!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vizforge-1.3.0.tar.gz",
-  "download_time": "2025-12-19T16:14:50.750826",
+  "download_filename": "vizforge-2.0.0.tar.gz",
+  "download_time": "2025-12-20T11:49:00.286410",
   "package_url": "https://pypi.org/project/vizforge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "btcontrol",
+  "version": "0.1.0",
+  "summary": "Driver-based Bluetooth control framework exposing safe device actions via Python and REST API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "btcontrol-0.1.0.tar.gz",
+  "download_time": "2025-12-20T11:49:13.056185",
+  "package_url": "https://pypi.org/project/btcontrol/"
+}
