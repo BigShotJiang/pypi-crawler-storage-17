@@ -1,11 +1,11 @@
 {
   "name": "assumphelper",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "Linear Regression Assumption Interpretation Guide",
   "author": "Aque, Badilla, Caaminio, Moog, Prollo",
   "license": null,
   "home_page": "https://github.com/rodelcoder1/OOP2",
-  "download_filename": "assumphelper-0.1.6.tar.gz",
-  "download_time": "2025-12-18T18:19:19.337208",
+  "download_filename": "assumphelper-0.2.0.tar.gz",
+  "download_time": "2025-12-20T08:41:50.770609",
   "package_url": "https://pypi.org/project/assumphelper/"
 }

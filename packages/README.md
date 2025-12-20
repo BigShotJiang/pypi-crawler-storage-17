@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T08:17:30.675571
-- **Total Packages**: 79
-- **Total Size**: 35.48 MB
+- **Download Time**: 2025-12-20T08:42:14.884076
+- **Total Packages**: 72
+- **Total Size**: 2.38 MB
 
 ## Packages List
+- typerconf
+- pydbx-hng
+- pdflinkcheck
+- ai-project-os-mcp
+- webtoolkitex
+- python-ceair-helper
+- spotoptim
+- karaoke-gen
+- xyz-tablestore
+- DeOCR
+- comfygit-deploy
+- comfygit
+- ezssh
+- fast-backend-builder
+- PyMouseKey
+- tigzig-api-monitor
+- comfygit-core
+- xontrib-history-looseene
+- compass_api_sdk
+- eqword2llm
+- paytechuz
+- replane
+- better-confluence-mcp
+- wu-forensics
+- win-folder-manager
+- vorp
+- jararaca
+- vim-eof-comment
+- assumphelper
+- arca-ai-vault
+- rxlm
+- beads-mcp
+- f5-tts
 - observant
 - sciveo
 - onnxscript
@@ -14,15 +47,11 @@
 - etiniconf
 - tpu-inference
 - empathy-framework
-- pdflinkcheck
 - realms-gos
 - pyglove
 - hanzi_chaizi
-- paytechuz
 - sparqlite
-- fast-backend-builder
 - meshly
-- win-folder-manager
 - archive-r-python
 - sekai-deck-recommend-cpp
 - SHICTHRSCSVLoader
@@ -32,10 +61,8 @@
 - openjiuwen
 - kthutils
 - sc2-replay-analyzer
-- xyz-tablestore
 - wisent
 - py-adtools
-- jararaca
 - fgo-api-types
 - SessionSmith
 - typedprotocol
@@ -44,7 +71,6 @@
 - pyplaid
 - pdd-cli
 - flacfetch
-- eqword2llm
 - smartchart
 - whisper-speaker-emotion
 - langgraph-api
@@ -52,36 +78,3 @@
 - liangent
 - nvertake
 - hexswitch
-- madrkit
-- pybibtexer
-- sandbox-cli
-- abloom
-- reckomate-sdk
-- frago-cli
-- python-playwright-helper
-- precice-config-graph
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- vision-rl
-- webtoolkit
-- mpkg
-- feldera
-- covers
-- ivoryos
-- pycardano
-- eof-fixer
-- vortezwohl
-- induslabs
-- apyds
-- enroll
-- bioamla
-- devopsmind
-- chemistryai
-- apyds-bnf
-- vibemem
-- mediaflow-proxy
-- flashinfer-python
-- ai-edge-litert-nightly
-- hvala
-- aiinbx
-- hot-tool

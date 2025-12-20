@@ -1,0 +1,11 @@
+{
+  "name": "typerconf",
+  "version": "2.9",
+  "summary": "Library to read and write configs using API and CLI with Typer",
+  "author": "Daniel Bosk",
+  "license": "MIT",
+  "home_page": "https://github.com/dbosk/typerconf",
+  "download_filename": "typerconf-2.9.tar.gz",
+  "download_time": "2025-12-20T08:41:35.296930",
+  "package_url": "https://pypi.org/project/typerconf/"
+}

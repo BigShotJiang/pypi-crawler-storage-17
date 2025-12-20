@@ -1,0 +1,11 @@
+{
+  "name": "DeOCR",
+  "version": "0.3.1",
+  "summary": "A high-performance highly-customizable reverse OCR tool that renders text or huggingface-compatible datasets to images. Dimension, DPI, CSS configurable!",
+  "author": "Moenupa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deocr-0.3.1.tar.gz",
+  "download_time": "2025-12-20T08:41:40.099656",
+  "package_url": "https://pypi.org/project/DeOCR/"
+}
