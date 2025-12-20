@@ -1,11 +1,11 @@
 {
   "name": "oneiric",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Universal resolution layer for pluggable components with hot-swapping and remote manifest delivery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oneiric-0.3.1.tar.gz",
-  "download_time": "2025-12-19T22:13:53.705633",
+  "download_filename": "oneiric-0.3.2.tar.gz",
+  "download_time": "2025-12-20T09:32:31.001230",
   "package_url": "https://pypi.org/project/oneiric/"
 }

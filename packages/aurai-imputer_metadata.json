@@ -1,0 +1,11 @@
+{
+  "name": "aurai-imputer",
+  "version": "1.1.0",
+  "summary": "AURAI: A uniquely hybrid imputation model that unifies mask-aware variational autoencoding, latent-neighbor correction, and adaptive feature gating to deliver uncertainty-aware reconstruction of missing data.",
+  "author": "Abdul Mofique Siddiqui",
+  "license": "MIT",
+  "home_page": "https://github.com/Luckyy0311",
+  "download_filename": "aurai_imputer-1.1.0.tar.gz",
+  "download_time": "2025-12-20T09:32:43.449856",
+  "package_url": "https://pypi.org/project/aurai-imputer/"
+}
