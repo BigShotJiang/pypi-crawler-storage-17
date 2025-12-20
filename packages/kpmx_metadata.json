@@ -1,11 +1,11 @@
 {
   "name": "kpmx",
-  "version": "1.8.6",
+  "version": "1.9.0",
   "summary": "Kevin's package-manager tool (pkgmgr)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kpmx-1.8.6.tar.gz",
-  "download_time": "2025-12-17T22:52:05.670629",
+  "download_filename": "kpmx-1.9.0.tar.gz",
+  "download_time": "2025-12-20T13:51:00.376550",
   "package_url": "https://pypi.org/project/kpmx/"
 }

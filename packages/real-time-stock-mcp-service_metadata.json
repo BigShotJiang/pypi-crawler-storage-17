@@ -1,11 +1,11 @@
 {
   "name": "real-time-stock-mcp-service",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "一个获取实时股票数据服务和分析的MCP服务器",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "real_time_stock_mcp_service-1.0.0.tar.gz",
-  "download_time": "2025-12-19T10:39:31.001952",
+  "download_filename": "real_time_stock_mcp_service-1.1.0.tar.gz",
+  "download_time": "2025-12-20T13:50:59.856822",
   "package_url": "https://pypi.org/project/real-time-stock-mcp-service/"
 }

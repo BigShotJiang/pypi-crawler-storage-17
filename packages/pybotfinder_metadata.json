@@ -1,0 +1,11 @@
+{
+  "name": "pybotfinder",
+  "version": "0.1.0",
+  "summary": "微博社交机器人检测工具包 - Weibo Social Bot Detection Toolkit",
+  "author": "Xiao MENG",
+  "license": "MIT",
+  "home_page": "https://github.com/mengxiao2000/pybotfinder",
+  "download_filename": "pybotfinder-0.1.0.tar.gz",
+  "download_time": "2025-12-20T13:50:50.326354",
+  "package_url": "https://pypi.org/project/pybotfinder/"
+}
