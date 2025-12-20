@@ -1,11 +1,11 @@
 {
   "name": "retracesoftware-proxy-debug",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retracesoftware_proxy_debug-0.1.35-py3-none-any.whl",
-  "download_time": "2025-12-16T19:42:37.244635",
+  "download_filename": "retracesoftware_proxy_debug-0.1.36-py3-none-any.whl",
+  "download_time": "2025-12-20T10:35:52.217389",
   "package_url": "https://pypi.org/project/retracesoftware-proxy-debug/"
 }

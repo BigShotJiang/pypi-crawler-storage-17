@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-strands",
-  "version": "1.5.0a20251219",
+  "version": "1.5.0a20251220",
   "summary": "Subpackage for AWS Strands integration in NeMo Agent toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_strands-1.5.0a20251219-py3-none-any.whl",
-  "download_time": "2025-12-19T10:55:30.260671",
+  "download_filename": "nvidia_nat_strands-1.5.0a20251220-py3-none-any.whl",
+  "download_time": "2025-12-20T10:36:08.827006",
   "package_url": "https://pypi.org/project/nvidia-nat-strands/"
 }

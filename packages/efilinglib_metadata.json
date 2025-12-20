@@ -1,11 +1,11 @@
 {
   "name": "efilinglib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": null,
   "author": "hyperion13th144m",
   "license": null,
   "home_page": null,
-  "download_filename": "efilinglib-0.1.1-cp314-cp314-manylinux_2_39_x86_64.whl",
-  "download_time": "2025-12-20T08:55:34.804080",
+  "download_filename": "efilinglib-0.1.2-cp314-cp314-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-12-20T10:36:10.887947",
   "package_url": "https://pypi.org/project/efilinglib/"
 }

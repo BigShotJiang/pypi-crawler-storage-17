@@ -1,0 +1,11 @@
+{
+  "name": "org-analyze",
+  "version": "0.1.12",
+  "summary": "A toolkit for extracting, analyzing, and exporting data from org-mode/org-roam notes, with support for HTML and Markdown export. See https://ojari.github.io/OrgAnalyze/ for example HTML export.",
+  "author": "Jari Ojanen",
+  "license": null,
+  "home_page": "https://github.com/ojari/OrgAnalyze",
+  "download_filename": "org_analyze-0.1.12-py3-none-any.whl",
+  "download_time": "2025-12-20T10:36:36.254810",
+  "package_url": "https://pypi.org/project/org-analyze/"
+}

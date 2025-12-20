@@ -1,0 +1,11 @@
+{
+  "name": "kinetic-core",
+  "version": "1.1.0",
+  "summary": "The core engine for Salesforce AI agents",
+  "author": "Antonio Trento",
+  "license": null,
+  "home_page": "https://github.com/antonio-backend-projects/kinetic-core",
+  "download_filename": "kinetic_core-1.1.0.tar.gz",
+  "download_time": "2025-12-20T10:35:52.743263",
+  "package_url": "https://pypi.org/project/kinetic-core/"
+}
