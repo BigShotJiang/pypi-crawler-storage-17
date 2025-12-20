@@ -1,11 +1,11 @@
 {
   "name": "ai-project-os-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Enterprise-grade AI engineering governance MCP server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_project_os_mcp-1.0.2.tar.gz",
-  "download_time": "2025-12-20T08:41:36.904650",
+  "download_filename": "ai_project_os_mcp-1.0.3.tar.gz",
+  "download_time": "2025-12-20T08:55:44.359954",
   "package_url": "https://pypi.org/project/ai-project-os-mcp/"
 }

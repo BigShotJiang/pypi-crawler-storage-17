@@ -1,0 +1,11 @@
+{
+  "name": "fastshell",
+  "version": "0.1.3",
+  "summary": "A FastAPI-like framework for building interactive shell applications with auto-completion and type safety",
+  "author": "originalFactor",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "fastshell-0.1.3.tar.gz",
+  "download_time": "2025-12-20T08:55:42.839210",
+  "package_url": "https://pypi.org/project/fastshell/"
+}

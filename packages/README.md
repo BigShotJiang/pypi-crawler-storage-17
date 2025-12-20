@@ -1,17 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T08:42:14.884076
-- **Total Packages**: 72
-- **Total Size**: 2.38 MB
+- **Download Time**: 2025-12-20T08:56:09.825262
+- **Total Packages**: 76
+- **Total Size**: 7.86 MB
 
 ## Packages List
+- Rhime
+- odoo-addon-hr-expense-advance-clearing
+- bitget-trading-sdk
+- unxt-api
+- quannengbao
+- python-ceair-helper
+- vibego
 - typerconf
+- moose-lib
+- unxt-hypothesis
+- efilinglib
+- sciv
+- fast-backend-builder
+- vorp
+- hdc-py
+- python-invar
+- uniquant
+- pygeofilter
+- mcard
+- verdict-ai
+- unxt
+- fireworks-ai
+- paytechuz
+- mexc-trading-sdk
+- here-search-demo
+- fastshell
 - pydbx-hng
 - pdflinkcheck
 - ai-project-os-mcp
 - webtoolkitex
-- python-ceair-helper
 - spotoptim
 - karaoke-gen
 - xyz-tablestore
@@ -19,19 +43,16 @@
 - comfygit-deploy
 - comfygit
 - ezssh
-- fast-backend-builder
 - PyMouseKey
 - tigzig-api-monitor
 - comfygit-core
 - xontrib-history-looseene
 - compass_api_sdk
 - eqword2llm
-- paytechuz
 - replane
 - better-confluence-mcp
 - wu-forensics
 - win-folder-manager
-- vorp
 - jararaca
 - vim-eof-comment
 - assumphelper
@@ -61,20 +82,3 @@
 - openjiuwen
 - kthutils
 - sc2-replay-analyzer
-- wisent
-- py-adtools
-- fgo-api-types
-- SessionSmith
-- typedprotocol
-- agentica
-- spotify-dlp
-- pyplaid
-- pdd-cli
-- flacfetch
-- smartchart
-- whisper-speaker-emotion
-- langgraph-api
-- libTerm
-- liangent
-- nvertake
-- hexswitch
