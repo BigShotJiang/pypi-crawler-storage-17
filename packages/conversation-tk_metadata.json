@@ -1,11 +1,11 @@
 {
   "name": "conversation-tk",
-  "version": "2.4.1",
+  "version": "2.5.0",
   "summary": "A robust toolkit for managing tree-based conversations from multiple sources",
   "author": "CTK Contributors",
   "license": null,
-  "home_page": "https://github.com/yourusername/ctk",
-  "download_filename": "conversation_tk-2.4.1.tar.gz",
-  "download_time": "2025-12-19T08:18:16.119864",
+  "home_page": "https://github.com/queelius/ctk",
+  "download_filename": "conversation_tk-2.5.0.tar.gz",
+  "download_time": "2025-12-20T05:13:39.769079",
   "package_url": "https://pypi.org/project/conversation-tk/"
 }

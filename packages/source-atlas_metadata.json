@@ -1,11 +1,11 @@
 {
   "name": "source-atlas",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Multi-language code analyzer with LSP and Neo4j integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "source_atlas-0.1.6.tar.gz",
-  "download_time": "2025-12-20T04:55:22.202754",
+  "download_filename": "source_atlas-0.1.7.tar.gz",
+  "download_time": "2025-12-20T05:13:39.224880",
   "package_url": "https://pypi.org/project/source-atlas/"
 }

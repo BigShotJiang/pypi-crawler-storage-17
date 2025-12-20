@@ -1,11 +1,11 @@
 {
   "name": "genetic-algorithms-suite",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A collection of genetic algorithm implementations for common optimization problems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genetic_algorithms_suite-0.1.0.tar.gz",
-  "download_time": "2025-12-20T04:55:19.574100",
+  "download_filename": "genetic_algorithms_suite-0.2.0.tar.gz",
+  "download_time": "2025-12-20T05:13:15.161207",
   "package_url": "https://pypi.org/project/genetic-algorithms-suite/"
 }

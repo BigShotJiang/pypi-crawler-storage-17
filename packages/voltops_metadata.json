@@ -1,0 +1,11 @@
+{
+  "name": "voltops",
+  "version": "0.2.0",
+  "summary": "A Python library for electronic formulas and signal processing",
+  "author": "Madhur Thareja",
+  "license": null,
+  "home_page": "https://github.com/madhurthareja/voltops",
+  "download_filename": "voltops-0.2.0.tar.gz",
+  "download_time": "2025-12-20T05:13:31.227892",
+  "package_url": "https://pypi.org/project/voltops/"
+}

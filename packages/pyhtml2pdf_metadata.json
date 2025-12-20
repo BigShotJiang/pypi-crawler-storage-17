@@ -1,0 +1,11 @@
+{
+  "name": "pyhtml2pdf",
+  "version": "0.0.9",
+  "summary": "Simple python wrapper to convert HTML to PDF with headless Chrome via selenium.",
+  "author": "Kumara Fernando",
+  "license": null,
+  "home_page": "https://github.com/kumaF/pyhtml2pdf",
+  "download_filename": "pyhtml2pdf-0.0.9.tar.gz",
+  "download_time": "2025-12-20T05:13:24.114772",
+  "package_url": "https://pypi.org/project/pyhtml2pdf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "n0s1",
+  "version": "1.1.0",
+  "summary": "Secret Scanner for Slack, Jira, Confluence, Asana, Wrike, Linear, Zendesk, GitHub and GitLab. Prevent credential leaks with n0s1.",
+  "author": "Spark 1",
+  "license": null,
+  "home_page": "https://spark1.us/n0s1",
+  "download_filename": "n0s1-1.1.0.tar.gz",
+  "download_time": "2025-12-20T05:13:14.077284",
+  "package_url": "https://pypi.org/project/n0s1/"
+}
