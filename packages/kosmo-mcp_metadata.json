@@ -1,11 +1,11 @@
 {
   "name": "kosmo-mcp",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "summary": "KOSMO - ZOO-Certified Agentic Protocol MCP Server for Builders",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kosmo_mcp-1.1.0.tar.gz",
-  "download_time": "2025-12-19T15:13:33.532884",
+  "download_filename": "kosmo_mcp-1.1.4.tar.gz",
+  "download_time": "2025-12-20T02:29:51.633141",
   "package_url": "https://pypi.org/project/kosmo-mcp/"
 }

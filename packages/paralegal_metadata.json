@@ -1,0 +1,11 @@
+{
+  "name": "paralegal",
+  "version": "0.1.0",
+  "summary": "Multi-tenant LLM observability powered by OpenLLMetry",
+  "author": "Your Company",
+  "license": null,
+  "home_page": "https://github.com/yourcompany/paralegal",
+  "download_filename": "paralegal-0.1.0.tar.gz",
+  "download_time": "2025-12-20T02:29:47.705752",
+  "package_url": "https://pypi.org/project/paralegal/"
+}

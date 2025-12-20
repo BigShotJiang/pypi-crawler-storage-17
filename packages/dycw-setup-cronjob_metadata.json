@@ -1,11 +1,11 @@
 {
   "name": "dycw-setup-cronjob",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Library to set up cron jobs",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_setup_cronjob-0.2.0.tar.gz",
-  "download_time": "2025-12-16T21:49:31.941511",
+  "download_filename": "dycw_setup_cronjob-0.2.3-py3-none-any.whl",
+  "download_time": "2025-12-20T02:29:35.728315",
   "package_url": "https://pypi.org/project/dycw-setup-cronjob/"
 }

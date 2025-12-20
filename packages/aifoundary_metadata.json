@@ -1,11 +1,11 @@
 {
   "name": "aifoundary",
-  "version": "1.0.2",
-  "summary": "Enterprise AI Compliance Toolkit with PII Detection and Secure RAG",
+  "version": "1.0.3",
+  "summary": "AI Operating Control Plane with MCP Firewall and agent authorization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aifoundary-1.0.2.tar.gz",
-  "download_time": "2025-12-19T17:00:08.604439",
+  "download_filename": "aifoundary-1.0.3.tar.gz",
+  "download_time": "2025-12-20T02:29:41.422248",
   "package_url": "https://pypi.org/project/aifoundary/"
 }

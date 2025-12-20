@@ -1,0 +1,11 @@
+{
+  "name": "fp-cate",
+  "version": "0.1.17",
+  "summary": "Functional programming tools for Python",
+  "author": "BrandenXia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fp_cate-0.1.17.tar.gz",
+  "download_time": "2025-12-20T02:29:27.706461",
+  "package_url": "https://pypi.org/project/fp-cate/"
+}

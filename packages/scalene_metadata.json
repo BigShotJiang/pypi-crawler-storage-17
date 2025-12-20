@@ -1,0 +1,11 @@
+{
+  "name": "scalene",
+  "version": "2.0.0",
+  "summary": "Scalene: A high-resolution, low-overhead CPU, GPU, and memory profiler for Python with AI-powered optimization suggestions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scalene-2.0.0.tar.gz",
+  "download_time": "2025-12-20T02:30:06.016752",
+  "package_url": "https://pypi.org/project/scalene/"
+}

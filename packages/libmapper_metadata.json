@@ -1,0 +1,11 @@
+{
+  "name": "libmapper",
+  "version": "2.5.1",
+  "summary": "A library for representing input and output signals on a network and allowing arbitrary 'mappings' to be dynamically created between them.",
+  "author": "libmapper.org",
+  "license": "GNU LGPL version 2.1 or later",
+  "home_page": "http://libmapper.org",
+  "download_filename": "libmapper-2.5.1.tar.gz",
+  "download_time": "2025-12-20T02:29:40.849473",
+  "package_url": "https://pypi.org/project/libmapper/"
+}
