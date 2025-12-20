@@ -1,11 +1,11 @@
 {
   "name": "omlish-cext",
-  "version": "0.0.0.dev491",
+  "version": "0.0.0.dev493",
   "summary": "omlish",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omlish_cext-0.0.0.dev491.tar.gz",
-  "download_time": "2025-12-18T00:48:38.958502",
+  "download_filename": "omlish_cext-0.0.0.dev493.tar.gz",
+  "download_time": "2025-12-20T00:49:10.213664",
   "package_url": "https://pypi.org/project/omlish-cext/"
 }

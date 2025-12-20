@@ -1,0 +1,11 @@
+{
+  "name": "braid-dspy",
+  "version": "0.2.1",
+  "summary": "BRAID (Bounded Reasoning for Autonomous Inference and Decisions) integration for DSPy framework",
+  "author": "Braid-DSPy Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/ziyacivan/braid-dspy",
+  "download_filename": "braid_dspy-0.2.1.tar.gz",
+  "download_time": "2025-12-20T00:49:40.599751",
+  "package_url": "https://pypi.org/project/braid-dspy/"
+}

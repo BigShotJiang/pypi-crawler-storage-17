@@ -1,11 +1,11 @@
 {
   "name": "synod-cli",
-  "version": "2.2.56",
+  "version": "2.2.58",
   "summary": "AI coding agent with adversarial debate. Multiple models critique each other, only battle-tested answers survive. Infinite memory that never forgets.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synod_cli-2.2.56.tar.gz",
-  "download_time": "2025-12-19T23:31:52.673835",
+  "download_filename": "synod_cli-2.2.58.tar.gz",
+  "download_time": "2025-12-20T00:49:30.968020",
   "package_url": "https://pypi.org/project/synod-cli/"
 }

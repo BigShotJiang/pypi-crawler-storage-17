@@ -1,11 +1,11 @@
 {
   "name": "kumo-api",
-  "version": "0.51.0",
+  "version": "0.52.0",
   "summary": "RESTful datamodels for Kumo AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kumo_api-0.51.0-py3-none-any.whl",
-  "download_time": "2025-12-16T11:49:20.991386",
+  "download_filename": "kumo_api-0.52.0-py3-none-any.whl",
+  "download_time": "2025-12-20T00:49:28.347465",
   "package_url": "https://pypi.org/project/kumo-api/"
 }

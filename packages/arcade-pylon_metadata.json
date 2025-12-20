@@ -1,11 +1,11 @@
 {
   "name": "arcade-pylon",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Arcade tools designed for LLMs to interact with Pylon",
   "author": null,
   "license": "Proprietary - Arcade Software License Agreement v1.0",
   "home_page": null,
-  "download_filename": "arcade_pylon-0.1.0-py3-none-any.whl",
-  "download_time": "2025-12-15T23:31:35.707034",
+  "download_filename": "arcade_pylon-0.2.0-py3-none-any.whl",
+  "download_time": "2025-12-20T00:49:27.796059",
   "package_url": "https://pypi.org/project/arcade-pylon/"
 }

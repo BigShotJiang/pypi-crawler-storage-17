@@ -1,11 +1,11 @@
 {
   "name": "mkarchi",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Create directory and file architecture from a tree structure text file",
-  "author": "Soufyan",
-  "license": "MIT",
+  "author": "Soufyan Rachdi",
+  "license": null,
   "home_page": null,
-  "download_filename": "mkarchi-0.1.1.tar.gz",
-  "download_time": "2025-12-19T15:13:32.967489",
+  "download_filename": "mkarchi-0.1.3.tar.gz",
+  "download_time": "2025-12-20T00:49:04.398040",
   "package_url": "https://pypi.org/project/mkarchi/"
 }

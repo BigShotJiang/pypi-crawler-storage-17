@@ -1,0 +1,11 @@
+{
+  "name": "mindzie-api",
+  "version": "2.0.0",
+  "summary": "Official Python client library for Mindzie Studio API",
+  "author": "Mindzie",
+  "license": "MIT",
+  "home_page": "https://github.com/mindzie/mindzie-api-python",
+  "download_filename": "mindzie_api-2.0.0.tar.gz",
+  "download_time": "2025-12-20T00:49:20.964108",
+  "package_url": "https://pypi.org/project/mindzie-api/"
+}

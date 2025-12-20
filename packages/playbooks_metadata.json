@@ -1,0 +1,11 @@
+{
+  "name": "playbooks",
+  "version": "0.7.3",
+  "summary": "A framework for creating AI applications and agents using natural language programming",
+  "author": "Amol Kelkar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "playbooks-0.7.3.tar.gz",
+  "download_time": "2025-12-20T00:49:42.238950",
+  "package_url": "https://pypi.org/project/playbooks/"
+}

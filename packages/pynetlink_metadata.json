@@ -1,11 +1,11 @@
 {
   "name": "pynetlink",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Async Python client for Netlink desk and monitor control",
   "author": "Klaas Schoute",
   "license": null,
   "home_page": null,
-  "download_filename": "pynetlink-0.1.0.tar.gz",
-  "download_time": "2025-12-18T18:19:32.424294",
+  "download_filename": "pynetlink-0.2.0.tar.gz",
+  "download_time": "2025-12-20T00:49:36.299181",
   "package_url": "https://pypi.org/project/pynetlink/"
 }
