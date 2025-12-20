@@ -1,0 +1,11 @@
+{
+  "name": "mutt-oauth2",
+  "version": "0.1.2",
+  "summary": "Packaged, maintained version of contributed mutt_oauth2.py script.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mutt_oauth2-0.1.2.tar.gz",
+  "download_time": "2025-12-20T06:51:03.759504",
+  "package_url": "https://pypi.org/project/mutt-oauth2/"
+}

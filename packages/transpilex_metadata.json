@@ -1,0 +1,11 @@
+{
+  "name": "transpilex",
+  "version": "1.2.0",
+  "summary": "Transpile HTML into given frameworks",
+  "author": "Anant Navadiya",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transpilex-1.2.0.tar.gz",
+  "download_time": "2025-12-20T06:51:05.413346",
+  "package_url": "https://pypi.org/project/transpilex/"
+}

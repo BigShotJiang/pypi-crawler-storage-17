@@ -1,0 +1,11 @@
+{
+  "name": "pppps2pc",
+  "version": "0.1.2",
+  "summary": "Extremely simple tool to enable the ParaParaParadise PS2 controller on a PC.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pppps2pc-0.1.2.tar.gz",
+  "download_time": "2025-12-20T06:50:48.906830",
+  "package_url": "https://pypi.org/project/pppps2pc/"
+}

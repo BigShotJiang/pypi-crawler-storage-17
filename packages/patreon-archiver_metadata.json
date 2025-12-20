@@ -1,0 +1,11 @@
+{
+  "name": "patreon-archiver",
+  "version": "0.1.4",
+  "summary": "Save Patreon content you have access to.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "patreon_archiver-0.1.4.tar.gz",
+  "download_time": "2025-12-20T06:50:59.523450",
+  "package_url": "https://pypi.org/project/patreon-archiver/"
+}

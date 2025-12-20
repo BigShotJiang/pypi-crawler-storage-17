@@ -1,0 +1,11 @@
+{
+  "name": "ahead",
+  "version": "0.22.0",
+  "summary": "Time series forecasting with Machine Learning and uncertainty quantification",
+  "author": "T. Moudiki",
+  "license": "BSD3 Clause Clear",
+  "home_page": null,
+  "download_filename": "ahead-0.22.0.tar.gz",
+  "download_time": "2025-12-20T06:51:02.195636",
+  "package_url": "https://pypi.org/project/ahead/"
+}

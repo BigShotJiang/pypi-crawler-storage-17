@@ -1,0 +1,11 @@
+{
+  "name": "chocolatey-choco",
+  "version": "0.1.5",
+  "summary": "Minimal choco command for use on non-Windows platforms.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chocolatey_choco-0.1.5.tar.gz",
+  "download_time": "2025-12-20T06:50:46.297571",
+  "package_url": "https://pypi.org/project/chocolatey-choco/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nnetsauce",
+  "version": "0.46.0",
+  "summary": "Quasi-randomized (neural) networks",
+  "author": "T. Moudiki",
+  "license": "BSD Clause Clear",
+  "home_page": "https://techtonique.github.io/nnetsauce/",
+  "download_filename": "nnetsauce-0.46.0.tar.gz",
+  "download_time": "2025-12-20T06:51:08.634530",
+  "package_url": "https://pypi.org/project/nnetsauce/"
+}

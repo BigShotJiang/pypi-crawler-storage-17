@@ -1,0 +1,11 @@
+{
+  "name": "execnb",
+  "version": "0.1.16",
+  "summary": "A description of your project",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/execnb/",
+  "download_filename": "execnb-0.1.16.tar.gz",
+  "download_time": "2025-12-20T06:50:53.706292",
+  "package_url": "https://pypi.org/project/execnb/"
+}
