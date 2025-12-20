@@ -1,0 +1,11 @@
+{
+  "name": "mpkg",
+  "version": "0.0.13",
+  "summary": "A simple package manager.",
+  "author": "zpcc",
+  "license": null,
+  "home_page": "https://github.com/mpkg-project/mpkg",
+  "download_filename": "mpkg-0.0.13.tar.gz",
+  "download_time": "2025-12-20T07:39:20.952862",
+  "package_url": "https://pypi.org/project/mpkg/"
+}

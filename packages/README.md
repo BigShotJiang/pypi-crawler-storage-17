@@ -1,14 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T07:35:53.255921
-- **Total Packages**: 79
-- **Total Size**: 13.49 MB
+- **Download Time**: 2025-12-20T07:40:00.908284
+- **Total Packages**: 81
+- **Total Size**: 0.51 MB
 
 ## Packages List
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- win-folder-manager
+- vision-rl
+- webtoolkit
+- mpkg
+- feldera
+- sc2-replay-analyzer
 - jararaca
 - paytechuz
-- vision-rl
 - covers
 - ivoryos
 - pycardano
@@ -80,8 +87,3 @@
 - sae-lens
 - qteasy
 - pulumi-splunk
-- qmrpy
-- patreon-archiver
-- pulumi-scm
-- pulumi-sdwan
-- seokit

@@ -1,11 +1,18 @@
 {
-  "download_time": "2025-12-20T07:35:53.255921",
-  "total_packages_downloaded": 79,
-  "total_size_mb": 13.49,
+  "download_time": "2025-12-20T07:40:00.908284",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 0.51,
   "packages": [
+    "ai-edge-litert-sdk-mediatek-nightly",
+    "ai-edge-litert-sdk-qualcomm-nightly",
+    "win-folder-manager",
+    "vision-rl",
+    "webtoolkit",
+    "mpkg",
+    "feldera",
+    "sc2-replay-analyzer",
     "jararaca",
     "paytechuz",
-    "vision-rl",
     "covers",
     "ivoryos",
     "pycardano",
@@ -76,11 +83,6 @@
     "typed-envs",
     "sae-lens",
     "qteasy",
-    "pulumi-splunk",
-    "qmrpy",
-    "patreon-archiver",
-    "pulumi-scm",
-    "pulumi-sdwan",
-    "seokit"
+    "pulumi-splunk"
   ]
 }
