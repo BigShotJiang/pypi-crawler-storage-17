@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T05:37:17.742551
-- **Total Packages**: 89
-- **Total Size**: 11.38 MB
+- **Download Time**: 2025-12-20T05:54:14.897315
+- **Total Packages**: 66
+- **Total Size**: 15.04 MB
 
 ## Packages List
+- pdf-craft
+- kosmo-mcp
+- workspace-mcp
+- kkape-nanolink
+- pulumi-dnsimple
+- agents-sdk-mutta
+- fireworks-ai
+- sslwatch
+- vexor
+- JCer
+- apilmoji
+- tiramisu-framework
+- ngraph
+- utdg-env
+- vibego
+- flet-charts
+- liangent
+- frago-cli
+- pulumi-consul
+- pulumi-confluentcloud
+- boomi
+- agentic-graph-mem
+- srcly
+- invarianthub
+- django-cfg
 - pydantic-rpc-cli
 - pydantic-rpc
 - carbon-logger
@@ -21,13 +46,10 @@
 - pulso
 - ant-ray-cpp-nightly
 - paperlib-mcp
-- django-cfg
-- kosmo-mcp
 - sayou-brain
 - sayou-loader
 - sayou-wrapper
 - sayou-assembler
-- liangent
 - pyedb
 - sayou-core
 - sayou-chunking
@@ -35,7 +57,6 @@
 - pulumi-auth0
 - sayou-refinery
 - sayou-document
-- kkape-nanolink
 - sayou-connector
 - python-ceair-helper
 - openagents
@@ -50,48 +71,4 @@
 - pulumi-archive
 - pulumi-aiven
 - abloom
-- invarianthub
 - n0s1
-- docstring-format-checker
-- genetic-algorithms-suite
-- airbornehrs
-- py-cxx-builder
-- lsst-daf-butler
-- centrex-tlf-julia-extension
-- rds-proxy-password-rotation
-- centrex-tlf
-- msgmodel
-- qmrpy
-- simpm
-- agentic-graph-mem
-- utdg-env
-- pytest-homeassistant-custom-component
-- onetick-query-webapi
-- pyhtml2pdf
-- winloop
-- jlgametheory
-- crystalwindow
-- py-msu-scripter-app
-- lsst-pipe-base
-- kondoo
-- lsst-ctrl-execute
-- lsst-ctrl-mpexec
-- lsst-ctrl-bps-htcondor
-- lsst-ctrl-bps-panda
-- lsst-ctrl-bps
-- voltops
-- lsst-ctrl-bps-parsl
-- lsst-dax-obscore
-- lsst-utils
-- lsst-felis
-- astro-metadata-translator
-- lsst-rucio-register
-- lsst-pex-config
-- antsxmm
-- supermemory
-- aicage
-- iamdata
-- aiodocker
-- first-logs
-- source-atlas
-- conversation-tk

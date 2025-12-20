@@ -1,0 +1,11 @@
+{
+  "name": "agents-sdk-mutta",
+  "version": "0.1.0",
+  "summary": "CLI scaffolding tool for OpenAI Agents SDK projects following Mutta conventions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agents_sdk_mutta-0.1.0.tar.gz",
+  "download_time": "2025-12-20T05:53:40.947650",
+  "package_url": "https://pypi.org/project/agents-sdk-mutta/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tiramisu-framework",
+  "version": "3.0.0",
+  "summary": "RAO Multi-Agent Colaborativo - Sistema de Governanca de Decisoes em IA",
+  "author": "Jony Wolff",
+  "license": null,
+  "home_page": "https://github.com/tiramisu-framework/tiramisu-framework",
+  "download_filename": "tiramisu_framework-3.0.0.tar.gz",
+  "download_time": "2025-12-20T05:53:44.146649",
+  "package_url": "https://pypi.org/project/tiramisu-framework/"
+}
