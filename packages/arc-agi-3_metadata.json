@@ -1,0 +1,11 @@
+{
+  "name": "arc-agi-3",
+  "version": "0.0.1",
+  "summary": "Python SDK for building ARC-AGI-3 agents",
+  "author": "Jumyung Park, ARC Prize Foundation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arc_agi_3-0.0.1.tar.gz",
+  "download_time": "2025-12-20T12:22:15.792009",
+  "package_url": "https://pypi.org/project/arc-agi-3/"
+}

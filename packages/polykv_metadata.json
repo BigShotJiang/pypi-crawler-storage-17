@@ -1,0 +1,11 @@
+{
+  "name": "polykv",
+  "version": "0.1.0",
+  "summary": "Native Key-Value Store for Python",
+  "author": "PolyKV Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polykv-0.1.0.tar.gz",
+  "download_time": "2025-12-20T12:21:45.583152",
+  "package_url": "https://pypi.org/project/polykv/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cdk8s-grafana",
-  "version": "0.1.733",
+  "version": "0.1.734",
   "summary": "Grafana construct for cdk8s.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdk8s-team/cdk8s-grafana.git",
-  "download_filename": "cdk8s_grafana-0.1.733.tar.gz",
-  "download_time": "2025-12-16T14:45:04.663339",
+  "download_filename": "cdk8s_grafana-0.1.734.tar.gz",
+  "download_time": "2025-12-20T12:21:46.105220",
   "package_url": "https://pypi.org/project/cdk8s-grafana/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cheapchocolate",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "CheapChocolate is an simple imap client to receive you daily email.",
-  "author": null,
+  "author": "Cesar Cardoso",
   "license": null,
   "home_page": null,
-  "download_filename": "cheapchocolate-0.1.1.tar.gz",
-  "download_time": "2025-12-19T23:31:46.369493",
+  "download_filename": "cheapchocolate-0.2.1.tar.gz",
+  "download_time": "2025-12-20T12:22:08.829664",
   "package_url": "https://pypi.org/project/cheapchocolate/"
 }

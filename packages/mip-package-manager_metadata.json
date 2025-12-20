@@ -1,0 +1,11 @@
+{
+  "name": "mip-package-manager",
+  "version": "0.3.2",
+  "summary": "pip-style package manager for MATLAB packages",
+  "author": "Jeremy Magland, Dan Fortunato",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mip_package_manager-0.3.2.tar.gz",
+  "download_time": "2025-12-20T12:22:06.170154",
+  "package_url": "https://pypi.org/project/mip-package-manager/"
+}

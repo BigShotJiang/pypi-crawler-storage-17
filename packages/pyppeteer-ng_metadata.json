@@ -1,0 +1,11 @@
+{
+  "name": "pyppeteer-ng",
+  "version": "2.0.0rc11",
+  "summary": "Headless chrome/chromium automation library (unofficial port of puppeteer)",
+  "author": "granitosaurus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyppeteer_ng-2.0.0rc11.tar.gz",
+  "download_time": "2025-12-20T12:22:13.253394",
+  "package_url": "https://pypi.org/project/pyppeteer-ng/"
+}
